@@ -1,6 +1,12 @@
 # Football-WebScraping
 
-Directory Contains:
+This repository contains scripts for web scraping football data from FBREF and Understat. The data collected is structured and stored in CSV files for further analysis.
+
+## Project Motivation:
+
+The project was undertaken to streamline the process of gathering football data from FBREF and Understat (For the top European Leagues), enabling more efficient data-driven decision making in football analysis.
+
+## Directory Contains:
 
 Player_id - Contains a csv file called Team_links.csv which contains all the links for the teams on FBREF
 
@@ -15,3 +21,8 @@ understat.py - This contains the functions used by main to webscrape the data fr
 main.py - The main.py contains the code for the user to select a team, then using both Fbref.py and understat.py to webscrape the data
 
 **Skills Used: Python - pandas, numpy, tkinter, requests, BeautifulSoup, StringIO, os, shutil, ipywidgets, json**
+
+# How to Use:
+
+Sh 
+
