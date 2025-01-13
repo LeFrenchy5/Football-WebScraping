@@ -24,8 +24,8 @@ main.py - The main.py contains the code for the user to select a team, then usin
 
 # How to Use:
 
-1. \# **Clone the repository:**
-\'''sh
+1. **Clone the repository:**
+'''sh
 git clone https://github.com/LeFrenchy5/Football-WebScraping.git
-\'''
+'''
 
