@@ -1,0 +1,258 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Player,Position
+2017-2018,18,Shakhtar,ua UKR,1. Premier League,1st,1.0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,Dodô,DF
+2018-2019,19,Vitória,pt POR,1. Primeira Liga,5th,8.4,2,0,0,14,13,0,27,18,14,0,0,0,49,8,4,66.7,Dodô,DF
+2019-2020,20,Shakhtar,ua UKR,1. Premier League,1st,20.5,3,0,0,,,,,,,,,0,,,,,Dodô,DF
+2020-2021,21,Shakhtar,ua UKR,1. Premier League,2nd,22.1,4,0,0,,,,,,,,,0,,,,,Dodô,DF
+2021-2022,22,Shakhtar,ua UKR,1. Premier League,1st,13.8,1,1,0,,,,,,,,,0,,,,,Dodô,DF
+2022-2023,23,Fiorentina,it ITA,1. Serie A,8th,25.9,5,1,1,28,40,0,61,25,22,0,1,0,184,19,13,59.4,Dodô,DF
+2023-2024,24,Fiorentina,it ITA,1. Serie A,8th,5.8,0,0,0,7,8,0,19,5,3,0,0,0,34,4,2,66.7,Dodô,DF
+2024-2025,25,Fiorentina,it ITA,1. Serie A,4th,13.9,4,0,0,6,24,1,65,18,11,2,0,0,77,5,5,50.0,Dodô,DF
+2018-2019,19,Foggia,it ITA,2. Serie B,17th,26.0,7,0,0,10,23,0,35,37,19,2,0,0,140,48,30,61.5,Luca Ranieri,DF
+2019-2020,20,Fiorentina,it ITA,1. Serie A,10th,2.6,2,1,1,5,1,0,3,2,2,0,1,0,14,7,5,58.3,Luca Ranieri,DF
+2019-2020,20,Ascoli,it ITA,2. Serie B,14th,9.5,4,0,0,8,9,1,2,16,13,0,0,0,38,23,19,54.8,Luca Ranieri,DF
+2020-2021,21,SPAL,it ITA,2. Serie B,9th,23.5,3,0,0,20,14,0,21,30,14,0,0,0,127,33,31,51.6,Luca Ranieri,DF
+2021-2022,22,Salernitana,it ITA,1. Serie A,17th,23.4,9,0,0,16,10,2,66,22,21,0,0,0,103,18,16,52.9,Luca Ranieri,DF
+2022-2023,23,Fiorentina,it ITA,1. Serie A,8th,5.6,1,0,0,6,2,2,0,11,4,0,0,0,30,11,13,45.8,Luca Ranieri,DF
+2023-2024,24,Fiorentina,it ITA,1. Serie A,8th,22.9,14,0,0,32,11,1,13,29,10,0,0,0,99,40,38,51.3,Luca Ranieri,DF
+2024-2025,25,Fiorentina,it ITA,1. Serie A,4th,12.3,2,0,0,9,8,0,1,8,6,0,1,0,32,18,21,46.2,Luca Ranieri,DF
+2013-2014,19,Dordrecht,nl NED,2. Eerste Divisie,2nd,12.1,0,0,,,,,,,,,,,,,,,Robin Gosens,DF
+2014-2015,20,Dordrecht,nl NED,1. Eredivisie,18th,27.1,3,0,,32,,,,,,,,,,,,,Robin Gosens,DF
+2015-2016,21,Heracles Almelo,nl NED,1. Eredivisie,6th,21.2,5,0,,22,,,,,,,,,,,,,Robin Gosens,DF
+2016-2017,22,Heracles Almelo,nl NED,1. Eredivisie,10th,25.8,4,0,0,19,0,0,0,0,0,0,0,0,,,,,Robin Gosens,DF
+2017-2018,23,Atalanta,it ITA,1. Serie A,7th,16.1,1,0,0,21,15,6,38,22,46,1,0,0,93,12,11,52.2,Robin Gosens,DF
+2018-2019,24,Atalanta,it ITA,1. Serie A,3rd,21.6,2,0,0,26,31,8,86,38,46,0,0,0,132,42,18,70.0,Robin Gosens,DF
+2019-2020,25,Atalanta,it ITA,1. Serie A,3rd,29.1,3,0,0,30,38,6,74,39,27,0,0,0,148,47,23,67.1,Robin Gosens,DF
+2020-2021,26,Atalanta,it ITA,1. Serie A,3rd,28.0,9,1,1,50,26,9,62,41,35,0,2,1,167,36,20,64.3,Robin Gosens,DF
+2021-2022,27,Atalanta,it ITA,1. Serie A,8th,5.1,2,0,0,3,5,1,5,9,3,1,0,0,22,12,4,75.0,Robin Gosens,DF
+2021-2022,27,Inter,it ITA,1. Serie A,2nd,1.9,1,0,0,1,2,2,7,3,1,0,0,0,13,4,1,80.0,Robin Gosens,DF
+2022-2023,28,Inter,it ITA,1. Serie A,3rd,13.2,2,0,0,17,3,3,43,23,18,0,0,0,52,20,12,62.5,Robin Gosens,DF
+2023-2024,29,Union Berlin,de GER,1. Bundesliga,15th,25.4,9,1,1,29,24,17,64,36,44,0,1,0,100,60,44,57.7,Robin Gosens,DF
+2024-2025,30,Union Berlin,de GER,1. Bundesliga,12th,1.0,1,0,0,5,0,0,1,1,0,0,0,0,1,7,4,63.6,Robin Gosens,DF
+2024-2025,30,Fiorentina,it ITA,1. Serie A,4th,11.7,3,0,0,11,10,3,23,9,14,0,0,0,25,32,14,69.6,Robin Gosens,DF
+2023-2024,18,Fiorentina,it ITA,1. Serie A,8th,0.5,1,0,0,1,0,0,0,1,1,0,0,0,5,8,3,72.7,Pietro Comuzzo,DF
+2024-2025,19,Fiorentina,it ITA,1. Serie A,4th,11.5,2,0,0,13,5,0,1,12,10,0,0,0,39,31,25,55.4,Pietro Comuzzo,DF
+2016-2017,16,Juventus,it ITA,1. Serie A,1st,0.2,0,0,0,1,1,0,1,0,0,0,0,0,,,,,Moise Kean,FW
+2017-2018,17,Hellas Verona,it ITA,1. Serie A,19th,12.6,5,0,0,14,8,10,13,7,5,0,0,0,49,10,34,22.7,Moise Kean,FW
+2018-2019,18,Juventus,it ITA,1. Serie A,1st,6.0,2,0,0,9,6,3,2,2,0,1,0,0,17,7,4,63.6,Moise Kean,FW
+2019-2020,19,Everton,eng ENG,1. Premier League,12th,9.5,1,0,0,27,11,4,12,5,6,0,0,0,32,11,28,28.2,Moise Kean,FW
+2020-2021,20,Paris S-G,fr FRA,1. Ligue 1,2nd,18.9,4,0,0,33,6,5,8,8,8,0,0,0,46,14,14,50.0,Moise Kean,FW
+2020-2021,20,Everton,eng ENG,1. Premier League,10th,0.2,0,0,0,1,0,0,2,0,0,0,0,0,1,0,0,,Moise Kean,FW
+2021-2022,21,Everton,eng ENG,1. Premier League,16th,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Moise Kean,FW
+2021-2022,21,Juventus,it ITA,1. Serie A,4th,12.2,5,0,0,20,16,12,6,3,4,1,0,0,44,22,15,59.5,Moise Kean,FW
+2022-2023,22,Juventus,it ITA,1. Serie A,7th,11.1,5,1,0,15,18,8,5,5,6,0,0,0,40,9,11,45.0,Moise Kean,FW
+2023-2024,23,Juventus,it ITA,1. Serie A,3rd,7.3,2,0,0,13,13,7,1,2,4,0,0,0,18,10,6,62.5,Moise Kean,FW
+2024-2025,24,Fiorentina,it ITA,1. Serie A,4th,11.5,2,0,0,15,20,24,5,0,2,0,1,0,20,20,23,46.5,Moise Kean,FW
+2019-2020,20,Trapani,it ITA,2. Serie B,18th,19.5,2,0,0,22,36,0,75,33,19,1,0,0,124,19,19,50.0,Andrea Colpani,"FW,MF"
+2020-2021,21,Monza,it ITA,2. Serie B,3rd,10.3,2,0,0,16,19,1,51,7,9,0,0,0,59,8,13,38.1,Andrea Colpani,"FW,MF"
+2021-2022,22,Monza,it ITA,2. Serie B,4th,18.6,4,0,0,29,45,1,105,4,15,0,0,0,98,10,18,35.7,Andrea Colpani,"FW,MF"
+2022-2023,23,Monza,it ITA,1. Serie A,11th,10.5,1,0,0,22,26,0,33,3,9,1,0,0,55,6,10,37.5,Andrea Colpani,"FW,MF"
+2023-2024,24,Monza,it ITA,1. Serie A,12th,29.5,1,0,0,23,44,2,111,14,15,0,0,0,86,9,25,26.5,Andrea Colpani,"FW,MF"
+2024-2025,25,Fiorentina,it ITA,1. Serie A,4th,10.7,1,0,0,13,15,1,19,2,3,0,0,0,28,7,9,43.8,Andrea Colpani,"FW,MF"
+2009-2010,18,Atlético Madrid,es ESP,1. La Liga,9th,19.0,1,0,,0,,,,,,,,,,,,,David de Gea,GK
+2010-2011,19,Atlético Madrid,es ESP,1. La Liga,7th,38.0,1,0,,0,,,,,,,,,,,,,David de Gea,GK
+2011-2012,20,Manchester Utd,eng ENG,1. Premier League,2nd,29.0,0,0,,0,,,,,,,,,,,,,David de Gea,GK
+2012-2013,21,Manchester Utd,eng ENG,1. Premier League,1st,28.0,0,0,,0,,,,,,,,,,,,,David de Gea,GK
+2013-2014,22,Manchester Utd,eng ENG,1. Premier League,7th,37.0,1,0,,0,,,,,,,,,,,,,David de Gea,GK
+2014-2015,23,Manchester Utd,eng ENG,1. Premier League,4th,36.8,0,0,,0,,,,,,,,,,,,,David de Gea,GK
+2015-2016,24,Manchester Utd,eng ENG,1. Premier League,5th,34.0,0,0,,0,,,,,,,,,,,,,David de Gea,GK
+2016-2017,25,Manchester Utd,eng ENG,1. Premier League,6th,35.0,2,0,0,0,2,0,0,0,0,0,0,0,,,,,David de Gea,GK
+2017-2018,26,Manchester Utd,eng ENG,1. Premier League,2nd,37.0,0,0,0,0,4,0,0,0,0,0,0,0,39,1,1,50.0,David de Gea,GK
+2018-2019,27,Manchester Utd,eng ENG,1. Premier League,6th,38.0,1,0,0,1,4,0,0,0,0,0,0,0,46,3,0,100.0,David de Gea,GK
+2019-2020,28,Manchester Utd,eng ENG,1. Premier League,3rd,38.0,2,0,0,0,6,0,0,0,0,0,0,0,35,7,0,100.0,David de Gea,GK
+2020-2021,29,Manchester Utd,eng ENG,1. Premier League,2nd,25.5,0,0,0,0,3,0,0,0,0,0,0,0,32,4,1,80.0,David de Gea,GK
+2021-2022,30,Manchester Utd,eng ENG,1. Premier League,6th,38.0,0,0,0,0,1,0,0,0,0,0,0,0,30,8,0,100.0,David de Gea,GK
+2022-2023,31,Manchester Utd,eng ENG,1. Premier League,3rd,38.0,0,0,0,0,5,0,0,1,0,0,0,0,25,5,1,83.3,David de Gea,GK
+2024-2025,33,Fiorentina,it ITA,1. Serie A,4th,11.0,0,0,0,0,2,0,0,0,0,0,0,0,9,2,0,100.0,David de Gea,GK
+2020-2021,18,Roma,it ITA,1. Serie A,7th,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0,Edoardo Bove,"MF,FW"
+2021-2022,19,Roma,it ITA,1. Serie A,6th,0.8,0,0,0,1,3,0,2,1,1,0,0,0,4,0,3,0.0,Edoardo Bove,"MF,FW"
+2022-2023,20,Roma,it ITA,1. Serie A,6th,11.0,2,0,0,24,23,1,9,10,18,0,0,0,80,14,12,53.8,Edoardo Bove,"MF,FW"
+2023-2024,21,Roma,it ITA,1. Serie A,6th,19.8,2,0,0,31,37,1,8,11,31,0,0,0,95,29,35,45.3,Edoardo Bove,"MF,FW"
+2024-2025,22,Fiorentina,it ITA,1. Serie A,4th,9.3,3,0,0,15,21,0,2,6,17,1,0,0,44,11,15,42.3,Edoardo Bove,"MF,FW"
+2013-2014,18,Crotone,it ITA,2. Serie B,6th,27.7,9,0,,,,,,,,,,,,,,,Danilo Cataldi,MF
+2014-2015,19,Lazio,it ITA,1. Serie A,3rd,11.1,3,1,,14,,,,,,,,,,,,,Danilo Cataldi,MF
+2015-2016,20,Lazio,it ITA,1. Serie A,8th,15.0,9,1,,24,,,,,,,,,,,,,Danilo Cataldi,MF
+2016-2017,21,Lazio,it ITA,1. Serie A,5th,7.4,3,1,0,8,5,0,57,8,9,0,0,0,,,,,Danilo Cataldi,MF
+2016-2017,21,Genoa,it ITA,1. Serie A,16th,10.3,5,0,0,13,7,0,62,9,10,0,0,0,,,,,Danilo Cataldi,MF
+2017-2018,22,Benevento,it ITA,1. Serie A,20th,25.4,10,2,1,35,28,0,62,37,25,0,0,0,180,2,10,16.7,Danilo Cataldi,MF
+2018-2019,23,Lazio,it ITA,1. Serie A,8th,6.4,2,0,0,6,3,1,41,7,7,0,0,0,37,2,7,22.2,Danilo Cataldi,MF
+2019-2020,24,Lazio,it ITA,1. Serie A,4th,6.6,3,0,0,5,2,0,35,13,11,0,0,0,60,4,3,57.1,Danilo Cataldi,MF
+2020-2021,25,Lazio,it ITA,1. Serie A,6th,6.3,4,0,0,9,4,0,30,9,2,0,1,0,64,1,5,16.7,Danilo Cataldi,MF
+2021-2022,26,Lazio,it ITA,1. Serie A,5th,19.0,8,0,0,18,19,0,66,17,17,0,1,0,165,6,7,46.2,Danilo Cataldi,MF
+2022-2023,27,Lazio,it ITA,1. Serie A,2nd,21.3,5,0,0,12,20,0,44,24,16,0,0,0,159,1,5,16.7,Danilo Cataldi,MF
+2023-2024,28,Lazio,it ITA,1. Serie A,7th,15.1,8,0,0,17,8,0,31,17,12,0,0,0,105,6,4,60.0,Danilo Cataldi,MF
+2024-2025,29,Fiorentina,it ITA,1. Serie A,4th,7.2,0,0,0,6,6,0,6,8,11,0,0,0,39,0,3,0.0,Danilo Cataldi,MF
+2018-2019,17,River Plate,ar ARG,1. Liga Argentina,4th,1.3,0,0,0,0,0,0,3,0,0,0,0,0,6,0,3,0.0,Lucas Beltrán,"MF,FW"
+2023-2024,22,Fiorentina,it ITA,1. Serie A,8th,18.8,6,0,0,24,28,4,7,2,14,1,0,0,50,22,58,27.5,Lucas Beltrán,"MF,FW"
+2024-2025,23,Fiorentina,it ITA,1. Serie A,4th,6.8,1,0,0,7,10,2,3,2,4,0,0,0,24,5,14,26.3,Lucas Beltrán,"MF,FW"
+2017-2018,17,Paris S-G,fr FRA,1. Ligue 1,1st,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Yacine Adli,MF
+2018-2019,18,Bordeaux,fr FRA,1. Ligue 1,14th,2.4,1,0,0,4,1,0,9,2,2,0,0,0,16,2,1,66.7,Yacine Adli,MF
+2019-2020,19,Bordeaux,fr FRA,1. Ligue 1,12th,11.3,3,0,0,13,18,0,39,8,14,0,0,0,57,10,13,43.5,Yacine Adli,MF
+2020-2021,20,Bordeaux,fr FRA,1. Ligue 1,12th,26.9,6,0,0,39,37,0,53,39,37,0,0,0,172,27,27,50.0,Yacine Adli,MF
+2021-2022,21,Bordeaux,fr FRA,1. Ligue 1,20th,25.1,5,0,0,21,27,4,114,37,27,0,0,0,150,12,19,38.7,Yacine Adli,MF
+2022-2023,22,Milan,it ITA,1. Serie A,4th,1.6,1,0,0,4,1,1,6,1,3,0,0,0,8,1,3,25.0,Yacine Adli,MF
+2023-2024,23,Milan,it ITA,1. Serie A,2nd,15.6,3,0,0,26,9,1,50,20,17,0,1,0,94,15,10,60.0,Yacine Adli,MF
+2024-2025,24,Fiorentina,it ITA,1. Serie A,4th,6.2,1,0,0,3,13,0,29,3,9,0,0,0,32,3,6,33.3,Yacine Adli,MF
+2016-2017,18,Cittadella,it ITA,2. Serie B,6th,5.9,4,0,,,,,,,,,,,,,,,Christian Kouamé,"FW,MF"
+2017-2018,19,Cittadella,it ITA,2. Serie B,6th,29.0,3,0,0,,0,0,0,0,0,0,0,0,,,,,Christian Kouamé,"FW,MF"
+2018-2019,20,Genoa,it ITA,1. Serie A,17th,34.1,4,0,0,36,82,18,28,25,22,0,0,0,126,195,171,53.3,Christian Kouamé,"FW,MF"
+2019-2020,21,Genoa,it ITA,1. Serie A,17th,10.2,1,0,0,20,24,6,4,1,1,2,0,0,34,31,35,47.0,Christian Kouamé,"FW,MF"
+2019-2020,21,Fiorentina,it ITA,1. Serie A,10th,3.3,0,0,0,6,6,0,1,1,2,0,0,0,5,12,15,44.4,Christian Kouamé,"FW,MF"
+2020-2021,22,Fiorentina,it ITA,1. Serie A,13th,11.1,4,0,0,25,32,5,6,5,4,0,0,0,31,38,56,40.4,Christian Kouamé,"FW,MF"
+2021-2022,23,Anderlecht,be BEL,1. First Division A,3rd,22.3,3,1,0,27,43,15,8,6,20,2,0,0,64,49,40,55.1,Christian Kouamé,"FW,MF"
+2022-2023,24,Fiorentina,it ITA,1. Serie A,8th,20.7,5,0,0,32,56,7,49,12,18,1,0,0,91,62,52,54.4,Christian Kouamé,"FW,MF"
+2023-2024,25,Fiorentina,it ITA,1. Serie A,8th,12.1,0,0,0,17,25,0,20,2,4,0,0,0,66,56,43,56.6,Christian Kouamé,"FW,MF"
+2024-2025,26,Fiorentina,it ITA,1. Serie A,4th,6.1,0,0,0,9,12,2,5,2,7,0,0,0,19,25,17,59.5,Christian Kouamé,"FW,MF"
+2011-2012,18,Juve Stabia,it ITA,2. Serie B,9th,6.6,3,0,,,,,,,,,,,,,,,Cristiano Biraghi,DF
+2012-2013,19,Cittadella,it ITA,2. Serie B,15th,30.4,10,0,,,,,,,,,,,,,,,Cristiano Biraghi,DF
+2013-2014,20,Catania,it ITA,1. Serie A,18th,17.3,3,0,,20,,,,,,,,,,,,,Cristiano Biraghi,DF
+2014-2015,21,Chievo,it ITA,1. Serie A,14th,14.5,3,0,,18,,,,,,,,,,,,,Cristiano Biraghi,DF
+2015-2016,22,Granada,es ESP,1. La Liga,16th,31.3,10,1,1,42,17,1,89,51,64,0,1,0,,,,,Cristiano Biraghi,DF
+2016-2017,23,Pescara,it ITA,1. Serie A,20th,33.2,11,0,0,43,30,2,130,47,65,0,0,0,,,,,Cristiano Biraghi,DF
+2017-2018,24,Fiorentina,it ITA,1. Serie A,8th,33.1,7,0,0,39,33,0,245,43,48,1,0,0,166,32,31,50.8,Cristiano Biraghi,DF
+2018-2019,25,Fiorentina,it ITA,1. Serie A,16th,35.5,8,0,0,36,26,3,272,44,33,0,0,0,162,39,16,70.9,Cristiano Biraghi,DF
+2019-2020,26,Inter,it ITA,1. Serie A,2nd,17.5,3,0,0,22,22,3,138,13,6,0,0,0,66,4,14,22.2,Cristiano Biraghi,DF
+2020-2021,27,Fiorentina,it ITA,1. Serie A,13th,31.1,8,0,0,27,23,4,286,27,23,0,0,0,136,9,19,32.1,Cristiano Biraghi,DF
+2021-2022,28,Fiorentina,it ITA,1. Serie A,7th,35.0,5,1,1,28,38,7,278,19,24,0,0,1,173,4,16,20.0,Cristiano Biraghi,DF
+2022-2023,29,Fiorentina,it ITA,1. Serie A,8th,28.3,1,0,0,29,38,1,300,14,38,0,0,1,137,19,25,43.2,Cristiano Biraghi,DF
+2023-2024,30,Fiorentina,it ITA,1. Serie A,8th,26.2,8,0,0,44,14,1,226,14,28,0,0,0,98,8,12,40.0,Cristiano Biraghi,DF
+2024-2025,31,Fiorentina,it ITA,1. Serie A,4th,4.8,1,0,0,4,7,0,30,4,4,0,0,0,10,2,3,40.0,Cristiano Biraghi,DF
+2018-2019,19,Pescara,it ITA,2. Serie B,4th,6.4,3,0,0,10,30,3,16,2,2,1,0,0,31,2,7,22.2,Riccardo Sottil,"FW,MF"
+2018-2019,19,Fiorentina,it ITA,1. Serie A,16th,0.2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,,Riccardo Sottil,"FW,MF"
+2019-2020,20,Fiorentina,it ITA,1. Serie A,10th,5.7,3,0,0,11,26,2,23,0,4,0,0,0,19,1,6,14.3,Riccardo Sottil,"FW,MF"
+2020-2021,21,Cagliari,it ITA,1. Serie A,16th,13.2,3,0,0,17,35,1,43,5,3,0,0,0,82,3,12,20.0,Riccardo Sottil,"FW,MF"
+2021-2022,22,Fiorentina,it ITA,1. Serie A,7th,13.8,4,1,1,15,40,7,47,1,4,0,0,0,32,7,13,35.0,Riccardo Sottil,"FW,MF"
+2022-2023,23,Fiorentina,it ITA,1. Serie A,8th,9.3,1,0,0,4,27,6,31,0,3,0,0,0,32,3,5,37.5,Riccardo Sottil,"FW,MF"
+2023-2024,24,Fiorentina,it ITA,1. Serie A,8th,12.3,1,0,0,8,34,6,46,2,5,0,0,0,44,7,3,70.0,Riccardo Sottil,"FW,MF"
+2024-2025,25,Fiorentina,it ITA,1. Serie A,4th,5.0,0,0,0,5,17,1,27,3,1,0,0,0,17,2,4,33.3,Riccardo Sottil,"FW,MF"
+2016-2017,20,River Plate,ar ARG,1. Primera Div,2nd,18.9,4,0,0,16,8,0,1,51,20,0,0,0,89,65,25,72.2,Lucas Martínez Quarta,DF
+2017-2018,21,River Plate,ar ARG,1. Liga Argentina,8th,9.0,2,0,0,9,3,0,0,17,6,0,0,0,50,36,19,65.5,Lucas Martínez Quarta,DF
+2018-2019,22,River Plate,ar ARG,1. Liga Argentina,4th,16.7,4,1,0,20,11,0,2,45,27,0,0,0,106,48,35,57.8,Lucas Martínez Quarta,DF
+2019-2020,23,River Plate,ar ARG,1. Liga Argentina,2nd,18.3,8,0,0,36,8,0,1,33,27,0,0,1,145,55,39,58.5,Lucas Martínez Quarta,DF
+2020-2021,24,Fiorentina,it ITA,1. Serie A,13th,16.5,4,1,0,23,10,0,5,39,20,0,1,0,107,28,22,56.0,Lucas Martínez Quarta,DF
+2021-2022,25,Fiorentina,it ITA,1. Serie A,7th,15.9,8,0,0,30,11,0,1,19,25,0,1,0,121,47,32,59.5,Lucas Martínez Quarta,DF
+2022-2023,26,Fiorentina,it ITA,1. Serie A,8th,24.1,6,0,0,21,25,1,4,48,48,0,0,0,167,76,36,67.9,Lucas Martínez Quarta,DF
+2023-2024,27,Fiorentina,it ITA,1. Serie A,8th,25.5,9,0,0,41,13,1,5,30,47,0,0,0,141,49,55,47.1,Lucas Martínez Quarta,DF
+2024-2025,28,Fiorentina,it ITA,1. Serie A,4th,3.9,1,0,0,8,2,0,0,3,7,0,0,0,13,12,10,54.5,Lucas Martínez Quarta,DF
+2014-2015,17,Genoa,it ITA,1. Serie A,6th,1.5,0,0,,4,,,,,,,,,,,,,Rolando Mandragora,MF
+2015-2016,18,Pescara,it ITA,2. Serie B,4th,20.0,10,0,,,,,,,,,,,,,,,Rolando Mandragora,MF
+2016-2017,19,Juventus,it ITA,1. Serie A,1st,0.1,0,0,0,0,1,0,0,0,0,0,0,0,,,,,Rolando Mandragora,MF
+2017-2018,20,Crotone,it ITA,1. Serie A,18th,36.0,8,0,0,54,58,2,42,86,60,0,1,0,213,64,70,47.8,Rolando Mandragora,MF
+2018-2019,21,Udinese,it ITA,1. Serie A,12th,32.4,8,1,0,46,40,1,49,43,35,0,0,0,154,49,45,52.1,Rolando Mandragora,MF
+2019-2020,22,Udinese,it ITA,1. Serie A,13th,22.8,2,0,0,40,22,1,51,26,24,0,0,0,114,20,20,50.0,Rolando Mandragora,MF
+2020-2021,23,Udinese,it ITA,1. Serie A,14th,4.4,0,0,0,5,4,0,6,6,5,0,1,0,14,6,2,75.0,Rolando Mandragora,MF
+2020-2021,23,Torino,it ITA,1. Serie A,17th,16.9,5,1,1,32,30,1,36,20,4,0,0,0,85,9,8,52.9,Rolando Mandragora,MF
+2021-2022,24,Torino,it ITA,1. Serie A,10th,14.7,7,1,1,25,22,1,47,10,10,0,0,0,87,16,20,44.4,Rolando Mandragora,MF
+2022-2023,25,Fiorentina,it ITA,1. Serie A,8th,21.7,8,0,0,31,18,1,74,16,24,0,0,0,121,35,23,60.3,Rolando Mandragora,MF
+2023-2024,26,Fiorentina,it ITA,1. Serie A,8th,17.6,5,0,0,26,24,0,34,9,11,0,0,0,60,31,39,44.3,Rolando Mandragora,MF
+2024-2025,27,Fiorentina,it ITA,1. Serie A,4th,3.4,3,0,0,6,9,0,3,6,0,0,0,0,10,4,0,100.0,Rolando Mandragora,MF
+2020-2021,18,Le Havre,fr FRA,2. Ligue 2,12th,1.0,0,0,0,2,1,0,0,1,6,0,0,0,3,0,0,,Amir Richardson,MF
+2021-2022,19,Le Havre,fr FRA,2. Ligue 2,8th,24.8,6,0,0,57,22,1,3,34,30,0,0,0,141,25,21,54.3,Amir Richardson,MF
+2022-2023,20,Le Havre,fr FRA,2. Ligue 2,1st,26.5,6,1,0,49,41,1,11,31,36,0,0,0,146,35,23,60.3,Amir Richardson,MF
+2023-2024,21,Reims,fr FRA,1. Ligue 1,9th,15.0,4,0,0,30,22,0,13,15,23,0,0,0,86,17,11,60.7,Amir Richardson,MF
+2024-2025,22,Fiorentina,it ITA,1. Serie A,4th,4.0,3,0,0,9,7,0,2,1,4,0,0,0,13,5,3,62.5,Amir Richardson,MF
+2011-2012,21,Catania,it ITA,1. Serie A,11th,2.0,0,0,,0,,,,,,,,,,,,,Pietro Terracciano,GK
+2013-2014,23,Avellino,it ITA,2. Serie B,11th,18.0,2,0,,,,,,,,,,,,,,,Pietro Terracciano,GK
+2014-2015,24,Catania,it ITA,2. Serie B,22nd,6.0,1,0,,,,,,,,,,,,,,,Pietro Terracciano,GK
+2015-2016,25,Salernitana,it ITA,2. Serie B,18th,31.0,2,1,,,,,,,,,,,,,,,Pietro Terracciano,GK
+2016-2017,26,Salernitana,it ITA,2. Serie B,10th,21.0,0,0,,,,,,,,,,,,,,,Pietro Terracciano,GK
+2017-2018,27,Empoli,it ITA,2. Serie B,1st,3.0,1,0,0,,0,0,0,0,0,0,0,0,,,,,Pietro Terracciano,GK
+2018-2019,28,Empoli,it ITA,1. Serie A,18th,8.0,0,0,0,0,0,0,0,1,0,0,0,0,8,0,0,,Pietro Terracciano,GK
+2018-2019,28,Fiorentina,it ITA,1. Serie A,16th,2.0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0,100.0,Pietro Terracciano,GK
+2019-2020,29,Fiorentina,it ITA,1. Serie A,10th,6.9,0,0,0,1,2,0,0,0,0,0,1,0,6,2,1,66.7,Pietro Terracciano,GK
+2020-2021,30,Fiorentina,it ITA,1. Serie A,13th,3.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Pietro Terracciano,GK
+2021-2022,31,Fiorentina,it ITA,1. Serie A,7th,31.8,0,0,0,0,5,0,0,2,0,0,0,0,44,13,2,86.7,Pietro Terracciano,GK
+2022-2023,32,Fiorentina,it ITA,1. Serie A,8th,29.0,1,0,0,2,0,0,0,1,1,0,2,0,51,6,0,100.0,Pietro Terracciano,GK
+2023-2024,33,Fiorentina,it ITA,1. Serie A,8th,33.0,3,0,0,2,2,0,0,0,1,0,2,0,44,1,0,100.0,Pietro Terracciano,GK
+2024-2025,34,Fiorentina,it ITA,1. Serie A,4th,3.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Pietro Terracciano,GK
+2015-2016,18,Jong PSV,nl NED,2. Eerste Divisie,11th,8.8,0,0,,,,,,,,,,,,,,,Albert Guðmundsson,"MF,FW"
+2016-2017,19,Jong PSV,nl NED,2. Eerste Divisie,4th,29.1,3,0,0,,0,0,0,0,0,0,0,0,,,,,Albert Guðmundsson,"MF,FW"
+2017-2018,20,Jong PSV,nl NED,2. Eerste Divisie,5th,13.3,2,1,0,15,0,0,0,0,0,0,0,0,,,,,Albert Guðmundsson,"MF,FW"
+2017-2018,20,PSV Eindhoven,nl NED,1. Eredivisie,1st,2.0,0,0,0,4,0,0,0,0,0,0,0,0,,,,,Albert Guðmundsson,"MF,FW"
+2018-2019,21,AZ Alkmaar,nl NED,1. Eredivisie,4th,14.5,5,0,0,18,32,2,23,9,12,1,1,0,66,3,12,20.0,Albert Guðmundsson,"MF,FW"
+2019-2020,22,Jong AZ,nl NED,2. Eerste Divisie,14th,3.0,0,0,0,4,5,1,12,0,1,,,0,,,,,Albert Guðmundsson,"MF,FW"
+2019-2020,22,AZ Alkmaar,nl NED,1. Eredivisie,2nd,1.3,0,0,0,2,7,2,5,0,0,1,0,0,8,0,1,0.0,Albert Guðmundsson,"MF,FW"
+2020-2021,23,AZ Alkmaar,nl NED,1. Eredivisie,3rd,21.8,0,0,0,15,35,4,22,16,6,1,0,1,99,5,14,26.3,Albert Guðmundsson,"MF,FW"
+2021-2022,24,AZ Alkmaar,nl NED,1. Eredivisie,5th,12.1,4,0,0,14,20,2,18,5,3,2,0,0,58,4,10,28.6,Albert Guðmundsson,"MF,FW"
+2021-2022,24,Genoa,it ITA,1. Serie A,19th,6.7,3,0,0,14,10,3,41,5,3,0,0,0,32,3,6,33.3,Albert Guðmundsson,"MF,FW"
+2022-2023,25,Genoa,it ITA,2. Serie B,2nd,30.0,6,1,1,42,62,10,94,14,11,1,0,0,117,8,26,23.5,Albert Guðmundsson,"MF,FW"
+2023-2024,26,Genoa,it ITA,1. Serie A,11th,33.5,4,0,0,28,46,11,179,11,10,1,0,0,136,3,22,12.0,Albert Guðmundsson,"MF,FW"
+2024-2025,27,Fiorentina,it ITA,1. Serie A,4th,2.5,0,0,0,2,6,0,5,3,0,1,0,0,13,1,3,25.0,Albert Guðmundsson,"MF,FW"
+2014-2015,17,Utrecht,nl NED,1. Eredivisie,11th,2.3,1,0,,8,,,,,,,,,,,,,Sofyan Amrabat,MF
+2015-2016,18,Utrecht,nl NED,1. Eredivisie,5th,3.1,0,0,,6,,,,,,,,,,,,,Sofyan Amrabat,MF
+2016-2017,19,Utrecht,nl NED,1. Eredivisie,4th,28.6,5,0,0,62,0,0,0,0,0,0,0,0,,,,,Sofyan Amrabat,MF
+2017-2018,20,Feyenoord,nl NED,1. Eredivisie,4th,13.2,4,0,0,27,0,0,0,0,0,0,0,0,,,,,Sofyan Amrabat,MF
+2018-2019,21,Club Brugge,be BEL,1. First Division A,2nd,12.8,4,0,0,31,25,0,8,14,23,0,0,1,98,17,12,58.6,Sofyan Amrabat,MF
+2019-2020,22,Club Brugge,be BEL,1. First Division A,1st,0.9,0,0,0,3,0,0,0,0,0,0,0,0,8,2,0,100.0,Sofyan Amrabat,MF
+2019-2020,22,Hellas Verona,it ITA,1. Serie A,9th,32.4,10,2,0,63,60,0,25,31,36,1,0,0,219,20,42,32.3,Sofyan Amrabat,MF
+2020-2021,23,Fiorentina,it ITA,1. Serie A,13th,27.1,7,0,0,59,44,0,16,23,22,0,0,0,188,18,26,40.9,Sofyan Amrabat,MF
+2021-2022,24,Fiorentina,it ITA,1. Serie A,7th,10.5,6,0,0,25,14,0,6,5,13,0,0,0,67,6,13,31.6,Sofyan Amrabat,MF
+2022-2023,25,Fiorentina,it ITA,1. Serie A,8th,22.2,11,0,0,54,28,0,26,21,24,0,2,0,157,11,13,45.8,Sofyan Amrabat,MF
+2023-2024,26,Manchester Utd,eng ENG,1. Premier League,8th,10.4,6,0,0,24,10,0,7,8,16,0,0,0,60,5,6,45.5,Sofyan Amrabat,MF
+2024-2025,27,Fiorentina,it ITA,1. Serie A,4th,2.0,0,0,0,4,1,0,3,0,2,0,0,0,7,1,1,50.0,Sofyan Amrabat,MF
+2024-2025,27,Fenerbahçe,tr TUR,1. Süper Lig,2nd,8.1,2,0,0,8,7,0,4,6,5,,,0,,,,,Sofyan Amrabat,MF
+2016-2017,18,Paris S-G,fr FRA,1. Ligue 1,2nd,1.5,0,0,0,2,0,1,1,2,0,0,0,0,,,,,Jonathan Ikone,"FW,MF"
+2016-2017,18,Montpellier,fr FRA,1. Ligue 1,15th,7.4,1,0,0,3,6,0,13,2,6,0,0,0,,,,,Jonathan Ikone,"FW,MF"
+2017-2018,19,Montpellier,fr FRA,1. Ligue 1,10th,11.1,0,0,0,11,7,0,25,6,10,0,0,0,49,6,18,25.0,Jonathan Ikone,"FW,MF"
+2018-2019,20,Lille,fr FRA,1. Ligue 1,2nd,31.1,3,0,0,36,29,1,23,6,14,0,0,0,100,12,48,20.0,Jonathan Ikone,"FW,MF"
+2019-2020,21,Lille,fr FRA,1. Ligue 1,4th,22.9,6,0,0,18,26,3,21,5,7,0,0,0,91,8,17,32.0,Jonathan Ikone,"FW,MF"
+2020-2021,22,Lille,fr FRA,1. Ligue 1,1st,24.2,0,0,0,13,23,6,7,7,12,0,0,0,96,17,40,29.8,Jonathan Ikone,"FW,MF"
+2021-2022,23,Lille,fr FRA,1. Ligue 1,10th,11.8,1,0,0,13,7,2,8,5,3,0,0,0,55,3,6,33.3,Jonathan Ikone,"FW,MF"
+2021-2022,23,Fiorentina,it ITA,1. Serie A,7th,7.2,1,0,0,6,6,1,9,1,3,0,0,0,42,3,8,27.3,Jonathan Ikone,"FW,MF"
+2022-2023,24,Fiorentina,it ITA,1. Serie A,8th,22.3,4,0,0,28,25,5,24,4,8,1,0,0,86,14,28,33.3,Jonathan Ikone,"FW,MF"
+2023-2024,25,Fiorentina,it ITA,1. Serie A,8th,18.7,5,0,0,16,15,5,11,3,11,1,0,0,60,15,22,40.5,Jonathan Ikone,"FW,MF"
+2024-2025,26,Fiorentina,it ITA,1. Serie A,4th,2.8,0,0,0,2,3,0,1,0,2,0,0,0,14,0,4,0.0,Jonathan Ikone,"FW,MF"
+2020-2021,19,Empoli,it ITA,2. Serie B,1st,18.3,3,0,0,20,44,0,85,26,17,0,0,0,144,14,15,48.3,Fabiano Parisi,DF
+2021-2022,20,Empoli,it ITA,1. Serie A,14th,16.4,5,0,0,22,29,0,43,22,19,0,1,0,138,7,11,38.9,Fabiano Parisi,DF
+2022-2023,21,Empoli,it ITA,1. Serie A,14th,31.4,10,1,0,34,74,0,59,41,35,1,1,0,233,30,13,69.8,Fabiano Parisi,DF
+2023-2024,22,Fiorentina,it ITA,1. Serie A,8th,16.2,4,0,0,14,38,0,42,17,15,0,3,0,124,24,20,54.5,Fabiano Parisi,DF
+2024-2025,23,Fiorentina,it ITA,1. Serie A,4th,1.8,0,0,0,4,7,0,1,2,4,0,0,0,7,3,3,50.0,Fabiano Parisi,DF
+2016-2017,18,1860 Munich,de GER,2. 2. Bundesliga,16th,6.0,3,0,0,12,0,0,0,0,0,0,0,0,,,,,Marin Pongračić,DF
+2017-2018,19,RB Salzburg,at AUT,1. Bundesliga,1st,14.6,5,0,0,17,5,0,2,37,20,0,0,0,,,,,Marin Pongračić,DF
+2018-2019,20,RB Salzburg,at AUT,1. Bundesliga,1st,13.2,1,1,0,20,6,0,0,32,14,0,0,1,,,,,Marin Pongračić,DF
+2019-2020,21,RB Salzburg,at AUT,1. Bundesliga,1st,4.3,1,0,0,10,4,0,0,8,6,,,0,,,,,Marin Pongračić,DF
+2019-2020,21,Wolfsburg,de GER,1. Bundesliga,7th,10.3,4,1,0,17,5,0,0,19,9,0,1,0,78,27,13,67.5,Marin Pongračić,DF
+2020-2021,22,Wolfsburg,de GER,1. Bundesliga,4th,6.4,2,1,1,12,2,0,0,11,9,0,0,0,49,13,9,59.1,Marin Pongračić,DF
+2021-2022,23,Dortmund,de GER,1. Bundesliga,2nd,9.2,3,0,0,12,0,0,0,17,10,0,0,0,65,10,11,47.6,Marin Pongračić,DF
+2022-2023,24,Lecce,it ITA,1. Serie A,16th,8.8,2,0,0,15,0,0,0,16,14,0,0,0,59,9,10,47.4,Marin Pongračić,DF
+2023-2024,25,Lecce,it ITA,1. Serie A,14th,35.8,10,1,1,57,22,0,1,51,30,0,0,0,183,59,38,60.8,Marin Pongračić,DF
+2024-2025,26,Fiorentina,it ITA,1. Serie A,4th,1.1,2,1,1,4,0,0,0,2,1,0,0,0,7,5,0,100.0,Marin Pongračić,DF
+2012-2013,17,Příbram,cz CZE,1. First League,11th,0.1,0,0,,,,,,,,,,,,,,,Antonín Barák,MF
+2015-2016,20,Příbram,cz CZE,1. First League,14th,8.5,2,0,,,,,,,,,,,,,,,Antonín Barák,MF
+2015-2016,20,Slavia Prague,cz CZE,1. First League,5th,6.1,1,0,,,,,,,,,,,,,,,Antonín Barák,MF
+2016-2017,21,Slavia Prague,cz CZE,1. First League,1st,18.0,5,0,0,,0,0,0,0,0,0,0,0,,,,,Antonín Barák,MF
+2017-2018,22,Udinese,it ITA,1. Serie A,14th,30.1,5,0,0,47,24,0,34,18,38,0,0,0,172,30,29,50.8,Antonín Barák,MF
+2018-2019,23,Udinese,it ITA,1. Serie A,12th,3.7,0,0,0,4,3,0,5,2,6,0,0,0,21,4,4,50.0,Antonín Barák,MF
+2019-2020,24,Udinese,it ITA,1. Serie A,13th,2.2,1,0,0,9,4,0,7,0,4,0,0,0,16,4,1,80.0,Antonín Barák,MF
+2019-2020,24,Lecce,it ITA,1. Serie A,18th,15.2,0,0,0,12,9,2,20,9,10,0,0,0,74,19,27,41.3,Antonín Barák,MF
+2020-2021,25,Hellas Verona,it ITA,1. Serie A,10th,30.7,5,1,0,60,17,4,14,12,19,0,1,0,216,65,81,44.5,Antonín Barák,MF
+2021-2022,26,Hellas Verona,it ITA,1. Serie A,9th,26.0,4,0,0,27,17,3,13,6,8,1,0,0,156,41,68,37.6,Antonín Barák,MF
+2022-2023,27,Hellas Verona,it ITA,1. Serie A,18th,0.3,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,,Antonín Barák,MF
+2022-2023,27,Fiorentina,it ITA,1. Serie A,8th,20.0,4,0,0,13,17,3,14,3,9,0,1,0,76,18,31,36.7,Antonín Barák,MF
+2023-2024,28,Fiorentina,it ITA,1. Serie A,8th,9.0,2,0,0,8,7,1,4,2,2,0,0,0,35,13,22,37.1,Antonín Barák,MF
+2024-2025,29,Fiorentina,it ITA,1. Serie A,4th,0.6,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,0.0,Antonín Barák,MF
+2024-2025,29,Kasımpaşa,tr TUR,1. Süper Lig,14th,4.5,1,0,0,3,4,0,7,2,0,,,0,,,,,Antonín Barák,MF
+2023-2024,19,Fiorentina,it ITA,1. Serie A,8th,22.9,2,0,0,14,19,2,66,18,30,0,0,0,105,17,18,48.6,Michael Kayode,"DF,FW"
+2024-2025,20,Fiorentina,it ITA,1. Serie A,4th,0.4,0,0,0,0,1,0,0,0,1,0,0,0,2,1,0,100.0,Michael Kayode,"DF,FW"
+2022-2023,19,Fiorentina,it ITA,1. Serie A,8th,1.7,1,0,0,7,4,0,1,0,2,0,0,0,8,2,2,50.0,Alessandro Bianco,MF
+2023-2024,20,Reggiana,it ITA,2. Serie B,11th,33.5,15,0,0,44,87,0,39,31,35,0,0,0,203,16,18,47.1,Alessandro Bianco,MF
+2024-2025,21,Monza,it ITA,1. Serie A,19th,9.2,2,0,0,12,17,1,10,6,13,0,0,0,52,2,8,20.0,Alessandro Bianco,MF
+2024-2025,21,Fiorentina,it ITA,1. Serie A,4th,0.2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Alessandro Bianco,MF
+2024-2025,17,Fiorentina,it ITA,1. Serie A,4th,0.1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,,Tommaso Rubino,MF
+2015-2016,17,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,3.2,0,0,,,,,,,,,,,,,,,Josip Brekalo,"FW,MF"
+2016-2017,18,Wolfsburg,de GER,1. Bundesliga,16th,0.9,1,0,0,2,2,0,3,1,1,0,0,0,,,,,Josip Brekalo,"FW,MF"
+2016-2017,18,Stuttgart,de GER,2. 2. Bundesliga,1st,6.5,0,0,0,4,0,0,0,0,0,0,0,0,,,,,Josip Brekalo,"FW,MF"
+2017-2018,19,Stuttgart,de GER,1. Bundesliga,7th,8.1,1,0,0,11,23,2,34,3,12,0,0,0,39,8,9,47.1,Josip Brekalo,"FW,MF"
+2017-2018,19,Wolfsburg,de GER,1. Bundesliga,16th,9.7,2,0,0,9,12,1,37,4,12,0,0,0,35,1,10,9.1,Josip Brekalo,"FW,MF"
+2018-2019,20,Wolfsburg,de GER,1. Bundesliga,6th,15.7,2,0,0,16,21,2,56,12,7,0,0,0,71,6,15,28.6,Josip Brekalo,"FW,MF"
+2019-2020,21,Wolfsburg,de GER,1. Bundesliga,7th,18.6,0,0,0,17,17,4,78,16,8,0,0,0,91,11,23,32.4,Josip Brekalo,"FW,MF"
+2020-2021,22,Wolfsburg,de GER,1. Bundesliga,4th,20.2,1,0,0,8,16,2,58,17,10,0,0,0,122,10,14,41.7,Josip Brekalo,"FW,MF"
+2021-2022,23,Torino,it ITA,1. Serie A,10th,25.4,1,0,0,20,21,5,135,4,5,0,0,0,128,17,31,35.4,Josip Brekalo,"FW,MF"
+2021-2022,23,Wolfsburg,de GER,1. Bundesliga,12th,0.2,0,0,0,0,0,0,2,0,0,0,0,0,4,0,0,,Josip Brekalo,"FW,MF"
+2022-2023,24,Wolfsburg,de GER,1. Bundesliga,8th,3.0,0,0,0,2,3,1,13,2,1,0,0,0,14,0,2,0.0,Josip Brekalo,"FW,MF"
+2022-2023,24,Fiorentina,it ITA,1. Serie A,8th,2.5,1,0,0,3,5,0,10,1,1,0,0,0,13,0,6,0.0,Josip Brekalo,"FW,MF"
+2023-2024,25,Hajduk Split,hr CRO,1. HNL,3rd,12.1,0,0,0,15,21,3,108,3,11,,,0,,,,,Josip Brekalo,"FW,MF"
+2023-2024,25,Fiorentina,it ITA,1. Serie A,8th,7.2,0,0,0,13,6,1,24,1,6,0,0,0,26,1,4,20.0,Josip Brekalo,"FW,MF"
+2024-2025,26,Kasımpaşa,tr TUR,1. Süper Lig,14th,4.9,0,1,0,3,2,0,19,1,8,,,0,,,,,Josip Brekalo,"FW,MF"
+2024-2025,18,Juve Stabia,it ITA,2. Serie B,7th,6.3,1,0,0,3,9,3,22,5,12,1,1,0,27,5,8,38.5,Niccolò Fortini,MF
+2023-2024,20,Fiorentina,it ITA,1. Serie A,8th,1.1,1,0,0,4,2,0,0,3,1,0,0,0,2,1,5,16.7,Gino Infantino,MF
+2023-2024,17,Fiorentina,it ITA,1. Serie A,8th,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Tommaso Martinelli,GK

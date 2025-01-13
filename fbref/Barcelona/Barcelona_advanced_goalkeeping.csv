@@ -1,0 +1,34 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att (GK),Thr,Launch%,AvgLen,Att.1,Launch%.1,AvgLen.1,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist,Player,Position
+2021-2022,22,Galatasaray,tr TUR,1. Süper Lig,13th,6.0,9,2,,,,,,,,,,,,,,,,,,,,,,,,Iñaki Peña,GK
+2022-2023,23,Barcelona,es ESP,1. La Liga,1st,0.8,2,0,0,0,0,1.4,0.36,-0.6,-0.70,1,3,33.3,23,5,13.0,25.2,4,0.0,22.8,7,0,0.0,2,2.47,16.5,Iñaki Peña,GK
+2023-2024,24,Barcelona,es ESP,1. La Liga,2nd,10.0,17,0,0,0,0,13.9,0.36,-3.1,-0.31,21,49,42.9,249,46,13.3,23.7,48,33.3,35.5,116,2,1.7,5,0.50,10.6,Iñaki Peña,GK
+2024-2025,25,Barcelona,es ESP,1. La Liga,3rd,13.5,17,2,0,1,0,15.7,0.29,-1.3,-0.09,20,71,28.2,493,70,10.5,24.9,72,26.4,31.5,128,2,1.6,88,6.51,24.3,Iñaki Peña,GK
+2010-2011,18,Gladbach,de GER,1. Bundesliga,16th,6.0,3,,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+2011-2012,19,Gladbach,de GER,1. Bundesliga,4th,34.0,24,,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+2012-2013,20,Gladbach,de GER,1. Bundesliga,8th,33.8,47,,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+2013-2014,21,Gladbach,de GER,1. Bundesliga,6th,34.0,43,,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+2015-2016,23,Barcelona,es ESP,1. La Liga,1st,6.0,7,0,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+2016-2017,24,Barcelona,es ESP,1. La Liga,2nd,36.0,33,0,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+2017-2018,25,Barcelona,es ESP,1. La Liga,1st,37.0,28,2,0,1,0,36.3,0.27,+8.3,+0.22,129,304,42.4,1040,192,17.5,27.5,262,46.6,41.7,404,15,3.7,41,1.11,15.1,Marc-André ter Stegen,GK
+2018-2019,26,Barcelona,es ESP,1. La Liga,1st,35.0,32,1,0,2,1,37.5,0.32,+6.5,+0.18,114,223,51.1,883,197,15.7,27.3,200,42.0,38.4,395,8,2.0,32,0.91,16.2,Marc-André ter Stegen,GK
+2019-2020,27,Barcelona,es ESP,1. La Liga,2nd,36.0,36,6,2,1,0,34.8,0.25,-1.2,-0.03,122,239,51.0,1206,177,15.3,25.7,224,24.6,29.4,379,18,4.7,39,1.08,15.2,Marc-André ter Stegen,GK
+2020-2021,28,Barcelona,es ESP,1. La Liga,3rd,31.0,32,3,1,4,2,28.6,0.24,-1.4,-0.04,78,171,45.6,881,156,14.6,26.5,161,26.1,31.6,283,17,6.0,32,1.03,15.8,Marc-André ter Stegen,GK
+2021-2022,29,Barcelona,es ESP,1. La Liga,2nd,35.0,34,2,0,6,0,30.1,0.26,-3.9,-0.11,130,255,51.0,1072,147,17.6,26.9,205,32.2,33.9,342,15,4.4,34,0.97,15.3,Marc-André ter Stegen,GK
+2022-2023,30,Barcelona,es ESP,1. La Liga,1st,37.2,18,3,0,2,3,23.7,0.21,+8.7,+0.23,168,335,50.1,1215,185,22.1,28.9,197,34.0,35.2,368,18,4.9,41,1.10,16.4,Marc-André ter Stegen,GK
+2023-2024,31,Barcelona,es ESP,1. La Liga,2nd,28.0,27,2,0,1,0,27.7,0.25,+0.7,+0.03,92,167,55.1,871,115,14.4,26.3,163,25.8,30.9,334,13,3.9,31,1.11,15.6,Marc-André ter Stegen,GK
+2024-2025,32,Barcelona,es ESP,1. La Liga,3rd,5.5,5,1,0,0,0,4.6,0.25,-0.4,-0.08,13,28,46.4,186,31,13.4,27.3,17,17.6,29.9,64,3,4.7,6,1.09,13.9,Marc-André ter Stegen,GK
+2009-2010,19,Brentford,eng ENG,3. League One,9th,27.7,30,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+2010-2011,20,Arsenal,eng ENG,1. Premier League,4th,15.0,19,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+2011-2012,21,Arsenal,eng ENG,1. Premier League,3rd,38.0,49,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+2012-2013,22,Arsenal,eng ENG,1. Premier League,4th,25.0,24,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+2013-2014,23,Arsenal,eng ENG,1. Premier League,4th,37.0,41,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+2014-2015,24,Arsenal,eng ENG,1. Premier League,3rd,16.6,21,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+2015-2016,25,Roma,it ITA,1. Serie A,3rd,34.0,34,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+2016-2017,26,Roma,it ITA,1. Serie A,2nd,38.0,38,2,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+2017-2018,27,Juventus,it ITA,1. Serie A,1st,17.0,9,0,1,2,0,11.5,0.36,+2.5,+0.15,84,165,50.9,361,84,29.4,32.8,96,61.5,43.7,196,11,5.6,13,0.76,14.3,Wojciech Szczęsny,GK
+2018-2019,28,Juventus,it ITA,1. Serie A,1st,28.0,20,1,0,3,1,25.1,0.29,+6.1,+0.22,140,255,54.9,537,122,32.0,32.7,205,40.5,38.9,358,9,2.5,27,0.96,15.7,Wojciech Szczęsny,GK
+2019-2020,29,Juventus,it ITA,1. Serie A,1st,28.8,33,8,1,3,0,37.1,0.23,+4.1,+0.14,82,165,49.7,560,155,23.4,29.4,195,17.4,25.8,355,11,3.1,37,1.29,16.9,Wojciech Szczęsny,GK
+2020-2021,30,Juventus,it ITA,1. Serie A,4th,29.7,32,4,0,4,2,29.8,0.25,-0.2,-0.01,76,149,51.0,836,132,15.6,26.5,179,10.6,22.0,399,12,3.0,37,1.24,16.2,Wojciech Szczęsny,GK
+2021-2022,31,Juventus,it ITA,1. Serie A,4th,33.0,29,3,2,5,0,30.6,0.24,+1.6,+0.05,124,273,45.4,836,159,26.6,30.8,172,29.7,31.5,481,24,5.0,25,0.76,13.5,Wojciech Szczęsny,GK
+2022-2023,32,Juventus,it ITA,1. Serie A,7th,27.5,26,3,0,5,0,26.0,0.25,0.0,0.00,128,270,47.4,634,128,32.2,33.5,153,43.1,38.3,389,11,2.8,21,0.76,14.7,Wojciech Szczęsny,GK
+2023-2024,33,Juventus,it ITA,1. Serie A,3rd,35.0,30,2,0,4,2,28.3,0.24,+0.3,+0.01,147,340,43.2,828,134,32.0,32.8,174,43.1,40.2,555,26,4.7,20,0.57,11.6,Wojciech Szczęsny,GK

@@ -1,0 +1,245 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Player,Position
+2012-2013,20,Lierse,be BEL,1. Pro League,14th,30.0,,,,,,,,,,,,,,,,,Matz Sels,GK
+2013-2014,21,Gent,be BEL,1. Pro League,7th,15.0,,,,,,,,,,,,,,,,,Matz Sels,GK
+2014-2015,22,Gent,be BEL,1. Pro League,1st,39.0,,,,,,,,,,,,,,,,,Matz Sels,GK
+2015-2016,23,Gent,be BEL,1. Pro League,3rd,40.0,,,,,,,,,,,,,,,,,Matz Sels,GK
+2016-2017,24,Newcastle Utd,eng ENG,2. Championship,1st,9.0,,0,,,,,,,,,,,0,,,,Matz Sels,GK
+2017-2018,25,Anderlecht,be BEL,1. First Division A,3rd,32.0,1,0,0,1,0,1,1,100.0,0,1,0,1,1,2,16,4,Matz Sels,GK
+2018-2019,26,Strasbourg,fr FRA,1. Ligue 1,11th,37.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,24,1,Matz Sels,GK
+2019-2020,27,Strasbourg,fr FRA,1. Ligue 1,10th,27.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,6,0,Matz Sels,GK
+2020-2021,28,Strasbourg,fr FRA,1. Ligue 1,15th,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0,Matz Sels,GK
+2021-2022,29,Strasbourg,fr FRA,1. Ligue 1,6th,37.0,1,1,1,0,0,0,0,,0,0,0,0,1,2,22,0,Matz Sels,GK
+2022-2023,30,Strasbourg,fr FRA,1. Ligue 1,15th,38.0,4,3,4,0,0,4,4,100.0,0,0,0,0,4,8,23,0,Matz Sels,GK
+2023-2024,31,Strasbourg,fr FRA,1. Ligue 1,13th,19.0,0,0,0,0,0,0,0,,0,2,0,2,0,0,13,1,Matz Sels,GK
+2023-2024,31,Nott'ham Forest,eng ENG,1. Premier League,17th,16.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,11,1,Matz Sels,GK
+2024-2025,32,Nott'ham Forest,eng ENG,1. Premier League,3rd,19.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,12,0,Matz Sels,GK
+2016-2017,19,Chelsea,eng ENG,1. Premier League,1st,0.3,,0,,,,,,,,,,,0,,,,Ola Aina,DF
+2016-2017,19,Chelsea,eng ENG,Jr. PL2 — Div. 1,5th,3.0,,,,,,,,,,,,,,,,,Ola Aina,DF
+2017-2018,20,Hull City,eng ENG,2. Championship,18th,42.5,,63,,,,,,,,,,,88,,,,Ola Aina,DF
+2018-2019,21,Torino,it ITA,1. Serie A,7th,24.0,54,36,32,20,2,23,48,47.9,25,30,3,27,39,93,59,2,Ola Aina,DF
+2019-2020,22,Torino,it ITA,1. Serie A,16th,23.1,45,24,23,18,4,17,37,45.9,20,24,6,18,41,86,61,0,Ola Aina,DF
+2020-2021,23,Fulham,eng ENG,1. Premier League,18th,29.6,37,20,22,7,8,21,43,48.8,22,22,6,16,45,82,94,2,Ola Aina,DF
+2021-2022,24,Torino,it ITA,1. Serie A,10th,16.0,27,19,11,10,6,15,23,65.2,8,17,3,14,28,55,30,0,Ola Aina,DF
+2022-2023,25,Torino,it ITA,1. Serie A,10th,9.7,17,13,5,8,4,9,15,60.0,6,12,2,10,11,28,26,0,Ola Aina,DF
+2023-2024,26,Nott'ham Forest,eng ENG,1. Premier League,17th,18.8,47,31,31,12,4,29,41,70.7,12,19,3,16,18,65,51,1,Ola Aina,DF
+2024-2025,27,Nott'ham Forest,eng ENG,1. Premier League,3rd,18.3,39,28,29,9,1,25,40,62.5,15,18,5,13,24,63,53,1,Ola Aina,DF
+2015-2016,17,Partizan,rs SRB,1. SuperLiga,2nd,3.3,,,,,,,,,,,,,,,,,Nikola Milenković,DF
+2016-2017,18,Partizan,rs SRB,1. SuperLiga,1st,32.0,,0,,,,,,,,,,,0,,,,Nikola Milenković,DF
+2017-2018,19,Fiorentina,it ITA,1. Serie A,8th,13.9,39,25,20,16,3,16,29,55.2,13,18,8,10,23,62,70,0,Nikola Milenković,DF
+2018-2019,20,Fiorentina,it ITA,1. Serie A,16th,33.4,59,40,36,21,2,17,33,51.5,16,39,21,18,48,107,143,0,Nikola Milenković,DF
+2019-2020,21,Fiorentina,it ITA,1. Serie A,10th,36.2,46,25,30,16,0,11,31,35.5,20,39,21,18,29,75,129,1,Nikola Milenković,DF
+2020-2021,22,Fiorentina,it ITA,1. Serie A,13th,33.7,49,29,33,14,2,21,33,63.6,12,42,33,9,44,93,122,1,Nikola Milenković,DF
+2021-2022,23,Fiorentina,it ITA,1. Serie A,7th,32.5,54,32,31,20,3,29,34,85.3,5,30,15,15,39,93,94,0,Nikola Milenković,DF
+2022-2023,24,Fiorentina,it ITA,1. Serie A,8th,23.7,40,25,20,17,3,18,27,66.7,9,27,14,13,22,62,72,0,Nikola Milenković,DF
+2023-2024,25,Fiorentina,it ITA,1. Serie A,8th,27.9,41,21,24,14,3,22,36,61.1,14,22,14,8,27,68,95,1,Nikola Milenković,DF
+2024-2025,26,Nott'ham Forest,eng ENG,1. Premier League,3rd,18.0,21,14,15,6,0,8,10,80.0,2,25,14,11,15,36,74,0,Nikola Milenković,DF
+2023-2024,21,Nott'ham Forest,eng ENG,1. Premier League,17th,31.0,50,31,36,13,1,19,33,57.6,14,41,24,17,37,87,188,0,Murillo,DF
+2024-2025,22,Nott'ham Forest,eng ENG,1. Premier League,3rd,17.7,25,16,19,5,1,14,26,53.8,12,39,25,14,14,39,112,1,Murillo,DF
+2008-2009,16,West Brom,eng ENG,1. Premier League,20th,0.2,,,,,,,,,,,,,,,,,Chris Wood,FW
+2009-2010,17,West Brom,eng ENG,2. Championship,2nd,7.9,,,,,,,,,,,,,,,,,Chris Wood,FW
+2010-2011,18,West Brom,eng ENG,1. Premier League,11th,0.1,,,,,,,,,,,,,,,,,Chris Wood,FW
+2010-2011,18,Barnsley,eng ENG,2. Championship,17th,3.0,,,,,,,,,,,,,,,,,Chris Wood,FW
+2010-2011,18,Brighton,eng ENG,3. League One,1st,20.0,,,,,,,,,,,,,,,,,Chris Wood,FW
+2011-2012,19,Bristol City,eng ENG,2. Championship,20th,13.0,,,,,,,,,,,,,,,,,Chris Wood,FW
+2011-2012,19,Birmingham City,eng ENG,2. Championship,4th,12.8,,,,,,,,,,,,,,,,,Chris Wood,FW
+2012-2013,20,Millwall,eng ENG,2. Championship,20th,17.7,,,,,,,,,,,,,,,,,Chris Wood,FW
+2012-2013,20,Leicester City,eng ENG,2. Championship,6th,18.1,,,,,,,,,,,,,,,,,Chris Wood,FW
+2013-2014,21,Leicester City,eng ENG,2. Championship,1st,10.3,,,,,,,,,,,,,,,,,Chris Wood,FW
+2014-2015,22,Leicester City,eng ENG,1. Premier League,14th,1.3,,,,,,,,,,,,,,,,,Chris Wood,FW
+2014-2015,22,Ipswich Town,eng ENG,2. Championship,6th,3.0,,,,,,,,,,,,,,,,,Chris Wood,FW
+2015-2016,23,Leeds United,eng ENG,2. Championship,13th,32.0,,,,,,,,,,,,,,,,,Chris Wood,FW
+2016-2017,24,Leeds United,eng ENG,2. Championship,7th,40.2,,0,,,,,,,,,,,0,,,,Chris Wood,FW
+2017-2018,25,Leeds United,eng ENG,2. Championship,13th,3.0,,0,,,,,,,,,,,0,,,,Chris Wood,FW
+2017-2018,25,Burnley,eng ENG,1. Premier League,7th,18.0,7,3,2,3,2,3,13,23.1,10,12,4,8,0,7,16,0,Chris Wood,FW
+2018-2019,26,Burnley,eng ENG,1. Premier League,15th,28.8,12,8,0,7,5,5,17,29.4,12,17,4,13,3,15,26,0,Chris Wood,FW
+2019-2020,27,Burnley,eng ENG,1. Premier League,10th,27.1,7,4,2,4,1,5,15,33.3,10,15,2,13,4,11,18,0,Chris Wood,FW
+2020-2021,28,Burnley,eng ENG,1. Premier League,17th,30.5,12,7,2,4,6,5,18,27.8,13,14,3,11,1,13,21,0,Chris Wood,FW
+2021-2022,29,Burnley,eng ENG,1. Premier League,18th,15.2,7,5,0,3,4,3,10,30.0,7,13,4,9,0,7,3,0,Chris Wood,FW
+2021-2022,29,Newcastle Utd,eng ENG,1. Premier League,11th,14.7,2,0,1,1,0,1,2,50.0,1,5,2,3,2,4,9,0,Chris Wood,FW
+2022-2023,30,Newcastle Utd,eng ENG,1. Premier League,4th,5.0,5,4,0,3,2,3,5,60.0,2,2,2,0,1,6,7,0,Chris Wood,FW
+2022-2023,30,Nott'ham Forest,eng ENG,1. Premier League,16th,4.1,0,0,0,0,0,0,1,0.0,1,2,1,1,1,1,2,0,Chris Wood,FW
+2023-2024,31,Nott'ham Forest,eng ENG,1. Premier League,17th,20.1,7,4,1,4,2,3,9,33.3,6,11,3,8,1,8,26,0,Chris Wood,FW
+2024-2025,32,Nott'ham Forest,eng ENG,1. Premier League,3rd,16.5,1,1,0,0,1,1,5,20.0,4,6,3,3,4,5,13,0,Chris Wood,FW
+2017-2018,16,Chelsea,eng ENG,Jr. PL2 — Div. 1,8th,8.2,,,,,,,,,,,,,,,,,Callum Hudson-Odoi,"FW,MF"
+2017-2018,16,Chelsea,eng ENG,1. Premier League,5th,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Callum Hudson-Odoi,"FW,MF"
+2018-2019,17,Chelsea,eng ENG,Jr. PL2 — Div. 1,6th,5.0,,,,,,,,,,,,,,,,,Callum Hudson-Odoi,"FW,MF"
+2018-2019,17,Chelsea,eng ENG,1. Premier League,3rd,4.4,8,6,8,0,0,2,4,50.0,2,1,0,1,3,11,0,0,Callum Hudson-Odoi,"FW,MF"
+2019-2020,18,Chelsea,eng ENG,Jr. PL2 — Div. 1,1st,1.5,,,,,,,,,,,,,,,,,Callum Hudson-Odoi,"FW,MF"
+2019-2020,18,Chelsea,eng ENG,1. Premier League,4th,9.6,10,4,4,5,1,1,7,14.3,6,9,0,9,5,15,4,1,Callum Hudson-Odoi,"FW,MF"
+2020-2021,19,Chelsea,eng ENG,1. Premier League,4th,11.8,23,15,11,7,5,8,21,38.1,13,15,1,14,6,29,6,0,Callum Hudson-Odoi,"FW,MF"
+2021-2022,20,Chelsea,eng ENG,1. Premier League,3rd,10.7,14,10,5,6,3,8,23,34.8,15,8,0,8,2,16,6,1,Callum Hudson-Odoi,"FW,MF"
+2022-2023,21,Leverkusen,de GER,1. Bundesliga,6th,6.7,5,3,4,0,1,1,1,100.0,0,0,0,0,2,7,4,0,Callum Hudson-Odoi,"FW,MF"
+2023-2024,22,Nott'ham Forest,eng ENG,1. Premier League,17th,20.6,18,8,4,5,9,7,28,25.0,21,16,1,15,7,25,12,1,Callum Hudson-Odoi,"FW,MF"
+2024-2025,23,Nott'ham Forest,eng ENG,1. Premier League,3rd,14.6,14,9,4,6,4,6,10,60.0,4,5,0,5,10,24,4,1,Callum Hudson-Odoi,"FW,MF"
+2016-2017,16,Wolves,eng ENG,2. Championship,15th,2.2,,0,,,,,,,,,,,0,,,,Morgan Gibbs-White,MF
+2017-2018,17,Wolves,eng ENG,Jr. PL2 — Div. 2,9th,1.4,,,,,,,,,,,,,,,,,Morgan Gibbs-White,MF
+2017-2018,17,Wolves,eng ENG,2. Championship,1st,2.8,,2,,,,,,,,,,,2,,,,Morgan Gibbs-White,MF
+2018-2019,18,Wolves,eng ENG,1. Premier League,7th,7.4,6,3,2,4,0,1,4,25.0,3,6,0,6,1,7,0,0,Morgan Gibbs-White,MF
+2019-2020,19,Wolves,eng ENG,Jr. PL2 — Div. 1,12th,0.4,,,,,,,,,,,,,,,,,Morgan Gibbs-White,MF
+2019-2020,19,Wolves,eng ENG,1. Premier League,7th,1.4,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0,Morgan Gibbs-White,MF
+2020-2021,20,Swansea City,eng ENG,2. Championship,4th,3.5,4,1,0,3,1,2,4,50.0,2,3,0,3,2,6,1,0,Morgan Gibbs-White,MF
+2020-2021,20,Wolves,eng ENG,1. Premier League,13th,4.6,9,7,3,4,2,5,12,41.7,7,6,0,6,3,12,1,0,Morgan Gibbs-White,MF
+2021-2022,21,Sheffield Utd,eng ENG,2. Championship,5th,31.8,25,16,6,10,9,8,25,32.0,17,21,1,20,11,36,16,0,Morgan Gibbs-White,MF
+2021-2022,21,Wolves,eng ENG,1. Premier League,10th,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Morgan Gibbs-White,MF
+2022-2023,22,Wolves,eng ENG,1. Premier League,13th,2.0,3,1,3,0,0,2,4,50.0,2,2,0,2,1,4,3,0,Morgan Gibbs-White,MF
+2022-2023,22,Nott'ham Forest,eng ENG,1. Premier League,16th,33.0,26,14,7,7,12,11,33,33.3,22,23,4,19,14,40,15,0,Morgan Gibbs-White,MF
+2023-2024,23,Nott'ham Forest,eng ENG,1. Premier League,17th,35.1,36,24,6,20,10,14,33,42.4,19,31,8,23,17,53,21,0,Morgan Gibbs-White,MF
+2024-2025,24,Nott'ham Forest,eng ENG,1. Premier League,3rd,12.9,24,8,10,11,3,7,11,63.6,4,5,2,3,10,34,11,0,Morgan Gibbs-White,MF
+2019-2020,16,Newcastle Utd,eng ENG,Jr. PL2 — Div. 2,6th,5.5,,,,,,,,,,,,,,,,,Elliot Anderson,"MF,FW"
+2020-2021,17,Newcastle Utd,eng ENG,Jr. PL2 — Div. 2,13th,9.0,,,,,,,,,,,,,,,,,Elliot Anderson,"MF,FW"
+2020-2021,17,Newcastle Utd,eng ENG,1. Premier League,12th,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Elliot Anderson,"MF,FW"
+2021-2022,18,Newcastle Utd,eng ENG,Jr. PL2 — Div. 2,8th,5.9,,,,,,,,,,,,,,,,,Elliot Anderson,"MF,FW"
+2021-2022,18,Bristol Rovers,eng ENG,4. League Two,3rd,19.5,,23,,,,,,,,,,,7,,,,Elliot Anderson,"MF,FW"
+2022-2023,19,Newcastle Utd,eng ENG,1. Premier League,4th,4.6,11,5,5,3,3,6,12,50.0,6,11,2,9,6,17,2,0,Elliot Anderson,"MF,FW"
+2023-2024,20,Newcastle Utd,eng ENG,1. Premier League,7th,11.4,24,18,12,9,3,15,29,51.7,14,23,4,19,8,32,23,0,Elliot Anderson,"MF,FW"
+2024-2025,21,Nott'ham Forest,eng ENG,1. Premier League,3rd,12.6,44,31,26,12,6,23,44,52.3,21,24,4,20,14,58,28,1,Elliot Anderson,"MF,FW"
+2016-2017,18,Barrow,eng ENG,5. National League,7th,15.5,,0,,,,,,,,,,,0,,,,Ryan Yates,MF
+2016-2017,18,Shrewsbury,eng ENG,3. League One,18th,8.3,,0,,,,,,,,,,,0,,,,Ryan Yates,MF
+2017-2018,19,Scunthorpe Utd,eng ENG,3. League One,5th,14.2,,0,,,,,,,,,,,0,,,,Ryan Yates,MF
+2017-2018,19,Notts County,eng ENG,4. League Two,5th,24.7,,0,,,,,,,,,,,0,,,,Ryan Yates,MF
+2018-2019,20,Nott'ham Forest,eng ENG,2. Championship,9th,13.6,23,13,10,11,2,8,17,47.1,9,16,3,13,21,44,19,0,Ryan Yates,MF
+2019-2020,21,Nott'ham Forest,eng ENG,2. Championship,7th,16.7,18,10,6,11,1,10,18,55.6,8,15,5,10,18,36,32,0,Ryan Yates,MF
+2020-2021,22,Nott'ham Forest,eng ENG,2. Championship,17th,30.2,56,35,27,27,2,22,48,45.8,26,32,10,22,37,93,66,1,Ryan Yates,MF
+2021-2022,23,Nott'ham Forest,eng ENG,2. Championship,4th,40.8,82,43,43,34,5,25,58,43.1,33,51,10,41,50,132,84,0,Ryan Yates,MF
+2022-2023,24,Nott'ham Forest,eng ENG,1. Premier League,16th,20.4,38,19,19,16,3,14,22,63.6,8,26,8,18,10,48,44,0,Ryan Yates,MF
+2023-2024,25,Nott'ham Forest,eng ENG,1. Premier League,17th,22.1,66,39,39,21,6,19,34,55.9,15,42,15,27,21,87,44,1,Ryan Yates,MF
+2024-2025,26,Nott'ham Forest,eng ENG,1. Premier League,3rd,14.5,30,16,18,9,3,11,22,50.0,11,19,1,18,18,48,38,1,Ryan Yates,MF
+2018-2019,16,Manchester Utd,eng ENG,Jr. PL2 — Div. 2,6th,0.3,,,,,,,,,,,,,,,,,Anthony Elanga,"FW,MF"
+2019-2020,17,Manchester Utd,eng ENG,Jr. PL2 — Div. 2,2nd,4.6,,,,,,,,,,,,,,,,,Anthony Elanga,"FW,MF"
+2020-2021,18,Manchester Utd,eng ENG,1. Premier League,2nd,1.7,4,2,3,1,0,4,5,80.0,1,1,1,0,1,5,1,0,Anthony Elanga,"FW,MF"
+2020-2021,18,Manchester Utd,eng ENG,Jr. PL2 — Div. 1,8th,15.6,,,,,,,,,,,,,,,,,Anthony Elanga,"FW,MF"
+2021-2022,19,Manchester Utd,eng ENG,Jr. PL2 — Div. 1,6th,8.0,,,,,,,,,,,,,,,,,Anthony Elanga,"FW,MF"
+2021-2022,19,Manchester Utd,eng ENG,1. Premier League,6th,13.5,26,20,12,12,2,15,29,51.7,14,17,1,16,9,35,7,0,Anthony Elanga,"FW,MF"
+2022-2023,20,Manchester Utd,eng ENG,1. Premier League,3rd,4.7,3,0,0,2,1,1,2,50.0,1,4,0,4,2,5,4,0,Anthony Elanga,"FW,MF"
+2023-2024,21,Nott'ham Forest,eng ENG,1. Premier League,17th,27.0,33,19,20,6,7,17,36,47.2,19,22,2,20,8,41,20,1,Anthony Elanga,"FW,MF"
+2024-2025,22,Nott'ham Forest,eng ENG,1. Premier League,3rd,11.6,9,6,4,4,1,2,7,28.6,5,5,0,5,4,13,18,0,Anthony Elanga,"FW,MF"
+2016-2017,18,Vélez Sarsfield,ar ARG,1. Primera Div,19th,8.0,28,20,11,13,4,9,15,60.0,6,17,1,16,9,37,3,0,Nicolás Domínguez,"MF,FW"
+2017-2018,19,Vélez Sarsfield,ar ARG,1. Liga Argentina,14th,20.5,69,45,23,38,8,24,46,52.2,22,23,3,20,33,102,32,0,Nicolás Domínguez,"MF,FW"
+2018-2019,20,Vélez Sarsfield,ar ARG,1. Liga Argentina,6th,24.4,89,50,32,46,11,32,74,43.2,42,42,2,40,48,137,40,0,Nicolás Domínguez,"MF,FW"
+2019-2020,21,Vélez Sarsfield,ar ARG,1. Liga Argentina,3rd,13.7,38,21,14,22,2,15,40,37.5,25,26,5,21,19,57,27,0,Nicolás Domínguez,"MF,FW"
+2019-2020,21,Bologna,it ITA,1. Serie A,12th,7.8,21,14,15,5,1,7,18,38.9,11,12,2,10,12,33,7,0,Nicolás Domínguez,"MF,FW"
+2020-2021,22,Bologna,it ITA,1. Serie A,12th,13.9,48,28,26,17,5,15,37,40.5,22,26,7,19,24,72,20,0,Nicolás Domínguez,"MF,FW"
+2021-2022,23,Bologna,it ITA,1. Serie A,13th,22.4,76,45,36,32,8,32,76,42.1,44,38,9,29,32,108,34,1,Nicolás Domínguez,"MF,FW"
+2022-2023,24,Bologna,it ITA,1. Serie A,9th,25.6,79,49,34,33,12,39,76,51.3,37,29,3,26,21,100,29,1,Nicolás Domínguez,"MF,FW"
+2023-2024,25,Bologna,it ITA,1. Serie A,5th,1.1,1,0,1,0,0,0,2,0.0,2,3,0,3,0,1,2,0,Nicolás Domínguez,"MF,FW"
+2023-2024,25,Nott'ham Forest,eng ENG,1. Premier League,17th,16.6,63,34,35,27,1,23,48,47.9,25,31,5,26,18,81,24,0,Nicolás Domínguez,"MF,FW"
+2024-2025,26,Nott'ham Forest,eng ENG,1. Premier League,3rd,10.0,34,17,16,13,5,15,31,48.4,16,18,4,14,17,51,19,0,Nicolás Domínguez,"MF,FW"
+2013-2014,20,Mallorca,es ESP,2. La Liga 2,17th,20.0,,,,,,,,,,,,,,,,,Álex Moreno,DF
+2014-2015,21,Rayo Vallecano,es ESP,1. La Liga,11th,5.1,,,,,,,,,,,,,,,,,Álex Moreno,DF
+2015-2016,22,Elche,es ESP,2. La Liga 2,11th,29.9,,,,,,,,,,,,,,,,,Álex Moreno,DF
+2016-2017,23,Rayo Vallecano,es ESP,2. La Liga 2,12th,29.9,,0,,,,,,,,,,,0,,,,Álex Moreno,DF
+2017-2018,24,Rayo Vallecano,es ESP,2. La Liga 2,1st,38.9,93,67,64,23,6,48,83,57.8,35,35,7,28,72,165,125,2,Álex Moreno,DF
+2018-2019,25,Rayo Vallecano,es ESP,1. La Liga,20th,34.8,63,40,41,18,4,29,53,54.7,24,35,9,26,41,104,97,0,Álex Moreno,DF
+2019-2020,26,Betis,es ESP,1. La Liga,15th,25.2,37,20,27,8,2,12,32,37.5,20,21,8,13,23,60,47,1,Álex Moreno,DF
+2020-2021,27,Betis,es ESP,1. La Liga,6th,19.8,42,26,25,12,5,20,43,46.5,23,18,4,14,35,77,48,0,Álex Moreno,DF
+2021-2022,28,Betis,es ESP,1. La Liga,5th,26.7,76,40,53,15,8,33,60,55.0,27,28,6,22,34,110,82,1,Álex Moreno,DF
+2022-2023,29,Betis,es ESP,1. La Liga,6th,15.0,29,22,19,10,0,18,36,50.0,18,17,4,13,17,46,39,0,Álex Moreno,DF
+2022-2023,29,Aston Villa,eng ENG,1. Premier League,7th,14.8,23,14,15,5,3,13,36,36.1,23,18,3,15,7,30,37,2,Álex Moreno,DF
+2023-2024,30,Aston Villa,eng ENG,1. Premier League,4th,11.5,18,12,18,0,0,12,19,63.2,7,11,2,9,13,31,37,0,Álex Moreno,DF
+2024-2025,31,Nott'ham Forest,eng ENG,1. Premier League,3rd,8.8,24,18,19,5,0,14,34,41.2,20,9,4,5,14,38,32,0,Álex Moreno,DF
+2017-2018,16,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,4.0,,,,,,,,,,,,,,,,,Neco Williams,DF
+2018-2019,17,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,8.0,,,,,,,,,,,,,,,,,Neco Williams,DF
+2019-2020,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,5th,8.5,,,,,,,,,,,,,,,,,Neco Williams,DF
+2019-2020,18,Liverpool,eng ENG,1. Premier League,1st,2.6,5,3,1,3,1,4,5,80.0,1,3,1,2,9,14,6,0,Neco Williams,DF
+2020-2021,19,Liverpool,eng ENG,1. Premier League,3rd,2.8,6,5,4,2,0,5,9,55.6,4,3,1,2,6,12,6,0,Neco Williams,DF
+2021-2022,20,Liverpool,eng ENG,1. Premier League,2nd,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Neco Williams,DF
+2021-2022,20,Fulham,eng ENG,2. Championship,1st,13.2,37,19,16,16,5,21,37,56.8,16,16,4,12,18,55,28,1,Neco Williams,DF
+2022-2023,21,Nott'ham Forest,eng ENG,1. Premier League,16th,20.9,72,47,49,17,6,38,71,53.5,33,33,8,25,33,105,48,0,Neco Williams,DF
+2023-2024,22,Nott'ham Forest,eng ENG,1. Premier League,17th,18.2,69,40,42,18,9,35,56,62.5,21,44,13,31,22,91,53,0,Neco Williams,DF
+2024-2025,23,Nott'ham Forest,eng ENG,1. Premier League,3rd,10.1,30,19,24,5,1,15,28,53.6,13,15,3,12,11,41,39,0,Neco Williams,DF
+2012-2013,17,Southampton,eng ENG,1. Premier League,14th,5.5,,,,,,,,,,,,,,,,,James Ward-Prowse,MF
+2013-2014,18,Southampton,eng ENG,1. Premier League,8th,17.9,,,,,,,,,,,,,,,,,James Ward-Prowse,MF
+2014-2015,19,Southampton,eng ENG,1. Premier League,7th,16.4,,,,,,,,,,,,,,,,,James Ward-Prowse,MF
+2015-2016,20,Southampton,eng ENG,1. Premier League,6th,17.2,,,,,,,,,,,,,,,,,James Ward-Prowse,MF
+2016-2017,21,Southampton,eng ENG,1. Premier League,8th,20.9,,21,,,,,,,,,,,19,,,,James Ward-Prowse,MF
+2017-2018,22,Southampton,eng ENG,Jr. PL2 — Div. 2,6th,2.0,,,,,,,,,,,,,,,,,James Ward-Prowse,MF
+2017-2018,22,Southampton,eng ENG,1. Premier League,17th,19.1,23,16,9,11,3,3,27,11.1,24,29,1,28,8,31,31,0,James Ward-Prowse,MF
+2018-2019,23,Southampton,eng ENG,1. Premier League,16th,21.6,36,17,19,13,4,14,43,32.6,29,30,6,24,27,63,59,0,James Ward-Prowse,MF
+2019-2020,24,Southampton,eng ENG,1. Premier League,11th,38.0,92,48,39,39,14,39,94,41.5,55,48,14,34,60,152,75,1,James Ward-Prowse,MF
+2020-2021,25,Southampton,eng ENG,1. Premier League,15th,38.0,75,49,30,41,4,29,70,41.4,41,36,4,32,42,117,60,0,James Ward-Prowse,MF
+2021-2022,26,Southampton,eng ENG,1. Premier League,15th,35.7,41,24,12,24,5,19,70,27.1,51,43,15,28,40,81,45,1,James Ward-Prowse,MF
+2022-2023,27,Southampton,eng ENG,1. Premier League,20th,37.5,65,37,31,27,7,21,61,34.4,40,30,10,20,55,120,48,0,James Ward-Prowse,MF
+2023-2024,28,Southampton,eng ENG,2. Championship,4th,1.0,1,0,0,1,0,0,0,,0,1,1,0,1,2,2,0,James Ward-Prowse,MF
+2023-2024,28,West Ham,eng ENG,1. Premier League,9th,33.3,45,29,14,23,8,18,44,40.9,26,31,9,22,38,83,49,0,James Ward-Prowse,MF
+2024-2025,29,West Ham,eng ENG,1. Premier League,14th,0.2,1,0,1,0,0,1,1,100.0,0,1,0,1,0,1,0,0,James Ward-Prowse,MF
+2024-2025,29,Nott'ham Forest,eng ENG,1. Premier League,3rd,4.4,4,1,1,3,0,2,2,100.0,0,3,2,1,5,9,8,0,James Ward-Prowse,MF
+2022-2023,22,Vitória,pt POR,1. Primeira Liga,6th,17.8,40,23,14,17,9,16,42,38.1,26,29,2,27,9,49,13,0,Jota Silva,"FW,MF"
+2023-2024,23,Vitória,pt POR,1. Primeira Liga,5th,30.9,35,18,12,14,9,11,43,25.6,32,34,2,32,17,52,28,0,Jota Silva,"FW,MF"
+2024-2025,24,Nott'ham Forest,eng ENG,1. Premier League,3rd,6.0,12,5,6,5,1,2,15,13.3,13,5,1,4,10,22,10,0,Jota Silva,"FW,MF"
+2016-2017,18,Toulouse,fr FRA,1. Ligue 1,13th,2.9,,17,,,,,,,,,,,7,,,,Ibrahim Sangaré,MF
+2017-2018,19,Toulouse,fr FRA,1. Ligue 1,18th,17.6,72,47,35,34,3,29,69,42.0,40,33,7,26,24,96,19,1,Ibrahim Sangaré,MF
+2018-2019,20,Toulouse,fr FRA,1. Ligue 1,16th,27.4,102,66,50,44,8,32,63,50.8,31,52,20,32,29,131,49,2,Ibrahim Sangaré,MF
+2019-2020,21,Toulouse,fr FRA,1. Ligue 1,20th,24.2,84,54,37,42,5,33,74,44.6,41,28,10,18,39,123,49,4,Ibrahim Sangaré,MF
+2020-2021,22,Toulouse,fr FRA,2. Ligue 2,3rd,2.0,8,5,2,6,0,5,9,55.6,4,1,1,0,5,13,3,0,Ibrahim Sangaré,MF
+2020-2021,22,PSV Eindhoven,nl NED,1. Eredivisie,2nd,25.3,101,69,43,47,11,36,59,61.0,23,37,8,29,61,162,47,1,Ibrahim Sangaré,MF
+2021-2022,23,PSV Eindhoven,nl NED,1. Eredivisie,2nd,26.8,95,60,33,46,16,31,60,51.7,29,44,14,30,74,169,29,1,Ibrahim Sangaré,MF
+2022-2023,24,PSV Eindhoven,nl NED,1. Eredivisie,2nd,25.6,68,34,32,30,6,23,40,57.5,17,38,11,27,22,90,48,1,Ibrahim Sangaré,MF
+2023-2024,25,PSV Eindhoven,nl NED,1. Eredivisie,1st,2.0,2,0,1,1,0,2,2,100.0,0,2,0,2,2,4,2,0,Ibrahim Sangaré,MF
+2023-2024,25,Nott'ham Forest,eng ENG,1. Premier League,17th,11.5,42,23,25,13,4,12,29,41.4,17,24,7,17,16,58,21,0,Ibrahim Sangaré,MF
+2024-2025,26,Nott'ham Forest,eng ENG,1. Premier League,3rd,2.4,15,9,5,10,0,4,8,50.0,4,4,0,4,2,17,2,0,Ibrahim Sangaré,MF
+2020-2021,19,Benfica,pt POR,1. Primeira Liga,3rd,1.0,4,3,3,1,0,2,2,100.0,0,1,1,0,0,4,3,0,Morato,DF
+2021-2022,20,Benfica,pt POR,1. Primeira Liga,3rd,11.2,14,10,5,6,3,8,15,53.3,7,18,13,5,8,22,34,0,Morato,DF
+2022-2023,21,Benfica,pt POR,1. Primeira Liga,1st,7.2,9,7,6,2,1,3,5,60.0,2,5,3,2,7,16,19,0,Morato,DF
+2023-2024,22,Benfica,pt POR,1. Primeira Liga,2nd,16.9,53,33,33,11,9,37,67,55.2,30,20,5,15,17,70,40,0,Morato,DF
+2024-2025,23,Benfica,pt POR,1. Primeira Liga,3rd,1.0,3,2,1,2,0,1,3,33.3,2,1,0,1,3,6,1,0,Morato,DF
+2024-2025,23,Nott'ham Forest,eng ENG,1. Premier League,3rd,4.1,11,8,9,1,1,4,8,50.0,4,6,3,3,6,17,43,2,Morato,DF
+2015-2016,17,FSV Frankfurt,de GER,2. 2. Bundesliga,17th,10.0,,,,,,,,,,,,,,,,,Taiwo Awoniyi,FW
+2016-2017,18,NEC Nijmegen,nl NED,1. Eredivisie,16th,10.7,,0,,,,,,,,,,,0,,,,Taiwo Awoniyi,FW
+2017-2018,19,Excel Mouscron,be BEL,1. First Division A,13th,26.2,9,7,2,5,2,0,5,0.0,5,7,3,4,5,14,8,0,Taiwo Awoniyi,FW
+2018-2019,20,Excel Mouscron,be BEL,1. First Division A,14th,7.9,5,4,1,4,0,0,1,0.0,1,2,0,2,3,8,6,0,Taiwo Awoniyi,FW
+2018-2019,20,Gent,be BEL,1. First Division A,5th,6.3,5,4,0,3,2,2,2,100.0,0,2,0,2,1,6,1,0,Taiwo Awoniyi,FW
+2019-2020,21,Mainz 05,de GER,1. Bundesliga,13th,5.4,2,0,0,2,0,0,4,0.0,4,4,2,2,2,4,3,0,Taiwo Awoniyi,FW
+2020-2021,22,Union Berlin,de GER,1. Bundesliga,7th,15.1,5,3,2,3,0,1,14,7.1,13,9,0,9,3,8,4,0,Taiwo Awoniyi,FW
+2021-2022,23,Union Berlin,de GER,1. Bundesliga,5th,24.2,11,7,3,6,2,1,9,11.1,8,11,2,9,2,13,29,0,Taiwo Awoniyi,FW
+2022-2023,24,Nott'ham Forest,eng ENG,1. Premier League,16th,15.6,17,10,2,10,5,6,12,50.0,6,18,4,14,4,21,20,0,Taiwo Awoniyi,FW
+2023-2024,25,Nott'ham Forest,eng ENG,1. Premier League,17th,11.6,9,7,1,4,4,1,2,50.0,1,7,2,5,1,10,9,0,Taiwo Awoniyi,FW
+2024-2025,26,Nott'ham Forest,eng ENG,1. Premier League,3rd,2.5,3,1,0,2,1,2,2,100.0,0,1,0,1,0,3,4,0,Taiwo Awoniyi,FW
+2024-2025,24,Nott'ham Forest,eng ENG,1. Premier League,3rd,2.5,4,2,2,0,2,1,3,33.3,2,6,0,6,3,7,3,0,Ramón Sosa,"FW,MF"
+2010-2011,19,Auxerre,fr FRA,1. Ligue 1,9th,8.0,,,,,,,,,,,,,,,,,Willy Boly,DF
+2011-2012,20,Auxerre,fr FRA,1. Ligue 1,20th,31.7,,,,,,,,,,,,,,,,,Willy Boly,DF
+2012-2013,21,Auxerre,fr FRA,2. Ligue 2,9th,23.6,,,,,,,,,,,,,,,,,Willy Boly,DF
+2013-2014,22,Auxerre,fr FRA,2. Ligue 2,16th,29.5,,,,,,,,,,,,,,,,,Willy Boly,DF
+2014-2015,23,Auxerre,fr FRA,2. Ligue 2,9th,1.0,,,,,,,,,,,,,,,,,Willy Boly,DF
+2015-2016,24,Braga,pt POR,1. Primeira Liga,4th,21.3,,,,,,,,,,,,,,,,,Willy Boly,DF
+2016-2017,25,Braga,pt POR,1. Primeira Liga,5th,3.0,,0,,,,,,,,,,,0,,,,Willy Boly,DF
+2016-2017,25,Porto,pt POR,1. Primeira Liga,2nd,4.0,,0,,,,,,,,,,,0,,,,Willy Boly,DF
+2017-2018,26,Wolves,eng ENG,2. Championship,1st,35.5,,56,,,,,,,,,,,73,,,,Willy Boly,DF
+2018-2019,27,Wolves,eng ENG,1. Premier League,7th,35.2,85,52,49,34,2,34,56,60.7,22,55,32,23,72,157,177,6,Willy Boly,DF
+2019-2020,28,Wolves,eng ENG,1. Premier League,7th,22.0,57,33,36,21,0,25,43,58.1,18,28,11,17,39,96,108,3,Willy Boly,DF
+2020-2021,29,Wolves,eng ENG,1. Premier League,13th,20.9,33,20,26,7,0,13,24,54.2,11,18,12,6,32,65,84,1,Willy Boly,DF
+2021-2022,30,Wolves,eng ENG,1. Premier League,10th,10.0,25,19,18,7,0,8,15,53.3,7,14,6,8,14,39,35,0,Willy Boly,DF
+2022-2023,31,Nott'ham Forest,eng ENG,1. Premier League,16th,7.6,13,6,8,3,2,8,13,61.5,5,13,4,9,12,25,45,0,Willy Boly,DF
+2023-2024,32,Nott'ham Forest,eng ENG,1. Premier League,17th,16.0,46,29,36,9,1,22,40,55.0,18,32,21,11,25,71,90,0,Willy Boly,DF
+2024-2025,33,Nott'ham Forest,eng ENG,1. Premier League,3rd,1.3,5,1,4,1,0,4,4,100.0,0,3,1,2,2,7,12,0,Willy Boly,DF
+2022-2023,21,Nott'ham Forest,eng ENG,1. Premier League,16th,10.8,18,7,7,9,2,6,25,24.0,19,26,6,20,9,27,19,0,Danilo,MF
+2023-2024,22,Nott'ham Forest,eng ENG,1. Premier League,17th,19.9,36,18,22,12,2,21,46,45.7,25,33,8,25,35,71,42,0,Danilo,MF
+2024-2025,23,Nott'ham Forest,eng ENG,1. Premier League,3rd,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Danilo,MF
+2014-2015,18,Swindon Town,eng ENG,3. League One,4th,21.6,,,,,,,,,,,,,,,,,Harry Toffolo,DF
+2015-2016,19,Rotherham Utd,eng ENG,2. Championship,21st,6.1,,,,,,,,,,,,,,,,,Harry Toffolo,DF
+2015-2016,19,P'borough Utd,eng ENG,3. League One,13th,5.4,,,,,,,,,,,,,,,,,Harry Toffolo,DF
+2016-2017,20,Scunthorpe Utd,eng ENG,3. League One,3rd,20.6,,0,,,,,,,,,,,0,,,,Harry Toffolo,DF
+2017-2018,21,Doncaster,eng ENG,3. League One,15th,10.5,,0,,,,,,,,,,,0,,,,Harry Toffolo,DF
+2017-2018,21,Norwich City,eng ENG,Jr. PL2 — Div. 2,7th,1.8,,,,,,,,,,,,,,,,,Harry Toffolo,DF
+2018-2019,22,Lincoln City,eng ENG,4. League Two,1st,45.6,,,,,,,,,,,,,,,,,Harry Toffolo,DF
+2019-2020,23,Lincoln City,eng ENG,3. League One,16th,26.0,,22,,,,,,,,,,,50,,,,Harry Toffolo,DF
+2019-2020,23,Huddersfield,eng ENG,2. Championship,18th,19.0,33,22,19,10,4,14,22,63.6,8,15,5,10,18,51,37,1,Harry Toffolo,DF
+2020-2021,24,Huddersfield,eng ENG,2. Championship,20th,29.7,25,15,15,7,3,14,26,53.8,12,30,14,16,60,85,55,0,Harry Toffolo,DF
+2021-2022,25,Huddersfield,eng ENG,2. Championship,3rd,39.6,41,31,22,13,6,16,29,55.2,13,27,9,18,32,73,92,0,Harry Toffolo,DF
+2022-2023,26,Nott'ham Forest,eng ENG,1. Premier League,16th,10.4,17,8,10,4,3,10,14,71.4,4,16,8,8,10,27,33,0,Harry Toffolo,DF
+2023-2024,27,Nottingham Forest,eng ENG,Jr. PL2,,1.2,,,,,,,,,,,,,,,,,Harry Toffolo,DF
+2023-2024,27,Nott'ham Forest,eng ENG,1. Premier League,17th,16.2,26,14,20,6,0,15,24,62.5,9,34,13,21,14,40,49,0,Harry Toffolo,DF
+2024-2025,28,Nott'ham Forest,eng ENG,1. Premier League,3rd,0.5,2,0,1,0,1,0,0,,0,0,0,0,1,3,7,0,Harry Toffolo,DF
+2021-2022,15,St. Pauli U17,de GER,Jr. U17 Bundesliga,11th,13.7,,,,,,,,,,,,,,,,,Eric da Silva Moreira,"MF,DF"
+2022-2023,16,St. Pauli U19,de GER,Jr. U19 Bundesliga,17th,11.1,,,,,,,,,,,,,,,,,Eric da Silva Moreira,"MF,DF"
+2023-2024,17,St. Pauli U19,de GER,Jr. U19 Bundesliga,24th,3.2,,,,,,,,,,,,,,,,,Eric da Silva Moreira,"MF,DF"
+2023-2024,17,St. Pauli,de GER,2. 2. Bundesliga,1st,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Eric da Silva Moreira,"MF,DF"
+2024-2025,18,Nottingham Forest,eng ENG,Jr. PL2,10th,1.0,,,,,,,,,,,,,,,,,Eric da Silva Moreira,"MF,DF"
+2024-2025,18,Nott'ham Forest,eng ENG,1. Premier League,3rd,0.3,2,2,2,0,0,2,6,33.3,4,0,0,0,1,3,0,0,Eric da Silva Moreira,"MF,DF"
+2018-2019,16,Norwich City,eng ENG,Jr. PL2 — Div. 2,11th,1.0,,,,,,,,,,,,,,,,,Andrew Omobamidele,DF
+2019-2020,17,Norwich City,eng ENG,Jr. PL2 — Div. 2,11th,7.9,,,,,,,,,,,,,,,,,Andrew Omobamidele,DF
+2020-2021,18,Norwich City,eng ENG,Jr. PL2 — Div. 2,11th,14.5,,,,,,,,,,,,,,,,,Andrew Omobamidele,DF
+2020-2021,18,Norwich City,eng ENG,2. Championship,1st,7.9,10,5,6,4,0,2,2,100.0,0,11,8,3,7,17,35,2,Andrew Omobamidele,DF
+2021-2022,19,Norwich City,eng ENG,1. Premier League,20th,4.2,8,6,5,3,0,5,11,45.5,6,8,8,0,5,13,13,0,Andrew Omobamidele,DF
+2022-2023,20,Norwich City,eng ENG,2. Championship,13th,28.5,42,27,26,15,1,17,34,50.0,17,33,22,11,26,68,93,1,Andrew Omobamidele,DF
+2023-2024,21,Norwich City,eng ENG,2. Championship,6th,0.2,0,0,0,0,0,0,0,,0,1,1,0,1,1,1,0,Andrew Omobamidele,DF
+2023-2024,21,Nott'ham Forest,eng ENG,1. Premier League,17th,8.7,10,3,9,1,0,5,8,62.5,3,12,8,4,13,23,42,1,Andrew Omobamidele,DF

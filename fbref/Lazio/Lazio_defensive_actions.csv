@@ -1,0 +1,242 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Player,Position
+2014-2015,20,Perugia,it ITA,2. Serie B,6th,23.7,,,,,,,,,,,,,,,,,Ivan Provedel,GK
+2015-2016,21,Modena,it ITA,2. Serie B,21st,20.1,,,,,,,,,,,,,,,,,Ivan Provedel,GK
+2016-2017,22,Pro Vercelli,it ITA,2. Serie B,17th,39.6,,,,,,,,,,,,,,,,,Ivan Provedel,GK
+2017-2018,23,Empoli,it ITA,2. Serie B,1st,23.0,,0,,,,,,,,,,,0,,,,Ivan Provedel,GK
+2018-2019,24,Empoli,it ITA,1. Serie A,18th,16.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,0,Ivan Provedel,GK
+2019-2020,25,Juve Stabia,it ITA,2. Serie B,19th,18.0,1,1,1,0,0,1,2,50.0,1,0,0,0,1,2,7,1,Ivan Provedel,GK
+2020-2021,26,Spezia,it ITA,1. Serie A,15th,29.0,2,0,2,0,0,2,6,33.3,4,0,0,0,2,4,20,1,Ivan Provedel,GK
+2021-2022,27,Spezia,it ITA,1. Serie A,16th,30.7,0,0,0,0,0,0,1,0.0,1,0,0,0,2,2,10,2,Ivan Provedel,GK
+2022-2023,28,Lazio,it ITA,1. Serie A,2nd,37.9,1,0,1,0,0,0,0,,0,0,0,0,0,1,15,1,Ivan Provedel,GK
+2023-2024,29,Lazio,it ITA,1. Serie A,7th,30.0,1,0,1,0,0,1,3,33.3,2,0,0,0,0,1,12,1,Ivan Provedel,GK
+2024-2025,30,Lazio,it ITA,1. Serie A,4th,18.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,8,3,Ivan Provedel,GK
+2016-2017,17,Lorient,fr FRA,1. Ligue 1,18th,4.7,,8,,,,,,,,,,,12,,,,Mattéo Guendouzi,MF
+2017-2018,18,Lorient,fr FRA,2. Ligue 2,7th,15.8,15,15,2,8,5,3,13,23.1,10,17,5,12,22,37,21,0,Mattéo Guendouzi,MF
+2018-2019,19,Arsenal,eng ENG,1. Premier League,5th,23.9,44,26,18,23,3,17,47,36.2,30,28,5,23,30,74,24,3,Mattéo Guendouzi,MF
+2019-2020,20,Arsenal,eng ENG,1. Premier League,8th,19.4,31,16,14,13,4,14,43,32.6,29,21,7,14,29,60,38,2,Mattéo Guendouzi,MF
+2020-2021,21,Hertha BSC,de GER,1. Bundesliga,14th,20.2,24,13,10,12,2,9,25,36.0,16,15,4,11,21,45,24,1,Mattéo Guendouzi,MF
+2021-2022,22,Marseille,fr FRA,1. Ligue 1,2nd,35.0,45,30,10,26,9,13,47,27.7,34,15,1,14,16,61,18,0,Mattéo Guendouzi,MF
+2022-2023,23,Marseille,fr FRA,1. Ligue 1,3rd,23.4,39,18,9,21,9,14,38,36.8,24,12,5,7,21,60,18,0,Mattéo Guendouzi,MF
+2023-2024,24,Marseille,fr FRA,1. Ligue 1,8th,0.2,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,Mattéo Guendouzi,MF
+2023-2024,24,Lazio,it ITA,1. Serie A,7th,26.3,34,15,11,18,5,21,49,42.9,28,24,6,18,21,55,24,1,Mattéo Guendouzi,MF
+2024-2025,25,Lazio,it ITA,1. Serie A,4th,17.5,19,10,4,11,4,9,24,37.5,15,15,5,10,17,36,23,0,Mattéo Guendouzi,MF
+2022-2023,23,Girona,es ESP,1. La Liga,10th,28.9,12,5,2,7,3,0,18,0.0,18,22,2,20,6,18,26,0,Valentín Castellanos,FW
+2023-2024,24,Lazio,it ITA,1. Serie A,7th,18.7,22,10,1,12,9,6,20,30.0,14,22,2,20,2,24,18,0,Valentín Castellanos,FW
+2024-2025,25,Lazio,it ITA,1. Serie A,4th,14.7,5,3,0,2,3,1,8,12.5,7,10,1,9,3,8,10,0,Valentín Castellanos,FW
+2021-2022,20,Real Madrid,es ESP,1. La Liga,1st,0.3,1,0,1,0,0,0,1,0.0,1,0,0,0,1,2,1,0,Mario Gila,DF
+2022-2023,21,Lazio,it ITA,1. Serie A,2nd,1.0,3,1,3,0,0,0,1,0.0,1,0,0,0,3,6,3,0,Mario Gila,DF
+2023-2024,22,Lazio,it ITA,1. Serie A,7th,20.1,32,14,23,8,1,19,34,55.9,15,27,14,13,20,52,69,0,Mario Gila,DF
+2024-2025,23,Lazio,it ITA,1. Serie A,4th,14.2,31,24,18,11,2,20,28,71.4,8,11,8,3,17,48,54,2,Mario Gila,DF
+2015-2016,20,Hellas Verona,it ITA,1. Serie A,20th,0.6,,,,,,,,,,,,,,,,,Mattia Zaccagni,"FW,MF"
+2016-2017,21,Hellas Verona,it ITA,2. Serie B,2nd,15.1,,,,,,,,,,,,,,,,,Mattia Zaccagni,"FW,MF"
+2017-2018,22,Hellas Verona,it ITA,1. Serie A,19th,1.7,7,5,4,0,3,2,3,66.7,1,0,0,0,5,12,0,0,Mattia Zaccagni,"FW,MF"
+2018-2019,23,Hellas Verona,it ITA,2. Serie B,5th,21.3,27,18,10,15,2,4,14,28.6,10,35,8,27,22,49,22,0,Mattia Zaccagni,"FW,MF"
+2019-2020,24,Hellas Verona,it ITA,1. Serie A,9th,23.5,20,11,10,5,5,3,15,20.0,12,14,3,11,20,40,21,0,Mattia Zaccagni,"FW,MF"
+2020-2021,25,Hellas Verona,it ITA,1. Serie A,10th,29.0,27,13,8,11,8,8,25,32.0,17,28,4,24,27,54,13,1,Mattia Zaccagni,"FW,MF"
+2021-2022,26,Hellas Verona,it ITA,1. Serie A,9th,2.0,3,1,1,0,2,1,2,50.0,1,1,0,1,4,7,0,0,Mattia Zaccagni,"FW,MF"
+2021-2022,26,Lazio,it ITA,1. Serie A,5th,20.8,33,16,10,13,10,11,19,57.9,8,17,2,15,20,53,5,0,Mattia Zaccagni,"FW,MF"
+2022-2023,27,Lazio,it ITA,1. Serie A,2nd,30.8,42,28,16,18,8,14,38,36.8,24,37,3,34,21,63,10,1,Mattia Zaccagni,"FW,MF"
+2023-2024,28,Lazio,it ITA,1. Serie A,7th,21.7,27,16,11,15,1,9,21,42.9,12,26,2,24,21,48,15,0,Mattia Zaccagni,"FW,MF"
+2024-2025,29,Lazio,it ITA,1. Serie A,4th,14.0,14,10,1,11,2,5,12,41.7,7,6,0,6,14,28,6,0,Mattia Zaccagni,"FW,MF"
+2019-2020,17,Genoa,it ITA,1. Serie A,17th,1.2,0,0,0,0,0,0,1,0.0,1,0,0,0,4,4,0,0,Nicolò Rovella,MF
+2020-2021,18,Genoa,it ITA,1. Serie A,11th,13.2,29,16,15,11,3,9,32,28.1,23,11,0,11,20,49,19,1,Nicolò Rovella,MF
+2021-2022,19,Genoa,it ITA,1. Serie A,19th,16.3,37,26,16,14,7,15,40,37.5,25,21,1,20,20,57,20,0,Nicolò Rovella,MF
+2022-2023,20,Monza,it ITA,1. Serie A,11th,19.3,45,29,22,21,2,13,36,36.1,23,20,1,19,40,85,17,0,Nicolò Rovella,MF
+2022-2023,20,Juventus,it ITA,1. Serie A,7th,0.3,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0,Nicolò Rovella,MF
+2023-2024,21,Lazio,it ITA,1. Serie A,7th,14.6,46,28,25,17,4,16,36,44.4,20,27,6,21,23,69,29,0,Nicolò Rovella,MF
+2024-2025,22,Lazio,it ITA,1. Serie A,4th,13.8,48,30,17,25,6,23,44,52.3,21,9,3,6,26,74,19,2,Nicolò Rovella,MF
+2012-2013,17,Roma,it ITA,1. Serie A,6th,1.1,,,,,,,,,,,,,,,,,Alessio Romagnoli,DF
+2013-2014,18,Roma,it ITA,1. Serie A,2nd,7.8,,,,,,,,,,,,,,,,,Alessio Romagnoli,DF
+2014-2015,19,Sampdoria,it ITA,1. Serie A,7th,28.2,,,,,,,,,,,,,,,,,Alessio Romagnoli,DF
+2015-2016,20,Milan,it ITA,1. Serie A,7th,32.7,,,,,,,,,,,,,,,,,Alessio Romagnoli,DF
+2016-2017,21,Milan,it ITA,1. Serie A,6th,26.3,,22,,,,,,,,,,,40,,,,Alessio Romagnoli,DF
+2017-2018,22,Milan,it ITA,1. Serie A,6th,26.1,20,14,17,2,1,9,14,64.3,5,24,14,10,23,43,154,1,Alessio Romagnoli,DF
+2018-2019,23,Milan,it ITA,1. Serie A,5th,31.6,34,19,26,6,2,16,19,84.2,3,48,32,16,37,71,173,1,Alessio Romagnoli,DF
+2019-2020,24,Milan,it ITA,1. Serie A,6th,34.3,46,25,28,15,3,16,27,59.3,11,32,18,14,56,102,157,1,Alessio Romagnoli,DF
+2020-2021,25,Milan,it ITA,1. Serie A,2nd,21.2,17,7,8,7,2,8,19,42.1,11,29,22,7,24,41,80,0,Alessio Romagnoli,DF
+2021-2022,26,Milan,it ITA,1. Serie A,1st,15.7,24,14,14,10,0,14,18,77.8,4,21,12,9,19,43,45,0,Alessio Romagnoli,DF
+2022-2023,27,Lazio,it ITA,1. Serie A,2nd,32.5,33,15,19,14,0,11,22,50.0,11,33,26,7,38,71,108,0,Alessio Romagnoli,DF
+2023-2024,28,Lazio,it ITA,1. Serie A,7th,26.8,25,18,14,11,0,16,24,66.7,8,29,17,12,29,54,115,0,Alessio Romagnoli,DF
+2024-2025,29,Lazio,it ITA,1. Serie A,4th,12.4,24,13,10,14,0,11,14,78.6,3,12,7,5,14,38,42,0,Alessio Romagnoli,DF
+2019-2020,19,Benfica,pt POR,1. Primeira Liga,2nd,10.3,25,13,10,9,6,12,21,57.1,9,10,2,8,9,34,10,3,Nuno Tavares,DF
+2020-2021,20,Benfica,pt POR,1. Primeira Liga,3rd,7.0,14,9,6,6,2,10,15,66.7,5,4,0,4,6,20,12,0,Nuno Tavares,DF
+2021-2022,21,Arsenal,eng ENG,1. Premier League,5th,13.1,21,14,10,7,4,8,18,44.4,10,15,5,10,9,30,33,1,Nuno Tavares,DF
+2022-2023,22,Marseille,fr FRA,1. Ligue 1,3rd,26.1,56,30,19,24,13,28,56,50.0,28,32,4,28,15,71,25,0,Nuno Tavares,DF
+2023-2024,23,Nott'ham Forest,eng ENG,1. Premier League,17th,5.1,11,7,9,1,1,8,9,88.9,1,6,0,6,1,12,21,0,Nuno Tavares,DF
+2024-2025,24,Lazio,it ITA,1. Serie A,4th,11.8,22,16,10,7,5,12,24,50.0,12,9,1,8,12,34,31,1,Nuno Tavares,DF
+2019-2020,18,Midtjylland,dk DEN,1. Danish Superliga,1st,5.5,,8,,,,,,,,,,,4,,,,Gustav Isaksen,FW
+2020-2021,19,Midtjylland,dk DEN,1. Danish Superliga,2nd,7.6,,2,,,,,,,,,,,6,,,,Gustav Isaksen,FW
+2021-2022,20,Midtjylland,dk DEN,1. Danish Superliga,2nd,21.5,,7,,,,,,,,,,,10,,,,Gustav Isaksen,FW
+2022-2023,21,Midtjylland,dk DEN,1. Danish Superliga,7th,27.0,,7,,,,,,,,,,,8,,,,Gustav Isaksen,FW
+2023-2024,22,Midtjylland,dk DEN,1. Danish Superliga,1st,1.7,,3,,,,,,,,,,,2,,,,Gustav Isaksen,FW
+2023-2024,22,Lazio,it ITA,1. Serie A,7th,11.9,4,3,2,1,1,1,9,11.1,8,11,1,10,4,8,4,0,Gustav Isaksen,FW
+2024-2025,23,Lazio,it ITA,1. Serie A,4th,11.0,8,3,4,4,0,3,14,21.4,11,4,0,4,5,13,7,0,Gustav Isaksen,FW
+2018-2019,21,Reims,fr FRA,1. Ligue 1,8th,8.3,12,6,3,8,1,5,11,45.5,6,4,2,2,4,16,9,0,Boulaye Dia,"MF,FW"
+2019-2020,22,Reims,fr FRA,1. Ligue 1,6th,20.1,15,9,7,6,2,3,10,30.0,7,9,2,7,7,22,16,0,Boulaye Dia,"MF,FW"
+2020-2021,23,Reims,fr FRA,1. Ligue 1,14th,32.6,23,12,3,11,9,4,22,18.2,18,19,5,14,12,35,37,1,Boulaye Dia,"MF,FW"
+2021-2022,24,Villarreal,es ESP,1. La Liga,7th,14.1,8,6,3,4,1,2,5,40.0,3,6,1,5,5,13,4,0,Boulaye Dia,"MF,FW"
+2022-2023,25,Salernitana,it ITA,1. Serie A,15th,28.0,12,5,3,6,3,2,7,28.6,5,10,0,10,7,19,27,1,Boulaye Dia,"MF,FW"
+2023-2024,26,Salernitana,it ITA,1. Serie A,20th,12.7,4,2,2,2,0,1,3,33.3,2,5,0,5,3,7,7,0,Boulaye Dia,"MF,FW"
+2024-2025,27,Lazio,it ITA,1. Serie A,4th,10.0,9,3,4,1,4,5,10,50.0,5,2,0,2,3,12,3,1,Boulaye Dia,"MF,FW"
+2016-2017,22,SPAL,it ITA,2. Serie B,1st,37.0,,,,,,,,,,,,,,,,,Manuel Lazzari,DF
+2017-2018,23,SPAL,it ITA,1. Serie A,17th,34.6,61,47,33,21,7,27,62,43.5,35,32,7,25,31,92,73,2,Manuel Lazzari,DF
+2018-2019,24,SPAL,it ITA,1. Serie A,13th,31.5,29,17,16,10,3,13,24,54.2,11,26,5,21,20,49,51,1,Manuel Lazzari,DF
+2019-2020,25,Lazio,it ITA,1. Serie A,4th,28.3,20,11,10,7,3,10,31,32.3,21,11,1,10,8,28,34,0,Manuel Lazzari,DF
+2020-2021,26,Lazio,it ITA,1. Serie A,6th,29.0,24,14,15,4,5,14,39,35.9,25,22,3,19,18,42,28,0,Manuel Lazzari,DF
+2021-2022,27,Lazio,it ITA,1. Serie A,5th,18.5,28,14,13,15,0,16,26,61.5,10,10,2,8,12,40,16,1,Manuel Lazzari,DF
+2022-2023,28,Lazio,it ITA,1. Serie A,2nd,20.9,33,21,13,14,6,21,36,58.3,15,20,6,14,18,51,36,1,Manuel Lazzari,DF
+2023-2024,29,Lazio,it ITA,1. Serie A,7th,18.6,26,18,13,10,3,18,28,64.3,10,20,4,16,12,38,37,1,Manuel Lazzari,DF
+2024-2025,30,Lazio,it ITA,1. Serie A,4th,9.9,16,12,7,7,2,9,14,64.3,5,7,4,3,6,22,10,0,Manuel Lazzari,DF
+2013-2014,20,Voždovac,rs SRB,1. SuperLiga,7th,23.5,,,,,,,,,,,,,,,,,Adam Marušić,DF
+2014-2015,21,Kortrijk,be BEL,1. Pro League,6th,26.5,,,,,,,,,,,,,,,,,Adam Marušić,DF
+2015-2016,22,Kortrijk,be BEL,1. Pro League,7th,31.5,,,,,,,,,,,,,,,,,Adam Marušić,DF
+2016-2017,23,Oostende,be BEL,1. First Division A,4th,33.3,,0,,,,,,,,,,,0,,,,Adam Marušić,DF
+2017-2018,24,Lazio,it ITA,1. Serie A,5th,28.0,28,21,17,8,3,12,28,42.9,16,22,2,20,31,59,33,0,Adam Marušić,DF
+2018-2019,25,Lazio,it ITA,1. Serie A,8th,23.5,32,15,14,14,4,16,25,64.0,9,25,4,21,24,56,36,0,Adam Marušić,DF
+2019-2020,26,Lazio,it ITA,1. Serie A,4th,10.5,11,6,7,4,0,4,11,36.4,7,14,2,12,14,25,16,0,Adam Marušić,DF
+2020-2021,27,Lazio,it ITA,1. Serie A,6th,33.0,38,22,22,15,1,20,40,50.0,20,38,6,32,40,78,54,0,Adam Marušić,DF
+2021-2022,28,Lazio,it ITA,1. Serie A,5th,30.2,30,18,16,12,2,13,32,40.6,19,19,8,11,41,71,71,0,Adam Marušić,DF
+2022-2023,29,Lazio,it ITA,1. Serie A,2nd,30.7,41,30,23,14,4,25,39,64.1,14,20,6,14,38,79,63,1,Adam Marušić,DF
+2023-2024,30,Lazio,it ITA,1. Serie A,7th,34.4,45,31,24,19,2,27,49,55.1,22,27,7,20,29,74,63,2,Adam Marušić,DF
+2024-2025,31,Lazio,it ITA,1. Serie A,4th,10.4,15,8,9,6,0,7,13,53.8,6,6,3,3,7,22,26,0,Adam Marušić,DF
+2021-2022,22,Fortuna Sittard,nl NED,1. Eredivisie,15th,9.1,11,5,3,5,3,3,22,13.6,19,10,2,8,3,14,8,0,Tijjani Noslin,"FW,MF"
+2022-2023,23,Fortuna Sittard,nl NED,1. Eredivisie,13th,17.9,48,30,30,13,5,23,49,46.9,26,29,5,24,21,69,32,0,Tijjani Noslin,"FW,MF"
+2023-2024,24,Fortuna Sittard,nl NED,1. Eredivisie,10th,11.3,16,9,4,10,2,9,17,52.9,8,19,2,17,8,24,5,0,Tijjani Noslin,"FW,MF"
+2023-2024,24,Hellas Verona,it ITA,1. Serie A,13th,14.9,18,8,5,7,6,6,16,37.5,10,17,2,15,2,20,14,0,Tijjani Noslin,"FW,MF"
+2024-2025,25,Lazio,it ITA,1. Serie A,4th,6.0,4,3,1,1,2,0,3,0.0,3,13,1,12,0,4,7,0,Tijjani Noslin,"FW,MF"
+2015-2016,22,Lazio,it ITA,1. Serie A,8th,6.5,,,,,,,,,,,,,,,,,Patric,DF
+2016-2017,23,Lazio,it ITA,1. Serie A,5th,11.3,,17,,,,,,,,,,,10,,,,Patric,DF
+2017-2018,24,Lazio,it ITA,1. Serie A,5th,6.6,11,6,8,2,1,4,6,66.7,2,3,0,3,3,14,32,0,Patric,DF
+2018-2019,25,Lazio,it ITA,1. Serie A,8th,12.1,19,11,8,8,3,8,15,53.3,7,14,7,7,12,31,29,1,Patric,DF
+2019-2020,26,Lazio,it ITA,1. Serie A,4th,18.6,34,20,24,7,3,18,25,72.0,7,19,9,10,15,49,45,0,Patric,DF
+2020-2021,27,Lazio,it ITA,1. Serie A,6th,17.7,30,16,15,11,4,13,24,54.2,11,13,3,10,18,48,51,1,Patric,DF
+2021-2022,28,Lazio,it ITA,1. Serie A,5th,18.3,21,15,17,4,0,9,20,45.0,11,22,11,11,12,33,44,2,Patric,DF
+2022-2023,29,Lazio,it ITA,1. Serie A,2nd,15.7,17,11,12,3,2,11,16,68.8,5,17,12,5,11,28,53,1,Patric,DF
+2023-2024,30,Lazio,it ITA,1. Serie A,7th,17.9,13,8,10,3,0,8,18,44.4,10,15,9,6,6,19,44,0,Patric,DF
+2024-2025,31,Lazio,it ITA,1. Serie A,4th,6.5,7,4,5,2,0,4,8,50.0,4,1,1,0,3,10,18,1,Patric,DF
+2019-2020,18,Manchester City,eng ENG,Jr. PL2 — Div. 1,9th,9.6,,,,,,,,,,,,,,,,,Fisayo Dele-Bashiru,MF
+2020-2021,19,Sheffield Weds,eng ENG,2. Championship,24th,3.2,4,0,4,0,0,0,1,0.0,1,3,1,2,3,7,0,0,Fisayo Dele-Bashiru,MF
+2021-2022,20,Sheffield Weds,eng ENG,3. League One,4th,15.7,,14,,,,,,,,,,,7,,,,Fisayo Dele-Bashiru,MF
+2022-2023,21,Sheffield Weds,eng ENG,3. League One,3rd,15.5,,19,,,,,,,,,,,8,,,,Fisayo Dele-Bashiru,MF
+2023-2024,22,Hatayspor,tr TUR,1. Süper Lig,15th,33.7,,23,,,,,,,,,,,9,,,,Fisayo Dele-Bashiru,MF
+2024-2025,23,Lazio,it ITA,1. Serie A,4th,4.3,5,4,1,2,2,0,0,,0,7,1,6,2,7,2,0,Fisayo Dele-Bashiru,MF
+2013-2014,21,Fiorentina,it ITA,1. Serie A,4th,1.7,,,,,,,,,,,,,,,,,Matías Vecino,MF
+2013-2014,21,Cagliari,it ITA,1. Serie A,15th,7.6,,,,,,,,,,,,,,,,,Matías Vecino,MF
+2014-2015,22,Empoli,it ITA,1. Serie A,15th,33.2,,,,,,,,,,,,,,,,,Matías Vecino,MF
+2015-2016,23,Fiorentina,it ITA,1. Serie A,5th,26.6,,,,,,,,,,,,,,,,,Matías Vecino,MF
+2016-2017,24,Fiorentina,it ITA,1. Serie A,8th,26.2,,45,,,,,,,,,,,30,,,,Matías Vecino,MF
+2017-2018,25,Inter,it ITA,1. Serie A,4th,23.7,54,34,15,30,9,19,49,38.8,30,28,6,22,20,74,31,0,Matías Vecino,MF
+2018-2019,26,Inter,it ITA,1. Serie A,4th,22.4,50,39,18,23,9,26,53,49.1,27,38,9,29,17,67,22,0,Matías Vecino,MF
+2019-2020,27,Inter,it ITA,1. Serie A,2nd,14.2,31,20,14,11,6,9,36,25.0,27,20,3,17,15,46,26,0,Matías Vecino,MF
+2020-2021,28,Inter,it ITA,1. Serie A,1st,3.1,1,1,0,0,1,0,5,0.0,5,7,1,6,4,5,3,0,Matías Vecino,MF
+2021-2022,29,Inter,it ITA,1. Serie A,2nd,4.2,7,5,2,3,2,3,9,33.3,6,10,1,9,4,11,7,0,Matías Vecino,MF
+2022-2023,30,Lazio,it ITA,1. Serie A,2nd,18.8,47,27,13,23,11,23,48,47.9,25,33,10,23,16,63,39,1,Matías Vecino,MF
+2023-2024,31,Lazio,it ITA,1. Serie A,7th,12.8,32,17,12,20,0,20,31,64.5,11,17,5,12,12,44,21,0,Matías Vecino,MF
+2024-2025,32,Lazio,it ITA,1. Serie A,4th,5.4,8,6,1,6,1,3,13,23.1,10,5,2,3,5,13,6,0,Matías Vecino,MF
+2007-2008,20,Barcelona,es ESP,1. La Liga,3rd,0.2,,,,,,,,,,,,,,,,,Pedro,"FW,MF"
+2008-2009,21,Barcelona,es ESP,1. La Liga,1st,3.9,,,,,,,,,,,,,,,,,Pedro,"FW,MF"
+2009-2010,22,Barcelona,es ESP,1. La Liga,1st,23.2,,,,,,,,,,,,,,,,,Pedro,"FW,MF"
+2010-2011,23,Barcelona,es ESP,1. La Liga,1st,23.6,,,,,,,,,,,,,,,,,Pedro,"FW,MF"
+2011-2012,24,Barcelona,es ESP,1. La Liga,2nd,18.0,,,,,,,,,,,,,,,,,Pedro,"FW,MF"
+2012-2013,25,Barcelona,es ESP,1. La Liga,1st,23.0,,,,,,,,,,,,,,,,,Pedro,"FW,MF"
+2013-2014,26,Barcelona,es ESP,1. La Liga,2nd,26.1,,,,,,,,,,,,,,,,,Pedro,"FW,MF"
+2014-2015,27,Barcelona,es ESP,1. La Liga,1st,17.3,,,,,,,,,,,,,,,,,Pedro,"FW,MF"
+2015-2016,28,Chelsea,eng ENG,1. Premier League,10th,22.6,,,,,,,,,,,,,,,,,Pedro,"FW,MF"
+2016-2017,29,Chelsea,eng ENG,1. Premier League,1st,23.8,,36,,,,,,,,,,,21,,,,Pedro,"FW,MF"
+2017-2018,30,Chelsea,eng ENG,1. Premier League,5th,16.9,20,11,6,8,6,5,18,27.8,13,13,1,12,13,33,7,1,Pedro,"FW,MF"
+2018-2019,31,Chelsea,eng ENG,1. Premier League,3rd,19.8,27,14,11,10,6,9,35,25.7,26,13,2,11,18,45,8,1,Pedro,"FW,MF"
+2019-2020,32,Chelsea,eng ENG,1. Premier League,4th,7.3,15,7,5,9,1,3,15,20.0,12,9,0,9,9,24,1,0,Pedro,"FW,MF"
+2020-2021,33,Roma,it ITA,1. Serie A,7th,17.7,22,14,6,11,5,7,35,20.0,28,10,0,10,9,31,2,1,Pedro,"FW,MF"
+2021-2022,34,Lazio,it ITA,1. Serie A,5th,22.6,36,23,8,19,9,16,47,34.0,31,18,2,16,6,42,8,0,Pedro,"FW,MF"
+2022-2023,35,Lazio,it ITA,1. Serie A,2nd,21.1,35,24,14,10,11,11,30,36.7,19,18,2,16,6,41,4,1,Pedro,"FW,MF"
+2023-2024,36,Lazio,it ITA,1. Serie A,7th,9.1,16,12,5,7,4,3,12,25.0,9,16,2,14,3,19,1,0,Pedro,"FW,MF"
+2024-2025,37,Lazio,it ITA,1. Serie A,4th,5.2,9,5,1,5,3,5,9,55.6,4,4,0,4,1,10,2,0,Pedro,"FW,MF"
+2018-2019,19,Roma,it ITA,1. Serie A,6th,1.8,1,1,1,0,0,1,2,50.0,1,2,1,1,3,4,2,0,Luca Pellegrini,DF
+2018-2019,19,Cagliari,it ITA,1. Serie A,15th,10.4,28,19,16,11,1,14,25,56.0,11,13,3,10,18,46,22,0,Luca Pellegrini,DF
+2019-2020,20,Cagliari,it ITA,1. Serie A,14th,21.2,31,15,20,7,4,15,38,39.5,23,19,2,17,21,52,45,2,Luca Pellegrini,DF
+2020-2021,21,Genoa,it ITA,1. Serie A,11th,7.1,9,6,6,2,1,4,10,40.0,6,11,2,9,8,17,13,1,Luca Pellegrini,DF
+2021-2022,22,Juventus,it ITA,1. Serie A,4th,12.3,23,10,13,5,5,12,19,63.2,7,9,1,8,5,28,23,0,Luca Pellegrini,DF
+2022-2023,23,Eint Frankfurt,de GER,1. Bundesliga,7th,6.2,13,8,10,3,0,8,8,100.0,0,8,2,6,7,20,11,1,Luca Pellegrini,DF
+2022-2023,23,Lazio,it ITA,1. Serie A,2nd,2.0,1,0,0,1,0,1,4,25.0,3,3,0,3,7,8,4,0,Luca Pellegrini,DF
+2023-2024,24,Lazio,it ITA,1. Serie A,7th,8.7,18,13,7,10,1,9,17,52.9,8,7,3,4,9,27,20,0,Luca Pellegrini,DF
+2024-2025,25,Lazio,it ITA,1. Serie A,4th,4.2,6,3,2,4,0,3,7,42.9,4,6,1,5,6,12,10,0,Luca Pellegrini,DF
+2017-2018,19,Perugia,it ITA,2. Serie B,8th,0.1,,,,,,,,,,,,,,,,,Nicolò Casale,DF
+2019-2020,21,Venezia,it ITA,2. Serie B,11th,16.2,24,16,23,1,0,16,17,94.1,1,17,10,7,16,40,46,0,Nicolò Casale,DF
+2020-2021,22,Empoli,it ITA,2. Serie B,1st,20.6,35,23,21,11,3,14,20,70.0,6,23,8,15,30,65,69,1,Nicolò Casale,DF
+2021-2022,23,Hellas Verona,it ITA,1. Serie A,9th,28.7,46,30,25,19,2,21,37,56.8,16,31,12,19,49,95,95,0,Nicolò Casale,DF
+2022-2023,24,Lazio,it ITA,1. Serie A,2nd,27.1,42,20,28,14,0,22,34,64.7,12,25,17,8,17,59,73,1,Nicolò Casale,DF
+2023-2024,25,Lazio,it ITA,1. Serie A,7th,17.3,15,9,13,2,0,6,15,40.0,9,19,16,3,12,27,61,0,Nicolò Casale,DF
+2024-2025,26,Lazio,it ITA,1. Serie A,4th,1.5,5,3,4,1,0,0,0,,0,4,3,1,1,6,2,0,Nicolò Casale,DF
+2024-2025,26,Bologna,it ITA,1. Serie A,7th,2.9,3,1,1,2,0,1,2,50.0,1,8,6,2,2,5,8,2,Nicolò Casale,DF
+2021-2022,17,Rennes,fr FRA,1. Ligue 1,4th,1.0,3,1,1,2,0,1,5,20.0,4,0,0,0,2,5,0,0,Loum Tchaouna,"FW,MF"
+2022-2023,18,Dijon,fr FRA,2. Ligue 2,18th,18.0,15,11,7,6,2,9,18,50.0,9,17,0,17,7,22,10,0,Loum Tchaouna,"FW,MF"
+2023-2024,19,Salernitana,it ITA,1. Serie A,20th,23.3,20,10,5,13,2,10,20,50.0,10,20,1,19,4,24,16,1,Loum Tchaouna,"FW,MF"
+2024-2025,20,Lazio,it ITA,1. Serie A,4th,3.5,6,3,2,1,3,3,8,37.5,5,3,0,3,3,9,7,2,Loum Tchaouna,"FW,MF"
+2014-2015,17,Bari,it ITA,2. Serie B,10th,0.2,,,,,,,,,,,,,,,,,Gaetano Castrovilli,"MF,FW"
+2016-2017,19,Bari,it ITA,2. Serie B,12th,1.8,,,,,,,,,,,,,,,,,Gaetano Castrovilli,"MF,FW"
+2017-2018,20,Cremonese,it ITA,2. Serie B,14th,17.3,,0,,,,,,,,,,,0,,,,Gaetano Castrovilli,"MF,FW"
+2018-2019,21,Cremonese,it ITA,2. Serie B,9th,23.2,35,26,12,17,6,10,24,41.7,14,24,1,23,20,55,19,0,Gaetano Castrovilli,"MF,FW"
+2019-2020,22,Fiorentina,it ITA,1. Serie A,10th,29.7,59,31,25,23,11,18,53,34.0,35,29,2,27,15,74,31,1,Gaetano Castrovilli,"MF,FW"
+2020-2021,23,Fiorentina,it ITA,1. Serie A,13th,25.9,33,19,15,11,7,11,42,26.2,31,25,2,23,34,67,14,0,Gaetano Castrovilli,"MF,FW"
+2021-2022,24,Fiorentina,it ITA,1. Serie A,7th,15.5,25,17,15,6,4,12,23,52.2,11,18,4,14,11,36,6,0,Gaetano Castrovilli,"MF,FW"
+2022-2023,25,Fiorentina,it ITA,1. Serie A,8th,8.0,10,8,1,7,2,2,9,22.2,7,5,1,4,8,18,5,0,Gaetano Castrovilli,"MF,FW"
+2023-2024,26,Fiorentina,it ITA,1. Serie A,8th,4.1,3,2,1,2,0,1,8,12.5,7,4,0,4,2,5,3,0,Gaetano Castrovilli,"MF,FW"
+2024-2025,27,Lazio,it ITA,1. Serie A,4th,1.5,5,2,3,1,1,2,4,50.0,2,3,0,3,3,8,1,0,Gaetano Castrovilli,"MF,FW"
+2013-2014,19,Arles-Avignon,fr FRA,2. Ligue 2,13th,5.7,,,,,,,,,,,,,,,,,Samuel Gigot,DF
+2014-2015,20,Arles-Avignon,fr FRA,2. Ligue 2,20th,22.1,,,,,,,,,,,,,,,,,Samuel Gigot,DF
+2015-2016,21,Kortrijk,be BEL,1. Pro League,7th,22.9,,,,,,,,,,,,,,,,,Samuel Gigot,DF
+2016-2017,22,Kortrijk,be BEL,1. First Division A,12th,20.0,,0,,,,,,,,,,,0,,,,Samuel Gigot,DF
+2016-2017,22,Gent,be BEL,1. First Division A,3rd,15.5,,0,,,,,,,,,,,0,,,,Samuel Gigot,DF
+2017-2018,23,Gent,be BEL,1. First Division A,4th,39.0,42,30,28,11,3,12,19,63.2,7,40,27,13,87,129,177,1,Samuel Gigot,DF
+2018-2019,24,Spartak Moscow,ru RUS,1. Premier League,5th,8.3,,,,,,,,,,,,,,,,,Samuel Gigot,DF
+2019-2020,25,Spartak Moscow,ru RUS,1. Premier League,7th,25.9,,36,,,,,,,,,,,46,,,,Samuel Gigot,DF
+2020-2021,26,Spartak Moscow,ru RUS,1. Premier League,2nd,25.6,,36,,,,,,,,,,,43,,,,Samuel Gigot,DF
+2021-2022,27,Spartak Moscow,ru RUS,1. Premier League,10th,24.9,,15,,,,,,,,,,,54,,,,Samuel Gigot,DF
+2022-2023,28,Marseille,fr FRA,1. Ligue 1,3rd,20.9,46,24,22,21,3,12,15,80.0,3,24,7,17,45,91,85,1,Samuel Gigot,DF
+2023-2024,29,Marseille,fr FRA,1. Ligue 1,8th,19.2,33,22,16,13,4,13,19,68.4,6,28,18,10,25,58,93,1,Samuel Gigot,DF
+2024-2025,30,Lazio,it ITA,1. Serie A,4th,0.9,0,0,0,0,0,0,1,0.0,1,2,1,1,1,1,3,0,Samuel Gigot,DF
+2012-2013,18,Empoli,it ITA,2. Serie B,4th,27.4,,,,,,,,,,,,,,,,,Elseid Hysaj,DF
+2013-2014,19,Empoli,it ITA,2. Serie B,2nd,28.5,,,,,,,,,,,,,,,,,Elseid Hysaj,DF
+2014-2015,20,Empoli,it ITA,1. Serie A,15th,33.6,,,,,,,,,,,,,,,,,Elseid Hysaj,DF
+2015-2016,21,Napoli,it ITA,1. Serie A,2nd,36.5,,,,,,,,,,,,,,,,,Elseid Hysaj,DF
+2016-2017,22,Napoli,it ITA,1. Serie A,3rd,33.7,,54,,,,,,,,,,,37,,,,Elseid Hysaj,DF
+2017-2018,23,Napoli,it ITA,1. Serie A,2nd,34.7,64,45,28,30,6,32,56,57.1,24,35,4,31,43,107,68,4,Elseid Hysaj,DF
+2018-2019,24,Napoli,it ITA,1. Serie A,2nd,23.4,40,28,22,15,3,25,49,51.0,24,11,3,8,24,64,51,0,Elseid Hysaj,DF
+2019-2020,25,Napoli,it ITA,1. Serie A,7th,16.5,18,9,13,4,1,12,26,46.2,14,16,3,13,24,42,26,0,Elseid Hysaj,DF
+2020-2021,26,Napoli,it ITA,1. Serie A,5th,19.6,29,17,16,11,2,17,33,51.5,16,18,4,14,30,59,52,0,Elseid Hysaj,DF
+2021-2022,27,Lazio,it ITA,1. Serie A,5th,22.5,46,30,25,17,4,29,45,64.4,16,18,6,12,24,70,34,1,Elseid Hysaj,DF
+2022-2023,28,Lazio,it ITA,1. Serie A,2nd,22.2,39,23,24,11,4,23,41,56.1,18,31,7,24,20,59,42,0,Elseid Hysaj,DF
+2023-2024,29,Lazio,it ITA,1. Serie A,7th,13.3,24,14,8,13,3,15,24,62.5,9,16,6,10,17,41,31,0,Elseid Hysaj,DF
+2024-2025,30,Lazio,it ITA,1. Serie A,4th,0.1,1,1,0,1,0,0,0,,0,0,0,0,0,1,1,0,Elseid Hysaj,DF
+2015-2016,18,Hajduk Split,hr CRO,1. 1. HNL,3rd,1.6,,,,,,,,,,,,,,,,,Toma Bašić,MF
+2016-2017,19,Hajduk Split,hr CRO,1. 1. HNL,3rd,17.8,,0,,,,,,,,,,,0,,,,Toma Bašić,MF
+2017-2018,20,Hajduk Split,hr CRO,1. 1. HNL,3rd,21.3,,0,,,,,,,,,,,0,,,,Toma Bašić,MF
+2018-2019,21,Hajduk Split,hr CRO,1. 1. HNL,4th,1.0,,,,,,,,,,,,,,,,,Toma Bašić,MF
+2018-2019,21,Bordeaux,fr FRA,1. Ligue 1,14th,14.8,32,16,5,21,6,11,31,35.5,20,13,1,12,9,41,22,1,Toma Bašić,MF
+2019-2020,22,Bordeaux,fr FRA,1. Ligue 1,12th,11.0,26,22,9,16,1,12,27,44.4,15,14,2,12,9,35,12,1,Toma Bašić,MF
+2020-2021,23,Bordeaux,fr FRA,1. Ligue 1,12th,28.9,33,22,15,16,2,16,58,27.6,42,21,5,16,32,65,42,1,Toma Bašić,MF
+2021-2022,24,Bordeaux,fr FRA,1. Ligue 1,20th,2.3,2,2,1,0,1,0,4,0.0,4,4,1,3,2,4,0,0,Toma Bašić,MF
+2021-2022,24,Lazio,it ITA,1. Serie A,5th,10.9,12,8,3,9,0,5,17,29.4,12,13,4,9,4,16,21,0,Toma Bašić,MF
+2022-2023,25,Lazio,it ITA,1. Serie A,2nd,5.7,6,4,4,1,1,3,8,37.5,5,9,0,9,7,13,8,0,Toma Bašić,MF
+2023-2024,26,Salernitana,it ITA,1. Serie A,20th,12.9,20,13,10,9,1,10,27,37.0,17,18,6,12,14,34,29,0,Toma Bašić,MF
+2013-2014,18,Crotone,it ITA,2. Serie B,6th,27.7,,,,,,,,,,,,,,,,,Danilo Cataldi,MF
+2014-2015,19,Lazio,it ITA,1. Serie A,3rd,11.1,,,,,,,,,,,,,,,,,Danilo Cataldi,MF
+2015-2016,20,Lazio,it ITA,1. Serie A,8th,15.0,,,,,,,,,,,,,,,,,Danilo Cataldi,MF
+2016-2017,21,Lazio,it ITA,1. Serie A,5th,7.4,,9,,,,,,,,,,,8,,,,Danilo Cataldi,MF
+2016-2017,21,Genoa,it ITA,1. Serie A,16th,10.3,,10,,,,,,,,,,,9,,,,Danilo Cataldi,MF
+2017-2018,22,Benevento,it ITA,1. Serie A,20th,25.4,33,25,12,19,2,5,28,17.9,23,18,5,13,37,70,20,1,Danilo Cataldi,MF
+2018-2019,23,Lazio,it ITA,1. Serie A,8th,6.4,12,7,4,5,3,2,9,22.2,7,3,0,3,7,19,6,0,Danilo Cataldi,MF
+2019-2020,24,Lazio,it ITA,1. Serie A,4th,6.6,17,11,10,5,2,10,20,50.0,10,7,1,6,13,30,10,0,Danilo Cataldi,MF
+2020-2021,25,Lazio,it ITA,1. Serie A,6th,6.3,7,2,1,5,1,4,18,22.2,14,3,1,2,9,16,7,0,Danilo Cataldi,MF
+2021-2022,26,Lazio,it ITA,1. Serie A,5th,19.0,36,17,15,17,4,12,38,31.6,26,24,12,12,17,53,19,1,Danilo Cataldi,MF
+2022-2023,27,Lazio,it ITA,1. Serie A,2nd,21.3,25,16,7,15,3,14,40,35.0,26,23,9,14,24,49,33,0,Danilo Cataldi,MF
+2023-2024,28,Lazio,it ITA,1. Serie A,7th,15.1,24,12,7,16,1,8,18,44.4,10,15,7,8,17,41,19,1,Danilo Cataldi,MF
+2024-2025,29,Fiorentina,it ITA,1. Serie A,6th,9.8,18,13,7,9,2,8,16,50.0,8,7,4,3,12,30,19,0,Danilo Cataldi,MF
+2017-2018,15,Atromitos,gr GRE,1. Super League,4th,0.2,,0,,,,,,,,,,,0,,,,Christos Mandas,GK
+2018-2019,16,Atromitos,gr GRE,1. Super League,4th,1.0,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2019-2020,17,Atromitos,gr GRE,1. Super League,8th,12.0,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2020-2021,18,Atromitos,gr GRE,1. Super League,8th,13.1,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2021-2022,19,OFI Crete,gr GRE,1. Super League,8th,1.0,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2022-2023,20,OFI Crete,gr GRE,1. Super League,6th,26.0,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2023-2024,21,OFI Crete,gr GRE,1. Super League,10th,2.0,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2023-2024,21,Lazio,it ITA,1. Serie A,7th,8.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,3,1,Christos Mandas,GK

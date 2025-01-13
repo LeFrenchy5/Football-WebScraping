@@ -1,0 +1,195 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Player,Position
+2016-2017,20,Kaiserslautern,de GER,2. 2. Bundesliga,13th,23.5,,,,,,,,,,,,,,,,,Robin Koch,DF
+2017-2018,21,Kaiserslautern,de GER,2. 2. Bundesliga,18th,3.0,2,0.67,1,0,0,1,0,0,0,0.00,0,0,0,0,0,0,Robin Koch,DF
+2017-2018,21,Freiburg,de GER,1. Bundesliga,15th,21.3,14,0.66,13,0,0,1,0,0,4,0.19,3,0,0,1,0,0,Robin Koch,DF
+2018-2019,22,Freiburg,de GER,1. Bundesliga,13th,21.1,17,0.80,14,0,1,0,2,0,2,0.09,2,0,0,0,0,0,Robin Koch,DF
+2019-2020,23,Freiburg,de GER,1. Bundesliga,8th,30.1,39,1.30,33,0,1,4,1,0,0,0.00,0,0,0,0,0,0,Robin Koch,DF
+2020-2021,24,Leeds United,eng ENG,Jr. PL2 — Div. 2,1st,1.2,,,,,,,,,,,,,,,,,Robin Koch,DF
+2020-2021,24,Leeds United,eng ENG,1. Premier League,9th,12.6,11,0.87,11,0,0,0,0,0,2,0.16,2,0,0,0,0,0,Robin Koch,DF
+2021-2022,25,Leeds United,eng ENG,1. Premier League,17th,17.5,24,1.37,21,1,0,1,1,0,2,0.11,2,0,0,0,0,0,Robin Koch,DF
+2022-2023,26,Leeds United,eng ENG,1. Premier League,19th,35.3,15,0.43,11,2,0,2,0,0,2,0.06,2,0,0,0,0,0,Robin Koch,DF
+2023-2024,27,Eint Frankfurt,de GER,1. Bundesliga,6th,30.4,18,0.59,15,0,0,3,0,0,3,0.10,3,0,0,0,0,0,Robin Koch,DF
+2024-2025,28,Eint Frankfurt,de GER,1. Bundesliga,3rd,14.8,9,0.61,7,0,0,2,0,0,2,0.14,2,0,0,0,0,0,Robin Koch,DF
+2017-2018,18,Wolfsburg U19,de GER,Jr. U19 Bundesliga,11th,2.4,,,,,,,,,,,,,,,,,Omar Marmoush,"FW,MF"
+2019-2020,20,Wolfsburg,de GER,1. Bundesliga,7th,0.9,1,1.11,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Omar Marmoush,"FW,MF"
+2020-2021,21,St. Pauli,de GER,2. 2. Bundesliga,10th,17.0,60,3.53,29,0,10,8,12,1,8,0.47,3,0,2,1,2,0,Omar Marmoush,"FW,MF"
+2020-2021,21,Wolfsburg,de GER,1. Bundesliga,4th,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Omar Marmoush,"FW,MF"
+2021-2022,22,Stuttgart,de GER,1. Bundesliga,15th,17.5,70,4.01,34,17,9,8,2,0,10,0.57,3,3,1,2,1,0,Omar Marmoush,"FW,MF"
+2021-2022,22,Wolfsburg,de GER,1. Bundesliga,12th,0.3,1,3.75,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Omar Marmoush,"FW,MF"
+2022-2023,23,Wolfsburg,de GER,1. Bundesliga,8th,16.4,43,2.62,26,1,9,3,4,0,5,0.30,3,0,2,0,0,0,Omar Marmoush,"FW,MF"
+2023-2024,24,Eint Frankfurt,de GER,1. Bundesliga,6th,25.6,75,2.93,40,5,10,6,12,2,12,0.47,5,1,2,2,2,0,Omar Marmoush,"FW,MF"
+2024-2025,25,Eint Frankfurt,de GER,1. Bundesliga,3rd,14.1,81,5.73,35,18,12,8,7,1,18,1.27,6,2,6,2,2,0,Omar Marmoush,"FW,MF"
+2020-2021,20,Oostende,be BEL,1. First Division A,6th,28.6,19,0.66,17,1,0,0,1,0,0,0.00,0,0,0,0,0,0,Arthur Theate,DF
+2021-2022,21,Oostende,be BEL,1. First Division A,13th,3.0,1,0.33,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Arthur Theate,DF
+2021-2022,21,Bologna,it ITA,1. Serie A,13th,26.9,24,0.89,23,0,0,1,0,0,4,0.15,4,0,0,0,0,0,Arthur Theate,DF
+2022-2023,22,Rennes,fr FRA,1. Ligue 1,4th,34.7,23,0.66,22,0,0,0,0,1,2,0.06,2,0,0,0,0,0,Arthur Theate,DF
+2023-2024,23,Rennes,fr FRA,1. Ligue 1,10th,25.5,21,0.82,16,1,1,2,1,0,3,0.12,1,0,0,2,0,0,Arthur Theate,DF
+2024-2025,24,Eint Frankfurt,de GER,1. Bundesliga,3rd,13.6,18,1.32,10,1,0,4,2,1,2,0.15,2,0,0,0,0,0,Arthur Theate,DF
+2019-2020,20,Kortrijk,be BEL,1. First Division A,11th,14.0,9,0.64,7,0,0,2,0,0,0,0.00,0,0,0,0,0,0,Tuta,"DF,MF"
+2020-2021,21,Eint Frankfurt,de GER,1. Bundesliga,5th,16.2,13,0.80,11,0,0,0,1,1,1,0.06,0,0,0,0,1,0,Tuta,"DF,MF"
+2021-2022,22,Eint Frankfurt,de GER,1. Bundesliga,11th,24.3,16,0.66,13,1,0,0,1,1,0,0.00,0,0,0,0,0,0,Tuta,"DF,MF"
+2022-2023,23,Eint Frankfurt,de GER,1. Bundesliga,7th,30.2,20,0.66,15,0,2,2,0,1,1,0.03,1,0,0,0,0,0,Tuta,"DF,MF"
+2023-2024,24,Eint Frankfurt,de GER,1. Bundesliga,6th,28.9,35,1.21,26,2,0,6,1,0,3,0.10,3,0,0,0,0,0,Tuta,"DF,MF"
+2024-2025,25,Eint Frankfurt,de GER,1. Bundesliga,3rd,12.5,17,1.36,15,0,0,2,0,0,1,0.08,1,0,0,0,0,0,Tuta,"DF,MF"
+2020-2021,18,Vejle BK,dk DEN,1. Danish Superliga,10th,6.7,,,,,,,,,,,,,,,,,Hugo Ekitike,FW
+2020-2021,18,Reims,fr FRA,1. Ligue 1,14th,1.0,1,1.02,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Hugo Ekitike,FW
+2021-2022,19,Reims,fr FRA,1. Ligue 1,12th,14.1,40,2.83,23,0,10,3,4,0,9,0.64,4,0,1,2,2,0,Hugo Ekitike,FW
+2022-2023,20,Paris S-G,fr FRA,1. Ligue 1,1st,12.8,33,2.57,25,0,3,2,3,0,7,0.55,6,0,1,0,0,0,Hugo Ekitike,FW
+2023-2024,21,Paris S-G,fr FRA,1. Ligue 1,1st,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Hugo Ekitike,FW
+2023-2024,21,Eint Frankfurt,de GER,1. Bundesliga,6th,8.0,28,3.52,13,0,6,3,5,1,4,0.50,2,0,1,0,1,0,Hugo Ekitike,FW
+2024-2025,22,Eint Frankfurt,de GER,1. Bundesliga,3rd,11.2,40,3.59,25,0,7,6,2,0,5,0.45,4,0,1,0,0,0,Hugo Ekitike,FW
+2015-2016,18,Midtjylland,dk DEN,1. Danish Superliga,3rd,10.1,,,,,,,,,,,,,,,,,Rasmus Kristensen,DF
+2016-2017,19,Midtjylland,dk DEN,1. Danish Superliga,4th,32.3,,,,,,,,,,,,,,,,,Rasmus Kristensen,DF
+2017-2018,20,Midtjylland,dk DEN,1. Danish Superliga,1st,16.8,,,,,,,,,,,,,,,,,Rasmus Kristensen,DF
+2017-2018,20,Jong Ajax,nl NED,2. Eerste Divisie,1st,2.0,,,,,,,,,,,,,,,,,Rasmus Kristensen,DF
+2017-2018,20,Ajax,nl NED,1. Eredivisie,2nd,5.4,,,,,,,,,,,,,,,,,Rasmus Kristensen,DF
+2018-2019,21,Ajax,nl NED,1. Eredivisie,1st,6.9,18,2.60,16,0,1,1,0,0,4,0.58,3,0,0,1,0,0,Rasmus Kristensen,DF
+2019-2020,22,RB Salzburg,at AUT,1. Bundesliga,1st,10.6,,,,,,,,,,,,,,,,,Rasmus Kristensen,DF
+2020-2021,23,RB Salzburg,at AUT,1. Bundesliga,1st,25.9,,,,,,,,,,,,,,,,,Rasmus Kristensen,DF
+2021-2022,24,RB Salzburg,at AUT,1. Bundesliga,1st,28.1,,,,,,,,,,,,,,,,,Rasmus Kristensen,DF
+2022-2023,25,Leeds United,eng ENG,1. Premier League,19th,21.8,35,1.61,30,1,2,1,0,1,3,0.14,2,0,1,0,0,0,Rasmus Kristensen,DF
+2023-2024,26,Roma,it ITA,1. Serie A,6th,19.4,28,1.44,21,3,3,0,1,0,3,0.15,2,0,0,0,1,0,Rasmus Kristensen,DF
+2024-2025,27,Eint Frankfurt,de GER,1. Bundesliga,3rd,11.4,30,2.63,25,2,1,1,1,0,1,0.09,1,0,0,0,0,0,Rasmus Kristensen,DF
+2023-2024,19,Eint Frankfurt,de GER,1. Bundesliga,6th,21.0,25,1.19,23,0,0,2,0,0,5,0.24,4,0,0,1,0,0,Hugo Larsson,MF
+2024-2025,20,Eint Frankfurt,de GER,1. Bundesliga,3rd,10.8,22,2.04,19,0,0,3,0,0,0,0.00,0,0,0,0,0,0,Hugo Larsson,MF
+2010-2011,20,Kaiserslautern,de GER,1. Bundesliga,7th,9.0,,,,,,,,,,,,,,,,,Kevin Trapp,GK
+2011-2012,21,Kaiserslautern,de GER,1. Bundesliga,18th,23.0,,,,,,,,,,,,,,,,,Kevin Trapp,GK
+2012-2013,22,Eint Frankfurt,de GER,1. Bundesliga,6th,26.0,,,,,,,,,,,,,,,,,Kevin Trapp,GK
+2013-2014,23,Eint Frankfurt,de GER,1. Bundesliga,13th,33.8,,,,,,,,,,,,,,,,,Kevin Trapp,GK
+2014-2015,24,Eint Frankfurt,de GER,1. Bundesliga,9th,22.0,,,,,,,,,,,,,,,,,Kevin Trapp,GK
+2015-2016,25,Paris S-G,fr FRA,1. Ligue 1,1st,34.5,,,,,,,,,,,,,,,,,Kevin Trapp,GK
+2016-2017,26,Paris S-G,fr FRA,1. Ligue 1,2nd,23.6,,,,,,,,,,,,,,,,,Kevin Trapp,GK
+2017-2018,27,Paris S-G,fr FRA,1. Ligue 1,1st,4.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Kevin Trapp,GK
+2018-2019,28,Eint Frankfurt,de GER,1. Bundesliga,7th,32.6,8,0.25,6,2,0,0,0,0,1,0.03,0,1,0,0,0,0,Kevin Trapp,GK
+2019-2020,29,Eint Frankfurt,de GER,1. Bundesliga,9th,22.0,3,0.14,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Kevin Trapp,GK
+2020-2021,30,Eint Frankfurt,de GER,1. Bundesliga,5th,33.0,2,0.06,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Kevin Trapp,GK
+2021-2022,31,Eint Frankfurt,de GER,1. Bundesliga,11th,32.0,4,0.12,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Kevin Trapp,GK
+2022-2023,32,Eint Frankfurt,de GER,1. Bundesliga,7th,33.0,3,0.09,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Kevin Trapp,GK
+2023-2024,33,Eint Frankfurt,de GER,1. Bundesliga,6th,32.0,1,0.03,0,1,0,0,0,0,0,0.00,0,0,0,0,0,0,Kevin Trapp,GK
+2024-2025,34,Eint Frankfurt,de GER,1. Bundesliga,3rd,10.5,1,0.10,1,0,0,0,0,0,1,0.10,1,0,0,0,0,0,Kevin Trapp,GK
+2014-2015,19,Montpellier,fr FRA,1. Ligue 1,7th,1.0,,,,,,,,,,,,,,,,,Ellyes Skhiri,MF
+2015-2016,20,Montpellier,fr FRA,1. Ligue 1,12th,9.1,,,,,,,,,,,,,,,,,Ellyes Skhiri,MF
+2016-2017,21,Montpellier,fr FRA,1. Ligue 1,15th,36.5,,,,,,,,,,,,,,,,,Ellyes Skhiri,MF
+2017-2018,22,Montpellier,fr FRA,1. Ligue 1,10th,33.9,86,2.54,72,1,4,4,2,3,3,0.09,3,0,0,0,0,0,Ellyes Skhiri,MF
+2018-2019,23,Montpellier,fr FRA,1. Ligue 1,6th,34.3,83,2.42,67,0,4,2,6,4,11,0.32,7,0,1,1,1,1,Ellyes Skhiri,MF
+2019-2020,24,Köln,de GER,1. Bundesliga,14th,29.7,62,2.09,49,0,3,5,0,5,10,0.34,7,0,1,2,0,0,Ellyes Skhiri,MF
+2020-2021,25,Köln,de GER,1. Bundesliga,16th,30.9,49,1.58,36,4,2,4,1,2,5,0.16,2,0,2,1,0,0,Ellyes Skhiri,MF
+2021-2022,26,Köln,de GER,1. Bundesliga,7th,20.2,29,1.43,28,0,0,0,0,1,1,0.05,1,0,0,0,0,0,Ellyes Skhiri,MF
+2022-2023,27,Köln,de GER,1. Bundesliga,11th,31.7,56,1.76,48,0,1,5,0,2,5,0.16,5,0,0,0,0,0,Ellyes Skhiri,MF
+2023-2024,28,Eint Frankfurt,de GER,1. Bundesliga,6th,24.1,41,1.70,35,0,1,3,2,0,2,0.08,2,0,0,0,0,0,Ellyes Skhiri,MF
+2024-2025,29,Eint Frankfurt,de GER,1. Bundesliga,3rd,10.0,22,2.20,18,0,0,2,0,2,4,0.40,3,0,0,1,0,0,Ellyes Skhiri,MF
+2018-2019,16,Dortmund U17,de GER,Jr. U17 Bundesliga,1st,11.9,,,,,,,,,,,,,,,,,Ansgar Knauff,"MF,DF"
+2019-2020,17,Dortmund U19,de GER,Jr. U19 Bundesliga,4th,13.7,,,,,,,,,,,,,,,,,Ansgar Knauff,"MF,DF"
+2020-2021,18,Dortmund U19,de GER,Jr. U19 Bundesliga,1st,1.0,,,,,,,,,,,,,,,,,Ansgar Knauff,"MF,DF"
+2020-2021,18,Dortmund,de GER,1. Bundesliga,3rd,0.8,8,10.00,5,0,2,0,1,0,2,2.50,1,0,1,0,0,0,Ansgar Knauff,"MF,DF"
+2021-2022,19,Dortmund,de GER,1. Bundesliga,2nd,1.3,3,2.37,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Ansgar Knauff,"MF,DF"
+2021-2022,19,Dortmund II,de GER,3. 3. Liga,9th,6.4,,,,,,,,,,,,,,,,,Ansgar Knauff,"MF,DF"
+2021-2022,19,Eint Frankfurt,de GER,1. Bundesliga,11th,8.4,23,2.73,16,1,2,1,3,0,3,0.36,2,0,1,0,0,0,Ansgar Knauff,"MF,DF"
+2022-2023,20,Eint Frankfurt,de GER,1. Bundesliga,7th,14.3,24,1.68,18,0,1,0,5,0,4,0.28,2,0,0,0,2,0,Ansgar Knauff,"MF,DF"
+2023-2024,21,Eint Frankfurt,de GER,1. Bundesliga,6th,23.4,61,2.60,51,0,6,2,0,2,6,0.26,5,0,0,0,0,1,Ansgar Knauff,"MF,DF"
+2024-2025,22,Eint Frankfurt,de GER,1. Bundesliga,3rd,7.6,27,3.54,17,0,2,3,3,2,6,0.79,3,0,1,1,0,1,Ansgar Knauff,"MF,DF"
+2009-2010,17,Dortmund,de GER,1. Bundesliga,5th,0.5,,,,,,,,,,,,,,,,,Mario Götze,"MF,FW"
+2010-2011,18,Dortmund,de GER,1. Bundesliga,1st,28.1,,,,,,,,,,,,,,,,,Mario Götze,"MF,FW"
+2011-2012,19,Dortmund,de GER,1. Bundesliga,1st,13.1,,,,,,,,,,,,,,,,,Mario Götze,"MF,FW"
+2012-2013,20,Dortmund,de GER,1. Bundesliga,2nd,22.4,,,,,,,,,,,,,,,,,Mario Götze,"MF,FW"
+2013-2014,21,Bayern Munich,de GER,1. Bundesliga,1st,20.2,,,,,,,,,,,,,,,,,Mario Götze,"MF,FW"
+2014-2015,22,Bayern Munich,de GER,1. Bundesliga,1st,24.9,,,,,,,,,,,,,,,,,Mario Götze,"MF,FW"
+2015-2016,23,Bayern Munich,de GER,1. Bundesliga,1st,10.6,,,,,,,,,,,,,,,,,Mario Götze,"MF,FW"
+2016-2017,24,Dortmund,de GER,1. Bundesliga,3rd,8.4,,,,,,,,,,,,,,,,,Mario Götze,"MF,FW"
+2017-2018,25,Dortmund,de GER,1. Bundesliga,4th,17.8,77,4.33,61,10,1,3,2,0,6,0.34,6,0,0,0,0,0,Mario Götze,"MF,FW"
+2018-2019,26,Dortmund,de GER,1. Bundesliga,2nd,18.6,72,3.87,60,1,3,3,5,0,8,0.43,8,0,0,0,0,0,Mario Götze,"MF,FW"
+2019-2020,27,Dortmund,de GER,1. Bundesliga,2nd,5.8,18,3.11,16,0,0,0,1,1,0,0.00,0,0,0,0,0,0,Mario Götze,"MF,FW"
+2020-2021,28,PSV Eindhoven,nl NED,1. Eredivisie,2nd,15.6,69,4.43,59,1,2,4,0,3,14,0.90,9,0,1,2,0,2,Mario Götze,"MF,FW"
+2021-2022,29,PSV Eindhoven,nl NED,1. Eredivisie,2nd,24.6,108,4.39,96,1,4,5,2,0,10,0.41,9,0,0,1,0,0,Mario Götze,"MF,FW"
+2022-2023,30,Eint Frankfurt,de GER,1. Bundesliga,7th,30.4,101,3.32,79,13,2,5,1,1,14,0.46,12,0,0,2,0,0,Mario Götze,"MF,FW"
+2023-2024,31,Eint Frankfurt,de GER,1. Bundesliga,6th,23.0,76,3.31,61,9,1,2,3,0,6,0.26,5,0,0,1,0,0,Mario Götze,"MF,FW"
+2024-2025,32,Eint Frankfurt,de GER,1. Bundesliga,3rd,6.2,11,1.79,11,0,0,0,0,0,1,0.16,1,0,0,0,0,0,Mario Götze,"MF,FW"
+2022-2023,19,Toulouse,fr FRA,1. Ligue 1,13th,26.0,72,2.77,55,1,5,8,3,0,7,0.27,5,0,0,2,0,0,Fares Chaïbi,"MF,FW"
+2023-2024,20,Toulouse,fr FRA,1. Ligue 1,11th,0.6,3,4.66,2,1,0,0,0,0,1,1.55,0,1,0,0,0,0,Fares Chaïbi,"MF,FW"
+2023-2024,20,Eint Frankfurt,de GER,1. Bundesliga,6th,21.2,81,3.81,45,29,0,6,1,0,10,0.47,8,0,0,2,0,0,Fares Chaïbi,"MF,FW"
+2024-2025,21,Eint Frankfurt,de GER,1. Bundesliga,3rd,6.8,29,4.24,21,4,0,3,0,1,3,0.44,2,1,0,0,0,0,Fares Chaïbi,"MF,FW"
+2019-2020,16,Nürnberg U17,de GER,Jr. U17 Bundesliga,22nd,15.5,,,,,,,,,,,,,,,,,Nathaniel Brown,"DF,MF"
+2020-2021,17,Nürnberg U19,de GER,Jr. U19 Bundesliga,26th,3.8,,,,,,,,,,,,,,,,,Nathaniel Brown,"DF,MF"
+2021-2022,18,Nürnberg U19,de GER,Jr. U19 Bundesliga,2nd,16.4,,,,,,,,,,,,,,,,,Nathaniel Brown,"DF,MF"
+2022-2023,19,Nürnberg,de GER,2. 2. Bundesliga,14th,8.1,24,2.95,16,4,1,2,1,0,1,0.12,1,0,0,0,0,0,Nathaniel Brown,"DF,MF"
+2023-2024,20,Nürnberg,de GER,2. 2. Bundesliga,12th,26.7,47,1.76,29,12,0,3,2,1,9,0.34,5,1,0,2,1,0,Nathaniel Brown,"DF,MF"
+2024-2025,21,Eint Frankfurt,de GER,1. Bundesliga,3rd,6.3,19,3.03,12,5,0,0,2,0,5,0.80,4,1,0,0,0,0,Nathaniel Brown,"DF,MF"
+2024-2025,21,Eint Frankfurt,de GER,1. Bundesliga,3rd,4.5,1,0.22,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Kauã Santos,GK
+2019-2020,15,Dortmund U17,de GER,Jr. U17 Bundesliga,2nd,18.1,,,,,,,,,,,,,,,,,Nnamdi Collins,DF
+2020-2021,16,Dortmund U19,de GER,Jr. U19 Bundesliga,1st,3.0,,,,,,,,,,,,,,,,,Nnamdi Collins,DF
+2021-2022,17,Dortmund U19,de GER,Jr. U19 Bundesliga,4th,11.7,,,,,,,,,,,,,,,,,Nnamdi Collins,DF
+2022-2023,18,Dortmund U19,de GER,Jr. U19 Bundesliga,4th,13.0,,,,,,,,,,,,,,,,,Nnamdi Collins,DF
+2022-2023,18,Dortmund II,de GER,3. 3. Liga,13th,6.6,,,,,,,,,,,,,,,,,Nnamdi Collins,DF
+2023-2024,19,Eint Frankfurt,de GER,1. Bundesliga,6th,1.0,1,1.00,0,1,0,0,0,0,0,0.00,0,0,0,0,0,0,Nnamdi Collins,DF
+2024-2025,20,Eint Frankfurt,de GER,1. Bundesliga,3rd,3.6,4,1.10,3,0,1,0,0,0,2,0.55,1,0,1,0,0,0,Nnamdi Collins,DF
+2020-2021,19,Everton,eng ENG,Jr. PL2 — Div. 1,5th,3.8,,,,,,,,,,,,,,,,,Niels Nkounkou,"DF,MF"
+2020-2021,19,Everton,eng ENG,1. Premier League,10th,0.9,1,1.11,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Niels Nkounkou,"DF,MF"
+2021-2022,20,Standard Liège,be BEL,1. First Division A,14th,17.4,26,1.49,16,4,2,0,1,3,1,0.06,0,0,0,0,0,1,Niels Nkounkou,"DF,MF"
+2022-2023,21,Cardiff City,eng ENG,2. Championship,21st,13.6,20,1.47,18,0,2,0,0,0,4,0.29,4,0,0,0,0,0,Niels Nkounkou,"DF,MF"
+2022-2023,21,Saint-Étienne,fr FRA,2. Ligue 2,8th,18.7,67,3.59,44,4,6,6,4,3,13,0.70,8,0,4,0,1,0,Niels Nkounkou,"DF,MF"
+2023-2024,22,Saint-Étienne,fr FRA,2. Ligue 2,3rd,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Niels Nkounkou,"DF,MF"
+2023-2024,22,Eint Frankfurt,de GER,1. Bundesliga,6th,14.5,45,3.09,28,6,8,1,0,2,4,0.27,3,1,0,0,0,0,Niels Nkounkou,"DF,MF"
+2024-2025,23,Eint Frankfurt,de GER,1. Bundesliga,3rd,3.4,13,3.85,8,3,1,0,0,1,1,0.30,0,1,0,0,0,0,Niels Nkounkou,"DF,MF"
+2014-2015,18,Gladbach,de GER,1. Bundesliga,3rd,0.0,,,,,,,,,,,,,,,,,Mahmoud Dahoud,MF
+2015-2016,19,Gladbach,de GER,1. Bundesliga,4th,23.0,,,,,,,,,,,,,,,,,Mahmoud Dahoud,MF
+2016-2017,20,Gladbach,de GER,1. Bundesliga,9th,25.3,,,,,,,,,,,,,,,,,Mahmoud Dahoud,MF
+2017-2018,21,Dortmund,de GER,1. Bundesliga,4th,12.7,41,3.22,32,1,4,2,0,2,9,0.71,7,0,2,0,0,0,Mahmoud Dahoud,MF
+2018-2019,22,Dortmund,de GER,1. Bundesliga,2nd,7.7,19,2.45,17,0,1,0,1,0,3,0.39,3,0,0,0,0,0,Mahmoud Dahoud,MF
+2019-2020,23,Dortmund,de GER,1. Bundesliga,2nd,6.2,16,2.59,14,0,1,1,0,0,3,0.48,3,0,0,0,0,0,Mahmoud Dahoud,MF
+2020-2021,24,Dortmund,de GER,1. Bundesliga,3rd,14.0,35,2.50,27,0,3,3,1,1,6,0.43,5,0,0,0,0,1,Mahmoud Dahoud,MF
+2021-2022,25,Dortmund,de GER,1. Bundesliga,2nd,18.4,52,2.82,43,4,3,0,0,2,6,0.33,5,0,0,0,0,1,Mahmoud Dahoud,MF
+2022-2023,26,Dortmund,de GER,1. Bundesliga,2nd,3.7,6,1.60,5,0,0,1,0,0,1,0.27,0,0,0,1,0,0,Mahmoud Dahoud,MF
+2023-2024,27,Stuttgart,de GER,1. Bundesliga,2nd,2.5,11,4.36,10,1,0,0,0,0,1,0.40,1,0,0,0,0,0,Mahmoud Dahoud,MF
+2023-2024,27,Brighton,eng ENG,1. Premier League,11th,5.0,13,2.59,13,0,0,0,0,0,2,0.40,2,0,0,0,0,0,Mahmoud Dahoud,MF
+2024-2025,28,Eint Frankfurt,de GER,1. Bundesliga,3rd,3.6,12,3.38,9,0,0,2,0,1,2,0.56,1,0,0,0,0,1,Mahmoud Dahoud,MF
+2019-2020,18,Le Havre,fr FRA,2. Ligue 2,6th,19.6,56,2.85,35,2,12,1,3,3,1,0.05,1,0,0,0,0,0,Junior Dina Ebimbe,"MF,FW"
+2020-2021,19,Dijon,fr FRA,1. Ligue 1,20th,23.8,65,2.73,49,0,8,5,3,0,3,0.13,2,0,0,1,0,0,Junior Dina Ebimbe,"MF,FW"
+2021-2022,20,Paris S-G,fr FRA,1. Ligue 1,1st,3.5,4,1.14,4,0,0,0,0,0,1,0.28,1,0,0,0,0,0,Junior Dina Ebimbe,"MF,FW"
+2022-2023,21,Eint Frankfurt,de GER,1. Bundesliga,7th,11.8,17,1.44,12,1,1,3,0,0,1,0.08,1,0,0,0,0,0,Junior Dina Ebimbe,"MF,FW"
+2023-2024,22,Eint Frankfurt,de GER,1. Bundesliga,6th,21.7,54,2.48,38,0,8,5,2,1,6,0.28,6,0,0,0,0,0,Junior Dina Ebimbe,"MF,FW"
+2024-2025,23,Eint Frankfurt,de GER,1. Bundesliga,3rd,3.1,6,1.93,2,0,0,2,2,0,1,0.32,1,0,0,0,0,0,Junior Dina Ebimbe,"MF,FW"
+2018-2019,15,St. Pauli U17,de GER,Jr. U17 Bundesliga,18th,15.7,,,,,,,,,,,,,,,,,Igor Matanovic,"FW,MF"
+2019-2020,16,St. Pauli U17,de GER,Jr. U17 Bundesliga,25th,4.7,,,,,,,,,,,,,,,,,Igor Matanovic,"FW,MF"
+2019-2020,16,St. Pauli U19,de GER,Jr. U19 Bundesliga,24th,4.9,,,,,,,,,,,,,,,,,Igor Matanovic,"FW,MF"
+2020-2021,17,St. Pauli U19,de GER,Jr. U19 Bundesliga,12th,1.3,,,,,,,,,,,,,,,,,Igor Matanovic,"FW,MF"
+2020-2021,17,St. Pauli,de GER,2. 2. Bundesliga,10th,4.4,12,2.72,8,0,1,3,0,0,0,0.00,0,0,0,0,0,0,Igor Matanovic,"FW,MF"
+2021-2022,18,St. Pauli,de GER,2. 2. Bundesliga,5th,6.1,20,3.25,11,1,4,2,2,0,4,0.65,3,0,1,0,0,0,Igor Matanovic,"FW,MF"
+2022-2023,19,St. Pauli,de GER,2. 2. Bundesliga,5th,6.9,16,2.32,9,0,0,3,3,1,1,0.14,0,0,0,0,1,0,Igor Matanovic,"FW,MF"
+2023-2024,20,Karlsruher,de GER,2. 2. Bundesliga,5th,25.8,76,2.95,49,0,10,8,5,4,11,0.43,6,0,3,1,1,0,Igor Matanovic,"FW,MF"
+2024-2025,21,Eint Frankfurt,de GER,1. Bundesliga,3rd,3.2,8,2.49,3,1,1,3,0,0,1,0.31,0,0,0,1,0,0,Igor Matanovic,"FW,MF"
+2020-2021,14,Nürnberg U17,de GER,Jr. U17 Bundesliga,7th,3.2,,,,,,,,,,,,,,,,,Can Uzun,"MF,FW"
+2021-2022,15,Nürnberg U17,de GER,Jr. U17 Bundesliga,14th,18.5,,,,,,,,,,,,,,,,,Can Uzun,"MF,FW"
+2021-2022,15,Nürnberg U19,de GER,Jr. U19 Bundesliga,2nd,0.0,,,,,,,,,,,,,,,,,Can Uzun,"MF,FW"
+2022-2023,16,Nürnberg U19,de GER,Jr. U19 Bundesliga,8th,14.2,,,,,,,,,,,,,,,,,Can Uzun,"MF,FW"
+2022-2023,16,Nürnberg,de GER,2. 2. Bundesliga,14th,0.8,8,9.60,6,0,2,0,0,0,0,0.00,0,0,0,0,0,0,Can Uzun,"MF,FW"
+2023-2024,17,Nürnberg,de GER,2. 2. Bundesliga,12th,22.1,80,3.61,51,1,15,7,4,2,11,0.50,5,0,5,0,0,1,Can Uzun,"MF,FW"
+2024-2025,18,Eint Frankfurt,de GER,1. Bundesliga,3rd,2.7,11,4.06,9,0,0,2,0,0,1,0.37,1,0,0,0,0,0,Can Uzun,"MF,FW"
+2022-2023,17,Angers,fr FRA,1. Ligue 1,20th,3.0,4,1.34,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Jean Mattéo Bahoya,"MF,DF"
+2023-2024,18,Angers,fr FRA,2. Ligue 2,2nd,8.0,15,1.87,12,0,2,0,1,0,3,0.37,2,0,1,0,0,0,Jean Mattéo Bahoya,"MF,DF"
+2023-2024,18,Eint Frankfurt,de GER,1. Bundesliga,6th,2.0,6,3.03,5,0,0,0,1,0,0,0.00,0,0,0,0,0,0,Jean Mattéo Bahoya,"MF,DF"
+2024-2025,19,Eint Frankfurt,de GER,1. Bundesliga,3rd,2.4,12,5.00,7,1,1,1,2,0,4,1.67,1,0,1,0,2,0,Jean Mattéo Bahoya,"MF,DF"
+2023-2024,18,FC Copenhagen,dk DEN,1. Danish Superliga,3rd,4.4,,,,,,,,,,,,,,,,,Oscar Højlund,MF
+2024-2025,19,Eint Frankfurt,de GER,1. Bundesliga,3rd,1.6,7,4.37,5,0,0,1,0,1,0,0.00,0,0,0,0,0,0,Oscar Højlund,MF
+2021-2022,18,Young Boys,ch SUI,1. Super Lg,3rd,2.3,,,,,,,,,,,,,,,,,Aurele Amenda,DF
+2022-2023,19,Young Boys,ch SUI,1. Super Lg,1st,11.8,,,,,,,,,,,,,,,,,Aurele Amenda,DF
+2023-2024,20,Young Boys,ch SUI,1. Super Lg,1st,20.7,,,,,,,,,,,,,,,,,Aurele Amenda,DF
+2024-2025,21,Eint Frankfurt,de GER,1. Bundesliga,3rd,0.8,2,2.54,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Aurele Amenda,DF
+2010-2011,20,Nürnberg,de GER,1. Bundesliga,6th,11.6,,,,,,,,,,,,,,,,,Timothy Chandler,DF
+2011-2012,21,Nürnberg,de GER,1. Bundesliga,10th,27.9,,,,,,,,,,,,,,,,,Timothy Chandler,DF
+2012-2013,22,Nürnberg,de GER,1. Bundesliga,10th,28.0,,,,,,,,,,,,,,,,,Timothy Chandler,DF
+2013-2014,23,Nürnberg,de GER,1. Bundesliga,17th,17.7,,,,,,,,,,,,,,,,,Timothy Chandler,DF
+2014-2015,24,Eint Frankfurt,de GER,1. Bundesliga,9th,26.0,,,,,,,,,,,,,,,,,Timothy Chandler,DF
+2015-2016,25,Eint Frankfurt,de GER,1. Bundesliga,16th,7.4,,,,,,,,,,,,,,,,,Timothy Chandler,DF
+2016-2017,26,Eint Frankfurt,de GER,1. Bundesliga,11th,31.3,,,,,,,,,,,,,,,,,Timothy Chandler,DF
+2017-2018,27,Eint Frankfurt,de GER,1. Bundesliga,8th,21.0,47,2.24,36,6,1,1,2,1,6,0.29,4,0,1,0,1,0,Timothy Chandler,DF
+2018-2019,28,Eint Frankfurt,de GER,1. Bundesliga,7th,0.2,1,5.29,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Timothy Chandler,DF
+2019-2020,29,Eint Frankfurt,de GER,1. Bundesliga,9th,13.6,27,2.00,20,4,1,1,1,0,2,0.15,1,1,0,0,0,0,Timothy Chandler,DF
+2020-2021,30,Eint Frankfurt,de GER,1. Bundesliga,5th,4.8,6,1.25,5,0,1,0,0,0,0,0.00,0,0,0,0,0,0,Timothy Chandler,DF
+2021-2022,31,Eint Frankfurt,de GER,1. Bundesliga,11th,13.5,19,1.41,12,3,0,2,2,0,1,0.07,0,1,0,0,0,0,Timothy Chandler,DF
+2022-2023,32,Eint Frankfurt,de GER,1. Bundesliga,7th,1.0,3,3.10,2,1,0,0,0,0,0,0.00,0,0,0,0,0,0,Timothy Chandler,DF
+2023-2024,33,Eint Frankfurt,de GER,1. Bundesliga,6th,0.2,3,14.21,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Timothy Chandler,DF
+2024-2025,34,Eint Frankfurt,de GER,1. Bundesliga,3rd,0.2,1,5.00,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Timothy Chandler,DF
+2013-2014,24,Hoffenheim,de GER,1. Bundesliga,9th,11.0,,,,,,,,,,,,,,,,,Jens Grahl,GK
+2015-2016,26,Hoffenheim,de GER,1. Bundesliga,15th,1.0,,,,,,,,,,,,,,,,,Jens Grahl,GK
+2021-2022,32,Eint Frankfurt,de GER,1. Bundesliga,11th,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Jens Grahl,GK
+2023-2024,34,Eint Frankfurt,de GER,1. Bundesliga,6th,2.0,1,0.50,1,0,0,0,0,0,1,0.50,1,0,0,0,0,0,Jens Grahl,GK

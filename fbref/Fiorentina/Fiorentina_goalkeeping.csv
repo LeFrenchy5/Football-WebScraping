@@ -1,0 +1,31 @@
+Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Player,Position
+2009-2010,18,Atlético Madrid,es ESP,1. La Liga,9th,19,19,1710,19.0,28,1.47,82,54,65.9,8,3,8,3,15.8,,,,,,David de Gea,GK
+2010-2011,19,Atlético Madrid,es ESP,1. La Liga,7th,38,38,3420,38.0,53,1.39,199,146,73.4,17,7,14,11,28.9,,,,,,David de Gea,GK
+2011-2012,20,Manchester Utd,eng ENG,1. Premier League,2nd,29,29,2610,29.0,29,1.00,134,105,78.4,20,5,4,13,44.8,,,,,,David de Gea,GK
+2012-2013,21,Manchester Utd,eng ENG,1. Premier League,1st,28,28,2520,28.0,26,0.93,114,88,77.2,22,4,2,11,39.3,,,,,,David de Gea,GK
+2013-2014,22,Manchester Utd,eng ENG,1. Premier League,7th,37,37,3330,37.0,43,1.16,139,96,69.1,18,7,12,12,32.4,,,,,,David de Gea,GK
+2014-2015,23,Manchester Utd,eng ENG,1. Premier League,4th,37,37,3313,36.8,36,0.98,127,91,71.7,20,9,8,11,29.7,,,,,,David de Gea,GK
+2015-2016,24,Manchester Utd,eng ENG,1. Premier League,5th,34,34,3060,34.0,33,0.97,111,78,70.3,17,8,9,15,44.1,,,,,,David de Gea,GK
+2016-2017,25,Manchester Utd,eng ENG,1. Premier League,6th,35,35,3150,35.0,29,0.83,103,74,75.7,16,14,5,14,40.0,4,4,0,0,0.0,David de Gea,GK
+2017-2018,26,Manchester Utd,eng ENG,1. Premier League,2nd,37,37,3330,37.0,28,0.76,140,114,80.7,24,6,7,18,48.6,1,1,0,0,0.0,David de Gea,GK
+2018-2019,27,Manchester Utd,eng ENG,1. Premier League,6th,38,38,3420,38.0,54,1.42,171,120,71.9,19,9,10,7,18.4,6,6,0,0,0.0,David de Gea,GK
+2019-2020,28,Manchester Utd,eng ENG,1. Premier League,3rd,38,38,3420,38.0,36,0.95,131,96,74.8,18,12,8,13,34.2,3,3,0,0,0.0,David de Gea,GK
+2020-2021,29,Manchester Utd,eng ENG,1. Premier League,2nd,26,26,2295,25.5,32,1.25,90,59,68.9,12,9,5,9,34.6,4,4,0,0,0.0,David de Gea,GK
+2021-2022,30,Manchester Utd,eng ENG,1. Premier League,6th,38,38,3420,38.0,57,1.50,180,124,70.0,16,10,12,8,21.1,5,3,2,0,40.0,David de Gea,GK
+2022-2023,31,Manchester Utd,eng ENG,1. Premier League,3rd,38,38,3420,38.0,43,1.13,142,99,71.1,23,6,9,17,44.7,3,2,1,0,33.3,David de Gea,GK
+2024-2025,33,Fiorentina,it ITA,1. Serie A,4th,11,11,990,11.0,7,0.64,41,32,82.9,9,1,1,6,54.5,2,0,2,0,100.0,David de Gea,GK
+2011-2012,21,Catania,it ITA,1. Serie A,11th,2,2,180,2.0,3,1.50,7,4,57.1,1,0,1,1,50.0,,,,,,Pietro Terracciano,GK
+2013-2014,23,Avellino,it ITA,2. Serie B,11th,18,18,1620,18.0,19,1.06,72,53,73.6,5,7,6,4,22.2,,,,,,Pietro Terracciano,GK
+2014-2015,24,Catania,it ITA,2. Serie B,22nd,6,6,540,6.0,7,1.17,28,21,75.0,3,2,1,3,50.0,,,,,,Pietro Terracciano,GK
+2015-2016,25,Salernitana,it ITA,2. Serie B,18th,31,31,2790,31.0,46,1.48,134,88,65.7,8,11,12,6,19.4,,,,,,Pietro Terracciano,GK
+2016-2017,26,Salernitana,it ITA,2. Serie B,10th,21,21,1890,21.0,27,1.29,123,96,78.0,5,9,7,4,19.0,,,,,,Pietro Terracciano,GK
+2017-2018,27,Empoli,it ITA,2. Serie B,1st,3,3,270,3.0,2,0.67,11,9,81.8,2,1,0,1,33.3,0,0,0,0,,Pietro Terracciano,GK
+2018-2019,28,Empoli,it ITA,1. Serie A,18th,8,8,720,8.0,10,1.25,35,26,71.4,1,2,5,2,25.0,0,0,0,0,,Pietro Terracciano,GK
+2018-2019,28,Fiorentina,it ITA,1. Serie A,16th,2,2,180,2.0,3,1.50,11,8,72.7,0,1,1,0,0.0,0,0,0,0,,Pietro Terracciano,GK
+2019-2020,29,Fiorentina,it ITA,1. Serie A,10th,7,7,624,6.9,5,0.72,23,18,91.3,5,1,1,2,28.6,3,3,0,0,0.0,Pietro Terracciano,GK
+2020-2021,30,Fiorentina,it ITA,1. Serie A,13th,4,2,272,3.0,4,1.32,11,7,63.6,0,1,1,2,100.0,1,0,1,0,100.0,Pietro Terracciano,GK
+2021-2022,31,Fiorentina,it ITA,1. Serie A,7th,32,31,2862,31.8,43,1.35,100,58,59.0,16,5,10,9,29.0,3,2,1,0,33.3,Pietro Terracciano,GK
+2022-2023,32,Fiorentina,it ITA,1. Serie A,8th,29,29,2610,29.0,38,1.31,96,59,66.7,9,8,12,5,17.2,7,6,1,0,14.3,Pietro Terracciano,GK
+2023-2024,33,Fiorentina,it ITA,1. Serie A,8th,33,33,2970,33.0,35,1.06,126,90,77.0,15,8,10,8,24.2,7,6,1,0,14.3,Pietro Terracciano,GK
+2024-2025,34,Fiorentina,it ITA,1. Serie A,4th,3,3,270,3.0,3,1.00,13,10,76.9,0,3,0,1,33.3,0,0,0,0,,Pietro Terracciano,GK
+2023-2024,17,Fiorentina,it ITA,1. Serie A,8th,1,1,90,1.0,2,2.0,3,1,33.3,1,0,0,0,0.0,0,0,0,0,,Tommaso Martinelli,GK

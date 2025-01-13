@@ -1,0 +1,245 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Player,Position
+2015-2016,20,Lille,fr FRA,1. Ligue 1,5th,3.2,,,,,,,,,,,,,,,,,Mike Maignan,GK
+2016-2017,21,Lille,fr FRA,1. Ligue 1,11th,6.3,,0,,,,,,,,,,,0,,,,Mike Maignan,GK
+2017-2018,22,Lille,fr FRA,1. Ligue 1,17th,33.7,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,8,6,Mike Maignan,GK
+2018-2019,23,Lille,fr FRA,1. Ligue 1,2nd,38.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,12,1,Mike Maignan,GK
+2019-2020,24,Lille,fr FRA,1. Ligue 1,4th,28.0,0,0,0,0,0,0,0,,0,0,0,0,2,2,5,0,Mike Maignan,GK
+2020-2021,25,Lille,fr FRA,1. Ligue 1,1st,38.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,7,2,Mike Maignan,GK
+2021-2022,26,Milan,it ITA,1. Serie A,1st,32.0,2,1,2,0,0,2,2,100.0,0,0,0,0,1,3,4,2,Mike Maignan,GK
+2022-2023,27,Milan,it ITA,1. Serie A,4th,22.0,1,0,1,0,0,1,1,100.0,0,0,0,0,1,2,10,1,Mike Maignan,GK
+2023-2024,28,Milan,it ITA,1. Serie A,2nd,29.0,1,0,1,0,0,1,1,100.0,0,1,0,1,1,2,4,3,Mike Maignan,GK
+2024-2025,29,Milan,it ITA,1. Serie A,8th,17.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,1,Mike Maignan,GK
+2018-2019,19,Strasbourg,fr FRA,1. Ligue 1,11th,10.1,28,20,5,20,3,9,27,33.3,18,7,0,7,11,39,8,0,Youssouf Fofana,MF
+2019-2020,20,Strasbourg,fr FRA,1. Ligue 1,10th,11.2,25,17,10,12,3,13,30,43.3,17,11,0,11,14,39,7,0,Youssouf Fofana,MF
+2019-2020,20,Monaco,fr FRA,1. Ligue 1,9th,6.8,16,9,6,10,0,8,15,53.3,7,12,2,10,8,24,9,0,Youssouf Fofana,MF
+2020-2021,21,Monaco,fr FRA,1. Ligue 1,3rd,31.9,90,51,31,51,8,42,82,51.2,40,43,7,36,34,124,14,2,Youssouf Fofana,MF
+2021-2022,22,Monaco,fr FRA,1. Ligue 1,3rd,24.3,69,43,19,41,9,29,56,51.8,27,29,7,22,32,101,22,2,Youssouf Fofana,MF
+2022-2023,23,Monaco,fr FRA,1. Ligue 1,6th,34.3,81,41,31,42,8,38,74,51.4,36,50,6,44,56,137,32,1,Youssouf Fofana,MF
+2023-2024,24,Monaco,fr FRA,1. Ligue 1,2nd,30.0,61,39,19,36,6,30,66,45.5,36,35,7,28,37,98,31,1,Youssouf Fofana,MF
+2024-2025,25,Milan,it ITA,1. Serie A,8th,14.6,26,16,5,19,2,14,26,53.8,12,16,4,12,10,36,15,2,Youssouf Fofana,MF
+2017-2018,19,Zwolle,nl NED,1. Eredivisie,9th,0.0,,0,,,,,,,,,,,0,,,,Tijjani Reijnders,MF
+2017-2018,19,Jong AZ,nl NED,2. Eerste Divisie,16th,29.3,,0,,,,,,,,,,,0,,,,Tijjani Reijnders,MF
+2018-2019,20,Jong AZ,nl NED,2. Eerste Divisie,18th,35.8,,,,,,,,,,,,,,,,,Tijjani Reijnders,MF
+2019-2020,21,RKC Waalwijk,nl NED,1. Eredivisie,18th,6.1,6,3,2,3,1,1,9,11.1,8,5,3,2,13,19,5,0,Tijjani Reijnders,MF
+2019-2020,21,AZ Alkmaar,nl NED,1. Eredivisie,2nd,0.5,1,0,0,1,0,1,2,50.0,1,1,0,1,0,1,1,0,Tijjani Reijnders,MF
+2019-2020,21,Jong AZ,nl NED,2. Eerste Divisie,14th,16.0,,10,,,,,,,,,,,24,,,,Tijjani Reijnders,MF
+2020-2021,22,Jong AZ,nl NED,2. Eerste Divisie,17th,7.5,,6,,,,,,,,,,,12,,,,Tijjani Reijnders,MF
+2020-2021,22,AZ Alkmaar,nl NED,1. Eredivisie,3rd,8.2,14,6,6,6,2,1,7,14.3,6,11,5,6,17,31,5,0,Tijjani Reijnders,MF
+2021-2022,23,AZ Alkmaar,nl NED,1. Eredivisie,5th,14.5,24,16,7,15,2,13,21,61.9,8,14,2,12,22,46,24,3,Tijjani Reijnders,MF
+2022-2023,24,AZ Alkmaar,nl NED,1. Eredivisie,4th,33.8,36,21,8,24,4,13,37,35.1,24,30,15,15,53,89,28,0,Tijjani Reijnders,MF
+2023-2024,25,Milan,it ITA,1. Serie A,2nd,31.3,46,25,10,31,5,21,43,48.8,22,26,8,18,18,64,26,0,Tijjani Reijnders,MF
+2024-2025,26,Milan,it ITA,1. Serie A,8th,14.1,7,4,2,4,1,2,11,18.2,9,3,0,3,14,21,11,1,Tijjani Reijnders,MF
+2018-2019,19,Betis,es ESP,1. La Liga,10th,3.5,9,7,6,1,2,3,10,30.0,7,6,0,6,7,16,12,0,Emerson,DF
+2019-2020,20,Betis,es ESP,1. La Liga,15th,31.5,74,46,49,19,6,36,79,45.6,43,30,9,21,31,105,57,1,Emerson,DF
+2020-2021,21,Betis,es ESP,1. La Liga,6th,33.2,91,52,62,25,4,43,78,55.1,35,33,6,27,61,152,102,2,Emerson,DF
+2021-2022,22,Barcelona,es ESP,1. La Liga,2nd,1.0,3,3,2,1,0,1,2,50.0,1,1,0,1,2,5,1,0,Emerson,DF
+2021-2022,22,Tottenham,eng ENG,1. Premier League,4th,25.4,72,47,50,16,6,36,67,53.7,31,25,2,23,22,94,92,1,Emerson,DF
+2022-2023,23,Tottenham,eng ENG,1. Premier League,8th,19.3,54,33,38,12,4,27,40,67.5,13,17,3,14,18,72,75,0,Emerson,DF
+2023-2024,24,Tottenham,eng ENG,1. Premier League,5th,12.9,36,24,23,10,3,21,43,48.8,22,23,10,13,20,56,50,1,Emerson,DF
+2024-2025,25,Milan,it ITA,1. Serie A,8th,13.5,33,20,16,13,4,15,32,46.9,17,10,2,8,13,46,47,0,Emerson,DF
+2017-2018,18,Sporting CP,pt POR,1. Primeira Liga,3rd,1.1,,0,,,,,,,,,,,0,,,,Rafael Leão,FW
+2018-2019,19,Lille,fr FRA,1. Ligue 1,2nd,14.3,5,2,0,4,1,2,15,13.3,13,13,4,9,4,9,12,0,Rafael Leão,FW
+2019-2020,20,Milan,it ITA,1. Serie A,6th,15.6,7,4,2,5,0,3,9,33.3,6,4,0,4,0,7,5,0,Rafael Leão,FW
+2020-2021,21,Milan,it ITA,1. Serie A,2nd,21.4,13,6,4,7,2,6,15,40.0,9,17,0,17,4,17,14,1,Rafael Leão,FW
+2021-2022,22,Milan,it ITA,1. Serie A,1st,28.9,17,7,3,9,5,10,20,50.0,10,12,1,11,12,29,8,0,Rafael Leão,FW
+2022-2023,23,Milan,it ITA,1. Serie A,4th,26.9,8,7,2,3,3,6,14,42.9,8,9,2,7,15,23,8,0,Rafael Leão,FW
+2023-2024,24,Milan,it ITA,1. Serie A,2nd,27.9,16,10,3,8,5,8,13,61.5,5,15,1,14,9,25,19,0,Rafael Leão,FW
+2024-2025,25,Milan,it ITA,1. Serie A,8th,11.5,7,6,1,4,2,5,10,50.0,5,8,0,8,4,11,0,0,Rafael Leão,FW
+2015-2016,16,Dortmund,de GER,1. Bundesliga,2nd,4.3,,,,,,,,,,,,,,,,,Christian Pulisic,"MF,FW"
+2016-2017,17,Dortmund,de GER,1. Bundesliga,3rd,16.9,,20,,,,,,,,,,,18,,,,Christian Pulisic,"MF,FW"
+2017-2018,18,Dortmund,de GER,1. Bundesliga,4th,25.6,46,30,12,20,14,26,44,59.1,18,24,2,22,16,62,11,0,Christian Pulisic,"MF,FW"
+2018-2019,19,Dortmund,de GER,1. Bundesliga,2nd,10.4,10,6,2,6,2,2,6,33.3,4,12,2,10,6,16,10,0,Christian Pulisic,"MF,FW"
+2019-2020,20,Chelsea,eng ENG,1. Premier League,4th,19.1,23,11,13,4,6,7,24,29.2,17,15,0,15,6,29,11,0,Christian Pulisic,"MF,FW"
+2020-2021,21,Chelsea,eng ENG,1. Premier League,4th,19.3,19,11,8,10,1,8,21,38.1,13,25,2,23,12,31,9,0,Christian Pulisic,"MF,FW"
+2021-2022,22,Chelsea,eng ENG,1. Premier League,3rd,14.3,10,7,6,3,1,3,17,17.6,14,12,0,12,5,15,10,0,Christian Pulisic,"MF,FW"
+2022-2023,23,Chelsea,eng ENG,1. Premier League,12th,9.1,11,6,3,6,2,3,5,60.0,2,8,1,7,4,15,4,0,Christian Pulisic,"MF,FW"
+2023-2024,24,Milan,it ITA,1. Serie A,2nd,28.9,35,26,14,11,10,17,30,56.7,13,20,1,19,10,45,10,1,Christian Pulisic,"MF,FW"
+2024-2025,25,Milan,it ITA,1. Serie A,8th,10.9,20,12,6,7,7,6,14,42.9,8,9,1,8,0,20,5,1,Christian Pulisic,"MF,FW"
+2016-2017,18,Alavés,es ESP,1. La Liga,9th,30.3,,56,,,,,,,,,,,43,,,,Theo Hernández,DF
+2017-2018,19,Real Madrid,es ESP,1. La Liga,3rd,10.7,21,15,16,2,3,13,25,52.0,12,9,2,7,17,38,20,0,Theo Hernández,DF
+2018-2019,20,Real Sociedad,es ESP,1. La Liga,9th,22.0,54,33,30,15,9,28,44,63.6,16,21,5,16,33,87,42,3,Theo Hernández,DF
+2019-2020,21,Milan,it ITA,1. Serie A,6th,31.3,56,39,32,18,6,33,53,62.3,20,34,6,28,43,99,62,2,Theo Hernández,DF
+2020-2021,22,Milan,it ITA,1. Serie A,2nd,32.6,48,29,22,21,5,19,38,50.0,19,29,6,23,34,82,64,5,Theo Hernández,DF
+2021-2022,23,Milan,it ITA,1. Serie A,1st,30.1,53,35,34,14,5,29,40,72.5,11,16,3,13,23,76,29,3,Theo Hernández,DF
+2022-2023,24,Milan,it ITA,1. Serie A,4th,30.8,43,24,27,15,1,22,38,57.9,16,34,7,27,21,64,35,1,Theo Hernández,DF
+2023-2024,25,Milan,it ITA,1. Serie A,2nd,31.0,30,17,19,11,0,11,22,50.0,11,33,13,20,23,53,42,1,Theo Hernández,DF
+2024-2025,26,Milan,it ITA,1. Serie A,8th,12.0,15,10,13,0,2,7,13,53.8,6,9,5,4,12,27,30,2,Theo Hernández,DF
+2017-2018,15,Schalke U17,de GER,Jr. U17 Bundesliga,10th,18.1,,,,,,,,,,,,,,,,,Malick Thiaw,DF
+2018-2019,16,Schalke U19,de GER,Jr. U19 Bundesliga,6th,24.1,,,,,,,,,,,,,,,,,Malick Thiaw,DF
+2019-2020,17,Schalke U19,de GER,Jr. U19 Bundesliga,16th,18.8,,,,,,,,,,,,,,,,,Malick Thiaw,DF
+2019-2020,17,Schalke 04,de GER,1. Bundesliga,12th,0.8,2,0,1,1,0,1,2,50.0,1,2,2,0,2,4,4,1,Malick Thiaw,DF
+2020-2021,18,Schalke 04,de GER,1. Bundesliga,18th,16.1,42,27,24,17,1,15,26,57.7,11,17,12,5,33,75,70,0,Malick Thiaw,DF
+2021-2022,19,Schalke 04,de GER,2. 2. Bundesliga,1st,28.3,82,46,61,17,4,36,48,75.0,12,33,21,12,51,133,113,0,Malick Thiaw,DF
+2022-2023,20,Schalke 04,de GER,1. Bundesliga,17th,3.0,3,1,2,1,0,1,2,50.0,1,4,3,1,9,12,24,1,Malick Thiaw,DF
+2022-2023,20,Milan,it ITA,1. Serie A,4th,15.1,31,26,22,9,0,11,20,55.0,9,11,5,6,12,43,65,1,Malick Thiaw,DF
+2023-2024,21,Milan,it ITA,1. Serie A,2nd,18.0,34,17,15,17,2,12,25,48.0,13,23,13,10,13,47,55,0,Malick Thiaw,DF
+2024-2025,22,Milan,it ITA,1. Serie A,8th,11.0,12,9,6,4,2,4,6,66.7,2,6,4,2,9,21,41,0,Malick Thiaw,DF
+2010-2011,17,Real Madrid,es ESP,1. La Liga,2nd,0.0,,,,,,,,,,,,,,,,,Álvaro Morata,"FW,MF"
+2011-2012,18,Real Madrid,es ESP,1. La Liga,1st,0.1,,,,,,,,,,,,,,,,,Álvaro Morata,"FW,MF"
+2012-2013,19,Real Madrid B,es ESP,2. La Liga 2,8th,17.9,,,,,,,,,,,,,,,,,Álvaro Morata,"FW,MF"
+2012-2013,19,Real Madrid,es ESP,1. La Liga,2nd,4.6,,,,,,,,,,,,,,,,,Álvaro Morata,"FW,MF"
+2013-2014,20,Real Madrid,es ESP,1. La Liga,3rd,6.6,,,,,,,,,,,,,,,,,Álvaro Morata,"FW,MF"
+2014-2015,21,Juventus,it ITA,1. Serie A,1st,14.8,,,,,,,,,,,,,,,,,Álvaro Morata,"FW,MF"
+2015-2016,22,Juventus,it ITA,1. Serie A,1st,16.0,,,,,,,,,,,,,,,,,Álvaro Morata,"FW,MF"
+2016-2017,23,Real Madrid,es ESP,1. La Liga,1st,14.8,,13,,,,,,,,,,,3,,,,Álvaro Morata,"FW,MF"
+2017-2018,24,Chelsea,eng ENG,1. Premier League,5th,22.9,13,8,0,7,6,1,21,4.8,20,17,4,13,6,19,20,0,Álvaro Morata,"FW,MF"
+2018-2019,25,Chelsea,eng ENG,1. Premier League,3rd,10.5,8,5,0,5,3,1,7,14.3,6,6,1,5,0,8,6,0,Álvaro Morata,"FW,MF"
+2018-2019,25,Atlético Madrid,es ESP,1. La Liga,2nd,12.0,20,14,2,7,11,3,10,30.0,7,7,0,7,5,25,13,0,Álvaro Morata,"FW,MF"
+2019-2020,26,Atlético Madrid,es ESP,1. La Liga,3rd,23.3,17,8,4,9,4,1,13,7.7,12,12,2,10,5,22,23,0,Álvaro Morata,"FW,MF"
+2020-2021,27,Juventus,it ITA,1. Serie A,4th,22.4,17,12,2,10,5,4,28,14.3,24,22,2,20,5,22,21,0,Álvaro Morata,"FW,MF"
+2021-2022,28,Juventus,it ITA,1. Serie A,4th,25.6,18,9,4,9,5,8,31,25.8,23,26,1,25,5,23,24,0,Álvaro Morata,"FW,MF"
+2022-2023,29,Atlético Madrid,es ESP,1. La Liga,3rd,21.1,16,11,4,8,4,3,8,37.5,5,11,3,8,0,16,23,0,Álvaro Morata,"FW,MF"
+2023-2024,30,Atlético Madrid,es ESP,1. La Liga,4th,21.2,16,10,4,7,5,3,5,60.0,2,18,3,15,1,17,26,0,Álvaro Morata,"FW,MF"
+2024-2025,31,Milan,it ITA,1. Serie A,8th,10.1,10,6,2,6,2,3,6,50.0,3,4,1,3,5,15,5,0,Álvaro Morata,"FW,MF"
+2019-2020,19,Milan,it ITA,1. Serie A,6th,7.6,7,5,5,2,0,5,8,62.5,3,6,6,0,9,16,21,0,Matteo Gabbia,DF
+2020-2021,20,Milan,it ITA,1. Serie A,2nd,6.2,9,5,3,6,0,2,2,100.0,0,8,6,2,3,12,21,0,Matteo Gabbia,DF
+2021-2022,21,Milan,it ITA,1. Serie A,1st,6.0,4,3,1,3,0,0,4,0.0,4,2,2,0,8,12,12,0,Matteo Gabbia,DF
+2022-2023,22,Milan,it ITA,1. Serie A,4th,6.8,17,10,12,5,0,6,8,75.0,2,8,3,5,5,22,29,0,Matteo Gabbia,DF
+2023-2024,23,Villarreal,es ESP,1. La Liga,8th,5.3,10,6,4,6,0,5,8,62.5,3,5,2,3,8,18,36,1,Matteo Gabbia,DF
+2023-2024,23,Milan,it ITA,1. Serie A,2nd,14.2,29,20,15,13,1,18,24,75.0,6,11,6,5,10,39,48,0,Matteo Gabbia,DF
+2024-2025,24,Milan,it ITA,1. Serie A,8th,9.7,7,5,4,2,1,3,4,75.0,1,12,10,2,7,14,35,1,Matteo Gabbia,DF
+2018-2019,19,Villarreal,es ESP,1. La Liga,14th,19.0,19,11,7,10,2,9,31,29.0,22,11,2,9,10,29,2,0,Samuel Chukwueze,FW
+2019-2020,20,Villarreal,es ESP,1. La Liga,5th,22.8,23,14,12,6,5,13,30,43.3,17,15,1,14,10,33,14,1,Samuel Chukwueze,FW
+2020-2021,21,Villarreal,es ESP,1. La Liga,7th,15.2,12,7,4,4,4,3,17,17.6,14,8,0,8,10,22,3,0,Samuel Chukwueze,FW
+2021-2022,22,Villarreal,es ESP,1. La Liga,7th,14.8,13,9,6,5,2,3,6,50.0,3,7,0,7,5,18,4,0,Samuel Chukwueze,FW
+2022-2023,23,Villarreal,es ESP,1. La Liga,5th,26.0,14,7,7,2,5,7,23,30.4,16,13,0,13,12,26,16,0,Samuel Chukwueze,FW
+2023-2024,24,Milan,it ITA,1. Serie A,2nd,11.3,18,7,11,5,2,9,17,52.9,8,3,1,2,6,24,3,0,Samuel Chukwueze,FW
+2024-2025,25,Milan,it ITA,1. Serie A,8th,8.2,10,5,4,3,3,5,15,33.3,10,3,0,3,0,10,5,0,Samuel Chukwueze,FW
+2018-2019,17,Partizan,rs SRB,1. SuperLiga,3rd,11.0,,,,,,,,,,,,,,,,,Strahinja Pavlović,DF
+2019-2020,18,Partizan,rs SRB,1. SuperLiga,2nd,25.6,,,,,,,,,,,,,,,,,Strahinja Pavlović,DF
+2020-2021,19,Cercle Brugge,be BEL,1. First Division A,16th,10.7,25,20,21,4,0,7,15,46.7,8,15,5,10,18,43,50,0,Strahinja Pavlović,DF
+2020-2021,19,Monaco,fr FRA,1. Ligue 1,3rd,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Strahinja Pavlović,DF
+2021-2022,20,Monaco,fr FRA,1. Ligue 1,3rd,5.0,23,16,8,13,2,8,12,66.7,4,5,3,2,9,32,15,0,Strahinja Pavlović,DF
+2021-2022,20,Basel,ch SUI,1. Super Lg,2nd,6.5,,7,,,,,,,,,,,18,,,,Strahinja Pavlović,DF
+2022-2023,21,RB Salzburg,at AUT,1. Bundesliga,1st,22.5,,34,,,,,,,,,,,48,,,,Strahinja Pavlović,DF
+2023-2024,22,RB Salzburg,at AUT,1. Bundesliga,2nd,25.4,,42,,,,,,,,,,,49,,,,Strahinja Pavlović,DF
+2024-2025,23,Milan,it ITA,1. Serie A,8th,7.3,17,10,11,6,0,10,19,52.6,9,4,2,2,4,21,28,0,Strahinja Pavlović,DF
+2014-2015,18,Chelsea,eng ENG,1. Premier League,1st,1.5,,,,,,,,,,,,,,,,,Ruben Loftus-Cheek,MF
+2015-2016,19,Chelsea,eng ENG,1. Premier League,10th,4.6,,,,,,,,,,,,,,,,,Ruben Loftus-Cheek,MF
+2016-2017,20,Chelsea,eng ENG,1. Premier League,1st,0.4,,0,,,,,,,,,,,0,,,,Ruben Loftus-Cheek,MF
+2017-2018,21,Crystal Palace,eng ENG,1. Premier League,11th,20.8,21,15,7,13,1,7,30,23.3,23,19,2,17,22,43,31,0,Ruben Loftus-Cheek,MF
+2018-2019,22,Chelsea,eng ENG,1. Premier League,3rd,11.1,18,12,7,7,4,3,12,25.0,9,10,4,6,11,29,5,0,Ruben Loftus-Cheek,MF
+2019-2020,23,Chelsea,eng ENG,Jr. PL2 — Div. 1,1st,1.0,,,,,,,,,,,,,,,,,Ruben Loftus-Cheek,MF
+2019-2020,23,Chelsea,eng ENG,1. Premier League,4th,2.3,0,0,0,0,0,0,2,0.0,2,1,1,0,2,2,2,0,Ruben Loftus-Cheek,MF
+2020-2021,24,Fulham,eng ENG,1. Premier League,18th,21.2,25,14,7,15,3,7,23,30.4,16,20,2,18,7,32,18,0,Ruben Loftus-Cheek,MF
+2020-2021,24,Chelsea,eng ENG,1. Premier League,4th,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Ruben Loftus-Cheek,MF
+2021-2022,25,Chelsea,eng ENG,1. Premier League,3rd,15.5,29,10,16,11,2,10,19,52.6,9,15,6,9,11,40,17,0,Ruben Loftus-Cheek,MF
+2022-2023,26,Chelsea,eng ENG,1. Premier League,12th,17.1,25,14,8,14,3,12,22,54.5,10,15,2,13,12,37,23,0,Ruben Loftus-Cheek,MF
+2023-2024,27,Milan,it ITA,1. Serie A,2nd,23.0,28,18,7,14,7,15,27,55.6,12,24,12,12,9,37,10,1,Ruben Loftus-Cheek,MF
+2024-2025,28,Milan,it ITA,1. Serie A,8th,7.6,14,6,3,7,4,4,7,57.1,3,1,0,1,2,16,9,0,Ruben Loftus-Cheek,MF
+2015-2016,17,Chelsea,eng ENG,1. Premier League,10th,0.6,,,,,,,,,,,,,,,,,Tammy Abraham,FW
+2016-2017,18,Bristol City,eng ENG,2. Championship,17th,37.9,,0,,,,,,,,,,,0,,,,Tammy Abraham,FW
+2017-2018,19,Swansea City,eng ENG,1. Premier League,18th,19.2,10,8,1,7,2,1,13,7.7,12,8,1,7,1,11,11,0,Tammy Abraham,FW
+2018-2019,20,Chelsea,eng ENG,Jr. PL2 — Div. 1,6th,1.0,,,,,,,,,,,,,,,,,Tammy Abraham,FW
+2018-2019,20,Aston Villa,eng ENG,2. Championship,5th,34.9,17,6,2,13,2,3,11,27.3,8,27,7,20,8,25,39,0,Tammy Abraham,FW
+2019-2020,21,Chelsea,eng ENG,1. Premier League,4th,24.6,8,4,2,5,1,3,14,21.4,11,20,2,18,6,14,27,0,Tammy Abraham,FW
+2020-2021,22,Chelsea,eng ENG,1. Premier League,4th,11.6,7,5,3,3,1,1,7,14.3,6,6,0,6,5,12,17,0,Tammy Abraham,FW
+2021-2022,23,Roma,it ITA,1. Serie A,6th,34.3,27,13,7,14,6,9,22,40.9,13,17,3,14,5,32,27,0,Tammy Abraham,FW
+2022-2023,24,Roma,it ITA,1. Serie A,6th,24.3,17,10,4,8,5,3,16,18.8,13,10,4,6,3,20,14,0,Tammy Abraham,FW
+2023-2024,25,Roma,it ITA,1. Serie A,6th,2.7,3,1,0,1,2,0,0,,0,1,0,1,0,3,4,0,Tammy Abraham,FW
+2024-2025,26,Roma,it ITA,1. Serie A,10th,0.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Tammy Abraham,FW
+2024-2025,26,Milan,it ITA,1. Serie A,8th,6.3,6,3,0,5,1,1,2,50.0,1,5,0,5,2,8,4,0,Tammy Abraham,FW
+2015-2016,17,Chelsea,eng ENG,1. Premier League,10th,0.3,,,,,,,,,,,,,,,,,Fikayo Tomori,DF
+2016-2017,18,Chelsea,eng ENG,Jr. PL2 — Div. 1,5th,11.6,,,,,,,,,,,,,,,,,Fikayo Tomori,DF
+2016-2017,18,Brighton,eng ENG,2. Championship,2nd,4.4,,0,,,,,,,,,,,0,,,,Fikayo Tomori,DF
+2017-2018,19,Hull City,eng ENG,2. Championship,18th,22.9,,43,,,,,,,,,,,31,,,,Fikayo Tomori,DF
+2018-2019,20,Derby County,eng ENG,2. Championship,6th,42.1,96,56,63,31,2,34,54,63.0,20,55,37,18,68,164,184,4,Fikayo Tomori,DF
+2019-2020,21,Chelsea,eng ENG,1. Premier League,4th,14.3,29,16,21,8,0,10,15,66.7,5,13,7,6,22,51,48,2,Fikayo Tomori,DF
+2020-2021,22,Chelsea,eng ENG,1. Premier League,4th,0.5,2,1,2,0,0,0,0,,0,1,1,0,2,4,8,0,Fikayo Tomori,DF
+2020-2021,22,Milan,it ITA,1. Serie A,2nd,16.3,28,18,17,9,2,8,14,57.1,6,32,20,12,18,46,61,1,Fikayo Tomori,DF
+2021-2022,23,Milan,it ITA,1. Serie A,1st,30.2,73,44,36,34,3,18,26,69.2,8,37,23,14,45,118,84,1,Fikayo Tomori,DF
+2022-2023,24,Milan,it ITA,1. Serie A,4th,30.7,70,34,44,25,1,22,34,64.7,12,46,25,21,29,99,88,1,Fikayo Tomori,DF
+2023-2024,25,Milan,it ITA,1. Serie A,2nd,23.6,42,24,29,10,3,18,29,62.1,11,34,23,11,26,68,75,1,Fikayo Tomori,DF
+2024-2025,26,Milan,it ITA,1. Serie A,8th,6.2,8,7,5,2,1,3,7,42.9,4,7,5,2,7,15,19,0,Fikayo Tomori,DF
+2021-2022,18,Hellas Verona,it ITA,1. Serie A,9th,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Filippo Terracciano,"DF,MF"
+2022-2023,19,Hellas Verona,it ITA,1. Serie A,18th,9.1,20,13,11,7,2,15,20,75.0,5,7,4,3,10,30,14,0,Filippo Terracciano,"DF,MF"
+2023-2024,20,Hellas Verona,it ITA,1. Serie A,13th,14.4,30,19,23,6,1,17,31,54.8,14,24,6,18,20,50,17,0,Filippo Terracciano,"DF,MF"
+2023-2024,20,Milan,it ITA,1. Serie A,2nd,0.8,2,2,1,1,0,1,3,33.3,2,3,0,3,0,2,1,0,Filippo Terracciano,"DF,MF"
+2024-2025,21,Milan,it ITA,1. Serie A,8th,5.5,6,3,1,3,2,3,6,50.0,3,0,0,0,5,11,8,0,Filippo Terracciano,"DF,MF"
+2020-2021,17,Valencia,es ESP,1. La Liga,13th,17.0,21,18,12,3,6,8,24,33.3,16,20,0,20,15,36,12,1,Yunus Musah,"MF,FW"
+2021-2022,18,Valencia,es ESP,1. La Liga,9th,14.0,23,13,8,8,7,6,20,30.0,14,19,1,18,14,37,11,0,Yunus Musah,"MF,FW"
+2022-2023,19,Valencia,es ESP,1. La Liga,16th,23.4,48,35,17,23,8,20,30,66.7,10,20,1,19,11,59,16,2,Yunus Musah,"MF,FW"
+2023-2024,20,Milan,it ITA,1. Serie A,2nd,16.4,25,14,15,6,4,8,15,53.3,7,18,4,14,10,35,16,1,Yunus Musah,"MF,FW"
+2024-2025,21,Milan,it ITA,1. Serie A,8th,6.0,11,10,5,4,2,3,4,75.0,1,4,1,3,4,15,3,1,Yunus Musah,"MF,FW"
+2018-2019,18,Basel,ch SUI,1. Super Lg,2nd,16.3,,,,,,,,,,,,,,,,,Noah Okafor,FW
+2019-2020,19,Basel,ch SUI,1. Super Lg,3rd,7.0,,7,,,,,,,,,,,1,,,,Noah Okafor,FW
+2019-2020,19,RB Salzburg,at AUT,1. Bundesliga,1st,5.2,,4,,,,,,,,,,,1,,,,Noah Okafor,FW
+2020-2021,20,RB Salzburg,at AUT,1. Bundesliga,1st,9.9,,10,,,,,,,,,,,7,,,,Noah Okafor,FW
+2021-2022,21,RB Salzburg,at AUT,1. Bundesliga,1st,10.6,,8,,,,,,,,,,,1,,,,Noah Okafor,FW
+2022-2023,22,RB Salzburg,at AUT,1. Bundesliga,1st,11.1,,2,,,,,,,,,,,2,,,,Noah Okafor,FW
+2023-2024,23,Milan,it ITA,1. Serie A,2nd,9.9,6,4,1,4,1,3,10,30.0,7,8,1,7,0,6,10,0,Noah Okafor,FW
+2024-2025,24,Milan,it ITA,1. Serie A,8th,4.6,2,1,0,0,2,0,1,0.0,1,1,0,1,2,4,1,0,Noah Okafor,FW
+2023-2024,18,Milan,it ITA,1. Serie A,2nd,0.8,2,1,2,0,0,2,5,40.0,3,0,0,0,0,2,4,0,Alejandro Jiménez,"DF,FW"
+2024-2025,19,Milan,it ITA,1. Serie A,8th,3.0,4,3,2,1,1,3,4,75.0,1,4,0,4,2,6,3,0,Alejandro Jiménez,"DF,FW"
+2014-2015,17,Milan,it ITA,1. Serie A,10th,0.1,,,,,,,,,,,,,,,,,Davide Calabria,"DF,FW"
+2015-2016,18,Milan,it ITA,1. Serie A,7th,4.1,,,,,,,,,,,,,,,,,Davide Calabria,"DF,FW"
+2016-2017,19,Milan,it ITA,1. Serie A,6th,11.0,,27.0,,,,,,,,,,,21.0,,,,Davide Calabria,"DF,FW"
+2017-2018,20,Milan,it ITA,1. Serie A,6th,17.4,64.0,50.0,33.0,24.0,7.0,21.0,41.0,51.2,20.0,19.0,4.0,15.0,33.0,97.0,82.0,1.0,Davide Calabria,"DF,FW"
+2018-2019,21,Milan,it ITA,1. Serie A,5th,21.7,79.0,51.0,58.0,16.0,5.0,37.0,67.0,55.2,30.0,33.0,1.0,32.0,32.0,111.0,78.0,1.0,Davide Calabria,"DF,FW"
+2019-2020,22,Milan,it ITA,1. Serie A,6th,18.0,52.0,33.0,28.0,22.0,2.0,17.0,41.0,41.5,24.0,23.0,5.0,18.0,21.0,73.0,47.0,1.0,Davide Calabria,"DF,FW"
+2020-2021,23,Milan,it ITA,1. Serie A,2nd,29.4,101.0,64.0,61.0,32.0,8.0,54.0,90.0,60.0,36.0,42.0,9.0,33.0,37.0,138.0,82.0,1.0,Davide Calabria,"DF,FW"
+2021-2022,24,Milan,it ITA,1. Serie A,1st,23.5,62.0,37.0,31.0,23.0,8.0,37.0,72.0,51.4,35.0,25.0,5.0,20.0,23.0,85.0,40.0,1.0,Davide Calabria,"DF,FW"
+2022-2023,25,Milan,it ITA,1. Serie A,4th,18.8,71.0,44.0,31.0,32.0,8.0,38.0,61.0,62.3,23.0,22.0,7.0,15.0,25.0,96.0,34.0,0.0,Davide Calabria,"DF,FW"
+2023-2024,26,Milan,it ITA,1. Serie A,2nd,24.3,70.0,38.0,38.0,25.0,7.0,44.0,72.0,61.1,28.0,26.0,7.0,19.0,24.0,94.0,49.0,1.0,Davide Calabria,"DF,FW"
+2024-2025,27,Milan,it ITA,1. Serie A,8th,2.0,5.0,3.0,5.0,0.0,0.0,4.0,6.0,66.7,2.0,0.0,0.0,0.0,3.0,8.0,4.0,0.0,Davide Calabria,"DF,FW"
+2023-2024,15,Milan,it ITA,1. Serie A,2nd,0.2,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,0,0,Francesco Camarda,"FW,MF"
+2024-2025,16,Milan,it ITA,1. Serie A,8th,1.2,3,1,0,0,3,2,5,40.0,3,0,0,0,0,3,3,0,Francesco Camarda,"FW,MF"
+2014-2015,16,Arles-Avignon,fr FRA,2. Ligue 2,20th,3.7,,,,,,,,,,,,,,,,,Ismaël Bennacer,MF
+2016-2017,18,Arsenal,eng ENG,Jr. PL2 — Div. 1,4th,11.0,,,,,,,,,,,,,,,,,Ismaël Bennacer,MF
+2016-2017,18,Tours,fr FRA,2. Ligue 2,16th,13.2,,0,,,,,,,,,,,0,,,,Ismaël Bennacer,MF
+2017-2018,19,Empoli,it ITA,2. Serie B,1st,33.6,,0,,,,,,,,,,,0,,,,Ismaël Bennacer,MF
+2018-2019,20,Empoli,it ITA,1. Serie A,18th,32.9,94,57,43,41,10,32,75,42.7,43,38,9,29,57,151,34,0,Ismaël Bennacer,MF
+2019-2020,21,Milan,it ITA,1. Serie A,6th,27.6,67,47,21,34,12,29,73,39.7,44,25,7,18,54,121,15,2,Ismaël Bennacer,MF
+2020-2021,22,Milan,it ITA,1. Serie A,2nd,14.7,39,18,17,21,1,15,32,46.9,17,10,1,9,20,59,12,0,Ismaël Bennacer,MF
+2021-2022,23,Milan,it ITA,1. Serie A,1st,16.9,44,30,22,15,7,21,50,42.0,29,20,4,16,25,69,15,0,Ismaël Bennacer,MF
+2022-2023,24,Milan,it ITA,1. Serie A,4th,22.3,59,33,26,31,2,30,51,58.8,21,25,7,18,26,85,16,1,Ismaël Bennacer,MF
+2023-2024,25,Milan,it ITA,1. Serie A,2nd,12.8,29,19,11,16,2,11,22,50.0,11,12,4,8,12,41,9,2,Ismaël Bennacer,MF
+2024-2025,26,Milan,it ITA,1. Serie A,8th,1.1,1,1,0,1,0,0,0,,0,1,0,1,0,1,1,0,Ismaël Bennacer,MF
+2017-2018,18,Anderlecht,be BEL,1. First Division A,3rd,6.8,30,25,19,6,5,13,30,43.3,17,7,0,7,9,39,9,1,Alexis Saelemaekers,"DF,FW"
+2018-2019,19,Anderlecht,be BEL,1. First Division A,6th,22.0,74,53,40,30,4,19,46,41.3,27,26,2,24,29,103,21,0,Alexis Saelemaekers,"DF,FW"
+2019-2020,20,Anderlecht,be BEL,1. First Division A,8th,12.9,31,21,10,16,5,11,33,33.3,22,11,1,10,4,35,4,1,Alexis Saelemaekers,"DF,FW"
+2019-2020,20,Milan,it ITA,1. Serie A,6th,7.6,14,8,5,7,2,6,20,30.0,14,13,1,12,8,22,1,0,Alexis Saelemaekers,"DF,FW"
+2020-2021,21,Milan,it ITA,1. Serie A,2nd,22.4,43,26,20,18,5,19,60,31.7,41,29,1,28,25,68,6,0,Alexis Saelemaekers,"DF,FW"
+2021-2022,22,Milan,it ITA,1. Serie A,1st,20.7,43,22,12,17,14,15,51,29.4,36,19,0,19,15,58,8,0,Alexis Saelemaekers,"DF,FW"
+2022-2023,23,Milan,it ITA,1. Serie A,4th,15.6,31,20,12,16,3,19,41,46.3,22,13,1,12,19,50,11,0,Alexis Saelemaekers,"DF,FW"
+2023-2024,24,Bologna,it ITA,1. Serie A,5th,21.0,32,22,13,14,5,12,27,44.4,15,13,1,12,13,45,10,1,Alexis Saelemaekers,"DF,FW"
+2024-2025,25,Roma,it ITA,1. Serie A,10th,5.3,17,8,10,4,3,10,15,66.7,5,3,1,2,4,21,1,0,Alexis Saelemaekers,"DF,FW"
+2024-2025,25,Milan,it ITA,1. Serie A,8th,1.0,1,1,0,0,1,1,1,100.0,0,0,0,0,1,2,0,0,Alexis Saelemaekers,"DF,FW"
+2013-2014,15,Red Star,rs SRB,1. SuperLiga,1st,0.2,,,,,,,,,,,,,,,,,Luka Jović,FW
+2014-2015,16,Red Star,rs SRB,1. SuperLiga,2nd,12.7,,,,,,,,,,,,,,,,,Luka Jović,FW
+2015-2016,17,Red Star,rs SRB,1. SuperLiga,1st,7.3,,,,,,,,,,,,,,,,,Luka Jović,FW
+2015-2016,17,Benfica,pt POR,1. Primeira Liga,1st,0.1,,,,,,,,,,,,,,,,,Luka Jović,FW
+2016-2017,18,Benfica,pt POR,1. Primeira Liga,1st,0.1,,0,,,,,,,,,,,0,,,,Luka Jović,FW
+2017-2018,19,Eint Frankfurt,de GER,1. Bundesliga,8th,10.4,5,5,0,5,0,1,3,33.3,2,6,2,4,1,6,2,0,Luka Jović,FW
+2018-2019,20,Eint Frankfurt,de GER,1. Bundesliga,7th,24.9,10,5,1,8,1,1,12,8.3,11,8,0,8,3,13,30,0,Luka Jović,FW
+2019-2020,21,Real Madrid,es ESP,1. La Liga,1st,4.8,2,1,0,0,2,1,2,50.0,1,1,0,1,2,4,0,0,Luka Jović,FW
+2020-2021,22,Eint Frankfurt,de GER,1. Bundesliga,5th,9.9,2,0,0,2,0,0,4,0.0,4,3,0,3,1,3,7,0,Luka Jović,FW
+2020-2021,22,Real Madrid,es ESP,1. La Liga,2nd,1.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Luka Jović,FW
+2021-2022,23,Real Madrid,es ESP,1. La Liga,1st,4.1,1,1,0,1,0,0,1,0.0,1,3,0,3,1,2,4,0,Luka Jović,FW
+2022-2023,24,Fiorentina,it ITA,1. Serie A,8th,17.0,6,3,1,4,1,2,8,25.0,6,7,2,5,2,8,10,0,Luka Jović,FW
+2023-2024,25,Milan,it ITA,1. Serie A,2nd,9.7,6,4,0,3,3,4,6,66.7,2,3,0,3,1,7,9,0,Luka Jović,FW
+2024-2025,26,Milan,it ITA,1. Serie A,8th,0.9,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Luka Jović,FW
+2024-2025,17,Milan,it ITA,1. Serie A,8th,0.7,2,1,0,1,1,2,2,100.0,0,0,0,0,0,2,0,0,Mattia Liberali,MF
+2023-2024,18,Milan,it ITA,1. Serie A,2nd,0.3,1,1,1,0,0,0,0,,0,1,0,1,0,1,1,0,Kevin Zeroli,MF
+2024-2025,19,Milan,it ITA,1. Serie A,8th,0.1,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0,Kevin Zeroli,MF
+2023-2024,17,Milan,it ITA,1. Serie A,2nd,0.9,2,0,1,1,0,2,4,50.0,2,1,1,0,0,2,7,0,Davide Bartesaghi,DF
+2024-2025,18,Milan,it ITA,1. Serie A,8th,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Davide Bartesaghi,DF
+2022-2023,17,Saint-Étienne,fr FRA,2. Ligue 2,8th,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Noah Raveyre,GK
+2013-2014,21,Atalanta,it ITA,1. Serie A,11th,3.0,,,,,,,,,,,,,,,,,Marco Sportiello,GK
+2014-2015,22,Atalanta,it ITA,1. Serie A,17th,37.0,,,,,,,,,,,,,,,,,Marco Sportiello,GK
+2015-2016,23,Atalanta,it ITA,1. Serie A,13th,36.0,,,,,,,,,,,,,,,,,Marco Sportiello,GK
+2016-2017,24,Atalanta,it ITA,1. Serie A,4th,8.0,,0,,,,,,,,,,,0,,,,Marco Sportiello,GK
+2016-2017,24,Fiorentina,it ITA,1. Serie A,8th,2.0,,0,,,,,,,,,,,0,,,,Marco Sportiello,GK
+2017-2018,25,Fiorentina,it ITA,1. Serie A,8th,35.6,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,13,4,Marco Sportiello,GK
+2018-2019,26,Frosinone,it ITA,1. Serie A,19th,35.0,1,0,1,0,0,1,1,100.0,0,1,0,1,0,1,8,2,Marco Sportiello,GK
+2019-2020,27,Atalanta,it ITA,1. Serie A,3rd,5.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0,Marco Sportiello,GK
+2020-2021,28,Atalanta,it ITA,1. Serie A,3rd,14.0,2,2,2,0,0,1,3,33.3,2,0,0,0,2,4,5,1,Marco Sportiello,GK
+2021-2022,29,Atalanta,it ITA,1. Serie A,8th,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Marco Sportiello,GK
+2022-2023,30,Atalanta,it ITA,1. Serie A,5th,14.9,1,0,1,0,0,1,3,33.3,2,0,0,0,0,1,2,0,Marco Sportiello,GK
+2023-2024,31,Milan,it ITA,1. Serie A,2nd,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Marco Sportiello,GK
+2021-2022,16,Jong Ajax,nl NED,2. Eerste Divisie,7th,1.6,,0,,,,,,,,,,,0,,,,Silvano Vos,MF
+2022-2023,17,Ajax,nl NED,1. Eredivisie,3rd,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,3,0,Silvano Vos,MF
+2022-2023,17,Jong Ajax,nl NED,2. Eerste Divisie,13th,22.1,,27,,,,,,,,,,,23,,,,Silvano Vos,MF
+2023-2024,18,Ajax,nl NED,1. Eredivisie,5th,3.9,5,5,2,3,0,3,8,37.5,5,8,4,4,12,17,2,0,Silvano Vos,MF
+2023-2024,18,Jong Ajax,nl NED,2. Eerste Divisie,15th,17.9,,27,,,,,,,,,,,32,,,,Silvano Vos,MF
+2024-2025,19,Jong Ajax,nl NED,2. Eerste Divisie,16th,0.7,,0,,,,,,,,,,,1,,,,Silvano Vos,MF

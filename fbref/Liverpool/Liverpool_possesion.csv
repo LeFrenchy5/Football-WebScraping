@@ -1,0 +1,241 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Player,Position
+2010-2011,19,Groningen,nl NED,1. Eredivisie,5th,0.4,,,,,,,,,,,,,,,,,,,,,,,Virgil van Dijk,DF
+2011-2012,20,Groningen,nl NED,1. Eredivisie,14th,21.8,,,,,,,,,,,,,,,,,,,,,,,Virgil van Dijk,DF
+2012-2013,21,Groningen,nl NED,1. Eredivisie,7th,30.9,,,,,,,,,,,,,,,,,,,,,,,Virgil van Dijk,DF
+2013-2014,22,Celtic,sct SCO,1. Premiership,1st,34.1,,,,,,,,,,,,,,,,,,,,,,,Virgil van Dijk,DF
+2014-2015,23,Celtic,sct SCO,1. Premiership,1st,35.0,,,,,,,,,,,,,,,,,,,,,,,Virgil van Dijk,DF
+2015-2016,24,Celtic,sct SCO,1. Premiership,1st,5.0,,,,,,,,,,,,,,,,,,,,,,,Virgil van Dijk,DF
+2015-2016,24,Southampton,eng ENG,1. Premier League,6th,34.0,,,,,,,,,,,,,,,,,,,,,,,Virgil van Dijk,DF
+2016-2017,25,Southampton,eng ENG,1. Premier League,8th,20.6,,,,,,,,,,,,,,,,,,,,,,,Virgil van Dijk,DF
+2017-2018,26,Southampton,eng ENG,1. Premier League,17th,11.0,793,75,348,404,51,23,793,5,5,100.0,0,0.0,483,2481,1465,17,8,1,3,3,483,8,Virgil van Dijk,DF
+2017-2018,26,Southampton,eng ENG,Jr. PL2 — Div. 2,6th,2.0,,,,,,,,,,,,,,,,,,,,,,,Virgil van Dijk,DF
+2017-2018,26,Liverpool,eng ENG,1. Premier League,4th,14.0,1285,73,459,787,44,17,1285,1,0,0.0,1,100.0,737,3682,2206,11,8,1,2,2,906,6,Virgil van Dijk,DF
+2018-2019,27,Liverpool,eng ENG,1. Premier League,2nd,37.6,3418,240,1291,2005,130,66,3418,12,9,75.0,3,25.0,2252,9579,5046,20,21,2,7,1,2421,20,Virgil van Dijk,DF
+2019-2020,28,Liverpool,eng ENG,1. Premier League,1st,38.0,3588,315,1365,2126,102,49,3588,4,3,75.0,1,25.0,2484,9365,4594,21,19,3,2,2,2580,14,Virgil van Dijk,DF
+2020-2021,29,Liverpool,eng ENG,1. Premier League,3rd,4.1,364,23,123,231,12,5,364,0,0,,0,,282,1153,527,0,1,0,1,0,295,1,Virgil van Dijk,DF
+2021-2022,30,Liverpool,eng ENG,1. Premier League,2nd,34.0,2894,300,1296,1514,90,57,2894,8,6,75.0,2,25.0,1717,6530,3379,11,4,0,5,3,2096,4,Virgil van Dijk,DF
+2022-2023,31,Liverpool,eng ENG,1. Premier League,5th,31.5,2876,361,1327,1427,128,66,2876,2,2,100.0,0,0.0,1760,6644,3152,10,14,2,7,0,2085,8,Virgil van Dijk,DF
+2023-2024,32,Liverpool,eng ENG,1. Premier League,3rd,35.3,3235,384,1339,1757,146,78,3235,5,2,40.0,2,40.0,1981,9779,5235,32,19,0,7,4,2263,7,Virgil van Dijk,DF
+2024-2025,33,Liverpool,eng ENG,1. Premier League,1st,19.0,1644,235,707,881,62,26,1644,4,3,75.0,1,25.0,931,4068,2036,4,7,1,3,2,1146,4,Virgil van Dijk,DF
+2012-2013,20,Basel,ch SUI,1. Super Lg,1st,16.0,,,,,,,,,,,,,,,,,,,,,,,Mohamed Salah,FW
+2013-2014,21,Basel,ch SUI,1. Super Lg,1st,12.8,,,,,,,,,,,,,,,,,,,,,,,Mohamed Salah,FW
+2013-2014,21,Chelsea,eng ENG,1. Premier League,3rd,5.6,,,,,,,,,,,,,,,,,,,,,,,Mohamed Salah,FW
+2014-2015,22,Chelsea,eng ENG,1. Premier League,1st,0.4,,,,,,,,,,,,,,,,,,,,,,,Mohamed Salah,FW
+2014-2015,22,Fiorentina,it ITA,1. Serie A,4th,10.1,,,,,,,,,,,,,,,,,,,,,,,Mohamed Salah,FW
+2015-2016,23,Roma,it ITA,1. Serie A,3rd,30.3,,,,,,,,,,,,,,,,,,,,,,,Mohamed Salah,FW
+2016-2017,24,Roma,it ITA,1. Serie A,2nd,27.5,,,,,,,,,,,,,,,,,,,,,,,Mohamed Salah,FW
+2017-2018,25,Liverpool,eng ENG,1. Premier League,4th,32.3,1438,3,70,418,970,243,1436,126,79,62.7,46,36.5,944,6003,2729,95,52,55,105,95,1116,393,Mohamed Salah,FW
+2018-2019,26,Liverpool,eng ENG,1. Premier League,2nd,36.1,1590,5,55,465,1087,272,1587,151,80,53.0,71,47.0,1216,7481,3747,131,91,96,109,119,1272,429,Mohamed Salah,FW
+2019-2020,27,Liverpool,eng ENG,1. Premier League,1st,32.0,1368,4,59,385,935,291,1365,83,50,60.2,33,39.8,1037,5484,2722,105,51,72,88,67,1090,347,Mohamed Salah,FW
+2020-2021,28,Liverpool,eng ENG,1. Premier League,3rd,34.2,1695,11,65,569,1073,275,1689,84,36,42.9,48,57.1,1185,6086,3034,111,71,72,116,82,1420,396,Mohamed Salah,FW
+2021-2022,29,Liverpool,eng ENG,1. Premier League,2nd,30.7,1552,7,55,455,1056,301,1546,124,53,42.7,71,57.3,1030,5898,2909,125,57,97,99,81,1300,451,Mohamed Salah,FW
+2022-2023,30,Liverpool,eng ENG,1. Premier League,5th,36.6,1634,4,83,539,1028,301,1630,135,51,37.8,72,53.3,1108,6393,3036,120,66,87,110,79,1305,421,Mohamed Salah,FW
+2023-2024,31,Liverpool,eng ENG,1. Premier League,3rd,28.2,1359,4,47,460,866,241,1352,77,27,35.1,49,63.6,977,5309,2614,98,54,66,77,59,1116,341,Mohamed Salah,FW
+2024-2025,32,Liverpool,eng ENG,1. Premier League,1st,18.6,791,9,43,239,519,180,786,66,33,50.0,31,47.0,576,3581,1758,79,30,68,54,38,692,224,Mohamed Salah,FW
+2018-2019,16,Ajax,nl NED,1. Eredivisie,1st,0.1,6,0,1,1,4,0,6,1,1,100.0,0,0.0,4,14,10,0,1,0,0,0,3,0,Ryan Gravenberch,MF
+2018-2019,16,Jong Ajax,nl NED,2. Eerste Divisie,11th,25.7,,,,,,,,,,,,,,,,,,,,,,,Ryan Gravenberch,MF
+2019-2020,17,Jong Ajax,nl NED,2. Eerste Divisie,4th,16.5,,,,,,,,,,,,,,,,,,,,,,,Ryan Gravenberch,MF
+2019-2020,17,Ajax,nl NED,1. Eredivisie,1st,5.3,447,5,40,271,140,18,447,22,20,90.9,2,9.1,284,1795,993,20,17,5,19,6,330,16,Ryan Gravenberch,MF
+2020-2021,18,Ajax,nl NED,1. Eredivisie,1st,29.0,2601,46,301,1566,763,52,2601,81,51,63.0,30,37.0,1683,10092,5415,95,98,14,67,36,1977,97,Ryan Gravenberch,MF
+2021-2022,19,Ajax,nl NED,1. Eredivisie,1st,24.5,1872,37,237,927,734,92,1872,95,64,67.4,31,32.6,1233,7542,3924,92,72,27,66,26,1352,148,Ryan Gravenberch,MF
+2022-2023,20,Bayern Munich,de GER,1. Bundesliga,1st,6.4,483,12,68,269,155,11,483,19,11,57.9,6,31.6,301,1632,729,11,18,1,21,13,344,31,Ryan Gravenberch,MF
+2023-2024,21,Bayern Munich,de GER,1. Bundesliga,3rd,0.1,7,0,0,3,4,2,7,1,1,100.0,0,0.0,3,16,9,0,0,0,0,0,5,3,Ryan Gravenberch,MF
+2023-2024,21,Liverpool,eng ENG,1. Premier League,3rd,12.5,696,17,84,347,272,42,696,50,23,46.0,22,44.0,432,2458,1369,39,28,10,46,13,472,71,Ryan Gravenberch,MF
+2024-2025,22,Liverpool,eng ENG,1. Premier League,1st,18.3,1295,59,260,770,280,16,1295,40,19,47.5,14,35.0,804,4187,2129,39,42,5,25,11,954,29,Ryan Gravenberch,MF
+2016-2017,17,Liverpool,eng ENG,Jr. PL2 — Div. 1,3rd,11.9,,,,,,,,,,,,,,,,,,,,,,,Trent Alexander-Arnold,DF
+2016-2017,17,Liverpool,eng ENG,1. Premier League,4th,1.9,,,,,,,,,,,,,,,,,,,,,,,Trent Alexander-Arnold,DF
+2017-2018,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,1.0,,,,,,,,,,,,,,,,,,,,,,,Trent Alexander-Arnold,DF
+2017-2018,18,Liverpool,eng ENG,1. Premier League,4th,17.5,1487,39,374,718,409,28,1487,33,20,60.6,13,39.4,743,3232,1791,39,38,9,18,13,910,126,Trent Alexander-Arnold,DF
+2018-2019,19,Liverpool,eng ENG,1. Premier League,2nd,27.4,2514,70,528,1210,798,39,2514,27,14,51.9,13,48.1,1416,5548,3296,70,64,7,41,14,1538,174,Trent Alexander-Arnold,DF
+2019-2020,20,Liverpool,eng ENG,1. Premier League,1st,35.3,3582,99,825,1590,1193,54,3582,51,21,41.2,30,58.8,2136,9096,5332,98,113,16,47,12,2281,226,Trent Alexander-Arnold,DF
+2020-2021,21,Liverpool,eng ENG,1. Premier League,3rd,33.7,3318,73,699,1494,1151,81,3318,61,32,52.5,29,47.5,1992,9462,5442,98,95,24,31,22,2202,249,Trent Alexander-Arnold,DF
+2021-2022,22,Liverpool,eng ENG,1. Premier League,2nd,31.7,3036,71,602,1386,1070,83,3036,39,19,48.7,20,51.3,1504,5687,2824,53,55,14,41,19,1897,201,Trent Alexander-Arnold,DF
+2022-2023,23,Liverpool,eng ENG,1. Premier League,5th,32.5,3180,89,737,1631,837,44,3180,45,30,66.7,13,28.9,1778,6848,3312,43,39,8,35,21,2042,139,Trent Alexander-Arnold,DF
+2023-2024,24,Liverpool,eng ENG,1. Premier League,3rd,23.9,2296,75,523,1217,582,34,2296,52,28,53.8,21,40.4,1250,5701,2724,45,48,7,27,6,1492,97,Trent Alexander-Arnold,DF
+2024-2025,25,Liverpool,eng ENG,1. Premier League,1st,15.5,1258,52,346,554,365,23,1258,15,5,33.3,9,60.0,650,3149,1736,36,26,5,15,11,794,57,Trent Alexander-Arnold,DF
+2013-2014,19,Dundee United,sct SCO,1. Premiership,4th,36.0,,,,,,,,,,,,,,,,,,,,,,,Andrew Robertson,DF
+2014-2015,20,Hull City,eng ENG,1. Premier League,18th,17.0,,,,,,,,,,,,,,,,,,,,,,,Andrew Robertson,DF
+2015-2016,21,Hull City,eng ENG,2. Championship,4th,39.6,,,,,,,,,,,,,,,,,,,,,,,Andrew Robertson,DF
+2016-2017,22,Hull City,eng ENG,1. Premier League,18th,30.4,,,,,,,,,,,,,,,,,,,,,,,Andrew Robertson,DF
+2017-2018,23,Liverpool,eng ENG,1. Premier League,4th,21.6,1853,60,376,898,598,46,1853,17,9,52.9,8,47.1,1063,5265,2984,76,50,10,22,12,1282,214,Andrew Robertson,DF
+2018-2019,24,Liverpool,eng ENG,1. Premier League,2nd,35.7,3126,64,649,1560,945,87,3126,48,28,58.3,20,41.7,1928,9048,5551,124,117,12,31,23,2163,263,Andrew Robertson,DF
+2019-2020,25,Liverpool,eng ENG,1. Premier League,1st,34.6,3296,89,622,1575,1129,83,3296,44,22,50.0,22,50.0,2152,10659,6603,149,115,20,50,9,2317,277,Andrew Robertson,DF
+2020-2021,26,Liverpool,eng ENG,1. Premier League,3rd,37.6,3588,103,756,1647,1226,97,3588,53,28,52.8,25,47.2,2146,10868,6389,119,101,10,42,11,2425,289,Andrew Robertson,DF
+2021-2022,27,Liverpool,eng ENG,1. Premier League,2nd,28.2,2556,77,528,1172,882,88,2556,23,13,56.5,10,43.5,1436,7043,4330,96,85,19,24,15,1731,239,Andrew Robertson,DF
+2022-2023,28,Liverpool,eng ENG,1. Premier League,5th,28.7,2483,79,691,1084,727,59,2483,42,17,40.5,23,54.8,1385,6702,3934,80,60,10,31,7,1637,194,Andrew Robertson,DF
+2023-2024,29,Liverpool,eng ENG,1. Premier League,3rd,18.8,1713,67,387,789,548,55,1713,17,5,29.4,12,70.6,979,4623,2638,63,40,6,18,6,1160,130,Andrew Robertson,DF
+2024-2025,30,Liverpool,eng ENG,1. Premier League,1st,15.3,1206,47,307,564,343,27,1206,7,2,28.6,4,57.1,636,2774,1548,32,26,3,15,6,805,46,Andrew Robertson,DF
+2017-2018,18,Arg Juniors,ar ARG,1. Liga Argentina,12th,14.6,988,11,85,637,285,19,988,41,29,70.7,12,29.3,712,3462,1609,32,34,3,29,40,680,66,Alexis Mac Allister,MF
+2018-2019,19,Arg Juniors,ar ARG,1. Liga Argentina,26th,17.1,981,6,63,495,444,36,980,58,31,53.4,27,46.6,567,3047,1418,32,41,4,40,31,625,105,Alexis Mac Allister,MF
+2019-2020,20,Boca Juniors,ar ARG,1. Liga Argentina,1st,7.9,449,6,47,233,174,15,449,21,9,42.9,12,57.1,240,1437,603,15,19,1,26,8,284,38,Alexis Mac Allister,MF
+2019-2020,20,Brighton,eng ENG,1. Premier League,15th,3.9,169,1,26,68,79,7,169,4,2,50.0,2,50.0,73,278,115,2,3,1,7,7,85,13,Alexis Mac Allister,MF
+2020-2021,21,Brighton,eng ENG,1. Premier League,16th,12.4,563,8,95,258,220,34,563,26,16,61.5,10,38.5,303,1505,680,15,12,0,28,16,368,55,Alexis Mac Allister,MF
+2021-2022,22,Brighton,eng ENG,1. Premier League,9th,23.6,1368,41,222,652,510,49,1365,42,21,50.0,21,50.0,719,3238,1502,30,38,2,43,23,854,66,Alexis Mac Allister,MF
+2022-2023,23,Brighton,eng ENG,1. Premier League,6th,32.1,2182,48,367,1194,644,63,2176,72,42,58.3,21,29.2,1319,6135,3072,69,74,8,47,36,1644,77,Alexis Mac Allister,MF
+2023-2024,24,Liverpool,eng ENG,1. Premier League,3rd,28.9,2313,73,392,1382,560,32,2312,34,18,52.9,12,35.3,1346,5738,3006,44,45,4,30,35,1626,48,Alexis Mac Allister,MF
+2024-2025,25,Liverpool,eng ENG,1. Premier League,1st,14.7,958,27,161,522,282,33,958,23,8,34.8,14,60.9,479,1912,980,18,21,1,16,14,641,39,Alexis Mac Allister,MF
+2019-2020,22,Porto,pt POR,1. Primeira Liga,1st,19.7,921,8,95,404,449,77,921,72,45,62.5,27,37.5,638,4374,1905,66,46,27,52,38,702,192,Luis Díaz,FW
+2020-2021,23,Porto,pt POR,1. Primeira Liga,2nd,18.2,834,9,91,359,411,88,834,84,58,69.0,24,28.6,569,3831,1876,66,40,27,44,24,579,153,Luis Díaz,FW
+2021-2022,24,Porto,pt POR,1. Primeira Liga,1st,16.6,885,8,36,332,528,143,884,73,46,63.0,27,37.0,608,4058,2162,90,35,55,41,19,674,186,Luis Díaz,FW
+2021-2022,24,Liverpool,eng ENG,1. Premier League,2nd,10.6,595,4,32,219,349,77,595,49,31,63.3,18,36.7,399,2712,1293,53,22,31,27,26,476,127,Luis Díaz,FW
+2022-2023,25,Liverpool,eng ENG,1. Premier League,5th,11.1,618,4,47,247,336,77,618,65,32,49.2,25,38.5,440,2944,1303,39,31,22,30,37,500,116,Luis Díaz,FW
+2023-2024,26,Liverpool,eng ENG,1. Premier League,3rd,29.2,1453,10,94,529,858,219,1453,140,67,47.9,57,40.7,1017,7500,3690,137,77,70,69,72,1128,302,Luis Díaz,FW
+2024-2025,27,Liverpool,eng ENG,1. Premier League,1st,12.4,541,8,43,205,305,76,541,55,22,40.0,26,47.3,361,2760,1419,51,25,29,26,24,424,111,Luis Díaz,FW
+2018-2019,17,RB Salzburg,at AUT,1. Bundesliga,1st,8.0,,,,,,,,,,,,,,,,,,,,,,,Dominik Szoboszlai,MF
+2019-2020,18,RB Salzburg,at AUT,1. Bundesliga,1st,18.5,,,,,,,,,,,,,,,,,,,,,,,Dominik Szoboszlai,MF
+2020-2021,19,RB Salzburg,at AUT,1. Bundesliga,1st,8.9,,,,,,,,,,,,,,,,,,,,,,,Dominik Szoboszlai,MF
+2021-2022,20,RB Leipzig,de GER,1. Bundesliga,4th,17.1,1185,22,115,560,520,57,1184,40,18,45.0,22,55.0,618,3190,1399,44,37,16,42,27,831,130,Dominik Szoboszlai,MF
+2022-2023,21,RB Leipzig,de GER,1. Bundesliga,3rd,27.2,1908,28,235,952,750,56,1907,105,53,50.5,41,39.0,1134,6004,2911,75,68,12,57,33,1294,157,Dominik Szoboszlai,MF
+2023-2024,22,Liverpool,eng ENG,1. Premier League,3rd,23.4,1802,36,239,868,718,71,1802,56,24,42.9,27,48.2,1043,5475,2880,75,67,22,27,27,1238,160,Dominik Szoboszlai,MF
+2024-2025,23,Liverpool,eng ENG,1. Premier League,1st,12.6,768,10,97,391,291,41,768,18,12,66.7,6,33.3,406,2157,1214,38,22,9,15,7,530,50,Dominik Szoboszlai,MF
+2016-2017,17,Sochaux,fr FRA,2. Ligue 2,12th,11.1,,,,,,,,,,,,,,,,,,,,,,,Ibrahima Konaté,DF
+2017-2018,18,Leipzig U19,de GER,Jr. U19 Bundesliga,9th,1.0,,,,,,,,,,,,,,,,,,,,,,,Ibrahima Konaté,DF
+2017-2018,18,RB Leipzig,de GER,1. Bundesliga,6th,13.6,786,68,367,413,15,6,786,3,1,33.3,2,66.7,444,2486,1425,7,3,0,5,7,490,3,Ibrahima Konaté,DF
+2018-2019,19,RB Leipzig,de GER,1. Bundesliga,3rd,27.0,1362,113,588,727,64,22,1362,26,22,84.6,4,15.4,579,4084,2569,33,16,1,19,10,646,5,Ibrahima Konaté,DF
+2019-2020,20,RB Leipzig,de GER,1. Bundesliga,3rd,6.3,414,45,204,193,21,3,414,4,3,75.0,1,25.0,245,1500,866,9,6,1,4,1,265,3,Ibrahima Konaté,DF
+2020-2021,21,RB Leipzig,de GER,1. Bundesliga,2nd,7.7,628,57,268,338,25,9,628,8,8,100.0,0,0.0,419,2365,1373,6,5,0,3,7,472,1,Ibrahima Konaté,DF
+2021-2022,22,Liverpool,eng ENG,1. Premier League,2nd,11.0,855,69,341,496,20,6,855,3,2,66.7,1,33.3,497,2286,1467,7,2,0,4,1,581,2,Ibrahima Konaté,DF
+2022-2023,23,Liverpool,eng ENG,1. Premier League,5th,17.2,1317,107,589,691,43,22,1317,14,10,71.4,2,14.3,830,3628,1871,7,7,0,12,4,918,5,Ibrahima Konaté,DF
+2023-2024,24,Liverpool,eng ENG,1. Premier League,3rd,17.5,1622,86,533,1018,80,16,1622,10,6,60.0,1,10.0,1081,5747,3590,24,17,0,8,5,1162,3,Ibrahima Konaté,DF
+2024-2025,25,Liverpool,eng ENG,1. Premier League,1st,11.8,919,108,416,468,37,11,919,1,1,100.0,0,0.0,549,2483,1419,7,2,0,3,1,665,1,Ibrahima Konaté,DF
+2016-2017,17,Jong PSV,nl NED,2. Eerste Divisie,4th,0.6,,,,,,,,,,,,,,,,,,,,,,,Cody Gakpo,FW
+2017-2018,18,Jong PSV,nl NED,2. Eerste Divisie,5th,10.6,,,,,,,,,,,,,,,,,,,,,,,Cody Gakpo,FW
+2017-2018,18,PSV Eindhoven,nl NED,1. Eredivisie,1st,0.0,,,,,,,,,,,,,,,,,,,,,,,Cody Gakpo,FW
+2018-2019,19,Jong PSV,nl NED,2. Eerste Divisie,3rd,9.5,,,,,,,,,,,,,,,,,,,,,,,Cody Gakpo,FW
+2018-2019,19,PSV Eindhoven,nl NED,1. Eredivisie,2nd,4.4,201,5,14,60,127,38,201,16,9,56.3,7,43.8,130,981,534,27,11,13,7,7,156,65,Cody Gakpo,FW
+2019-2020,20,PSV Eindhoven,nl NED,1. Eredivisie,4th,16.2,871,15,67,330,485,78,871,58,35,60.3,23,39.7,523,3605,2197,73,54,31,48,43,614,161,Cody Gakpo,FW
+2020-2021,21,PSV Eindhoven,nl NED,1. Eredivisie,2nd,18.5,922,10,83,374,476,80,922,76,52,68.4,24,31.6,585,2925,1579,54,38,21,53,44,704,150,Cody Gakpo,FW
+2021-2022,22,PSV Eindhoven,nl NED,1. Eredivisie,2nd,21.2,1150,12,72,345,754,126,1149,130,77,59.2,53,40.8,711,4787,2595,85,52,47,70,41,779,203,Cody Gakpo,FW
+2022-2023,23,PSV Eindhoven,nl NED,1. Eredivisie,2nd,12.5,702,9,41,209,462,79,700,62,26,41.9,25,40.3,413,2753,1335,53,31,30,39,18,476,147,Cody Gakpo,FW
+2022-2023,23,Liverpool,eng ENG,1. Premier League,5th,16.2,591,6,42,266,298,76,591,48,23,47.9,13,27.1,374,2069,1134,36,32,12,43,36,448,109,Cody Gakpo,FW
+2023-2024,24,Liverpool,eng ENG,1. Premier League,3rd,18.3,809,15,77,335,412,107,809,54,31,57.4,17,31.5,549,3003,1472,43,31,13,44,32,618,130,Cody Gakpo,FW
+2024-2025,25,Liverpool,eng ENG,1. Premier League,1st,11.0,475,16,47,142,295,56,475,31,21,67.7,8,25.8,321,2265,1160,29,16,16,21,11,359,151,Cody Gakpo,FW
+2017-2018,24,Roma,it ITA,1. Serie A,3rd,37.0,1405,1143,1395,11,0,0,1405,6,6,100.0,0,0.0,677,3374,2393,0,1,0,3,0,646,0,Alisson,GK
+2018-2019,25,Liverpool,eng ENG,1. Premier League,2nd,38.0,1347,1118,1338,10,0,0,1347,2,2,100.0,0,0.0,838,3680,2466,1,1,0,0,1,675,0,Alisson,GK
+2019-2020,26,Liverpool,eng ENG,1. Premier League,1st,28.3,992,792,983,10,0,0,992,0,0,,0,,600,2483,1531,0,1,1,0,0,495,0,Alisson,GK
+2020-2021,27,Liverpool,eng ENG,1. Premier League,3rd,33.0,1239,931,1224,16,1,1,1239,2,2,100.0,0,0.0,709,2807,1763,0,0,0,0,0,669,0,Alisson,GK
+2021-2022,28,Liverpool,eng ENG,1. Premier League,2nd,36.0,1469,1042,1452,17,0,0,1469,1,1,100.0,0,0.0,873,3573,2223,0,0,0,1,0,836,0,Alisson,GK
+2022-2023,29,Liverpool,eng ENG,1. Premier League,5th,37.0,1536,1124,1498,39,0,0,1536,2,2,100.0,0,0.0,985,4654,2962,0,0,0,1,0,901,0,Alisson,GK
+2023-2024,30,Liverpool,eng ENG,1. Premier League,3rd,28.0,1196,754,1145,52,0,0,1196,0,0,,0,,850,3713,2361,0,0,0,4,0,764,0,Alisson,GK
+2024-2025,31,Liverpool,eng ENG,1. Premier League,1st,10.9,364,256,356,8,0,0,364,1,1,100.0,0,0.0,240,885,505,0,0,0,0,0,232,0,Alisson,GK
+2017-2018,16,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,4.5,,,,,,,,,,,,,,,,,,,,,,,Curtis Jones,MF
+2018-2019,17,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,12.0,,,,,,,,,,,,,,,,,,,,,,,Curtis Jones,MF
+2019-2020,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,5th,13.1,,,,,,,,,,,,,,,,,,,,,,,Curtis Jones,MF
+2019-2020,18,Liverpool,eng ENG,1. Premier League,1st,1.4,140,0,20,71,50,7,140,4,3,75.0,1,25.0,102,454,232,4,5,1,2,4,111,7,Curtis Jones,MF
+2020-2021,19,Liverpool,eng ENG,1. Premier League,3rd,13.1,1133,15,128,643,373,26,1133,34,22,64.7,12,35.3,798,4177,1964,42,43,8,22,32,910,79,Curtis Jones,MF
+2021-2022,20,Liverpool,eng ENG,1. Premier League,2nd,9.5,685,8,85,380,226,17,685,33,25,75.8,8,24.2,476,2572,1152,25,18,3,17,18,565,54,Curtis Jones,MF
+2022-2023,21,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,0.5,,,,,,,,,,,,,,,,,,,,,,,Curtis Jones,MF
+2022-2023,21,Liverpool,eng ENG,1. Premier League,5th,11.5,821,14,105,417,304,40,821,30,11,36.7,13,43.3,550,2645,1011,31,15,11,22,29,627,75,Curtis Jones,MF
+2023-2024,22,Liverpool,eng ENG,1. Premier League,3rd,13.0,915,24,127,509,287,38,915,29,15,51.7,10,34.5,624,3297,1425,31,25,7,15,33,709,88,Curtis Jones,MF
+2024-2025,23,Liverpool,eng ENG,1. Premier League,1st,9.7,620,15,91,338,195,29,620,11,8,72.7,2,18.2,388,1814,794,9,7,2,15,24,491,42,Curtis Jones,MF
+2016-2017,17,Liverpool,eng ENG,Jr. PL2 — Div. 1,3rd,6.0,,,,,,,,,,,,,,,,,,,,,,,Caoimhín Kelleher,GK
+2017-2018,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,5.0,,,,,,,,,,,,,,,,,,,,,,,Caoimhín Kelleher,GK
+2018-2019,19,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,11.0,,,,,,,,,,,,,,,,,,,,,,,Caoimhín Kelleher,GK
+2019-2020,20,Liverpool,eng ENG,Jr. PL2 — Div. 1,5th,6.0,,,,,,,,,,,,,,,,,,,,,,,Caoimhín Kelleher,GK
+2020-2021,21,Liverpool,eng ENG,Jr. PL2 — Div. 1,7th,5.0,,,,,,,,,,,,,,,,,,,,,,,Caoimhín Kelleher,GK
+2020-2021,21,Liverpool,eng ENG,1. Premier League,3rd,2.0,70,56,69,1,0,0,70,0,0,,0,,39,116,75,0,0,0,0,0,34,0,Caoimhín Kelleher,GK
+2021-2022,22,Liverpool,eng ENG,1. Premier League,2nd,2.0,95,71,95,0,0,0,95,0,0,,0,,64,205,126,0,0,0,0,0,58,0,Caoimhín Kelleher,GK
+2022-2023,23,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,1.0,,,,,,,,,,,,,,,,,,,,,,,Caoimhín Kelleher,GK
+2022-2023,23,Liverpool,eng ENG,1. Premier League,5th,1.0,26,18,26,0,0,0,26,0,0,,0,,18,89,62,0,0,0,0,0,13,0,Caoimhín Kelleher,GK
+2023-2024,24,Liverpool,eng ENG,1. Premier League,3rd,10.0,457,269,446,11,0,0,457,0,0,,0,,367,1742,1077,0,0,0,0,0,330,0,Caoimhín Kelleher,GK
+2024-2025,25,Liverpool,eng ENG,1. Premier League,1st,8.0,309,230,308,1,0,0,309,1,1,100.0,0,0.0,232,851,453,0,0,0,1,0,209,0,Caoimhín Kelleher,GK
+2019-2020,20,Almería,es ESP,2. La Liga 2,4th,26.9,847,35,82,352,428,140,842,72,40,55.6,32,44.4,435,3174,1601,61,40,40,87,34,595,168,Darwin Núñez,FW
+2020-2021,21,Benfica,pt POR,1. Primeira Liga,3rd,19.9,641,11,31,177,444,145,641,51,26,51.0,25,49.0,394,2863,1330,58,32,44,75,36,505,211,Darwin Núñez,FW
+2021-2022,22,Benfica,pt POR,1. Primeira Liga,3rd,22.0,736,19,43,212,496,192,732,78,39,50.0,39,50.0,479,3767,1860,85,31,47,53,26,567,222,Darwin Núñez,FW
+2022-2023,23,Liverpool,eng ENG,1. Premier League,5th,18.8,633,12,51,179,412,154,633,44,18,40.9,19,43.2,387,2795,1408,61,33,31,41,27,491,181,Darwin Núñez,FW
+2023-2024,24,Liverpool,eng ENG,1. Premier League,3rd,22.7,777,13,41,224,526,192,776,44,15,34.1,20,45.5,468,2694,1279,58,35,36,53,29,575,206,Darwin Núñez,FW
+2024-2025,25,Liverpool,eng ENG,1. Premier League,1st,8.4,220,8,31,70,127,44,220,13,7,53.8,5,38.5,122,722,432,18,15,8,13,13,150,55,Darwin Núñez,FW
+2014-2015,17,Paços,pt POR,1. Primeira Liga,8th,7.1,,,,,,,,,,,,,,,,,,,,,,,Diogo Jota,FW
+2015-2016,18,Paços,pt POR,1. Primeira Liga,7th,30.6,,,,,,,,,,,,,,,,,,,,,,,Diogo Jota,FW
+2016-2017,19,Porto,pt POR,1. Primeira Liga,2nd,16.1,,,,,,,,,,,,,,,,,,,,,,,Diogo Jota,FW
+2017-2018,20,Wolves,eng ENG,2. Championship,1st,40.1,,,,,,,,,,,,,,,,,,,,,,,Diogo Jota,FW
+2018-2019,21,Wolves,eng ENG,1. Premier League,7th,26.2,1131,13,101,534,524,120,1131,119,57,47.9,62,52.1,685,6068,3135,125,94,47,75,48,840,182,Diogo Jota,FW
+2019-2020,22,Wolves,eng ENG,1. Premier League,7th,25.4,1256,9,106,589,592,146,1256,133,66,49.6,67,50.4,785,6181,3569,131,93,51,80,57,963,200,Diogo Jota,FW
+2020-2021,23,Liverpool,eng ENG,1. Premier League,3rd,12.4,626,6,54,251,330,91,626,43,21,48.8,22,51.2,425,2724,1510,54,42,23,39,20,492,125,Diogo Jota,FW
+2021-2022,24,Liverpool,eng ENG,1. Premier League,2nd,26.3,1097,13,87,434,596,182,1097,69,27,39.1,42,60.9,649,3861,2029,74,52,34,63,33,844,191,Diogo Jota,FW
+2022-2023,25,Liverpool,eng ENG,1. Premier League,5th,12.6,550,21,71,235,252,73,550,39,14,35.9,21,53.8,339,1938,1067,34,26,14,34,19,403,104,Diogo Jota,FW
+2023-2024,26,Liverpool,eng ENG,1. Premier League,3rd,12.7,594,8,53,240,311,107,594,41,15,36.6,21,51.2,350,2104,1239,54,29,23,42,18,427,111,Diogo Jota,FW
+2024-2025,27,Liverpool,eng ENG,1. Premier League,1st,6.7,253,4,19,104,136,47,253,18,6,33.3,11,61.1,136,944,470,23,15,13,19,12,178,47,Diogo Jota,FW
+2014-2015,17,Charlton Ath,eng ENG,2. Championship,12th,16.5,,,,,,,,,,,,,,,,,,,,,,,Joe Gomez,DF
+2015-2016,18,Liverpool,eng ENG,1. Premier League,8th,4.9,,,,,,,,,,,,,,,,,,,,,,,Joe Gomez,DF
+2016-2017,19,Liverpool,eng ENG,Jr. PL2 — Div. 1,3rd,7.5,,,,,,,,,,,,,,,,,,,,,,,Joe Gomez,DF
+2017-2018,20,Liverpool,eng ENG,1. Premier League,4th,21.1,1808,54,422,1085,314,8,1808,26,23,88.5,3,11.5,829,4322,2611,54,36,2,16,13,1083,65,Joe Gomez,DF
+2018-2019,21,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,0.7,,,,,,,,,,,,,,,,,,,,,,,Joe Gomez,DF
+2018-2019,21,Liverpool,eng ENG,1. Premier League,2nd,11.8,940,55,337,561,49,8,940,5,4,80.0,1,20.0,608,2662,1410,6,2,0,10,2,637,13,Joe Gomez,DF
+2019-2020,22,Liverpool,eng ENG,1. Premier League,1st,22.3,2185,137,774,1354,64,1,2185,11,8,72.7,3,27.3,1591,7257,4208,17,14,1,14,3,1605,11,Joe Gomez,DF
+2020-2021,23,Liverpool,eng ENG,1. Premier League,3rd,6.6,603,64,236,364,5,0,603,4,4,100.0,0,0.0,431,2011,1053,4,1,0,2,3,429,1,Joe Gomez,DF
+2021-2022,24,Liverpool,eng ENG,1. Premier League,2nd,3.7,332,4,64,168,103,6,332,8,4,50.0,4,50.0,163,757,338,11,10,2,5,2,206,29,Joe Gomez,DF
+2022-2023,25,Liverpool,eng ENG,1. Premier League,5th,16.3,1521,114,602,851,76,6,1521,5,4,80.0,1,20.0,1005,4826,2616,15,12,0,13,5,1040,5,Joe Gomez,DF
+2023-2024,26,Liverpool,eng ENG,1. Premier League,3rd,19.8,1564,85,371,832,375,28,1564,32,15,46.9,12,37.5,891,4686,2313,44,34,3,25,11,979,105,Joe Gomez,DF
+2024-2025,27,Liverpool,eng ENG,1. Premier League,1st,5.8,481,54,183,264,37,5,481,0,0,,0,,303,1638,947,5,2,1,1,2,335,2,Joe Gomez,DF
+2015-2016,19,Olympiacos,gr GRE,1. Super League,1st,2.2,,,,,,,,,,,,,,,,,,,,,,,Kostas Tsimikas,DF
+2016-2017,20,Olympiacos,gr GRE,1. Super League,1st,0.7,,,,,,,,,,,,,,,,,,,,,,,Kostas Tsimikas,DF
+2016-2017,20,Esbjerg,dk DEN,1. Danish Superliga,14th,7.7,,,,,,,,,,,,,,,,,,,,,,,Kostas Tsimikas,DF
+2017-2018,21,Willem II,nl NED,1. Eredivisie,13th,31.3,,,,,,,,,,,,,,,,,,,,,,,Kostas Tsimikas,DF
+2018-2019,22,Olympiacos,gr GRE,1. Super League,2nd,14.0,,,,,,,,,,,,,,,,,,,,,,,Kostas Tsimikas,DF
+2019-2020,23,Olympiacos,gr GRE,1. Super League,1st,25.7,,,,,,,,,,,,,,,,,,,,,,,Kostas Tsimikas,DF
+2020-2021,24,Liverpool,eng ENG,1. Premier League,3rd,0.1,10,0,1,3,6,0,10,0,0,,0,,7,21,9,1,0,0,1,0,8,3,Kostas Tsimikas,DF
+2021-2022,25,Liverpool,eng ENG,1. Premier League,2nd,9.7,809,39,170,313,332,32,809,20,8,40.0,12,60.0,430,2581,1422,48,22,7,8,5,485,109,Kostas Tsimikas,DF
+2022-2023,26,Liverpool,eng ENG,1. Premier League,5th,8.6,713,23,170,281,268,22,713,15,4,26.7,8,53.3,355,1833,874,23,9,5,13,7,409,77,Kostas Tsimikas,DF
+2023-2024,27,Liverpool,eng ENG,1. Premier League,3rd,7.5,573,17,119,235,225,17,573,15,4,26.7,10,66.7,310,1689,861,24,20,3,9,4,338,73,Kostas Tsimikas,DF
+2024-2025,28,Liverpool,eng ENG,1. Premier League,1st,2.8,263,14,74,127,63,2,263,2,2,100.0,0,0.0,123,556,340,5,4,0,1,1,161,7,Kostas Tsimikas,DF
+2021-2022,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,8.5,,,,,,,,,,,,,,,,,,,,,,,Jarell Quansah,DF
+2022-2023,19,Bristol Rovers,eng ENG,3. League One,17th,15.2,,,,,,,,,,,,,,,,,,,,,,,Jarell Quansah,DF
+2022-2023,19,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,11.0,,,,,,,,,,,,,,,,,,,,,,,Jarell Quansah,DF
+2023-2024,20,Liverpool,eng ENG,Jr. PL2,,1.0,,,,,,,,,,,,,,,,,,,,,,,Jarell Quansah,DF
+2023-2024,20,Liverpool,eng ENG,1. Premier League,3rd,13.2,1284,92,521,724,46,8,1284,7,4,57.1,3,42.9,894,4943,2497,13,10,0,3,2,952,1,Jarell Quansah,DF
+2024-2025,21,Liverpool,eng ENG,1. Premier League,1st,2.5,200,23,100,82,18,2,200,2,1,50.0,1,50.0,124,732,411,2,3,1,3,2,136,2,Jarell Quansah,DF
+2019-2020,16,Liverpool,eng ENG,Jr. PL2 — Div. 1,5th,1.0,,,,,,,,,,,,,,,,,,,,,,,Conor Bradley,DF
+2020-2021,17,Liverpool,eng ENG,Jr. PL2 — Div. 1,7th,13.7,,,,,,,,,,,,,,,,,,,,,,,Conor Bradley,DF
+2021-2022,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,19.6,,,,,,,,,,,,,,,,,,,,,,,Conor Bradley,DF
+2022-2023,19,Bolton,eng ENG,3. League One,5th,40.2,,,,,,,,,,,,,,,,,,,,,,,Conor Bradley,DF
+2023-2024,20,Liverpool,eng ENG,1. Premier League,3rd,8.4,661,14,140,289,243,38,661,30,13,43.3,14,46.7,373,2144,1085,35,29,12,17,10,388,64,Conor Bradley,DF
+2024-2025,21,Liverpool,eng ENG,1. Premier League,1st,2.7,234,12,69,97,70,16,234,4,3,75.0,1,25.0,124,721,379,11,5,4,3,1,141,15,Conor Bradley,DF
+2018-2019,25,Sint-Truiden,be BEL,1. First Division A,9th,12.3,660,23,151,393,123,12,660,4,4,100.0,0,0.0,334,1828,795,13,23,2,15,14,435,29,Wataru Endo,MF
+2019-2020,26,Sint-Truiden,be BEL,1. First Division A,12th,1.7,88,9,25,48,16,2,88,1,1,100.0,0,0.0,55,270,140,3,2,1,2,1,65,5,Wataru Endo,MF
+2019-2020,26,Stuttgart,de GER,2. 2. Bundesliga,2nd,20.0,1593,43,267,1126,215,17,1593,27,26,96.3,1,3.7,944,4627,2327,23,24,1,33,31,1093,27,Wataru Endo,MF
+2020-2021,27,Stuttgart,de GER,1. Bundesliga,9th,32.8,2202,116,581,1391,253,22,2202,53,39,73.6,14,26.4,1178,5513,2914,35,31,4,50,53,1483,39,Wataru Endo,MF
+2021-2022,28,Stuttgart,de GER,1. Bundesliga,15th,32.2,1981,96,494,1151,359,54,1981,54,34,63.0,20,37.0,1051,4554,2186,34,29,6,51,42,1290,63,Wataru Endo,MF
+2022-2023,29,Stuttgart,de GER,1. Bundesliga,16th,32.5,1873,108,507,1013,380,55,1873,55,28,50.9,20,36.4,994,4470,2190,32,38,5,55,52,1217,67,Wataru Endo,MF
+2023-2024,30,Liverpool,eng ENG,1. Premier League,3rd,19.1,1514,48,295,1002,224,9,1514,16,10,62.5,5,31.3,890,3465,1523,10,21,2,27,22,1098,21,Wataru Endo,MF
+2024-2025,31,Liverpool,eng ENG,1. Premier League,1st,0.7,59,1,10,36,14,2,59,1,1,100.0,0,0.0,33,124,29,0,0,1,3,1,42,1,Wataru Endo,MF
+2018-2019,15,Fulham,eng ENG,Jr. PL2 — Div. 2,10th,4.1,,,,,,,,,,,,,,,,,,,,,,,Harvey Elliott,"FW,MF"
+2018-2019,15,Fulham,eng ENG,1. Premier League,19th,0.2,15,0,0,7,8,1,15,0,0,,0,,9,71,30,1,0,0,2,0,11,2,Harvey Elliott,"FW,MF"
+2019-2020,16,Liverpool,eng ENG,Jr. PL2 — Div. 1,5th,10.1,,,,,,,,,,,,,,,,,,,,,,,Harvey Elliott,"FW,MF"
+2019-2020,16,Liverpool,eng ENG,1. Premier League,1st,0.1,16,0,0,6,10,0,16,2,1,50.0,1,50.0,11,40,17,0,0,0,0,0,11,1,Harvey Elliott,"FW,MF"
+2020-2021,17,Blackburn,eng ENG,2. Championship,15th,30.6,1865,22,191,836,856,93,1865,63,36,57.1,27,42.9,1213,7181,3404,106,78,27,73,26,1416,211,Harvey Elliott,"FW,MF"
+2021-2022,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,1.0,,,,,,,,,,,,,,,,,,,,,,,Harvey Elliott,"FW,MF"
+2021-2022,18,Liverpool,eng ENG,1. Premier League,2nd,3.8,302,1,23,130,151,19,302,9,2,22.2,7,77.8,174,882,486,10,15,2,8,0,226,38,Harvey Elliott,"FW,MF"
+2022-2023,19,Liverpool,eng ENG,1. Premier League,5th,17.9,1194,14,147,566,491,50,1194,42,19,45.2,15,35.7,759,3981,1943,54,40,10,26,23,867,129,Harvey Elliott,"FW,MF"
+2023-2024,20,Liverpool,eng ENG,1. Premier League,3rd,15.0,1141,8,91,546,512,71,1141,20,9,45.0,10,50.0,722,3946,1753,44,50,9,15,9,860,122,Harvey Elliott,"FW,MF"
+2024-2025,21,Liverpool,eng ENG,1. Premier League,1st,0.5,73,1,6,29,38,3,73,2,0,0.0,2,100.0,35,178,96,2,2,1,1,1,45,6,Harvey Elliott,"FW,MF"
+2016-2017,18,Fiorentina,it ITA,1. Serie A,8th,16.6,,,,,,,,,,,,,,,,,,,,,,,Federico Chiesa,FW
+2017-2018,19,Fiorentina,it ITA,1. Serie A,8th,33.5,1526,15,193,531,840,153,1526,140,76,54.3,64,45.7,1052,8245,4506,164,107,57,87,75,1098,339,Federico Chiesa,FW
+2018-2019,20,Fiorentina,it ITA,1. Serie A,16th,33.7,1537,6,109,512,950,218,1537,180,79,43.9,101,56.1,1031,8192,4509,158,89,80,109,66,1100,357,Federico Chiesa,FW
+2019-2020,21,Fiorentina,it ITA,1. Serie A,10th,29.3,1186,5,141,439,634,150,1184,91,52,57.1,39,42.9,758,5338,3141,108,55,40,63,48,844,186,Federico Chiesa,FW
+2020-2021,22,Fiorentina,it ITA,1. Serie A,13th,2.7,158,6,41,41,79,22,158,13,6,46.2,7,53.8,100,591,351,13,5,10,5,5,104,16,Federico Chiesa,FW
+2020-2021,22,Juventus,it ITA,1. Serie A,4th,24.6,1085,20,146,419,542,109,1085,84,48,57.1,36,42.9,642,4728,2847,92,48,40,40,23,752,179,Federico Chiesa,FW
+2021-2022,23,Juventus,it ITA,1. Serie A,4th,9.6,427,7,58,167,208,47,427,41,21,51.2,21,51.2,258,1758,1134,36,20,14,20,15,266,59,Federico Chiesa,FW
+2022-2023,24,Juventus,it ITA,1. Serie A,7th,9.5,476,4,56,166,265,49,476,45,24,53.3,19,42.2,293,2176,1193,46,28,16,26,19,331,88,Federico Chiesa,FW
+2023-2024,25,Juventus,it ITA,1. Serie A,3rd,24.4,1006,6,77,303,643,130,1005,95,35,36.8,48,50.5,643,4746,2697,111,56,58,54,40,740,216,Federico Chiesa,FW
+2024-2025,26,Liverpool,eng ENG,1. Premier League,1st,0.2,12,0,2,5,5,3,12,1,0,0.0,1,100.0,11,35,13,1,0,1,1,2,9,2,Federico Chiesa,FW
+2019-2020,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,5th,1.0,,,,,,,,,,,,,,,,,,,,,,,Vitezslav Jaros,GK
+2020-2021,19,Liverpool,eng ENG,Jr. PL2 — Div. 1,7th,3.0,,,,,,,,,,,,,,,,,,,,,,,Vitezslav Jaros,GK
+2021-2022,20,Notts County,eng ENG,5. National League,5th,15.0,,,,,,,,,,,,,,,,,,,,,,,Vitezslav Jaros,GK
+2022-2023,21,Stockport,eng ENG,4. League Two,4th,10.4,,,,,,,,,,,,,,,,,,,,,,,Vitezslav Jaros,GK
+2023-2024,22,Sturm Graz,at AUT,1. Bundesliga,1st,14.0,,,,,,,,,,,,,,,,,,,,,,,Vitezslav Jaros,GK
+2024-2025,23,Liverpool,eng ENG,1. Premier League,1st,0.1,8,5,8,0,0,0,8,0,0,,0,,7,29,8,0,0,0,0,0,5,0,Vitezslav Jaros,GK
+2023-2024,17,Liverpool,eng ENG,Jr. PL2,,6.3,,,,,,,,,,,,,,,,,,,,,,,Jayden Danns,FW
+2023-2024,17,Liverpool,eng ENG,1. Premier League,3rd,0.1,7,0,0,3,4,0,7,0,0,,0,,3,11,5,0,1,0,0,0,4,2,Jayden Danns,FW
+2024-2025,18,Liverpool,eng ENG,Jr. PL2,4th,0.3,,,,,,,,,,,,,,,,,,,,,,,Jayden Danns,FW
+2022-2023,17,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,2.8,,,,,,,,,,,,,,,,,,,,,,,James McConnell,MF
+2023-2024,18,Liverpool,eng ENG,Jr. PL2,,10.4,,,,,,,,,,,,,,,,,,,,,,,James McConnell,MF
+2023-2024,18,Liverpool,eng ENG,1. Premier League,3rd,0.0,10,0,1,7,2,0,10,1,0,0.0,0,0.0,5,47,11,0,1,0,1,0,6,0,James McConnell,MF
+2024-2025,19,Liverpool,eng ENG,Jr. PL2,4th,0.8,,,,,,,,,,,,,,,,,,,,,,,James McConnell,MF
+2020-2021,17,Liverpool,eng ENG,Jr. PL2 — Div. 1,7th,12.1,,,,,,,,,,,,,,,,,,,,,,,Tyler Morton,MF
+2021-2022,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,18.7,,,,,,,,,,,,,,,,,,,,,,,Tyler Morton,MF
+2021-2022,18,Liverpool,eng ENG,1. Premier League,2nd,0.7,41,0,2,33,6,0,41,0,0,,0,,24,54,12,0,1,0,2,0,23,0,Tyler Morton,MF
+2022-2023,19,Blackburn Rovers,eng ENG,Jr. PL2 — Div. 1,10th,1.0,,,,,,,,,,,,,,,,,,,,,,,Tyler Morton,MF
+2022-2023,19,Blackburn,eng ENG,2. Championship,7th,30.9,2202,69,577,1273,366,20,2202,34,17,50.0,14,41.2,1177,4346,1966,24,21,6,46,20,1494,49,Tyler Morton,MF
+2023-2024,20,Hull City,eng ENG,2. Championship,7th,33.0,2348,105,575,1216,573,49,2348,46,24,52.2,20,43.5,1309,5114,2322,36,33,11,33,20,1666,86,Tyler Morton,MF
+2024-2025,21,Liverpool,eng ENG,Jr. PL2,4th,2.9,,,,,,,,,,,,,,,,,,,,,,,Tyler Morton,MF

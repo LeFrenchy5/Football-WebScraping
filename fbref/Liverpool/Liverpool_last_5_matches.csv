@@ -1,0 +1,116 @@
+Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,Player,Position,Score
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y*,CB,90,0,0,0,0.0,2.0,1.0,0,0,55.0,1.0,2.0,2.0,0.3,0.3,0.0,1.0,0.0,37.0,41.0,90.2,3.0,28.0,0.0,0.0,0.0,Virgil van Dijk,DF,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y*,CB,90,0,0,0,0.0,2.0,1.0,0,0,69.0,1.0,0.0,1.0,0.1,0.1,0.0,1.0,0.0,57.0,61.0,93.4,1.0,38.0,0.0,2.0,2.0,Virgil van Dijk,DF,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y*,CB,90,0,0,0,0.0,0.0,0.0,0,0,116.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,103.0,108.0,95.4,4.0,81.0,0.0,0.0,0.0,Virgil van Dijk,DF,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y*,CB,90,0,0,0,0.0,0.0,0.0,0,0,78.0,7.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,55.0,64.0,85.9,1.0,28.0,0.0,0.0,0.0,Virgil van Dijk,DF,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y*,CB,90,0,0,0,0.0,1.0,0.0,0,0,83.0,0.0,0.0,2.0,0.1,0.1,0.0,1.0,0.0,76.0,79.0,96.2,5.0,58.0,0.0,0.0,0.0,Virgil van Dijk,DF,2–2
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,RW,90,1,0,1,1.0,3.0,0.0,0,0,47.0,0.0,0.0,0.0,1.0,0.2,0.4,6.0,0.0,24.0,32.0,75.0,5.0,30.0,8.0,4.0,2.0,Mohamed Salah,FW,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,RW,90,1,2,0,0.0,7.0,4.0,0,0,51.0,0.0,0.0,0.0,1.8,1.8,0.7,7.0,3.0,21.0,39.0,53.8,3.0,36.0,9.0,5.0,3.0,Mohamed Salah,FW,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,RW,90,1,0,0,0.0,5.0,3.0,0,0,55.0,0.0,0.0,0.0,0.6,0.6,0.1,3.0,1.0,35.0,45.0,77.8,7.0,42.0,5.0,3.0,2.0,Mohamed Salah,FW,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,RW,86,2,2,0,0.0,7.0,3.0,0,0,27.0,0.0,0.0,0.0,2.4,2.4,1.1,7.0,2.0,10.0,15.0,66.7,5.0,22.0,2.0,4.0,1.0,Mohamed Salah,FW,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,"RW,FW",90,0,1,0,0.0,4.0,0.0,0,0,48.0,1.0,0.0,0.0,0.2,0.2,0.5,3.0,1.0,20.0,31.0,64.5,1.0,35.0,2.0,7.0,3.0,Mohamed Salah,FW,2–2
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,DM,90,0,0,0,0.0,2.0,0.0,0,0,73.0,0.0,0.0,0.0,0.1,0.1,0.4,6.0,0.0,56.0,64.0,87.5,4.0,38.0,2.0,2.0,2.0,Ryan Gravenberch,MF,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,DM,56,0,1,0,0.0,0.0,0.0,0,0,39.0,1.0,1.0,0.0,0.0,0.0,0.1,3.0,1.0,27.0,29.0,93.1,3.0,24.0,2.0,3.0,1.0,Ryan Gravenberch,MF,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,DM,86,0,0,0,0.0,0.0,0.0,0,0,61.0,2.0,2.0,0.0,0.0,0.0,0.2,3.0,0.0,49.0,51.0,96.1,9.0,40.0,2.0,2.0,0.0,Ryan Gravenberch,MF,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,DM,90,0,0,0,0.0,0.0,0.0,0,0,57.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,43.0,47.0,91.5,1.0,32.0,2.0,3.0,1.0,Ryan Gravenberch,MF,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,"CB,CM,DM",90,0,0,0,0.0,0.0,0.0,0,0,77.0,2.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,65.0,68.0,95.6,8.0,58.0,1.0,5.0,2.0,Ryan Gravenberch,MF,2–2
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,RB,85,0,0,0,0.0,1.0,0.0,1,0,95.0,0.0,4.0,3.0,0.1,0.1,0.2,3.0,0.0,57.0,80.0,71.3,11.0,44.0,3.0,0.0,0.0,Trent Alexander-Arnold,DF,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,RB,90,1,0,0,0.0,1.0,1.0,0,0,92.0,4.0,1.0,3.0,0.0,0.0,0.7,6.0,0.0,64.0,80.0,80.0,11.0,59.0,2.0,0.0,0.0,Trent Alexander-Arnold,DF,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,RB,90,0,0,0,0.0,3.0,0.0,0,0,110.0,2.0,2.0,0.0,0.1,0.1,0.1,7.0,0.0,76.0,100.0,76.0,21.0,73.0,6.0,0.0,0.0,Trent Alexander-Arnold,DF,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,RB,90,0,1,0,0.0,1.0,1.0,0,0,93.0,3.0,3.0,2.0,0.0,0.0,1.1,7.0,1.0,53.0,76.0,69.7,7.0,49.0,0.0,0.0,0.0,Trent Alexander-Arnold,DF,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,RB,78,0,0,0,0.0,0.0,0.0,0,0,83.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,59.0,76.0,77.6,10.0,47.0,1.0,0.0,0.0,Trent Alexander-Arnold,DF,2–2
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,LB,90,0,0,0,0.0,0.0,0.0,0,0,60.0,1.0,3.0,1.0,0.0,0.0,0.1,4.0,0.0,44.0,54.0,81.5,5.0,35.0,2.0,0.0,0.0,Andrew Robertson,DF,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,LB,73,0,0,0,0.0,1.0,0.0,0,0,64.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,52.0,59.0,88.1,6.0,30.0,1.0,0.0,0.0,Andrew Robertson,DF,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,LB,85,0,0,0,0.0,1.0,0.0,1,0,112.0,0.0,0.0,2.0,0.0,0.0,0.1,4.0,0.0,90.0,107.0,84.1,13.0,78.0,4.0,0.0,0.0,Andrew Robertson,DF,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,LB,90,0,0,0,0.0,0.0,0.0,0,0,77.0,3.0,1.0,0.0,0.0,0.0,0.1,2.0,0.0,60.0,68.0,88.2,6.0,39.0,2.0,0.0,0.0,Andrew Robertson,DF,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,LB,15,0,0,0,0.0,0.0,0.0,0,1,14.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,12.0,75.0,0.0,6.0,0.0,0.0,0.0,Andrew Robertson,DF,2–2
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,DM,90,0,1,0,0.0,4.0,1.0,0,0,68.0,2.0,1.0,3.0,0.4,0.4,0.3,4.0,2.0,41.0,50.0,82.0,4.0,32.0,0.0,6.0,3.0,Alexis Mac Allister,MF,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,DM,90,0,0,0,0.0,0.0,0.0,0,0,76.0,4.0,1.0,2.0,0.0,0.0,0.6,7.0,1.0,58.0,67.0,86.6,13.0,44.0,1.0,2.0,1.0,Alexis Mac Allister,MF,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,DM,89,0,2,0,0.0,1.0,0.0,0,0,67.0,5.0,1.0,3.0,0.0,0.0,0.7,4.0,2.0,45.0,54.0,83.3,9.0,33.0,3.0,0.0,0.0,Alexis Mac Allister,MF,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,DM,67,1,0,0,0.0,1.0,1.0,0,0,57.0,4.0,4.0,1.0,0.4,0.4,0.0,1.0,0.0,39.0,45.0,86.7,5.0,22.0,1.0,0.0,0.0,Alexis Mac Allister,MF,6–3
+2024-12-04,Wed,Matchweek 14,Away,D,Liverpool,Newcastle Utd,Y,DM,90,0,0,0,0.0,3.0,1.0,1,0,65.0,7.0,0.0,3.0,0.2,0.2,0.1,8.0,1.0,41.0,47.0,87.2,8.0,37.0,1.0,2.0,1.0,Alexis Mac Allister,MF,3–3
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,FW,59,0,0,0,0.0,1.0,0.0,0,0,19.0,1.0,0.0,0.0,0.2,0.2,0.1,3.0,0.0,10.0,12.0,83.3,0.0,18.0,2.0,5.0,2.0,Luis Díaz,FW,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,"FW,LW",90,1,0,0,0.0,5.0,2.0,0,0,45.0,0.0,0.0,2.0,0.3,0.3,0.1,4.0,1.0,32.0,33.0,97.0,5.0,25.0,7.0,1.0,0.0,Luis Díaz,FW,5–0
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,"FW,LW",86,2,0,0,0.0,7.0,5.0,0,0,45.0,0.0,0.0,0.0,1.1,1.1,0.2,6.0,1.0,30.0,34.0,88.2,10.0,27.0,2.0,1.0,1.0,Luis Díaz,FW,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,"FW,WB,LW",90,0,0,0,0.0,2.0,0.0,1,0,27.0,0.0,0.0,1.0,0.6,0.6,0.1,4.0,1.0,16.0,21.0,76.2,3.0,23.0,1.0,2.0,1.0,Luis Díaz,FW,2–2
+2024-12-04,Wed,Matchweek 14,Away,D,Liverpool,Newcastle Utd,N,LW,24,0,0,0,0.0,1.0,0.0,0,0,14.0,0.0,0.0,1.0,0.1,0.1,0.0,1.0,0.0,8.0,9.0,88.9,1.0,8.0,3.0,3.0,1.0,Luis Díaz,FW,3–3
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,N,"AM,LM",14,0,0,0,0.0,0.0,0.0,1,0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,12.0,13.0,92.3,2.0,8.0,1.0,0.0,0.0,Dominik Szoboszlai,MF,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,AM,90,1,1,0,0.0,6.0,1.0,1,0,63.0,1.0,1.0,4.0,2.1,2.1,0.6,7.0,5.0,39.0,45.0,86.7,4.0,23.0,3.0,2.0,1.0,Dominik Szoboszlai,MF,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,"LM,AM",78,0,0,0,0.0,0.0,0.0,0,0,49.0,2.0,0.0,0.0,0.0,0.0,0.5,5.0,0.0,37.0,46.0,80.4,6.0,22.0,3.0,1.0,1.0,Dominik Szoboszlai,MF,2–2
+2024-12-04,Wed,Matchweek 14,Away,D,Liverpool,Newcastle Utd,N,AM,24,0,0,0,0.0,0.0,0.0,0,0,18.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,15.0,15.0,100.0,2.0,14.0,1.0,2.0,0.0,Dominik Szoboszlai,MF,3–3
+2024-12-01,Sun,Matchweek 13,Home,W,Liverpool,Manchester City,Y,"AM,RW",90,0,0,0,0.0,3.0,2.0,0,0,72.0,1.0,1.0,0.0,0.2,0.2,0.3,4.0,0.0,51.0,63.0,81.0,5.0,44.0,4.0,1.0,0.0,Dominik Szoboszlai,MF,2–0
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,CB,90,0,0,0,0.0,0.0,0.0,0,0,83.0,0.0,3.0,3.0,0.0,0.0,0.0,2.0,0.0,51.0,64.0,79.7,6.0,40.0,2.0,0.0,0.0,Ibrahima Konaté,DF,2–2
+2024-11-24,Sun,Matchweek 12,Away,W,Liverpool,Southampton,Y,CB,90,0,0,0,0.0,0.0,0.0,1,0,75.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,66.0,71.0,93.0,5.0,51.0,1.0,0.0,0.0,Ibrahima Konaté,DF,3–2
+2024-11-09,Sat,Matchweek 11,Home,W,Liverpool,Aston Villa,Y,CB,90,0,0,0,0.0,1.0,0.0,0,0,83.0,1.0,1.0,1.0,0.1,0.1,0.0,1.0,0.0,69.0,74.0,93.2,3.0,46.0,0.0,0.0,0.0,Ibrahima Konaté,DF,2–0
+2024-11-02,Sat,Matchweek 10,Home,W,Liverpool,Brighton,Y,CB,45,0,0,0,0.0,2.0,0.0,0,0,35.0,1.0,0.0,0.0,0.3,0.3,0.0,1.0,0.0,25.0,28.0,89.3,1.0,20.0,1.0,0.0,0.0,Ibrahima Konaté,DF,2–1
+2024-10-27,Sun,Matchweek 9,Away,D,Liverpool,Arsenal,Y,CB,90,0,0,0,0.0,0.0,0.0,0,0,71.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,54.0,61.0,88.5,2.0,40.0,0.0,0.0,0.0,Ibrahima Konaté,DF,2–2
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,LW,85,1,0,0,0.0,2.0,1.0,0,0,22.0,0.0,0.0,2.0,0.5,0.5,0.0,1.0,1.0,7.0,10.0,70.0,0.0,12.0,3.0,3.0,2.0,Cody Gakpo,FW,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,LW,57,1,0,0,0.0,2.0,1.0,0,0,27.0,1.0,0.0,0.0,0.2,0.2,0.6,2.0,0.0,19.0,21.0,90.5,2.0,14.0,1.0,2.0,1.0,Cody Gakpo,FW,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,LW,90,1,1,0,0.0,3.0,2.0,0,0,43.0,1.0,0.0,2.0,0.1,0.1,0.4,5.0,2.0,25.0,32.0,78.1,2.0,35.0,4.0,3.0,3.0,Cody Gakpo,FW,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,LW,67,0,0,0,0.0,1.0,0.0,1,0,35.0,2.0,0.0,1.0,0.1,0.1,0.3,3.0,0.0,16.0,22.0,72.7,3.0,23.0,3.0,2.0,0.0,Cody Gakpo,FW,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,LW,69,1,0,0,0.0,3.0,3.0,0,0,34.0,1.0,1.0,0.0,0.6,0.6,0.0,1.0,0.0,14.0,22.0,63.6,0.0,23.0,1.0,3.0,2.0,Cody Gakpo,FW,2–2
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,GK,90,4,2,2,50.0,0.0,0.4,0,0,0.0,0.0,0.0,2.0,0.0,21.0,3.0,9.5,24.2,3.0,0.0,16.0,19.0,1.0,5.3,4.0,13.6,Alisson,GK,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,GK,90,0,0,0,,1.0,0.0,0,0,0.0,0.0,1.0,5.0,20.0,26.0,4.0,19.2,24.0,1.0,0.0,26.0,6.0,0.0,0.0,1.0,8.8,Alisson,GK,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,GK,90,1,1,0,0.0,0.0,0.9,0,0,0.0,0.0,1.0,2.0,50.0,15.0,4.0,13.3,22.8,2.0,0.0,18.0,6.0,0.0,0.0,0.0,11.0,Alisson,GK,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,GK,90,5,3,2,40.0,0.0,1.9,0,0,0.0,0.0,3.0,8.0,37.5,19.0,3.0,36.8,31.1,3.0,33.3,32.7,9.0,0.0,0.0,1.0,16.2,Alisson,GK,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,GK,90,3,2,1,33.3,0.0,1.8,0,0,0.0,0.0,3.0,5.0,60.0,30.0,6.0,13.3,22.0,7.0,14.3,22.9,9.0,1.0,11.1,5.0,21.6,Alisson,GK,2–2
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,Y,AM,60,0,0,0,0.0,0.0,0.0,0,0,37.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,27.0,30.0,90.0,2.0,19.0,0.0,0.0,0.0,Curtis Jones,MF,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,AM,73,0,1,0,0.0,2.0,2.0,0,0,46.0,4.0,0.0,0.0,0.2,0.2,0.1,3.0,1.0,37.0,39.0,94.9,5.0,21.0,0.0,1.0,1.0,Curtis Jones,MF,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,AM,76,1,0,0,0.0,2.0,1.0,0,0,50.0,3.0,0.0,0.0,0.8,0.8,0.0,1.0,0.0,36.0,40.0,90.0,5.0,32.0,0.0,0.0,0.0,Curtis Jones,MF,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,N,DM,23,0,0,0,0.0,0.0,0.0,0,0,20.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,15.0,100.0,0.0,14.0,0.0,0.0,0.0,Curtis Jones,MF,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,RM,69,0,0,0,0.0,1.0,0.0,1,0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,46.0,48.0,95.8,5.0,33.0,2.0,0.0,0.0,Curtis Jones,MF,2–2
+2024-12-04,Wed,Matchweek 14,Away,D,Liverpool,Newcastle Utd,Y,GK,90,6,3,3,50.0,0.0,2.5,0,0,0.0,0.0,3.0,11.0,27.3,42.0,9.0,21.4,25.5,3.0,66.7,40.7,13.0,1.0,7.7,1.0,13.5,Caoimhín Kelleher,GK,3–3
+2024-12-01,Sun,Matchweek 13,Home,W,Liverpool,Manchester City,Y,GK,90,2,0,2,100.0,1.0,0.9,0,0,0.0,0.0,3.0,16.0,18.8,45.0,5.0,35.6,31.6,0.0,,,6.0,0.0,0.0,0.0,,Caoimhín Kelleher,GK,2–0
+2024-11-24,Sun,Matchweek 12,Away,W,Liverpool,Southampton,Y,GK,90,5,2,2,60.0,0.0,1.7,1,0,1.0,0.0,2.0,7.0,28.6,17.0,1.0,29.4,29.9,3.0,66.7,44.7,3.0,0.0,0.0,4.0,24.2,Caoimhín Kelleher,GK,3–2
+2024-11-09,Sat,Matchweek 11,Home,W,Liverpool,Aston Villa,Y,GK,90,2,0,2,100.0,1.0,0.6,0,0,0.0,0.0,1.0,6.0,16.7,28.0,3.0,17.9,25.7,1.0,100.0,62.0,17.0,2.0,11.8,0.0,7.0,Caoimhín Kelleher,GK,2–0
+2024-11-02,Sat,Matchweek 10,Home,W,Liverpool,Brighton,Y,GK,90,5,1,4,80.0,0.0,0.5,0,0,0.0,0.0,1.0,4.0,25.0,27.0,4.0,14.8,25.4,0.0,,,10.0,0.0,0.0,2.0,20.8,Caoimhín Kelleher,GK,2–1
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,N,FW,31,0,0,0,0.0,0.0,0.0,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,1.0,1.0,1.0,Darwin Núñez,FW,2–2
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,FW,77,0,0,0,0.0,4.0,1.0,0,0,25.0,0.0,0.0,1.0,0.4,0.4,0.0,1.0,0.0,10.0,19.0,52.6,3.0,9.0,1.0,0.0,0.0,Darwin Núñez,FW,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,N,LW,4,0,0,0,0.0,0.0,0.0,0,0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,50.0,0.0,2.0,2.0,0.0,0.0,Darwin Núñez,FW,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,N,FW,21,0,1,0,0.0,1.0,0.0,1,0,9.0,1.0,0.0,0.0,0.1,0.1,0.3,2.0,1.0,6.0,6.0,100.0,1.0,5.0,2.0,0.0,0.0,Darwin Núñez,FW,2–2
+2024-12-04,Wed,Matchweek 14,Away,D,Liverpool,Newcastle Utd,Y,FW,90,0,0,0,0.0,3.0,0.0,1,0,23.0,1.0,0.0,1.0,0.4,0.4,0.0,1.0,0.0,9.0,13.0,69.2,1.0,14.0,1.0,2.0,0.0,Darwin Núñez,FW,3–3
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,N,AM,30,0,0,0,0.0,2.0,1.0,0,0,16.0,0.0,0.0,2.0,0.3,0.3,0.0,1.0,0.0,4.0,6.0,66.7,1.0,5.0,0.0,1.0,0.0,Diogo Jota,FW,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,N,FW,33,1,0,0,0.0,2.0,2.0,0,0,21.0,2.0,0.0,0.0,0.5,0.5,0.0,2.0,0.0,10.0,16.0,62.5,1.0,13.0,5.0,1.0,1.0,Diogo Jota,FW,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,N,FW,13,0,0,0,0.0,0.0,0.0,0,0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,10.0,90.0,0.0,5.0,0.0,1.0,0.0,Diogo Jota,FW,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,N,FW,23,0,0,0,0.0,1.0,0.0,0,0,17.0,0.0,0.0,1.0,0.1,0.1,0.0,3.0,0.0,12.0,13.0,92.3,5.0,11.0,2.0,0.0,0.0,Diogo Jota,FW,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,N,AM,12,1,0,0,0.0,2.0,1.0,0,0,19.0,1.0,0.0,0.0,0.4,0.4,0.3,5.0,1.0,10.0,15.0,66.7,1.0,11.0,3.0,3.0,3.0,Diogo Jota,FW,2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,Y,CB,36,0,0,0,0.0,0.0,0.0,0,0,34.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,24.0,29.0,82.8,4.0,16.0,0.0,0.0,0.0,Joe Gomez,DF,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,Y,CB,90,0,0,0,0.0,0.0,0.0,1,0,107.0,2.0,1.0,1.0,0.0,0.0,0.1,2.0,0.0,92.0,100.0,92.0,14.0,77.0,4.0,0.0,0.0,Joe Gomez,DF,3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,Y,CB,90,0,0,0,0.0,0.0,0.0,0,0,74.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,58.0,64.0,90.6,7.0,49.0,0.0,0.0,0.0,Joe Gomez,DF,6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,Y,"LB,CB",90,0,0,0,0.0,1.0,0.0,0,0,77.0,4.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,61.0,68.0,89.7,5.0,38.0,1.0,0.0,0.0,Joe Gomez,DF,2–2
+2024-12-04,Wed,Matchweek 14,Away,D,Liverpool,Newcastle Utd,Y,CB,66,0,0,0,0.0,0.0,0.0,0,0,62.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,48.0,53.0,90.6,2.0,49.0,0.0,0.0,0.0,Joe Gomez,DF,3–3
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,N,LB,17,0,0,0,0.0,0.0,0.0,0,0,12.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,6.0,66.7,0.0,2.0,0.0,0.0,0.0,Kostas Tsimikas,DF,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,N,LB,5,0,0,0,0.0,0.0,0.0,0,0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,14.0,92.9,3.0,10.0,0.0,0.0,0.0,Kostas Tsimikas,DF,3–1
+2024-11-02,Sat,Matchweek 10,Home,W,Liverpool,Brighton,Y,LB,90,0,0,0,0.0,1.0,1.0,0,0,79.0,7.0,0.0,1.0,0.0,0.0,0.5,3.0,0.0,56.0,67.0,83.6,8.0,34.0,0.0,1.0,1.0,Kostas Tsimikas,DF,2–1
+2024-10-27,Sun,Matchweek 9,Away,D,Liverpool,Arsenal,N,LB,28,0,0,0,0.0,0.0,0.0,0,0,28.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,24.0,83.3,1.0,12.0,0.0,0.0,0.0,Kostas Tsimikas,DF,2–2
+2024-10-05,Sat,Matchweek 7,Away,W,Liverpool,Crystal Palace,Y,LB,78,0,0,0,0.0,1.0,0.0,0,0,94.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,1.0,77.0,88.0,87.5,12.0,48.0,4.0,1.0,1.0,Kostas Tsimikas,DF,1–0
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,N,CB,54,0,0,0,0.0,0.0,0.0,0,0,48.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,45.0,45.0,100.0,2.0,34.0,0.0,0.0,0.0,Jarell Quansah,DF,5–0
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,N,CB,21,0,0,0,0.0,0.0,0.0,0,0,36.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,31.0,83.9,1.0,24.0,0.0,1.0,0.0,Jarell Quansah,DF,2–2
+2024-12-04,Wed,Matchweek 14,Away,D,Liverpool,Newcastle Utd,Y,"RB,CB",90,0,0,0,0.0,0.0,0.0,1,0,69.0,5.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,46.0,55.0,83.6,3.0,45.0,1.0,1.0,1.0,Jarell Quansah,DF,3–3
+2024-12-01,Sun,Matchweek 13,Home,W,Liverpool,Manchester City,N,RB,18,0,0,0,0.0,0.0,0.0,0,0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,11.0,81.8,0.0,5.0,1.0,0.0,0.0,Jarell Quansah,DF,2–0
+2024-08-17,Sat,Matchweek 1,Away,W,Liverpool,Ipswich Town,Y,CB,45,0,0,0,0.0,0.0,0.0,0,0,35.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,25.0,28.0,89.3,0.0,16.0,0.0,0.0,0.0,Jarell Quansah,DF,2–0
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,N,RB,5,0,0,0,0.0,1.0,1.0,0,0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0,100.0,1.0,2.0,1.0,1.0,1.0,Conor Bradley,DF,2–2
+2024-11-24,Sun,Matchweek 12,Away,W,Liverpool,Southampton,Y,RB,90,0,0,0,0.0,3.0,1.0,1,0,64.0,2.0,0.0,0.0,0.2,0.2,0.0,3.0,1.0,44.0,53.0,83.0,1.0,29.0,1.0,2.0,1.0,Conor Bradley,DF,3–2
+2024-11-09,Sat,Matchweek 11,Home,W,Liverpool,Aston Villa,N,RB,66,0,0,0,0.0,0.0,0.0,0,0,62.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,48.0,53.0,90.6,4.0,36.0,3.0,0.0,0.0,Conor Bradley,DF,2–0
+2024-11-02,Sat,Matchweek 10,Home,W,Liverpool,Brighton,N,RW,1,0,0,0,0.0,0.0,0.0,0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,100.0,0.0,1.0,0.0,0.0,0.0,Conor Bradley,DF,2–1
+2024-09-14,Sat,Matchweek 4,Home,L,Liverpool,Nott'ham Forest,N,"CB,RB",31,0,0,0,0.0,0.0,0.0,0,0,24.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,23.0,78.3,1.0,15.0,2.0,0.0,0.0,Conor Bradley,DF,0–1
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,N,DM,34,0,0,0,0.0,0.0,0.0,0,0,26.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,23.0,24.0,95.8,3.0,16.0,0.0,0.0,0.0,Wataru Endo,MF,5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,N,"CM,DM",4,0,0,0,0.0,0.0,0.0,0,0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,75.0,0.0,4.0,0.0,0.0,0.0,Wataru Endo,MF,3–1
+2024-11-24,Sun,Matchweek 12,Away,W,Liverpool,Southampton,N,DM,1,0,0,0,0.0,0.0,0.0,0,0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,100.0,2.0,1.0,0.0,1.0,1.0,Wataru Endo,MF,3–2
+2024-11-09,Sat,Matchweek 11,Home,W,Liverpool,Aston Villa,N,DM,4,0,0,0,0.0,0.0,0.0,0,0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,100.0,0.0,3.0,0.0,0.0,0.0,Wataru Endo,MF,2–0
+2024-11-02,Sat,Matchweek 10,Home,W,Liverpool,Brighton,N,DM,14,0,0,0,0.0,0.0,0.0,0,0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,100.0,0.0,4.0,0.0,0.0,0.0,Wataru Endo,MF,2–1
+2025-01-05,Sun,Matchweek 20,Home,D,Liverpool,Manchester Utd,N,LW,5,0,0,0,0.0,0.0,0.0,0,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,5.0,80.0,1.0,2.0,0.0,0.0,0.0,Harvey Elliott,"FW,MF",2–2
+2024-12-29,Sun,Matchweek 19,Away,W,Liverpool,West Ham,N,AM,17,0,0,0,0.0,0.0,0.0,0,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,50.0,0.0,2.0,0.0,0.0,0.0,Harvey Elliott,"FW,MF",5–0
+2024-12-26,Thu,Matchweek 18,Home,W,Liverpool,Leicester City,N,RM,1,0,0,0,0.0,0.0,0.0,0,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,100.0,2.0,6.0,0.0,0.0,0.0,Harvey Elliott,"FW,MF",3–1
+2024-12-22,Sun,Matchweek 17,Away,W,Liverpool,Tottenham,N,RW,4,0,0,0,0.0,0.0,0.0,0,0,9.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,7.0,85.7,1.0,3.0,0.0,1.0,0.0,Harvey Elliott,"FW,MF",6–3
+2024-12-14,Sat,Matchweek 16,Home,D,Liverpool,Fulham,N,WB,12,0,0,0,0.0,1.0,0.0,0,0,30.0,2.0,0.0,0.0,0.0,0.0,0.1,2.0,0.0,18.0,26.0,69.2,3.0,12.0,1.0,1.0,0.0,Harvey Elliott,"FW,MF",2–2
+2024-11-30,Sat,Regular season,Away,D,Liverpool,Reading FC U21,Y*,CB,90,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Amara Nallo,DF,1–1
+2024-11-02,Sat,Regular season,Home,W,Liverpool,Wolverhampton Wanderers,Y*,CB,75,0,0,0,0.0,,,1,0,,,,,,,,,,,,,,,,,,Amara Nallo,DF,4–1
+2024-10-26,Sat,Regular season,Home,L,Liverpool,Everton,Y,CB,90,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Amara Nallo,DF,0–2
+2024-10-06,Sun,Regular season,Away,W,Liverpool,Manchester Utd,N,,11,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Amara Nallo,DF,1–0
+2024-09-27,Fri,Regular season,Away,W,Liverpool,Arsenal,Y,CB,90,1,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Amara Nallo,DF,3–0
+2024-11-30,Sat,Regular season,Away,D,Liverpool,Reading FC U21,Y,DM,73,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Trey Nyoni,MF,1–1
+2024-11-02,Sat,Regular season,Home,W,Liverpool,Wolverhampton Wanderers,Y,AM,90,1,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Trey Nyoni,MF,4–1
+2024-10-26,Sat,Regular season,Home,L,Liverpool,Everton,Y,AM,90,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Trey Nyoni,MF,0–2
+2024-10-06,Sun,Regular season,Away,W,Liverpool,Manchester Utd,Y,CM,78,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Trey Nyoni,MF,1–0
+2024-09-27,Fri,Regular season,Away,W,Liverpool,Arsenal,Y,CM,82,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Trey Nyoni,MF,3–0

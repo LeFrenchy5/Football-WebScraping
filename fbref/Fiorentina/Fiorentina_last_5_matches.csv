@@ -1,0 +1,131 @@
+Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,Player,Position,Score
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,RB,90,0,0,0,0.0,2,0.0,1,0,69.0,1.0,0,0.0,0.1,0.1,0.0,1.0,0.0,43.0,56.0,76.8,4.0,35.0,4.0,4.0,3.0,Dodô,DF,1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,"RB,RM",80,0,0,0,0.0,0,0.0,0,0,42.0,1.0,2,0.0,0.0,0.0,0.1,1.0,0.0,26.0,36.0,72.2,3.0,24.0,4.0,3.0,2.0,Dodô,DF,2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,RB,90,0,0,0,0.0,0,0.0,0,0,64.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,39.0,57.0,68.4,6.0,34.0,3.0,5.0,3.0,Dodô,DF,3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,RB,90,0,0,0,0.0,2,1.0,0,0,72.0,1.0,1,0.0,0.1,0.1,0.0,1.0,0.0,56.0,65.0,86.2,2.0,61.0,7.0,1.0,0.0,Dodô,DF,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,RB,90,0,0,0,0.0,2,1.0,0,0,94.0,0.0,2,2.0,0.1,0.1,0.0,1.0,0.0,61.0,75.0,81.3,2.0,54.0,9.0,4.0,0.0,Dodô,DF,1–0
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y*,CB,90,0,0,0,0.0,0,0.0,0,0,61.0,1.0,2,2.0,0.0,0.0,0.0,0.0,0.0,42.0,48.0,87.5,1.0,33.0,0.0,0.0,0.0,Luca Ranieri,DF,1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y*,CB,80,0,0,0,0.0,0,0.0,0,0,77.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,62.0,69.0,89.9,8.0,45.0,0.0,0.0,0.0,Luca Ranieri,DF,2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y*,CB,90,0,0,0,0.0,0,0.0,0,0,77.0,1.0,0,3.0,0.0,0.0,0.0,0.0,0.0,64.0,71.0,90.1,3.0,50.0,1.0,0.0,0.0,Luca Ranieri,DF,3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y*,CB,90,0,1,0,0.0,0,0.0,0,0,55.0,3.0,0,1.0,0.0,0.0,0.4,1.0,1.0,42.0,45.0,93.3,1.0,36.0,0.0,0.0,0.0,Luca Ranieri,DF,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,CB,90,0,0,0,0.0,0,0.0,0,0,70.0,0.0,0,2.0,0.0,0.0,0.0,0.0,0.0,62.0,66.0,93.9,1.0,42.0,0.0,1.0,1.0,Luca Ranieri,DF,1–0
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,"LB,LW",90,0,0,0,0.0,0,0.0,1,0,60.0,6.0,2,0.0,0.0,0.0,0.0,2.0,0.0,37.0,52.0,71.2,2.0,24.0,0.0,0.0,0.0,Robin Gosens,DF,1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,"LB,LM",90,0,0,0,0.0,0,0.0,0,0,58.0,1.0,1,0.0,0.0,0.0,0.1,2.0,1.0,34.0,50.0,68.0,3.0,30.0,4.0,0.0,0.0,Robin Gosens,DF,2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,LB,90,0,0,0,0.0,1,0.0,0,0,61.0,1.0,0,1.0,0.1,0.1,0.1,3.0,1.0,36.0,54.0,66.7,3.0,23.0,0.0,0.0,0.0,Robin Gosens,DF,3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,LB,90,0,0,0,0.0,1,0.0,0,0,77.0,3.0,4,1.0,0.0,0.0,0.0,0.0,0.0,54.0,68.0,79.4,6.0,53.0,0.0,0.0,0.0,Robin Gosens,DF,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,LB,90,1,0,0,0.0,1,1.0,0,0,86.0,0.0,0,0.0,0.1,0.1,0.0,2.0,0.0,64.0,77.0,83.1,8.0,45.0,5.0,0.0,0.0,Robin Gosens,DF,1–0
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,CB,90,0,0,0,0.0,0,0.0,1,0,50.0,1.0,2,1.0,0.0,0.0,0.0,0.0,0.0,35.0,40.0,87.5,0.0,23.0,0.0,0.0,0.0,Pietro Comuzzo,DF,1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,CB,90,0,0,0,0.0,0,0.0,0,0,50.0,1.0,2,0.0,0.0,0.0,0.0,1.0,0.0,35.0,39.0,89.7,1.0,23.0,0.0,0.0,0.0,Pietro Comuzzo,DF,2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,CB,90,0,0,0,0.0,0,0.0,0,0,87.0,0.0,2,2.0,0.0,0.0,0.1,2.0,0.0,73.0,80.0,91.3,11.0,60.0,1.0,0.0,0.0,Pietro Comuzzo,DF,3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,CB,90,0,0,0,0.0,0,0.0,0,0,48.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,37.0,39.0,94.9,1.0,37.0,0.0,0.0,0.0,Pietro Comuzzo,DF,1–0
+2024-10-27,Sun,Matchweek 9,Home,W,Fiorentina,Roma,Y,CB,90,0,0,0,0.0,0,0.0,0,0,32.0,3.0,2,5.0,0.0,0.0,0.0,0.0,0.0,16.0,18.0,88.9,0.0,13.0,0.0,0.0,0.0,Pietro Comuzzo,DF,5–1
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,N,FW,35,0,0,0,0.0,0,0.0,0,0,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,0.0,1.0,0.0,Moise Kean,FW,1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,FW,90,1,0,0,0.0,4,1.0,0,0,21.0,0.0,0,0.0,0.5,0.5,0.0,1.0,0.0,3.0,8.0,37.5,0.0,13.0,0.0,2.0,0.0,Moise Kean,FW,2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,FW,90,3,0,0,0.0,5,4.0,1,0,26.0,1.0,0,1.0,1.3,1.3,0.3,2.0,1.0,5.0,11.0,45.5,2.0,15.0,2.0,3.0,2.0,Moise Kean,FW,3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,FW,84,1,0,0,0.0,1,1.0,0,0,19.0,0.0,0,0.0,0.4,0.4,0.0,1.0,0.0,9.0,11.0,81.8,2.0,16.0,0.0,2.0,0.0,Moise Kean,FW,1–0
+2024-10-27,Sun,Matchweek 9,Home,W,Fiorentina,Roma,Y,FW,74,2,0,0,0.0,6,4.0,1,0,27.0,1.0,0,0.0,2.0,2.0,0.0,1.0,1.0,10.0,15.0,66.7,2.0,20.0,6.0,3.0,2.0,Moise Kean,FW,5–1
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,N,RW,35,0,0,0,0.0,0,0.0,0,0,10.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,7.0,57.1,1.0,4.0,0.0,1.0,1.0,Andrea Colpani,"FW,MF",1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,RW,65,0,0,0,0.0,0,0.0,0,0,22.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,15.0,20.0,75.0,3.0,15.0,0.0,0.0,0.0,Andrea Colpani,"FW,MF",2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,RW,82,0,0,0,0.0,2,1.0,0,0,32.0,2.0,0,0.0,0.3,0.3,0.0,1.0,0.0,16.0,23.0,69.6,3.0,22.0,0.0,2.0,1.0,Andrea Colpani,"FW,MF",3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,RW,62,0,0,0,0.0,1,1.0,0,0,21.0,0.0,0,1.0,0.0,0.0,0.0,1.0,0.0,14.0,16.0,87.5,0.0,14.0,3.0,1.0,1.0,Andrea Colpani,"FW,MF",1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,RW,73,0,0,0,0.0,3,1.0,0,0,42.0,0.0,0,0.0,0.1,0.1,0.1,3.0,1.0,31.0,34.0,91.2,4.0,19.0,2.0,1.0,1.0,Andrea Colpani,"FW,MF",1–0
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,GK,90,1,0,1,100.0,1,0.3,0,0,0.0,0.0,5,23.0,21.7,23.0,0.0,82.6,52.8,5.0,80.0,60.0,19.0,2.0,10.5,1.0,10.0,David de Gea,GK,1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,GK,90,4,0,4,100.0,1,0.8,0,0,0.0,0.0,6,13.0,46.2,24.0,4.0,29.2,32.4,11.0,54.5,44.3,15.0,0.0,0.0,0.0,,David de Gea,GK,2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,GK,90,2,1,1,50.0,0,0.6,0,0,0.0,0.0,7,11.0,63.6,20.0,5.0,40.0,31.0,5.0,60.0,51.2,10.0,0.0,0.0,1.0,13.2,David de Gea,GK,3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0.0,0.0,9,21.0,42.9,31.0,4.0,58.1,42.2,8.0,37.5,41.0,8.0,1.0,12.5,0.0,4.0,David de Gea,GK,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,GK,90,4,0,4,100.0,1,1.7,0,0,0.0,0.0,6,14.0,42.9,26.0,5.0,38.5,35.9,9.0,44.4,38.3,18.0,0.0,0.0,1.0,17.0,David de Gea,GK,1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,"LW,CM,DM",90,0,0,0,0.0,0,0.0,0,0,46.0,5.0,1,3.0,0.0,0.0,0.0,3.0,0.0,22.0,32.0,68.8,5.0,22.0,2.0,1.0,0.0,Edoardo Bove,"MF,FW",2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,DM,86,0,0,0,0.0,0,0.0,0,0,55.0,3.0,1,0.0,0.0,0.0,0.0,0.0,0.0,32.0,42.0,76.2,4.0,31.0,1.0,0.0,0.0,Edoardo Bove,"MF,FW",3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,DM,90,0,0,0,0.0,0,0.0,1,0,62.0,3.0,1,1.0,0.0,0.0,0.0,1.0,0.0,43.0,52.0,82.7,4.0,37.0,0.0,0.0,0.0,Edoardo Bove,"MF,FW",1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,DM,73,0,0,0,0.0,0,0.0,0,0,60.0,1.0,0,2.0,0.0,0.0,0.0,4.0,0.0,47.0,51.0,92.2,9.0,35.0,2.0,3.0,1.0,Edoardo Bove,"MF,FW",1–0
+2024-10-27,Sun,Matchweek 9,Home,W,Fiorentina,Roma,Y,LW,65,1,1,0,0.0,2,1.0,0,0,23.0,1.0,0,1.0,0.3,0.3,1.0,4.0,3.0,14.0,16.0,87.5,2.0,16.0,2.0,4.0,1.0,Edoardo Bove,"MF,FW",5–1
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,DM,90,1,0,0,0.0,1,1.0,0,0,73.0,1.0,4,2.0,0.1,0.1,0.0,1.0,0.0,54.0,63.0,85.7,10.0,40.0,1.0,0.0,0.0,Danilo Cataldi,MF,1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,DM,55,0,0,0,0.0,0,0.0,0,0,39.0,1.0,1,0.0,0.0,0.0,0.0,0.0,0.0,31.0,37.0,83.8,3.0,17.0,0.0,0.0,0.0,Danilo Cataldi,MF,2–0
+2024-10-27,Sun,Matchweek 9,Home,W,Fiorentina,Roma,Y,DM,55,0,0,0,0.0,1,1.0,0,0,36.0,3.0,0,0.0,0.3,0.3,0.0,0.0,0.0,22.0,26.0,84.6,2.0,19.0,0.0,2.0,0.0,Danilo Cataldi,MF,5–1
+2024-10-20,Sun,Matchweek 8,Away,W,Fiorentina,Lecce,Y,CM,90,2,0,0,0.0,2,2.0,0,0,106.0,3.0,0,2.0,0.1,0.1,0.1,5.0,0.0,87.0,96.0,90.6,13.0,79.0,2.0,0.0,0.0,Danilo Cataldi,MF,6–0
+2024-10-06,Sun,Matchweek 7,Home,W,Fiorentina,Milan,Y,DM,66,0,0,0,0.0,1,0.0,0,0,29.0,0.0,1,0.0,0.0,0.0,0.0,2.0,0.0,23.0,27.0,85.2,3.0,17.0,0.0,0.0,0.0,Danilo Cataldi,MF,2–1
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,AM,82,0,1,0,0.0,1,0.0,0,0,45.0,0.0,1,1.0,0.0,0.0,0.2,4.0,1.0,30.0,37.0,81.1,5.0,25.0,2.0,2.0,0.0,Lucas Beltrán,"MF,FW",1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,AM,65,0,1,0,0.0,0,0.0,1,0,15.0,0.0,0,0.0,0.0,0.0,0.0,1.0,1.0,10.0,12.0,83.3,0.0,10.0,3.0,1.0,0.0,Lucas Beltrán,"MF,FW",2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,AM,76,0,1,0,0.0,2,1.0,0,0,20.0,3.0,0,1.0,0.2,0.2,0.2,2.0,1.0,11.0,13.0,84.6,2.0,13.0,1.0,2.0,1.0,Lucas Beltrán,"MF,FW",3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,AM,74,0,0,0,0.0,0,0.0,0,0,30.0,2.0,0,0.0,0.0,0.0,0.0,1.0,0.0,20.0,23.0,87.0,4.0,22.0,0.0,0.0,0.0,Lucas Beltrán,"MF,FW",1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,AM,82,0,0,0,0.0,1,0.0,0,0,38.0,0.0,0,1.0,0.0,0.0,0.1,4.0,1.0,30.0,34.0,88.2,3.0,19.0,1.0,2.0,2.0,Lucas Beltrán,"MF,FW",1–0
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,DM,66,0,0,0,0.0,2,0.0,0,0,69.0,1.0,0,0.0,0.1,0.1,0.0,2.0,1.0,53.0,61.0,86.9,5.0,42.0,1.0,1.0,0.0,Yacine Adli,MF,1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,Y,"DM,CM",90,1,0,0,0.0,1,1.0,0,0,61.0,2.0,1,2.0,0.0,0.0,0.0,2.0,1.0,45.0,53.0,84.9,7.0,30.0,0.0,3.0,2.0,Yacine Adli,MF,2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,DM,76,0,1,0,0.0,0,0.0,0,0,77.0,3.0,0,1.0,0.0,0.0,0.5,3.0,1.0,51.0,68.0,75.0,8.0,44.0,1.0,2.0,0.0,Yacine Adli,MF,3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,N,"DM,AM",28,0,0,0,0.0,0,0.0,0,0,23.0,1.0,0,1.0,0.0,0.0,0.0,2.0,0.0,16.0,19.0,84.2,2.0,15.0,0.0,1.0,0.0,Yacine Adli,MF,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,N,DM,28,0,0,0,0.0,0,0.0,0,0,30.0,0.0,0,1.0,0.0,0.0,0.0,1.0,0.0,22.0,24.0,91.7,4.0,13.0,0.0,2.0,0.0,Yacine Adli,MF,1–0
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,FW,55,0,0,0,0.0,0,0.0,0,0,21.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,14.0,64.3,1.0,14.0,0.0,3.0,3.0,Christian Kouamé,"FW,MF",1–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,N,AM,14,0,0,0,0.0,0,0.0,0,0,10.0,0.0,0,0.0,0.0,0.0,0.3,2.0,0.0,3.0,7.0,42.9,1.0,2.0,1.0,3.0,1.0,Christian Kouamé,"FW,MF",3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,N,"LW,FW",27,0,0,0,0.0,1,0.0,0,0,13.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,9.0,77.8,1.0,8.0,0.0,0.0,0.0,Christian Kouamé,"FW,MF",1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,FW,90,0,0,0,0.0,2,0.0,0,0,29.0,0.0,0,0.0,0.1,0.1,0.0,2.0,0.0,11.0,17.0,64.7,0.0,7.0,0.0,2.0,0.0,Christian Kouamé,"FW,MF",1–0
+2024-10-27,Sun,Matchweek 9,Home,W,Fiorentina,Roma,N,AM,24,0,0,0,0.0,0,0.0,0,0,5.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,66.7,0.0,3.0,0.0,0.0,0.0,Christian Kouamé,"FW,MF",5–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,N,LW,6,0,0,0,0.0,1,0.0,0,0,8.0,0.0,0,0.0,0.0,0.0,0.1,1.0,0.0,5.0,5.0,100.0,1.0,4.0,0.0,0.0,0.0,Cristiano Biraghi,DF,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,N,LW,8,0,0,0,0.0,0,0.0,0,0,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,100.0,0.0,1.0,0.0,0.0,0.0,Cristiano Biraghi,DF,1–0
+2024-10-06,Sun,Matchweek 7,Home,W,Fiorentina,Milan,N,LW,14,0,0,0,0.0,0,0.0,0,0,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,100.0,0.0,1.0,0.0,0.0,0.0,Cristiano Biraghi,DF,2–1
+2024-09-22,Sun,Matchweek 5,Home,W,Fiorentina,Lazio,Y*,CB,45,0,0,0,0.0,0,0.0,1,0,32.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,28.0,92.9,1.0,26.0,0.0,0.0,0.0,Cristiano Biraghi,DF,2–1
+2024-09-15,Sun,Matchweek 4,Away,L,Fiorentina,Atalanta,Y*,CB,90,0,0,0,0.0,0,0.0,0,0,61.0,1.0,2,1.0,0.0,0.0,0.0,1.0,0.0,48.0,56.0,85.7,2.0,29.0,0.0,0.0,0.0,Cristiano Biraghi,DF,2–3
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,LW,66,0,0,0,0.0,1,1.0,0,0,31.0,2.0,0,0.0,0.0,0.0,0.0,3.0,0.0,18.0,25.0,72.0,3.0,20.0,6.0,2.0,0.0,Riccardo Sottil,"FW,MF",1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,N,LW,35,0,1,0,0.0,1,1.0,0,0,12.0,0.0,0,0.0,0.0,0.0,0.1,2.0,1.0,7.0,10.0,70.0,0.0,10.0,6.0,2.0,2.0,Riccardo Sottil,"FW,MF",2–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,Y,LW,82,0,0,0,0.0,1,0.0,0,0,28.0,0.0,0,0.0,0.1,0.1,0.1,4.0,1.0,18.0,23.0,78.3,3.0,19.0,2.0,1.0,0.0,Riccardo Sottil,"FW,MF",3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,LW,63,0,0,0,0.0,0,0.0,0,0,29.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,16.0,24.0,66.7,0.0,25.0,3.0,1.0,0.0,Riccardo Sottil,"FW,MF",1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,LW,82,0,0,0,0.0,2,0.0,0,0,34.0,0.0,1,0.0,0.0,0.0,0.1,4.0,0.0,12.0,21.0,57.1,1.0,26.0,7.0,5.0,2.0,Riccardo Sottil,"FW,MF",1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,N,CB,25,0,0,0,0.0,0,0.0,0,0,10.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,80.0,0.0,3.0,1.0,1.0,1.0,Lucas Martínez Quarta,DF,2–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y*,CB,90,0,0,0,0.0,0,0.0,1,0,83.0,1.0,2,1.0,0.0,0.0,0.0,0.0,0.0,69.0,73.0,94.5,3.0,51.0,1.0,0.0,0.0,Lucas Martínez Quarta,DF,1–0
+2024-10-27,Sun,Matchweek 9,Home,W,Fiorentina,Roma,N,"DM,CB",17,0,0,0,0.0,0,0.0,0,0,19.0,0.0,0,0.0,0.0,0.0,0.0,1.0,0.0,18.0,19.0,94.7,1.0,12.0,0.0,0.0,0.0,Lucas Martínez Quarta,DF,5–1
+2024-09-22,Sun,Matchweek 5,Home,W,Fiorentina,Lazio,Y,CB,45,0,0,0,0.0,0,0.0,0,0,47.0,2.0,0,2.0,0.0,0.0,0.0,2.0,0.0,35.0,37.0,94.6,3.0,30.0,0.0,1.0,1.0,Lucas Martínez Quarta,DF,2–1
+2024-09-15,Sun,Matchweek 4,Away,L,Fiorentina,Atalanta,Y,CB,90,1,0,0,0.0,1,1.0,0,0,66.0,3.0,0,1.0,0.5,0.5,0.0,0.0,0.0,47.0,57.0,82.5,1.0,38.0,0.0,0.0,0.0,Lucas Martínez Quarta,DF,2–3
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,N,DM,4,0,0,0,0.0,0,0.0,0,0,2.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,1.0,0.0,Rolando Mandragora,MF,3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,N,"DM,AM",16,0,0,0,0.0,1,0.0,0,0,4.0,0.0,0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,100.0,0.0,1.0,0.0,0.0,0.0,Rolando Mandragora,MF,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,N,DM,17,0,0,0,0.0,0,0.0,0,0,9.0,0.0,1,0.0,0.0,0.0,0.0,1.0,0.0,4.0,6.0,66.7,0.0,2.0,0.0,0.0,0.0,Rolando Mandragora,MF,1–0
+2024-09-22,Sun,Matchweek 5,Home,W,Fiorentina,Lazio,Y,"CM,DM",64,0,0,0,0.0,1,0.0,0,0,30.0,1.0,2,1.0,0.0,0.0,0.0,0.0,0.0,17.0,21.0,81.0,1.0,17.0,1.0,0.0,0.0,Rolando Mandragora,MF,2–1
+2024-09-15,Sun,Matchweek 4,Away,L,Fiorentina,Atalanta,Y,CM,61,0,0,0,0.0,1,1.0,1,0,34.0,0.0,0,0.0,0.0,0.0,0.6,3.0,0.0,25.0,33.0,75.8,4.0,18.0,0.0,0.0,0.0,Rolando Mandragora,MF,2–3
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,N,DM,24,0,0,0,0.0,0,0.0,0,0,10.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,10.0,70.0,1.0,5.0,1.0,0.0,0.0,Amir Richardson,MF,1–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,N,DM,14,0,0,0,0.0,0,0.0,0,0,4.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Amir Richardson,MF,3–1
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,Y,DM,62,0,0,0,0.0,0,0.0,0,0,49.0,1.0,0,0.0,0.0,0.0,0.0,1.0,0.0,37.0,45.0,82.2,4.0,35.0,1.0,0.0,0.0,Amir Richardson,MF,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,Y,DM,62,0,0,0,0.0,1,1.0,1,0,55.0,1.0,0,2.0,0.0,0.0,0.0,1.0,0.0,38.0,43.0,88.4,2.0,35.0,4.0,1.0,1.0,Amir Richardson,MF,1–0
+2024-10-27,Sun,Matchweek 9,Home,W,Fiorentina,Roma,N,DM,35,0,0,0,0.0,2,0.0,0,0,30.0,0.0,0,0.0,0.1,0.1,0.0,2.0,0.0,24.0,25.0,96.0,0.0,20.0,2.0,0.0,0.0,Amir Richardson,MF,5–1
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,N,"LW,AM",24,0,0,0,0.0,0,0.0,0,0,10.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,55.6,1.0,4.0,2.0,0.0,0.0,Albert Guðmundsson,"MF,FW",1–0
+2024-10-20,Sun,Matchweek 8,Away,W,Fiorentina,Lecce,Y,FW,8,0,0,0,0.0,0,0.0,0,0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,Albert Guðmundsson,"MF,FW",6–0
+2024-10-06,Sun,Matchweek 7,Home,W,Fiorentina,Milan,Y,AM,76,1,0,0,0.0,1,1.0,0,0,27.0,0.0,1,0.0,0.1,0.1,0.0,3.0,0.0,16.0,23.0,69.6,1.0,17.0,1.0,2.0,0.0,Albert Guðmundsson,"MF,FW",2–1
+2024-09-29,Sun,Matchweek 6,Away,D,Fiorentina,Empoli,Y,AM,70,0,0,0,0.0,2,0.0,0,0,33.0,0.0,1,1.0,0.1,0.1,0.0,2.0,0.0,21.0,25.0,84.0,5.0,22.0,4.0,2.0,1.0,Albert Guðmundsson,"MF,FW",0–0
+2024-09-22,Sun,Matchweek 5,Home,W,Fiorentina,Lazio,N,AM,45,2,0,2,2.0,1,0.0,0,0,28.0,0.0,0,0.0,1.6,0.1,0.0,2.0,1.0,17.0,22.0,77.3,3.0,15.0,3.0,2.0,2.0,Albert Guðmundsson,"MF,FW",2–1
+2024-12-07,Sat,Matchweek 15,Away,L,Fenerbahçe,Beşiktaş,Y,DM,90,0,0,0,0.0,0,0.0,0,0,,,1,,,,,,,,,,,,,,,Sofyan Amrabat,MF,0–1
+2024-12-02,Mon,Matchweek 14,Home,W,Fenerbahçe,Gaziantep FK,N,,45,0,0,0,0.0,0,0.0,0,0,,,0,,,,,,,,,,,,,,,Sofyan Amrabat,MF,3–1
+2024-11-23,Sat,Matchweek 13,Away,W,Fenerbahçe,Kayserispor,Y,DM,88,0,0,0,0.0,0,0.0,0,0,,,0,,,,,,,,,,,,,,,Sofyan Amrabat,MF,6–2
+2024-11-10,Sun,Matchweek 12,Home,W,Fenerbahçe,Sivasspor,Y,DM,87,1,0,0,0.0,3,1.0,0,0,,,0,,,,,,,,,,,,,,,Sofyan Amrabat,MF,4–0
+2024-11-03,Sun,Matchweek 11,Away,W,Fenerbahçe,Trabzonspor,Y,DM,90,1,0,0,0.0,1,1.0,1,0,,,2,,,,,,,,,,,,,,,Sofyan Amrabat,MF,3–2
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,RW,55,0,0,0,0.0,1,1.0,0,0,25.0,1.0,0,1.0,0.0,0.0,0.0,2.0,0.0,16.0,17.0,94.1,3.0,14.0,1.0,3.0,0.0,Jonathan Ikone,"FW,MF",1–0
+2024-11-24,Sun,Matchweek 13,Away,W,Fiorentina,Como,N,RW,25,0,0,0,0.0,2,1.0,0,0,6.0,0.0,0,0.0,0.2,0.2,0.0,0.0,0.0,3.0,3.0,100.0,2.0,5.0,2.0,0.0,0.0,Jonathan Ikone,"FW,MF",2–0
+2024-11-03,Sun,Matchweek 11,Away,W,Fiorentina,Torino,N,RW,28,0,0,0,0.0,0,0.0,0,0,13.0,1.0,0,1.0,0.0,0.0,0.0,1.0,0.0,7.0,8.0,87.5,1.0,10.0,0.0,2.0,1.0,Jonathan Ikone,"FW,MF",1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Fiorentina,Genoa,N,RW,17,0,0,0,0.0,0,0.0,0,0,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,75.0,0.0,4.0,0.0,0.0,0.0,Jonathan Ikone,"FW,MF",1–0
+2024-10-27,Sun,Matchweek 9,Home,W,Fiorentina,Roma,N,"FW,RW",16,0,0,0,0.0,0,0.0,0,0,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,100.0,1.0,4.0,0.0,1.0,0.0,Jonathan Ikone,"FW,MF",5–1
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,N,LB,8,0,0,0,0.0,0,0.0,0,0,2.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,100.0,0.0,1.0,0.0,0.0,0.0,Fabiano Parisi,DF,1–0
+2024-11-10,Sun,Matchweek 12,Home,W,Fiorentina,Hellas Verona,N,LW,8,0,0,0,0.0,0,0.0,0,0,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,Fabiano Parisi,DF,3–1
+2024-10-20,Sun,Matchweek 8,Away,W,Fiorentina,Lecce,N,LB,25,1,0,0,0.0,1,1.0,0,0,25.0,2.0,0,0.0,0.1,0.1,0.0,1.0,1.0,18.0,22.0,81.8,1.0,19.0,2.0,1.0,1.0,Fabiano Parisi,DF,6–0
+2024-09-29,Sun,Matchweek 6,Away,D,Fiorentina,Empoli,N,LB,3,0,0,0,0.0,0,0.0,0,0,5.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,60.0,0.0,3.0,0.0,0.0,0.0,Fabiano Parisi,DF,0–0
+2024-08-25,Sun,Matchweek 2,Home,D,Fiorentina,Venezia,Y,WB,90,0,0,0,0.0,2,2.0,0,0,45.0,2.0,0,1.0,0.1,0.1,0.0,1.0,0.0,31.0,37.0,83.8,5.0,26.0,2.0,1.0,1.0,Fabiano Parisi,DF,0–0
+2024-12-06,Fri,Matchweek 15,Away,D,Kasımpaşa,Trabzonspor,N,,6,0,0,0,0.0,0,0.0,0,0,,,0,,,,,,,,,,,,,,,Antonín Barák,MF,2–2
+2024-11-24,Sun,Matchweek 13,Away,D,Kasımpaşa,Sivasspor,N,,1,0,0,0,0.0,0,0.0,0,0,,,0,,,,,,,,,,,,,,,Antonín Barák,MF,0–0
+2024-11-08,Fri,Matchweek 12,Home,L,Kasımpaşa,Kayserispor,Y,AM,45,0,0,0,0.0,0,0.0,0,0,,,0,,,,,,,,,,,,,,,Antonín Barák,MF,1–2
+2024-11-02,Sat,Matchweek 11,Away,W,Kasımpaşa,Beşiktaş,Y,AM,68,0,0,0,0.0,1,0.0,1,0,,,0,,,,,,,,,,,,,,,Antonín Barák,MF,3–1
+2024-10-26,Sat,Matchweek 10,Home,L,Kasımpaşa,Samsunspor,N,,16,0,0,0,0.0,0,0.0,0,0,,,0,,,,,,,,,,,,,,,Antonín Barák,MF,1–4
+2024-12-09,Mon,Matchweek 15,Home,L,Monza,Udinese,Y,"CM,DM",78,0,0,0,0.0,5,0.0,0,0,79.0,2.0,0,0.0,0.1,0.1,0.0,5.0,0.0,61.0,68.0,89.7,13.0,46.0,2.0,3.0,1.0,Alessandro Bianco,MF,1–2
+2024-11-30,Sat,Matchweek 14,Away,D,Monza,Como,Y,CM,90,0,0,0,0.0,1,0.0,0,0,58.0,0.0,0,3.0,0.0,0.0,0.1,2.0,0.0,40.0,48.0,83.3,2.0,30.0,1.0,0.0,0.0,Alessandro Bianco,MF,1–1
+2024-11-24,Sun,Matchweek 13,Away,D,Monza,Torino,Y,CM,90,0,0,0,0.0,0,0.0,1,0,63.0,2.0,1,1.0,0.0,0.0,0.1,1.0,0.0,48.0,54.0,88.9,4.0,48.0,1.0,1.0,0.0,Alessandro Bianco,MF,1–1
+2024-11-10,Sun,Matchweek 12,Home,L,Monza,Lazio,Y,"CM,DM",90,0,0,0,0.0,2,0.0,1,0,74.0,2.0,1,2.0,0.1,0.1,0.0,2.0,0.0,60.0,66.0,90.9,6.0,60.0,2.0,1.0,1.0,Alessandro Bianco,MF,0–1
+2024-11-02,Sat,Matchweek 11,Home,L,Monza,Milan,Y,CM,90,0,0,0,0.0,0,0.0,0,0,49.0,1.0,1,0.0,0.0,0.0,0.0,1.0,0.0,39.0,43.0,90.7,6.0,40.0,1.0,1.0,0.0,Alessandro Bianco,MF,0–1
+2024-12-06,Fri,Matchweek 15,Away,D,Kasımpaşa,Trabzonspor,N,,6,0,1,0,0.0,0,0.0,0,0,,,1,,,,,,,,,,,,,,,Josip Brekalo,"FW,MF",2–2
+2024-11-24,Sun,Matchweek 13,Away,D,Kasımpaşa,Sivasspor,N,,23,0,0,0,0.0,0,0.0,0,0,,,0,,,,,,,,,,,,,,,Josip Brekalo,"FW,MF",0–0
+2024-11-08,Fri,Matchweek 12,Home,L,Kasımpaşa,Kayserispor,Y,LW,90,0,0,0,0.0,2,0.0,0,0,,,0,,,,,,,,,,,,,,,Josip Brekalo,"FW,MF",1–2
+2024-11-02,Sat,Matchweek 11,Away,W,Kasımpaşa,Beşiktaş,N,,13,0,0,0,0.0,0,0.0,0,0,,,0,,,,,,,,,,,,,,,Josip Brekalo,"FW,MF",3–1
+2024-10-26,Sat,Matchweek 10,Home,L,Kasımpaşa,Samsunspor,Y,LW,70,0,0,0,0.0,0,0.0,0,0,,,0,,,,,,,,,,,,,,,Josip Brekalo,"FW,MF",1–4
+2024-12-06,Fri,Matchweek 16,Home,W,Juve Stabia,Südtirol,Y,WB,45,0,0,0,0.0,1,0.0,0,0,25.0,3.0,0,0.0,0.1,0.1,0.3,4.0,0.0,16.0,17.0,94.1,1.0,13.0,2.0,0.0,0.0,Niccolò Fortini,MF,2–1
+2024-11-30,Sat,Matchweek 15,Away,D,Juve Stabia,Cittadella,Y,WB,84,0,1,0,0.0,0,0.0,0,0,37.0,4.0,0,2.0,0.0,0.0,0.0,2.0,1.0,17.0,23.0,73.9,0.0,12.0,0.0,0.0,0.0,Niccolò Fortini,MF,2–2
+2024-11-23,Sat,Matchweek 14,Home,D,Juve Stabia,Brescia,N,CM,45,0,0,0,0.0,2,0.0,0,0,29.0,2.0,0,0.0,0.1,0.1,0.2,4.0,0.0,15.0,20.0,75.0,2.0,14.0,2.0,2.0,2.0,Niccolò Fortini,MF,0–0
+2024-11-10,Sun,Matchweek 13,Home,L,Juve Stabia,Spezia,Y,WB,90,0,0,0,0.0,1,0.0,0,0,48.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,40.0,62.5,2.0,33.0,3.0,2.0,2.0,Niccolò Fortini,MF,0–3
+2024-11-02,Sat,Matchweek 12,Away,D,Juve Stabia,Carrarese,Y,WB,57,0,0,0,0.0,0,0.0,0,0,29.0,1.0,1,4.0,0.0,0.0,0.0,2.0,0.0,14.0,17.0,82.4,0.0,16.0,2.0,3.0,2.0,Niccolò Fortini,MF,0–0
+2024-08-26,Mon,Matchweek 12,Home,L,Belgrano,Gimnasia–LP,Y,CB,90,0,0,0,0.0,2,1.0,0,0,63.0,1.0,2,3.0,0.1,0.1,0.0,0.0,0.0,37.0,51.0,72.5,2.0,34.0,0.0,0.0,0.0,Matias Moreno,DF,0–1
+2024-08-04,Sun,Matchweek 9,Away,D,Belgrano,Sarmiento,Y,CB,90,0,0,0,0.0,0,0.0,0,0,67.0,1.0,1,2.0,0.0,0.0,0.0,3.0,0.0,49.0,56.0,87.5,4.0,46.0,1.0,1.0,0.0,Matias Moreno,DF,0–0
+2024-07-29,Mon,Matchweek 8,Home,W,Belgrano,Godoy Cruz,Y,CB,90,0,0,0,0.0,1,0.0,0,0,56.0,2.0,3,2.0,0.1,0.1,0.0,1.0,0.0,36.0,45.0,80.0,4.0,29.0,0.0,0.0,0.0,Matias Moreno,DF,1–0
+2024-07-25,Thu,Matchweek 7,Away,L,Belgrano,Lanús,N,LB,7,0,0,0,0.0,0,0.0,0,0,8.0,0.0,0,0.0,0.0,0.0,0.0,1.0,1.0,5.0,8.0,62.5,1.0,5.0,1.0,0.0,0.0,Matias Moreno,DF,2–3
+2024-05-24,Fri,Matchweek 3,Home,W,Belgrano,Cen. Córdoba–SdE,Y,CB,68,0,0,0,0.0,0,0.0,2,1,39.0,2.0,3,2.0,0.0,0.0,0.0,1.0,1.0,21.0,29.0,72.4,3.0,25.0,1.0,5.0,4.0,Matias Moreno,DF,2–1

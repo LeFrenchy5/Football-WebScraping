@@ -1,0 +1,106 @@
+Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PSxG,PKatt,PKA,PKsv,PKm,Cmp,Att,Cmp%,Att (GK),Thr,Launch%,AvgLen,Att.1,Launch%.1,AvgLen.1,Opp,Stp,Stp%,#OPA,AvgDist,Player,Position,Score
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y,GK,90,5,1,4,80.0,0,1.0,0,0,0,0,3,8,37.5,24.0,2.0,25.0,31.5,4,50.0,45.0,12,0,0.0,0,5.0,Mike Maignan,GK,1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y*,GK,90,2,0,2,100.0,1,0.4,0,0,0,0,0,5,0.0,45.0,5.0,4.4,25.4,4,75.0,50.8,12,2,16.7,2,15.0,Mike Maignan,GK,1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,1,3,33.3,27.0,2.0,11.1,23.5,2,0.0,14.5,11,2,18.2,0,8.5,Mike Maignan,GK,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,GK,90,8,2,6,75.0,0,2.0,0,0,0,0,3,6,50.0,52.0,2.0,9.6,24.6,3,33.3,45.7,18,0,0.0,1,15.0,Mike Maignan,GK,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,GK,90,0,0,0,,1,0.0,0,0,0,0,10,18,55.6,47.0,3.0,36.2,35.1,3,33.3,39.0,11,1,9.1,0,7.0,Mike Maignan,GK,3–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y,DM,90,0,1,0,0.0,2,0.0,0,0,46,2,0,3,0.2,0.2,0.5,5.0,1.0,31,36.0,86.1,9,29,6.0,2,1.0,Youssouf Fofana,MF,1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y,DM,90,0,1,0,0.0,3,0.0,0,0,57,1,0,1,0.1,0.1,0.2,4.0,1.0,39,50.0,78.0,6,39,2.0,1,1.0,Youssouf Fofana,MF,1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,Y,DM,90,0,0,0,0.0,1,0.0,0,0,73,2,1,1,0.0,0.0,0.1,3.0,0.0,56,63.0,88.9,12,51,1.0,2,0.0,Youssouf Fofana,MF,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,DM,90,0,0,0,0.0,0,0.0,0,0,49,2,0,1,0.0,0.0,0.0,0.0,0.0,36,43.0,83.7,4,14,0.0,0,0.0,Youssouf Fofana,MF,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,DM,74,0,1,0,0.0,1,0.0,0,0,36,3,0,2,0.0,0.0,0.1,3.0,1.0,27,29.0,93.1,5,16,0.0,0,0.0,Youssouf Fofana,MF,3–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y,"AM,LM",90,1,0,0,0.0,3,3.0,1,0,33,1,2,0,0.4,0.4,0.1,5.0,0.0,18,23.0,78.3,1,18,2.0,0,0.0,Tijjani Reijnders,MF,1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y,AM,90,1,0,0,0.0,2,1.0,0,0,56,0,1,0,0.2,0.2,0.1,2.0,0.0,37,45.0,82.2,5,28,3.0,5,3.0,Tijjani Reijnders,MF,1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,Y,DM,90,0,0,0,0.0,3,0.0,0,0,70,1,0,0,0.1,0.1,0.4,6.0,0.0,46,58.0,79.3,9,47,5.0,4,3.0,Tijjani Reijnders,MF,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,DM,90,0,0,0,0.0,1,0.0,0,0,43,0,1,2,0.1,0.1,0.0,1.0,0.0,26,34.0,76.5,4,20,2.0,1,1.0,Tijjani Reijnders,MF,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,"DM,LM",90,2,0,0,0.0,3,2.0,0,0,51,3,2,0,0.2,0.2,0.0,2.0,0.0,40,43.0,93.0,6,32,2.0,2,1.0,Tijjani Reijnders,MF,3–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y,RB,90,0,0,0,0.0,2,0.0,0,0,82,1,0,2,0.1,0.1,0.1,4.0,0.0,58,68.0,85.3,12,43,1.0,0,0.0,Emerson,DF,1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y,RB,87,0,0,0,0.0,1,0.0,1,0,74,1,1,2,0.0,0.0,0.0,4.0,0.0,58,63.0,92.1,5,43,1.0,0,0.0,Emerson,DF,1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,Y,RB,90,0,0,0,0.0,2,2.0,0,0,96,3,1,0,0.1,0.1,0.1,5.0,0.0,72,79.0,91.1,7,63,5.0,1,0.0,Emerson,DF,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,RB,90,0,0,0,0.0,0,0.0,0,0,85,3,3,1,0.0,0.0,0.0,1.0,0.0,63,71.0,88.7,2,30,0.0,2,1.0,Emerson,DF,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,RB,90,0,0,0,0.0,2,0.0,0,0,74,1,2,0,0.0,0.0,0.1,4.0,1.0,54,60.0,90.0,6,36,0.0,2,0.0,Emerson,DF,3–0
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y,LW,31,0,0,0,0.0,1,0.0,0,0,22,0,0,0,0.0,0.0,0.0,1.0,0.0,10,15.0,66.7,3,17,1.0,5,2.0,Rafael Leão,FW,1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,Y*,LW,90,0,0,0,0.0,2,0.0,0,0,48,0,0,2,0.0,0.0,0.2,9.0,0.0,26,30.0,86.7,1,33,6.0,8,3.0,Rafael Leão,FW,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,LW,90,0,1,0,0.0,0,0.0,0,0,29,0,0,0,0.0,0.0,0.4,2.0,1.0,18,27.0,66.7,4,12,2.0,4,3.0,Rafael Leão,FW,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,LW,83,0,0,0,0.0,2,1.0,0,0,50,0,0,1,0.1,0.1,0.1,8.0,1.0,28,35.0,80.0,6,37,1.0,6,2.0,Rafael Leão,FW,3–0
+2024-11-23,Sat,Matchweek 13,Home,D,Milan,Juventus,Y,LW,90,0,0,0,0.0,0,0.0,1,0,43,1,0,0,0.0,0.0,0.1,2.0,0.0,26,31.0,83.9,2,30,3.0,8,3.0,Rafael Leão,FW,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,AM,37,0,0,0,0.0,1,1.0,0,0,20,1,0,3,0.1,0.1,0.0,0.0,0.0,12,13.0,92.3,2,7,0.0,1,1.0,Christian Pulisic,"MF,FW",1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,AM,90,0,1,0,0.0,4,0.0,0,0,62,2,0,0,0.3,0.3,0.2,5.0,0.0,40,48.0,83.3,8,31,4.0,2,2.0,Christian Pulisic,"MF,FW",3–0
+2024-11-23,Sat,Matchweek 13,Home,D,Milan,Juventus,N,LM,21,0,0,0,0.0,1,0.0,0,0,16,1,0,1,0.0,0.0,0.0,1.0,0.0,9,12.0,75.0,1,11,2.0,2,2.0,Christian Pulisic,"MF,FW",0–0
+2024-11-09,Sat,Matchweek 12,Away,D,Milan,Cagliari,Y,"AM,RW",81,0,0,0,0.0,3,1.0,0,0,42,0,0,2,0.5,0.5,0.1,3.0,1.0,27,35.0,77.1,6,30,5.0,1,0.0,Christian Pulisic,"MF,FW",3–3
+2024-11-02,Sat,Matchweek 11,Away,W,Milan,Monza,Y,"AM,RW",88,0,0,0,0.0,0,0.0,0,0,44,3,0,1,0.0,0.0,0.2,6.0,0.0,32,38.0,84.2,3,33,2.0,0,0.0,Christian Pulisic,"MF,FW",1–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y*,LB,90,0,0,0,0.0,4,1.0,1,0,49,1,0,0,0.2,0.2,0.2,6.0,0.0,33,39.0,84.6,2,28,5.0,5,2.0,Theo Hernández,DF,1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,N,LB,59,0,0,0,0.0,0,0.0,0,0,63,2,0,0,0.0,0.0,0.0,1.0,0.0,43,54.0,79.6,3,30,0.0,2,0.0,Theo Hernández,DF,1–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y*,LB,90,0,0,0,0.0,2,0.0,0,0,38,1,0,0,0.0,0.0,0.0,1.0,1.0,27,33.0,81.8,2,14,2.0,0,0.0,Theo Hernández,DF,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y*,LB,90,0,0,0,0.0,0,0.0,0,0,53,0,0,0,0.0,0.0,0.3,5.0,0.0,40,50.0,80.0,2,18,3.0,0,0.0,Theo Hernández,DF,3–0
+2024-11-23,Sat,Matchweek 13,Home,D,Milan,Juventus,Y*,LB,90,0,0,0,0.0,1,1.0,0,0,57,3,2,2,0.0,0.0,0.1,3.0,0.0,32,44.0,72.7,4,25,0.0,2,0.0,Theo Hernández,DF,0–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y,CB,90,0,0,0,0.0,1,0.0,0,0,57,1,1,0,0.0,0.0,0.0,0.0,0.0,45,49.0,91.8,2,38,0.0,0,0.0,Malick Thiaw,DF,1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y,CB,90,0,0,0,0.0,0,0.0,0,0,95,1,0,0,0.0,0.0,0.1,5.0,1.0,78,84.0,92.9,3,52,2.0,1,1.0,Malick Thiaw,DF,1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,Y,CB,90,0,0,0,0.0,0,0.0,0,0,97,1,1,0,0.0,0.0,0.0,1.0,0.0,81,88.0,92.0,9,62,0.0,1,1.0,Malick Thiaw,DF,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,CB,90,0,0,0,0.0,0,0.0,0,0,59,2,2,0,0.0,0.0,0.0,0.0,0.0,46,48.0,95.8,0,18,0.0,0,0.0,Malick Thiaw,DF,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,CB,90,0,0,0,0.0,0,0.0,0,0,64,0,0,2,0.0,0.0,0.0,0.0,0.0,55,60.0,91.7,2,33,0.0,0,0.0,Malick Thiaw,DF,3–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y,FW,85,0,0,0,0.0,2,0.0,1,0,20,2,0,0,0.6,0.6,0.0,1.0,1.0,8,10.0,80.0,0,9,0.0,1,0.0,Álvaro Morata,"FW,MF",1–1
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,N,FW,45,0,0,0,0.0,3,0.0,0,0,19,0,0,0,0.4,0.4,0.0,3.0,0.0,9,12.0,75.0,1,11,3.0,3,1.0,Álvaro Morata,"FW,MF",0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,FW,77,1,0,0,0.0,1,1.0,0,0,32,1,0,0,0.4,0.4,0.0,1.0,0.0,23,27.0,85.2,1,14,0.0,2,1.0,Álvaro Morata,"FW,MF",1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,FW,80,1,0,0,0.0,4,1.0,0,0,26,0,0,0,0.6,0.6,0.0,2.0,1.0,14,18.0,77.8,1,11,0.0,0,0.0,Álvaro Morata,"FW,MF",3–0
+2024-11-23,Sat,Matchweek 13,Home,D,Milan,Juventus,Y,FW,90,0,0,0,0.0,1,0.0,0,0,21,2,0,0,0.1,0.1,0.0,1.0,0.0,7,11.0,63.6,0,16,0.0,1,0.0,Álvaro Morata,"FW,MF",0–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y,CB,90,0,0,0,0.0,1,0.0,1,0,46,0,1,0,0.1,0.1,0.0,1.0,0.0,35,39.0,89.7,0,25,0.0,0,0.0,Matteo Gabbia,DF,1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y,CB,90,0,0,0,0.0,1,1.0,0,0,97,0,1,1,0.1,0.1,0.0,1.0,0.0,79,85.0,92.9,2,50,0.0,0,0.0,Matteo Gabbia,DF,1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,Y,CB,90,0,0,0,0.0,1,1.0,0,0,80,1,1,1,0.1,0.1,0.0,0.0,0.0,68,72.0,94.4,4,54,1.0,1,1.0,Matteo Gabbia,DF,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,CB,90,0,0,0,0.0,0,0.0,0,0,72,0,2,3,0.0,0.0,0.0,0.0,0.0,56,63.0,88.9,2,29,0.0,0,0.0,Matteo Gabbia,DF,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,CB,74,0,0,0,0.0,0,0.0,1,0,52,4,0,2,0.0,0.0,0.0,2.0,1.0,38,41.0,92.7,1,19,0.0,0,0.0,Matteo Gabbia,DF,3–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y,RW,61,0,0,0,0.0,4,1.0,0,0,37,0,0,0,0.2,0.2,0.2,7.0,0.0,23,29.0,79.3,4,25,3.0,1,1.0,Samuel Chukwueze,FW,1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y,RW,69,0,0,0,0.0,2,1.0,0,0,49,4,0,1,0.1,0.1,0.0,2.0,0.0,29,38.0,76.3,2,30,2.0,2,2.0,Samuel Chukwueze,FW,1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,Y,RW,75,0,0,0,0.0,4,0.0,0,0,58,0,0,0,0.2,0.2,0.1,3.0,0.0,41,51.0,80.4,2,39,7.0,4,1.0,Samuel Chukwueze,FW,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,N,RW,1,0,0,0,0.0,0,0.0,0,0,4,0,0,0,0.0,0.0,0.0,0.0,0.0,3,3.0,100.0,0,3,0.0,0,0.0,Samuel Chukwueze,FW,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,N,"RW,RM",16,0,0,0,0.0,2,0.0,0,0,14,0,0,0,0.1,0.1,0.9,3.0,0.0,9,9.0,100.0,1,10,3.0,1,1.0,Samuel Chukwueze,FW,3–0
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,N,CB,16,0,0,0,0.0,0,0.0,0,0,11,0,0,0,0.0,0.0,0.0,0.0,0.0,10,10.0,100.0,0,7,1.0,0,0.0,Strahinja Pavlović,DF,3–0
+2024-11-23,Sat,Matchweek 13,Home,D,Milan,Juventus,N,CB,7,0,0,0,0.0,0,0.0,0,0,8,0,0,0,0.0,0.0,0.0,0.0,0.0,7,8.0,87.5,0,7,0.0,0,0.0,Strahinja Pavlović,DF,0–0
+2024-11-09,Sat,Matchweek 12,Away,D,Milan,Cagliari,Y,CB,90,0,0,0,0.0,0,0.0,0,0,92,2,1,1,0.0,0.0,0.0,1.0,0.0,77,82.0,93.9,2,61,1.0,0,0.0,Strahinja Pavlović,DF,3–3
+2024-11-02,Sat,Matchweek 11,Away,W,Milan,Monza,Y,CB,90,0,0,0,0.0,1,1.0,0,0,62,0,0,0,0.0,0.0,0.0,1.0,0.0,53,59.0,89.8,4,42,0.0,0,0.0,Strahinja Pavlović,DF,1–0
+2024-10-29,Tue,Matchweek 10,Home,L,Milan,Napoli,Y,CB,90,0,0,0,0.0,0,0.0,0,0,82,3,0,0,0.0,0.0,0.0,2.0,0.0,68,73.0,93.2,9,46,2.0,2,0.0,Strahinja Pavlović,DF,0–2
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,N,AM,53,0,0,0,0.0,0,0.0,0,0,30,0,0,0,0.0,0.0,0.2,4.0,0.0,25,26.0,96.2,3,10,3.0,3,2.0,Ruben Loftus-Cheek,MF,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,N,DM,16,0,0,0,0.0,0,0.0,0,0,12,2,0,0,0.0,0.0,0.0,1.0,0.0,8,10.0,80.0,0,6,3.0,0,0.0,Ruben Loftus-Cheek,MF,3–0
+2024-11-23,Sat,Matchweek 13,Home,D,Milan,Juventus,Y,RM,69,0,0,0,0.0,0,0.0,0,0,29,3,1,0,0.0,0.0,0.0,0.0,0.0,20,22.0,90.9,3,18,0.0,0,0.0,Ruben Loftus-Cheek,MF,0–0
+2024-11-09,Sat,Matchweek 12,Away,D,Milan,Cagliari,N,"AM,RM",26,0,0,0,0.0,0,0.0,0,0,10,0,0,0,0.0,0.0,0.0,1.0,0.0,9,9.0,100.0,1,7,1.0,0,0.0,Ruben Loftus-Cheek,MF,3–3
+2024-11-02,Sat,Matchweek 11,Away,W,Milan,Monza,N,AM,10,0,0,0,0.0,0,0.0,0,0,5,0,0,0,0.0,0.0,0.0,0.0,0.0,2,3.0,66.7,1,2,1.0,0,0.0,Ruben Loftus-Cheek,MF,1–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,N,FW,29,0,0,0,0.0,0,0.0,0,0,7,0,0,1,0.0,0.0,0.0,1.0,0.0,5,5.0,100.0,1,5,1.0,1,1.0,Tammy Abraham,FW,1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y,FW,90,0,0,0,0.0,1,1.0,0,0,24,0,0,1,0.1,0.1,0.0,3.0,0.0,12,15.0,80.0,1,9,1.0,1,0.0,Tammy Abraham,FW,1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,Y,FW,45,0,0,0,0.0,2,0.0,0,0,11,1,0,0,0.1,0.1,0.1,1.0,0.0,4,7.0,57.1,1,7,0.0,0,0.0,Tammy Abraham,FW,0–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,N,FW,13,0,0,0,0.0,0,0.0,0,0,7,0,0,0,0.0,0.0,0.0,0.0,0.0,3,4.0,75.0,0,5,0.0,0,0.0,Tammy Abraham,FW,1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,N,FW,10,0,0,0,0.0,1,0.0,0,0,4,1,0,0,0.7,0.7,0.0,0.0,0.0,1,1.0,100.0,1,0,0.0,0,0.0,Tammy Abraham,FW,3–0
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,N,RB,3,0,0,0,0.0,0,0.0,0,0,5,0,0,0,0.0,0.0,0.0,0.0,0.0,2,4.0,50.0,2,1,0.0,0,0.0,Fikayo Tomori,DF,1–0
+2024-11-09,Sat,Matchweek 12,Away,D,Milan,Cagliari,N,"CB,RB",10,0,0,0,0.0,0,0.0,0,0,7,0,0,1,0.0,0.0,0.0,0.0,0.0,5,5.0,100.0,0,3,0.0,0,0.0,Fikayo Tomori,DF,3–3
+2024-10-19,Sat,Matchweek 8,Home,W,Milan,Udinese,N,RM,3,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,,0,0,0.0,0,0.0,Fikayo Tomori,DF,1–0
+2024-10-06,Sun,Matchweek 7,Away,L,Milan,Fiorentina,Y,CB,90,0,0,0,0.0,0,0.0,1,0,65,1,0,0,0.0,0.0,0.0,1.0,1.0,57,61.0,93.4,7,33,1.0,0,0.0,Fikayo Tomori,DF,1–2
+2024-09-27,Fri,Matchweek 6,Home,W,Milan,Lecce,Y,CB,90,0,0,0,0.0,0,0.0,0,0,80,1,0,1,0.0,0.0,0.0,1.0,1.0,70,74.0,94.6,5,53,1.0,0,0.0,Fikayo Tomori,DF,3–0
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,Y,DM,45,0,0,0,0.0,0,0.0,0,0,8,0,1,0,0.0,0.0,0.0,0.0,0.0,4,5.0,80.0,0,4,0.0,0,0.0,Filippo Terracciano,"DF,MF",1–1
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,Y,DM,90,0,0,0,0.0,1,1.0,0,0,43,0,2,0,0.0,0.0,0.0,0.0,0.0,34,36.0,94.4,2,26,1.0,0,0.0,Filippo Terracciano,"DF,MF",1–0
+2024-11-02,Sat,Matchweek 11,Away,W,Milan,Monza,Y,RB,88,0,0,0,0.0,0,0.0,0,0,52,0,0,0,0.0,0.0,0.0,1.0,0.0,46,48.0,95.8,3,29,0.0,1,0.0,Filippo Terracciano,"DF,MF",1–0
+2024-10-29,Tue,Matchweek 10,Home,L,Milan,Napoli,Y,LB,90,0,0,0,0.0,1,0.0,0,0,62,3,0,0,0.1,0.1,0.1,1.0,0.0,48,53.0,90.6,6,30,3.0,0,0.0,Filippo Terracciano,"DF,MF",0–2
+2024-10-19,Sat,Matchweek 8,Home,W,Milan,Udinese,Y,LB,90,0,0,0,0.0,0,0.0,1,0,44,1,0,0,0.0,0.0,0.0,0.0,0.0,36,41.0,87.8,2,24,0.0,0,0.0,Filippo Terracciano,"DF,MF",1–0
+2024-12-06,Fri,Matchweek 15,Away,L,Milan,Atalanta,Y,RW,89,0,0,0,0.0,1,0.0,0,0,57,1,1,1,0.1,0.1,0.1,2.0,0.0,41,46.0,89.1,4,26,4.0,3,1.0,Yunus Musah,"MF,FW",1–2
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,Y,RW,74,0,0,0,0.0,0,0.0,1,0,42,2,0,1,0.0,0.0,0.0,0.0,0.0,29,36.0,80.6,2,22,4.0,3,2.0,Yunus Musah,"MF,FW",3–0
+2024-11-23,Sat,Matchweek 13,Home,D,Milan,Juventus,Y,RW,83,0,0,0,0.0,0,0.0,0,0,38,1,0,0,0.0,0.0,0.0,1.0,0.0,20,28.0,71.4,2,22,1.0,3,0.0,Yunus Musah,"MF,FW",0–0
+2024-11-09,Sat,Matchweek 12,Away,D,Milan,Cagliari,N,RB,9,0,0,0,0.0,0,0.0,0,0,5,0,0,0,0.0,0.0,0.1,2.0,0.0,4,4.0,100.0,0,4,1.0,1,1.0,Yunus Musah,"MF,FW",3–3
+2024-11-02,Sat,Matchweek 11,Away,W,Milan,Monza,N,RW,2,0,0,0,0.0,0,0.0,0,0,3,0,0,0,0.0,0.0,0.2,1.0,0.0,1,1.0,100.0,0,3,0.0,1,0.0,Yunus Musah,"MF,FW",1–0
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,N,RW,15,0,0,0,0.0,0,0.0,0,0,6,0,0,0,0.0,0.0,0.0,0.0,0.0,1,4.0,25.0,0,3,0.0,1,0.0,Noah Okafor,FW,0–0
+2024-11-09,Sat,Matchweek 12,Away,D,Milan,Cagliari,N,LM,9,0,0,0,0.0,1,1.0,0,0,7,0,0,0,0.1,0.1,0.0,0.0,0.0,4,5.0,80.0,1,5,1.0,0,0.0,Noah Okafor,FW,3–3
+2024-11-02,Sat,Matchweek 11,Away,W,Milan,Monza,Y,LW,62,0,0,0,0.0,2,1.0,0,0,20,0,1,0,0.2,0.2,0.0,2.0,0.0,9,12.0,75.0,4,17,3.0,3,1.0,Noah Okafor,FW,1–0
+2024-10-29,Tue,Matchweek 10,Home,L,Milan,Napoli,Y,LW,61,0,0,0,0.0,1,0.0,0,0,30,1,1,0,0.1,0.1,0.0,2.0,0.0,19,24.0,79.2,1,22,5.0,2,1.0,Noah Okafor,FW,0–2
+2024-10-19,Sat,Matchweek 8,Home,W,Milan,Udinese,Y,LW,45,0,0,0,0.0,1,1.0,0,0,20,0,0,1,0.1,0.1,0.2,4.0,1.0,9,12.0,75.0,2,14,2.0,5,2.0,Noah Okafor,FW,1–0
+2024-12-20,Fri,Matchweek 17,Away,W,Milan,Hellas Verona,N,RW,21,0,0,0,0.0,1,0.0,0,0,5,0,0,0,0.1,0.1,0.0,0.0,0.0,1,3.0,33.3,0,3,1.0,1,1.0,Davide Calabria,"DF,FW",1–0
+2024-11-23,Sat,Matchweek 13,Home,D,Milan,Juventus,N,RB,7,0,0,0,0.0,0,0.0,0,0,7,1,0,0,0.0,0.0,0.0,0.0,0.0,5,6.0,83.3,0,5,0.0,1,1.0,Davide Calabria,"DF,FW",0–0
+2024-11-02,Sat,Matchweek 11,Away,W,Milan,Monza,N,RB,2,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,1,1.0,100.0,0,0,0.0,0,0.0,Davide Calabria,"DF,FW",1–0
+2024-08-24,Sat,Matchweek 2,Away,L,Milan,Parma,Y*,RB,66,0,0,0,0.0,0,0.0,0,0,66,3,3,0,0.0,0.0,0.2,1.0,0.0,58,60.0,96.7,4,47,3.0,0,0.0,Davide Calabria,"DF,FW",1–2
+2024-08-17,Sat,Matchweek 1,Home,D,Milan,Torino,Y*,RB,82,0,0,0,0.0,0,0.0,0,0,58,1,0,0,0.0,0.0,0.0,2.0,0.0,44,51.0,86.3,12,30,2.0,0,0.0,Davide Calabria,"DF,FW",2–2
+2024-12-29,Sun,Matchweek 18,Home,D,Milan,Roma,N,FW,5,0,0,0,0.0,0,0.0,0,0,1,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,,0,0,0.0,0,0.0,Francesco Camarda,"FW,MF",1–1
+2024-12-15,Sun,Matchweek 16,Home,D,Milan,Genoa,N,AM,29,0,0,0,0.0,0,0.0,0,0,7,0,0,0,0.0,0.0,0.0,0.0,0.0,3,4.0,75.0,0,5,1.0,1,1.0,Francesco Camarda,"FW,MF",0–0
+2024-11-30,Sat,Matchweek 14,Home,W,Milan,Empoli,N,FW,7,0,0,0,0.0,1,0.0,0,0,7,0,0,0,0.1,0.1,0.0,0.0,0.0,2,3.0,66.7,0,2,0.0,2,1.0,Francesco Camarda,"FW,MF",3–0
+2024-11-09,Sat,Matchweek 12,Away,D,Milan,Cagliari,Y,FW,65,0,0,0,0.0,1,1.0,0,0,30,2,0,0,0.1,0.1,0.3,1.0,0.0,16,19.0,84.2,0,14,0.0,1,0.0,Francesco Camarda,"FW,MF",3–3
+2024-10-29,Tue,Matchweek 10,Home,L,Milan,Napoli,N,FW,4,0,0,0,0.0,0,0.0,0,0,3,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2.0,100.0,0,0,0.0,0,0.0,Francesco Camarda,"FW,MF",0–2
+2025-01-05,Sun,Matchweek 19,Home,W,Roma,Lazio,Y,WB,66,1,1,0,0.0,2,2.0,1,0,34,2,2,0,0.8,0.8,0.1,2.0,2.0,20,26.0,76.9,1,18,1.0,1,1.0,Alexis Saelemaekers,"DF,FW",2–0
+2024-12-29,Sun,Matchweek 18,Away,D,Roma,Milan,Y,WB,78,0,0,0,0.0,0,0.0,0,0,41,4,1,0,0.0,0.0,0.2,3.0,0.0,26,32.0,81.3,2,27,0.0,1,0.0,Alexis Saelemaekers,"DF,FW",1–1
+2024-12-22,Sun,Matchweek 17,Home,W,Roma,Parma,Y,WB,90,1,0,0,0.0,2,1.0,0,0,73,4,0,0,0.1,0.1,0.6,6.0,2.0,53,65.0,81.5,5,54,6.0,2,0.0,Alexis Saelemaekers,"DF,FW",5–0
+2024-12-15,Sun,Matchweek 16,Away,L,Roma,Como,Y,AM,61,0,0,0,0.0,1,0.0,0,0,27,1,1,1,0.0,0.0,0.0,0.0,0.0,15,21.0,71.4,2,14,2.0,3,1.0,Alexis Saelemaekers,"DF,FW",0–2
+2024-12-07,Sat,Matchweek 15,Home,W,Roma,Lecce,Y,FW,55,1,0,0,0.0,4,2.0,1,0,32,0,0,0,0.6,0.6,0.0,2.0,0.0,19,23.0,82.6,3,29,1.0,2,1.0,Alexis Saelemaekers,"DF,FW",4–1

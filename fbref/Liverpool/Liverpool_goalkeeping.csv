@@ -1,0 +1,30 @@
+Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Player,Position
+2017-2018,24,Roma,it ITA,1. Serie A,3rd,37,37,3330,37.0,28,0.76,135,105,81.5,22,8,7,17,45.9,5,3,2,0,40.0,Alisson,GK
+2018-2019,25,Liverpool,eng ENG,1. Premier League,2nd,38,38,3420,38.0,22,0.58,96,74,77.1,30,7,1,21,55.3,1,0,0,1,,Alisson,GK
+2019-2020,26,Liverpool,eng ENG,1. Premier League,1st,29,29,2543,28.3,23,0.81,80,58,72.5,23,3,3,13,44.8,1,1,0,0,0.0,Alisson,GK
+2020-2021,27,Liverpool,eng ENG,1. Premier League,3rd,33,33,2970,33.0,32,0.97,115,82,75.7,18,8,7,10,30.3,8,4,1,3,20.0,Alisson,GK
+2021-2022,28,Liverpool,eng ENG,1. Premier League,2nd,36,36,3240,36.0,24,0.67,99,76,75.8,27,7,2,20,55.6,0,0,0,0,,Alisson,GK
+2022-2023,29,Liverpool,eng ENG,1. Premier League,5th,37,37,3330,37.0,43,1.16,147,105,72.1,19,9,9,14,37.8,4,2,1,1,33.3,Alisson,GK
+2023-2024,30,Liverpool,eng ENG,1. Premier League,3rd,28,28,2520,28.0,30,1.07,109,80,73.4,16,8,4,8,28.6,1,1,0,0,0.0,Alisson,GK
+2024-2025,31,Liverpool,eng ENG,1. Premier League,1st,11,11,978,10.9,10,0.92,30,20,66.7,8,2,1,4,36.4,0,0,0,0,,Alisson,GK
+2016-2017,17,Liverpool,eng ENG,Jr. PL2 — Div. 1,3rd,6,6,540,6.0,,,,0,,4,1,1,2,33.3,0,0,0,0,,Caoimhín Kelleher,GK
+2017-2018,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,5,5,450,5.0,,,,0,,2,1,2,0,0.0,1,1,0,0,0.0,Caoimhín Kelleher,GK
+2018-2019,19,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,11,11,990,11.0,,,,,,4,3,4,1,9.1,0,0,0,0,,Caoimhín Kelleher,GK
+2019-2020,20,Liverpool,eng ENG,Jr. PL2 — Div. 1,5th,6,6,540,6.0,,,,,,2,2,2,2,33.3,2,2,0,0,0.0,Caoimhín Kelleher,GK
+2020-2021,21,Liverpool,eng ENG,Jr. PL2 — Div. 1,7th,5,5,450,5.0,,,,,,3,1,1,3,60.0,0,0,0,0,,Caoimhín Kelleher,GK
+2020-2021,21,Liverpool,eng ENG,1. Premier League,3rd,2,2,180,2.0,1,0.50,7,6,85.7,1,0,1,1,50.0,0,0,0,0,,Caoimhín Kelleher,GK
+2021-2022,22,Liverpool,eng ENG,1. Premier League,2nd,2,2,180,2.0,2,1.00,8,6,75.0,1,1,0,1,50.0,0,0,0,0,,Caoimhín Kelleher,GK
+2022-2023,23,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,1,1,90,1.0,,,,,,0,1,0,0,0.0,0,0,0,0,,Caoimhín Kelleher,GK
+2022-2023,23,Liverpool,eng ENG,1. Premier League,5th,1,1,90,1.0,4,4.00,10,6,60.0,0,1,0,0,0.0,0,0,0,0,,Caoimhín Kelleher,GK
+2023-2024,24,Liverpool,eng ENG,1. Premier League,3rd,10,10,900,10.0,11,1.10,38,28,71.1,8,2,0,2,20.0,0,0,0,0,,Caoimhín Kelleher,GK
+2024-2025,25,Liverpool,eng ENG,1. Premier League,1st,8,8,720,8.0,9,1.13,31,21,71.0,6,2,0,3,37.5,1,0,1,0,100.0,Caoimhín Kelleher,GK
+2019-2020,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,5th,1,1,90,1.0,,,,,,1,0,0,0,0.0,1,1,0,0,0.0,Vitezslav Jaros,GK
+2020-2021,19,Liverpool,eng ENG,Jr. PL2 — Div. 1,7th,3,3,270,3.0,,,,,,1,0,2,0,0.0,1,1,0,0,0.0,Vitezslav Jaros,GK
+2021-2022,20,Notts County,eng ENG,5. National League,5th,15,15,1350,15.0,,,,,,7,3,5,3,20.0,2,2,0,0,0.0,Vitezslav Jaros,GK
+2022-2023,21,Stockport,eng ENG,4. League Two,4th,11,11,937,10.4,12,1.15,36,24,66.7,4,3,4,5,45.5,0,0,0,0,,Vitezslav Jaros,GK
+2023-2024,22,Sturm Graz,at AUT,1. Bundesliga,1st,14,14,1260,14.0,11,0.79,41,31,75.6,7,6,1,3,21.4,1,1,0,0,0.0,Vitezslav Jaros,GK
+2024-2025,23,Liverpool,eng ENG,1. Premier League,1st,1,0,12,0.1,0,0.00,1,1,100.0,0,0,0,1,,0,0,0,0,,Vitezslav Jaros,GK
+2021-2022,17,Liverpool,eng ENG,Jr. PL2 — Div. 1,4th,2,2,180,2.0,,,,,,2,0,0,2,100.0,0,0,0,0,,Harvey Davies,GK
+2022-2023,18,Liverpool,eng ENG,Jr. PL2 — Div. 1,2nd,16,16,1440,16.0,,,,,,8,4,4,7,43.8,0,0,0,0,,Harvey Davies,GK
+2023-2024,19,Crewe Alexandra,eng ENG,4. League Two,6th,27,26,2385,26.5,38,1.43,118,79,67.8,13,8,5,7,26.9,0,0,0,0,,Harvey Davies,GK
+2024-2025,20,Liverpool,eng ENG,Jr. PL2,4th,3,3,254,2.8,3,1.06,,,,2,1,0,2,66.7,0,0,0,0,,Harvey Davies,GK

@@ -1,0 +1,207 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Player,Position
+2015-2016,17,Peñarol,uy URU,1. Uruguayan Primera División,1st,7.6,,,,,,,,,,,,,,,,,Federico Valverde,MF
+2017-2018,19,La Coruña,es ESP,1. La Liga,18th,13.7,28,2.04,23,1,2,2,0,0,1,0.07,1,0,0,0,0,0,Federico Valverde,MF
+2018-2019,20,Real Madrid,es ESP,1. La Liga,3rd,7.3,22,3.02,20,0,1,0,0,1,1,0.14,1,0,0,0,0,0,Federico Valverde,MF
+2019-2020,21,Real Madrid,es ESP,1. La Liga,1st,21.2,49,2.31,43,0,2,2,0,2,8,0.38,7,0,1,0,0,0,Federico Valverde,MF
+2020-2021,22,Real Madrid,es ESP,1. La Liga,2nd,14.8,50,3.38,42,0,2,4,1,1,4,0.27,4,0,0,0,0,0,Federico Valverde,MF
+2021-2022,23,Real Madrid,es ESP,1. La Liga,1st,20.4,71,3.48,59,2,3,3,2,2,4,0.20,4,0,0,0,0,0,Federico Valverde,MF
+2022-2023,24,Real Madrid,es ESP,1. La Liga,2nd,27.8,81,2.91,77,0,2,1,1,0,14,0.50,13,0,1,0,0,0,Federico Valverde,MF
+2023-2024,25,Real Madrid,es ESP,1. La Liga,1st,32.3,119,3.69,110,0,3,3,1,2,14,0.43,12,0,0,2,0,0,Federico Valverde,MF
+2024-2025,26,Real Madrid,es ESP,1. La Liga,1st,18.3,50,2.73,46,1,0,3,0,0,7,0.38,6,0,0,1,0,0,Federico Valverde,MF
+2011-2012,18,Stuttgart,de GER,1. Bundesliga,6th,0.9,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2011-2012,18,Stuttgart II,de GER,3. 3. Liga,11th,13.9,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2012-2013,19,Stuttgart II,de GER,3. 3. Liga,14th,3.9,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2012-2013,19,Stuttgart,de GER,1. Bundesliga,12th,11.1,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2013-2014,20,Stuttgart,de GER,1. Bundesliga,15th,29.9,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2014-2015,21,Stuttgart,de GER,1. Bundesliga,14th,17.8,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2014-2015,21,Stuttgart II,de GER,3. 3. Liga,13th,0.8,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2015-2016,22,Roma,it ITA,1. Serie A,3rd,29.3,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2016-2017,23,Roma,it ITA,1. Serie A,2nd,24.5,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2017-2018,24,Chelsea,eng ENG,1. Premier League,5th,26.0,18,0.69,16,0,0,2,0,0,4,0.15,4,0,0,0,0,0,Antonio Rüdiger,DF
+2018-2019,25,Chelsea,eng ENG,1. Premier League,3rd,31.9,32,1.00,26,0,0,5,0,1,3,0.09,1,0,0,2,0,0,Antonio Rüdiger,DF
+2019-2020,26,Chelsea,eng ENG,Jr. PL2 — Div. 1,1st,2.0,,,,,,,,,,,,,,,,,Antonio Rüdiger,DF
+2019-2020,26,Chelsea,eng ENG,1. Premier League,4th,19.0,13,0.68,11,0,0,2,0,0,0,0.00,0,0,0,0,0,0,Antonio Rüdiger,DF
+2020-2021,27,Chelsea,eng ENG,1. Premier League,4th,19.0,18,0.95,18,0,0,0,0,0,1,0.05,1,0,0,0,0,0,Antonio Rüdiger,DF
+2021-2022,28,Chelsea,eng ENG,1. Premier League,3rd,33.7,45,1.33,38,0,0,4,2,1,9,0.27,6,0,0,1,2,0,Antonio Rüdiger,DF
+2022-2023,29,Real Madrid,es ESP,1. La Liga,2nd,26.8,18,0.67,16,0,0,1,1,0,1,0.04,0,0,0,1,0,0,Antonio Rüdiger,DF
+2023-2024,30,Real Madrid,es ESP,1. La Liga,1st,30.1,21,0.70,16,0,0,5,0,0,5,0.17,4,0,0,1,0,0,Antonio Rüdiger,DF
+2024-2025,31,Real Madrid,es ESP,1. La Liga,1st,18.1,16,0.88,11,0,0,3,2,0,2,0.11,1,0,0,0,1,0,Antonio Rüdiger,DF
+2015-2016,16,Monaco,fr FRA,1. Ligue 1,3rd,3.3,,,,,,,,,,,,,,,,,Kylian Mbappé,FW
+2016-2017,17,Monaco,fr FRA,1. Ligue 1,1st,16.6,,,,,,,,,,,,,,,,,Kylian Mbappé,FW
+2017-2018,18,Monaco,fr FRA,1. Ligue 1,2nd,0.8,3,3.65,2,0,0,0,1,0,1,1.22,1,0,0,0,0,0,Kylian Mbappé,FW
+2017-2018,18,Paris S-G,fr FRA,1. Ligue 1,1st,23.3,107,4.60,68,0,22,3,14,0,15,0.64,9,0,4,1,1,0,Kylian Mbappé,FW
+2018-2019,19,Paris S-G,fr FRA,1. Ligue 1,1st,26.0,121,4.65,80,1,17,8,15,0,23,0.88,15,0,2,2,4,0,Kylian Mbappé,FW
+2019-2020,20,Paris S-G,fr FRA,1. Ligue 1,1st,16.8,94,5.59,59,2,19,7,7,0,12,0.71,9,0,2,0,1,0,Kylian Mbappé,FW
+2020-2021,21,Paris S-G,fr FRA,1. Ligue 1,2nd,26.4,108,4.08,69,1,19,8,11,0,27,1.02,13,0,7,2,5,0,Kylian Mbappé,FW
+2021-2022,22,Paris S-G,fr FRA,1. Ligue 1,1st,33.6,181,5.39,115,10,30,13,12,1,40,1.19,21,4,10,1,4,0,Kylian Mbappé,FW
+2022-2023,23,Paris S-G,fr FRA,1. Ligue 1,1st,31.3,143,4.57,96,3,19,15,10,0,23,0.73,12,0,4,5,2,0,Kylian Mbappé,FW
+2023-2024,24,Paris S-G,fr FRA,1. Ligue 1,1st,24.0,97,4.04,68,0,20,3,6,0,19,0.79,11,0,4,1,3,0,Kylian Mbappé,FW
+2024-2025,25,Real Madrid,es ESP,1. La Liga,1st,16.2,53,3.27,32,0,12,6,3,0,5,0.31,3,0,1,1,0,0,Kylian Mbappé,FW
+2008-2009,16,Genk,be BEL,1. First Division,8th,1.0,,,,,,,,,,,,,,,,,Thibaut Courtois,GK
+2010-2011,18,Genk,be BEL,1. Pro League,1st,40.0,,,,,,,,,,,,,,,,,Thibaut Courtois,GK
+2011-2012,19,Atlético Madrid,es ESP,1. La Liga,5th,36.2,,,,,,,,,,,,,,,,,Thibaut Courtois,GK
+2012-2013,20,Atlético Madrid,es ESP,1. La Liga,3rd,37.0,,,,,,,,,,,,,,,,,Thibaut Courtois,GK
+2013-2014,21,Atlético Madrid,es ESP,1. La Liga,1st,37.0,,,,,,,,,,,,,,,,,Thibaut Courtois,GK
+2014-2015,22,Chelsea,eng ENG,1. Premier League,1st,31.3,,,,,,,,,,,,,,,,,Thibaut Courtois,GK
+2015-2016,23,Chelsea,eng ENG,1. Premier League,10th,22.4,,,,,,,,,,,,,,,,,Thibaut Courtois,GK
+2016-2017,24,Chelsea,eng ENG,1. Premier League,1st,36.0,,,,,,,,,,,,,,,,,Thibaut Courtois,GK
+2017-2018,25,Chelsea,eng ENG,1. Premier League,5th,35.0,4,0.11,3,1,0,0,0,0,0,0.00,0,0,0,0,0,0,Thibaut Courtois,GK
+2018-2019,26,Real Madrid,es ESP,1. La Liga,3rd,27.0,2,0.07,1,1,0,0,0,0,0,0.00,0,0,0,0,0,0,Thibaut Courtois,GK
+2019-2020,27,Real Madrid,es ESP,1. La Liga,1st,34.0,2,0.06,1,0,0,1,0,0,1,0.03,0,0,0,1,0,0,Thibaut Courtois,GK
+2020-2021,28,Real Madrid,es ESP,1. La Liga,2nd,38.0,4,0.11,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Thibaut Courtois,GK
+2021-2022,29,Real Madrid,es ESP,1. La Liga,1st,36.0,3,0.08,2,1,0,0,0,0,0,0.00,0,0,0,0,0,0,Thibaut Courtois,GK
+2022-2023,30,Real Madrid,es ESP,1. La Liga,2nd,31.0,5,0.16,2,3,0,0,0,0,0,0.00,0,0,0,0,0,0,Thibaut Courtois,GK
+2023-2024,31,Real Madrid,es ESP,1. La Liga,1st,3.7,1,0.27,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Thibaut Courtois,GK
+2024-2025,32,Real Madrid,es ESP,1. La Liga,1st,16.0,1,0.06,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Thibaut Courtois,GK
+2018-2019,18,Bordeaux,fr FRA,1. Ligue 1,14th,7.8,7,0.89,7,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Aurélien Tchouaméni,"MF,DF"
+2019-2020,19,Bordeaux,fr FRA,1. Ligue 1,12th,12.3,17,1.38,14,0,0,1,1,1,1,0.08,0,0,0,0,1,0,Aurélien Tchouaméni,"MF,DF"
+2019-2020,19,Monaco,fr FRA,1. Ligue 1,9th,0.7,4,5.54,3,0,0,1,0,0,0,0.00,0,0,0,0,0,0,Aurélien Tchouaméni,"MF,DF"
+2020-2021,20,Monaco,fr FRA,1. Ligue 1,3rd,34.0,56,1.65,41,0,1,9,4,1,9,0.26,8,0,0,0,1,0,Aurélien Tchouaméni,"MF,DF"
+2021-2022,21,Monaco,fr FRA,1. Ligue 1,3rd,32.5,71,2.18,50,0,7,7,4,3,8,0.25,8,0,0,0,0,0,Aurélien Tchouaméni,"MF,DF"
+2022-2023,22,Real Madrid,es ESP,1. La Liga,2nd,23.5,63,2.67,53,1,2,3,3,1,12,0.51,11,0,0,0,1,0,Aurélien Tchouaméni,"MF,DF"
+2023-2024,23,Real Madrid,es ESP,1. La Liga,1st,22.1,35,1.58,30,0,1,3,0,1,11,0.50,10,0,0,1,0,0,Aurélien Tchouaméni,"MF,DF"
+2024-2025,24,Real Madrid,es ESP,1. La Liga,1st,14.2,21,1.48,21,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Aurélien Tchouaméni,"MF,DF"
+2019-2020,16,Birmingham City,eng ENG,2. Championship,20th,29.9,87,2.91,52,8,9,9,6,3,7,0.23,3,2,0,2,0,0,Jude Bellingham,MF
+2020-2021,17,Dortmund,de GER,1. Bundesliga,3rd,18.9,39,2.07,33,0,1,1,3,1,7,0.37,7,0,0,0,0,0,Jude Bellingham,MF
+2021-2022,18,Dortmund,de GER,1. Bundesliga,2nd,31.0,104,3.35,72,0,13,5,11,3,17,0.55,11,0,2,0,2,2,Jude Bellingham,MF
+2022-2023,19,Dortmund,de GER,1. Bundesliga,2nd,29.9,125,4.18,89,0,16,8,10,2,17,0.57,12,0,3,0,2,0,Jude Bellingham,MF
+2023-2024,20,Real Madrid,es ESP,1. La Liga,1st,25.7,99,3.85,82,0,8,4,5,0,13,0.51,10,0,1,2,0,0,Jude Bellingham,MF
+2024-2025,21,Real Madrid,es ESP,1. La Liga,1st,13.7,39,2.86,32,1,3,0,1,2,6,0.44,6,0,0,0,0,0,Jude Bellingham,MF
+2018-2019,18,Real Madrid,es ESP,1. La Liga,3rd,9.7,43,4.45,27,1,5,4,5,1,6,0.62,4,0,1,0,1,0,Vinicius Júnior,FW
+2019-2020,19,Real Madrid,es ESP,1. La Liga,1st,15.2,63,4.16,42,0,12,6,3,0,6,0.40,4,0,1,0,1,0,Vinicius Júnior,FW
+2020-2021,20,Real Madrid,es ESP,1. La Liga,2nd,21.9,73,3.34,52,0,12,3,6,0,8,0.37,4,0,1,1,2,0,Vinicius Júnior,FW
+2021-2022,21,Real Madrid,es ESP,1. La Liga,1st,29.9,188,6.29,129,1,27,9,19,3,28,0.94,18,0,5,1,3,1,Vinicius Júnior,FW
+2022-2023,22,Real Madrid,es ESP,1. La Liga,2nd,31.4,161,5.13,103,2,27,11,17,1,21,0.67,12,0,4,4,0,1,Vinicius Júnior,FW
+2023-2024,23,Real Madrid,es ESP,1. La Liga,1st,20.7,79,3.81,43,1,19,8,6,2,10,0.48,5,0,1,3,0,1,Vinicius Júnior,FW
+2024-2025,24,Real Madrid,es ESP,1. La Liga,1st,13.1,69,5.29,39,0,12,6,9,3,11,0.84,5,0,4,0,2,0,Vinicius Júnior,FW
+2019-2020,18,Real Madrid,es ESP,1. La Liga,1st,11.3,29,2.56,26,1,0,0,2,0,1,0.09,1,0,0,0,0,0,Rodrygo,FW
+2020-2021,19,Real Madrid,es ESP,1. La Liga,2nd,10.9,41,3.76,30,0,5,2,3,1,9,0.83,7,0,2,0,0,0,Rodrygo,FW
+2021-2022,20,Real Madrid,es ESP,1. La Liga,1st,16.9,69,4.07,42,7,9,4,7,0,12,0.71,8,0,1,1,2,0,Rodrygo,FW
+2022-2023,21,Real Madrid,es ESP,1. La Liga,2nd,26.4,133,5.03,78,5,25,9,15,1,21,0.79,12,0,6,0,3,0,Rodrygo,FW
+2023-2024,22,Real Madrid,es ESP,1. La Liga,1st,26.4,111,4.20,71,5,22,6,5,2,14,0.53,7,0,5,1,0,1,Rodrygo,FW
+2024-2025,23,Real Madrid,es ESP,1. La Liga,1st,11.6,57,4.91,39,11,3,1,2,1,6,0.52,5,0,1,0,0,0,Rodrygo,FW
+2012-2013,21,Real Madrid B,es ESP,2. La Liga 2,8th,9.1,,,,,,,,,,,,,,,,,Lucas Vázquez,DF
+2013-2014,22,Real Madrid B,es ESP,2. La Liga 2,20th,39.5,,,,,,,,,,,,,,,,,Lucas Vázquez,DF
+2014-2015,23,Espanyol,es ESP,1. La Liga,10th,30.5,,,,,,,,,,,,,,,,,Lucas Vázquez,DF
+2015-2016,24,Real Madrid,es ESP,1. La Liga,2nd,13.8,,,,,,,,,,,,,,,,,Lucas Vázquez,DF
+2016-2017,25,Real Madrid,es ESP,1. La Liga,1st,15.6,,,,,,,,,,,,,,,,,Lucas Vázquez,DF
+2017-2018,26,Real Madrid,es ESP,1. La Liga,3rd,18.7,109,5.84,85,3,9,3,7,2,13,0.70,10,1,0,1,1,0,Lucas Vázquez,DF
+2018-2019,27,Real Madrid,es ESP,1. La Liga,3rd,16.8,54,3.22,47,1,3,2,1,0,4,0.24,4,0,0,0,0,0,Lucas Vázquez,DF
+2019-2020,28,Real Madrid,es ESP,1. La Liga,1st,9.4,33,3.51,25,3,1,1,3,0,5,0.53,4,0,0,0,1,0,Lucas Vázquez,DF
+2020-2021,29,Real Madrid,es ESP,1. La Liga,2nd,20.5,82,3.99,69,0,4,3,5,1,9,0.44,8,0,0,0,1,0,Lucas Vázquez,DF
+2021-2022,30,Real Madrid,es ESP,1. La Liga,1st,20.4,57,2.80,47,3,2,1,3,1,2,0.10,2,0,0,0,0,0,Lucas Vázquez,DF
+2022-2023,31,Real Madrid,es ESP,1. La Liga,2nd,12.7,41,3.22,32,2,2,1,3,1,2,0.16,1,0,0,0,1,0,Lucas Vázquez,DF
+2023-2024,32,Real Madrid,es ESP,1. La Liga,1st,15.8,60,3.81,47,1,4,3,4,1,11,0.70,8,0,1,1,1,0,Lucas Vázquez,DF
+2024-2025,33,Real Madrid,es ESP,1. La Liga,1st,10.8,24,2.23,19,2,1,1,0,1,4,0.37,4,0,0,0,0,0,Lucas Vázquez,DF
+2018-2019,20,Porto,pt POR,1. Primeira Liga,2nd,28.9,40,1.39,28,4,2,4,2,0,4,0.14,0,0,0,3,1,0,Éder Militão,DF
+2019-2020,21,Real Madrid,es ESP,1. La Liga,1st,11.4,6,0.53,4,1,0,0,1,0,0,0.00,0,0,0,0,0,0,Éder Militão,DF
+2020-2021,22,Real Madrid,es ESP,1. La Liga,2nd,12.6,9,0.71,9,0,0,0,0,0,2,0.16,2,0,0,0,0,0,Éder Militão,DF
+2021-2022,23,Real Madrid,es ESP,1. La Liga,1st,33.7,36,1.07,26,1,0,4,3,2,5,0.15,2,0,0,1,1,1,Éder Militão,DF
+2022-2023,24,Real Madrid,es ESP,1. La Liga,2nd,30.0,22,0.73,19,2,0,0,1,0,4,0.13,3,0,0,0,1,0,Éder Militão,DF
+2023-2024,25,Real Madrid,es ESP,1. La Liga,1st,5.5,2,0.36,2,0,0,0,0,0,1,0.18,1,0,0,0,0,0,Éder Militão,DF
+2024-2025,26,Real Madrid,es ESP,1. La Liga,1st,10.4,12,1.15,9,0,0,2,0,1,1,0.10,1,0,0,0,0,0,Éder Militão,DF
+2014-2015,19,Le Havre,fr FRA,2. Ligue 2,7th,1.0,,,,,,,,,,,,,,,,,Ferland Mendy,DF
+2015-2016,20,Le Havre,fr FRA,2. Ligue 2,4th,7.9,,,,,,,,,,,,,,,,,Ferland Mendy,DF
+2016-2017,21,Le Havre,fr FRA,2. Ligue 2,8th,34.5,,,,,,,,,,,,,,,,,Ferland Mendy,DF
+2017-2018,22,Lyon,fr FRA,1. Ligue 1,3rd,23.6,68,2.88,50,0,8,5,5,0,15,0.64,10,0,1,3,1,0,Ferland Mendy,DF
+2018-2019,23,Lyon,fr FRA,1. Ligue 1,3rd,28.1,94,3.34,79,3,9,0,3,0,6,0.21,6,0,0,0,0,0,Ferland Mendy,DF
+2019-2020,24,Real Madrid,es ESP,1. La Liga,1st,20.1,45,2.24,35,1,4,0,3,2,6,0.30,3,0,1,0,2,0,Ferland Mendy,DF
+2020-2021,25,Real Madrid,es ESP,1. La Liga,2nd,24.5,47,1.92,41,0,2,0,4,0,1,0.04,1,0,0,0,0,0,Ferland Mendy,DF
+2021-2022,26,Real Madrid,es ESP,1. La Liga,1st,19.3,60,3.11,48,3,8,0,1,0,4,0.21,3,0,0,0,1,0,Ferland Mendy,DF
+2022-2023,27,Real Madrid,es ESP,1. La Liga,2nd,15.0,28,1.87,25,1,1,0,0,1,2,0.13,2,0,0,0,0,0,Ferland Mendy,DF
+2023-2024,28,Real Madrid,es ESP,1. La Liga,1st,19.1,31,1.62,27,2,1,1,0,0,3,0.16,3,0,0,0,0,0,Ferland Mendy,DF
+2024-2025,29,Real Madrid,es ESP,1. La Liga,1st,9.2,2,0.22,1,0,0,0,0,1,0,0.00,0,0,0,0,0,0,Ferland Mendy,DF
+2020-2021,20,Rayo Vallecano,es ESP,2. La Liga 2,6th,36.5,73,2.00,51,5,7,4,4,2,8,0.22,7,0,0,0,1,0,Fran Garcia,DF
+2021-2022,21,Rayo Vallecano,es ESP,1. La Liga,12th,33.6,67,1.99,51,9,3,4,0,0,2,0.06,2,0,0,0,0,0,Fran Garcia,DF
+2022-2023,22,Rayo Vallecano,es ESP,1. La Liga,11th,37.9,71,1.88,55,6,3,1,2,4,9,0.24,6,1,1,0,1,0,Fran Garcia,DF
+2023-2024,23,Real Madrid,es ESP,1. La Liga,1st,15.5,34,2.19,32,0,2,0,0,0,4,0.26,4,0,0,0,0,0,Fran Garcia,DF
+2024-2025,24,Real Madrid,es ESP,1. La Liga,1st,8.5,15,1.76,13,0,0,2,0,0,0,0.00,0,0,0,0,0,0,Fran Garcia,DF
+2007-2008,21,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,21.9,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2008-2009,22,Tottenham,eng ENG,1. Premier League,8th,30.8,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2009-2010,23,Tottenham,eng ENG,1. Premier League,4th,21.2,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2010-2011,24,Tottenham,eng ENG,1. Premier League,5th,31.0,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2011-2012,25,Tottenham,eng ENG,1. Premier League,4th,35.7,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2012-2013,26,Real Madrid,es ESP,1. La Liga,2nd,24.2,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2013-2014,27,Real Madrid,es ESP,1. La Liga,3rd,29.3,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2014-2015,28,Real Madrid,es ESP,1. La Liga,2nd,14.3,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2015-2016,29,Real Madrid,es ESP,1. La Liga,2nd,29.1,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2016-2017,30,Real Madrid,es ESP,1. La Liga,1st,21.0,,,,,,,,,,,,,,,,,Luka Modrić,MF
+2017-2018,31,Real Madrid,es ESP,1. La Liga,3rd,21.9,107,4.89,86,1,13,2,3,2,14,0.64,10,1,0,2,0,1,Luka Modrić,MF
+2018-2019,32,Real Madrid,es ESP,1. La Liga,3rd,29.0,127,4.38,92,13,8,7,3,4,13,0.45,7,2,1,2,0,1,Luka Modrić,MF
+2019-2020,33,Real Madrid,es ESP,1. La Liga,1st,22.2,97,4.38,76,9,5,4,2,1,17,0.77,12,2,0,1,2,0,Luka Modrić,MF
+2020-2021,34,Real Madrid,es ESP,1. La Liga,2nd,30.4,104,3.42,81,12,5,2,2,2,8,0.26,7,0,1,0,0,0,Luka Modrić,MF
+2021-2022,35,Real Madrid,es ESP,1. La Liga,1st,22.6,84,3.72,68,9,3,3,0,1,11,0.49,8,1,0,2,0,0,Luka Modrić,MF
+2022-2023,36,Real Madrid,es ESP,1. La Liga,2nd,19.4,85,4.39,75,6,2,1,1,0,9,0.46,6,2,0,0,1,0,Luka Modrić,MF
+2023-2024,37,Real Madrid,es ESP,1. La Liga,1st,18.8,105,5.60,74,21,2,4,2,2,13,0.69,12,1,0,0,0,0,Luka Modrić,MF
+2024-2025,38,Real Madrid,es ESP,1. La Liga,1st,9.3,53,5.67,31,20,0,2,0,0,7,0.75,5,2,0,0,0,0,Luka Modrić,MF
+2012-2013,20,Leverkusen,de GER,1. Bundesliga,3rd,30.8,,,,,,,,,,,,,,,,,Dani Carvajal,DF
+2013-2014,21,Real Madrid,es ESP,1. La Liga,3rd,24.9,,,,,,,,,,,,,,,,,Dani Carvajal,DF
+2014-2015,22,Real Madrid,es ESP,1. La Liga,2nd,25.2,,,,,,,,,,,,,,,,,Dani Carvajal,DF
+2015-2016,23,Real Madrid,es ESP,1. La Liga,2nd,18.1,,,,,,,,,,,,,,,,,Dani Carvajal,DF
+2016-2017,24,Real Madrid,es ESP,1. La Liga,1st,22.4,,,,,,,,,,,,,,,,,Dani Carvajal,DF
+2017-2018,25,Real Madrid,es ESP,1. La Liga,3rd,24.7,70,2.84,63,2,3,1,0,1,5,0.20,4,0,1,0,0,0,Dani Carvajal,DF
+2018-2019,26,Real Madrid,es ESP,1. La Liga,3rd,23.4,60,2.56,53,1,3,2,1,0,5,0.21,3,0,0,1,1,0,Dani Carvajal,DF
+2019-2020,27,Real Madrid,es ESP,1. La Liga,1st,30.4,85,2.79,72,6,3,2,2,0,8,0.26,5,2,0,0,1,0,Dani Carvajal,DF
+2020-2021,28,Real Madrid,es ESP,1. La Liga,2nd,10.6,19,1.80,15,0,2,1,0,1,5,0.47,5,0,0,0,0,0,Dani Carvajal,DF
+2021-2022,29,Real Madrid,es ESP,1. La Liga,1st,17.2,38,2.21,36,0,1,0,0,1,6,0.35,5,0,1,0,0,0,Dani Carvajal,DF
+2022-2023,30,Real Madrid,es ESP,1. La Liga,2nd,19.8,40,2.02,37,0,0,1,1,1,1,0.05,1,0,0,0,0,0,Dani Carvajal,DF
+2023-2024,31,Real Madrid,es ESP,1. La Liga,1st,24.1,44,1.82,41,0,1,0,2,0,7,0.29,6,0,0,0,1,0,Dani Carvajal,DF
+2024-2025,32,Real Madrid,es ESP,1. La Liga,1st,6.8,12,1.77,10,2,0,0,0,0,2,0.30,1,1,0,0,0,0,Dani Carvajal,DF
+2016-2017,16,Manchester City,eng ENG,Jr. PL2 — Div. 1,2nd,16.6,,,,,,,,,,,,,,,,,Brahim Díaz,"FW,MF"
+2017-2018,17,Manchester City,eng ENG,Jr. PL2 — Div. 1,6th,12.0,,,,,,,,,,,,,,,,,Brahim Díaz,"FW,MF"
+2017-2018,17,Manchester City,eng ENG,1. Premier League,1st,0.6,2,3.27,0,0,0,1,1,0,0,0.00,0,0,0,0,0,0,Brahim Díaz,"FW,MF"
+2018-2019,18,Real Madrid,es ESP,1. La Liga,3rd,4.2,21,5.03,11,0,7,0,3,0,3,0.72,1,0,2,0,0,0,Brahim Díaz,"FW,MF"
+2019-2020,19,Real Madrid,es ESP,1. La Liga,1st,0.7,1,1.38,0,0,0,0,1,0,0,0.00,0,0,0,0,0,0,Brahim Díaz,"FW,MF"
+2020-2021,20,Milan,it ITA,1. Serie A,2nd,13.6,48,3.51,29,5,3,3,8,0,10,0.73,7,1,1,0,1,0,Brahim Díaz,"FW,MF"
+2021-2022,21,Milan,it ITA,1. Serie A,1st,20.6,78,3.78,61,2,4,3,5,3,10,0.48,7,1,0,2,0,0,Brahim Díaz,"FW,MF"
+2022-2023,22,Milan,it ITA,1. Serie A,4th,21.4,96,4.49,69,1,12,6,7,1,18,0.84,8,0,6,2,1,1,Brahim Díaz,"FW,MF"
+2023-2024,23,Real Madrid,es ESP,1. La Liga,1st,17.2,75,4.37,49,2,13,6,4,1,18,1.05,12,1,5,0,0,0,Brahim Díaz,"FW,MF"
+2024-2025,24,Real Madrid,es ESP,1. La Liga,1st,6.8,28,4.14,23,0,3,1,0,1,9,1.33,6,0,1,1,0,1,Brahim Díaz,"FW,MF"
+2021-2022,16,Fenerbahçe,tr TUR,1. Süper Lig,2nd,3.2,,,,,,,,,,,,,,,,,Arda Güler,"MF,FW"
+2022-2023,17,Fenerbahçe,tr TUR,1. Süper Lig,2nd,10.1,,,,,,,,,,,,,,,,,Arda Güler,"MF,FW"
+2023-2024,18,Real Madrid,es ESP,1. La Liga,1st,4.2,18,4.30,11,1,2,2,2,0,2,0.48,1,0,1,0,0,0,Arda Güler,"MF,FW"
+2024-2025,19,Real Madrid,es ESP,1. La Liga,1st,6.4,32,5.01,21,3,4,3,0,1,6,0.94,3,1,0,2,0,0,Arda Güler,"MF,FW"
+2018-2019,15,Rennes,fr FRA,1. Ligue 1,10th,4.0,9,2.23,5,0,0,0,3,1,1,0.25,0,0,0,0,1,0,Eduardo Camavinga,"MF,DF"
+2019-2020,16,Rennes,fr FRA,1. Ligue 1,3rd,23.4,37,1.58,27,0,3,0,7,0,8,0.34,6,0,2,0,0,0,Eduardo Camavinga,"MF,DF"
+2020-2021,17,Rennes,fr FRA,1. Ligue 1,6th,26.7,55,2.06,40,0,3,3,8,1,5,0.19,2,0,0,2,1,0,Eduardo Camavinga,"MF,DF"
+2021-2022,18,Rennes,fr FRA,1. Ligue 1,4th,1.6,4,2.52,3,0,0,0,1,0,1,0.63,1,0,0,0,0,0,Eduardo Camavinga,"MF,DF"
+2021-2022,18,Real Madrid,es ESP,1. La Liga,1st,13.7,34,2.48,30,0,0,0,2,2,2,0.15,2,0,0,0,0,0,Eduardo Camavinga,"MF,DF"
+2022-2023,19,Real Madrid,es ESP,1. La Liga,2nd,22.3,72,3.23,55,0,5,3,9,0,5,0.22,3,0,0,1,1,0,Eduardo Camavinga,"MF,DF"
+2023-2024,20,Real Madrid,es ESP,1. La Liga,1st,20.2,58,2.87,45,0,3,1,4,5,6,0.30,5,0,1,0,0,0,Eduardo Camavinga,"MF,DF"
+2024-2025,21,Real Madrid,es ESP,1. La Liga,1st,5.8,9,1.56,9,0,0,0,0,0,1,0.17,1,0,0,0,0,0,Eduardo Camavinga,"MF,DF"
+2013-2014,16,Betis,es ESP,1. La Liga,20th,0.1,,,,,,,,,,,,,,,,,Dani Ceballos,MF
+2014-2015,17,Betis,es ESP,2. La Liga 2,1st,25.3,,,,,,,,,,,,,,,,,Dani Ceballos,MF
+2015-2016,18,Betis,es ESP,1. La Liga,10th,23.7,,,,,,,,,,,,,,,,,Dani Ceballos,MF
+2016-2017,19,Betis,es ESP,1. La Liga,15th,26.0,,,,,,,,,,,,,,,,,Dani Ceballos,MF
+2017-2018,20,Real Madrid,es ESP,1. La Liga,3rd,4.5,20,4.49,14,1,1,0,4,0,3,0.67,1,1,1,0,0,0,Dani Ceballos,MF
+2018-2019,21,Real Madrid,es ESP,1. La Liga,3rd,13.9,57,4.11,48,0,1,3,4,1,2,0.14,1,0,0,1,0,0,Dani Ceballos,MF
+2019-2020,22,Arsenal,eng ENG,1. Premier League,8th,18.8,56,2.98,38,10,2,1,3,2,7,0.37,5,1,0,0,0,1,Dani Ceballos,MF
+2020-2021,23,Arsenal,eng ENG,1. Premier League,8th,17.9,68,3.79,60,3,1,1,2,1,5,0.28,4,0,0,1,0,0,Dani Ceballos,MF
+2021-2022,24,Real Madrid,es ESP,1. La Liga,1st,3.1,12,3.93,9,0,0,3,0,0,1,0.33,0,0,0,1,0,0,Dani Ceballos,MF
+2022-2023,25,Real Madrid,es ESP,1. La Liga,2nd,17.4,81,4.66,60,8,5,2,5,1,9,0.52,8,0,0,0,1,0,Dani Ceballos,MF
+2023-2024,26,Real Madrid,es ESP,1. La Liga,1st,6.6,25,3.77,22,0,1,0,2,0,2,0.30,2,0,0,0,0,0,Dani Ceballos,MF
+2024-2025,27,Real Madrid,es ESP,1. La Liga,1st,5.6,19,3.37,17,2,0,0,0,0,3,0.53,2,1,0,0,0,0,Dani Ceballos,MF
+2024-2025,21,Real Madrid,es ESP,1. La Liga,1st,4.0,5,1.26,5,0,0,0,0,0,1,0.25,1,0,0,0,0,0,Raúl Asencio,DF
+2016-2017,17,FC Dnipro,ua UKR,1. Premier League,11th,21.0,,,,,,,,,,,,,,,,,Andriy Lunin,GK
+2017-2018,18,Zorya Luhansk,ua UKR,1. Premier League,4th,29.0,,,,,,,,,,,,,,,,,Andriy Lunin,GK
+2018-2019,19,Leganés,es ESP,1. La Liga,13th,4.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Andriy Lunin,GK
+2019-2020,20,Oviedo,es ESP,2. La Liga 2,15th,20.0,2,0.10,0,2,0,0,0,0,0,0.00,0,0,0,0,0,0,Andriy Lunin,GK
+2021-2022,22,Real Madrid,es ESP,1. La Liga,1st,2.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Andriy Lunin,GK
+2022-2023,23,Real Madrid,es ESP,1. La Liga,2nd,7.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Andriy Lunin,GK
+2023-2024,24,Real Madrid,es ESP,1. La Liga,1st,21.0,2,0.10,2,0,0,0,0,0,1,0.05,1,0,0,0,0,0,Andriy Lunin,GK
+2024-2025,25,Real Madrid,es ESP,1. La Liga,1st,3.0,1,0.33,1,0,0,0,0,0,1,0.33,1,0,0,0,0,0,Andriy Lunin,GK
+2024-2025,18,Real Madrid,es ESP,1. La Liga,1st,1.0,3,2.87,1,0,1,0,1,0,2,1.91,0,0,1,0,1,0,Endrick,FW
+2014-2015,17,Zaragoza,es ESP,2. La Liga 2,6th,25.7,,,,,,,,,,,,,,,,,Jesús Vallejo,DF
+2015-2016,18,Zaragoza,es ESP,2. La Liga 2,8th,18.7,,,,,,,,,,,,,,,,,Jesús Vallejo,DF
+2016-2017,19,Eint Frankfurt,de GER,1. Bundesliga,11th,22.9,,,,,,,,,,,,,,,,,Jesús Vallejo,DF
+2017-2018,20,Real Madrid,es ESP,1. La Liga,3rd,7.0,1,0.14,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Jesús Vallejo,DF
+2018-2019,21,Real Madrid,es ESP,1. La Liga,3rd,3.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Jesús Vallejo,DF
+2019-2020,22,Wolves,eng ENG,1. Premier League,7th,1.8,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Jesús Vallejo,DF
+2019-2020,22,Granada,es ESP,1. La Liga,7th,7.0,2,0.29,2,0,0,0,0,0,1,0.14,1,0,0,0,0,0,Jesús Vallejo,DF
+2020-2021,23,Granada,es ESP,1. La Liga,9th,15.0,6,0.40,5,0,0,0,0,1,2,0.13,1,0,0,0,0,1,Jesús Vallejo,DF
+2021-2022,24,Real Madrid,es ESP,1. La Liga,1st,3.8,1,0.26,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Jesús Vallejo,DF
+2022-2023,25,Real Madrid,es ESP,1. La Liga,2nd,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Jesús Vallejo,DF
+2023-2024,26,Granada,es ESP,1. La Liga,20th,1.2,1,0.83,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Jesús Vallejo,DF
+2024-2025,27,Real Madrid,es ESP,1. La Liga,1st,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Jesús Vallejo,DF
+2024-2025,17,Real Madrid,es ESP,1. La Liga,1st,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Daniel Yáñez,FW
+2023-2024,19,Real Madrid,es ESP,1. La Liga,1st,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Gonzalo García,MF

@@ -1,0 +1,697 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Player
+2011-2012,20,Real Sociedad,es ESP,1. La Liga,12th,24.4,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez
+2012-2013,21,Real Sociedad,es ESP,1. La Liga,4th,34.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez
+2013-2014,22,Real Sociedad,es ESP,1. La Liga,7th,34.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez
+2014-2015,23,Real Sociedad,es ESP,1. La Liga,12th,33.6,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez
+2015-2016,24,Real Sociedad,es ESP,1. La Liga,9th,30.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez
+2016-2017,25,Real Sociedad,es ESP,1. La Liga,6th,33.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez
+2017-2018,26,Real Sociedad,es ESP,1. La Liga,12th,11.7,893,58,362,467,75,15,893,6,4,66.7,2,33.3,487,3167,2133,27,16,0,2,4,534,14,Matches,Iñigo Martínez
+2017-2018,26,Athletic Club,es ESP,1. La Liga,16th,16.0,952,89,432,475,56,21,952,7,7,100.0,0,0.0,513,3324,2073,24,12,1,8,1,541,7,Matches,Iñigo Martínez
+2018-2019,27,Athletic Club,es ESP,1. La Liga,8th,32.2,1808,165,816,922,88,35,1808,5,4,80.0,1,20.0,873,5307,3371,37,19,2,14,6,981,18,Matches,Iñigo Martínez
+2019-2020,28,Athletic Club,es ESP,1. La Liga,11th,33.0,1903,180,835,971,120,33,1903,12,7,58.3,5,41.7,943,5925,3611,36,31,0,17,4,1055,21,Matches,Iñigo Martínez
+2020-2021,29,Athletic Club,es ESP,1. La Liga,10th,28.0,1686,149,722,903,76,20,1686,9,7,77.8,2,22.2,974,6191,4011,31,20,1,11,5,1062,7,Matches,Iñigo Martínez
+2021-2022,30,Athletic Club,es ESP,1. La Liga,8th,26.0,1499,185,739,697,76,33,1499,2,2,100.0,0,0.0,750,4700,2935,29,10,0,7,3,795,8,Matches,Iñigo Martínez
+2022-2023,31,Athletic Club,es ESP,1. La Liga,8th,14.9,914,117,451,430,38,15,914,0,0,,0,,495,3173,2165,11,10,0,4,2,529,4,Matches,Iñigo Martínez
+2023-2024,32,Barcelona,es ESP,1. La Liga,2nd,14.4,1241,91,456,729,63,13,1241,1,0,0.0,1,100.0,833,4930,3438,33,22,1,3,0,935,5,Matches,Iñigo Martínez
+2024-2025,33,Barcelona,es ESP,1. La Liga,1st,15.8,1569,92,576,947,52,16,1569,0,0,,0,,1030,5983,4275,32,17,0,5,2,1198,2,Matches,Iñigo Martínez
+14 Seasons,14 Seasons,3 Clubs,,1 League,,382.0,12465,1126,5389,6541,644,201,12465,42,31,73.8,11,26.2,6898,42700,28012,260,157,5,71,27,7630,86,,Iñigo Martínez
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Iñigo Martínez
+Real Sociedad (7 Seasons),Real Sociedad (7 Seasons),Real Sociedad (7 Seasons),,1 League,,201.8,893,58,362,467,75,15,893,6,4,66.7,2,33.3,487,3167,2133,27,16,0,2,4,534,14,,Iñigo Martínez
+Athletic Club (6 Seasons),Athletic Club (6 Seasons),Athletic Club (6 Seasons),,1 League,,150.1,8762,885,3995,4398,454,157,8762,35,27,77.1,8,22.9,4548,28620,18166,168,102,4,61,21,4963,65,,Iñigo Martínez
+Barcelona (2 Seasons),Barcelona (2 Seasons),Barcelona (2 Seasons),,1 League,,30.2,2810,183,1032,1676,115,29,2810,1,0,0.0,1,100.0,1863,10913,7713,65,39,1,8,2,2133,7,,Iñigo Martínez
+2015-2016,18,Vitória,pt POR,1. Primeira Liga,10th,0.2,,,,,,,,,,,,,,,,,,,,,,,Matches,Raphinha
+2016-2017,19,Vitória,pt POR,1. Primeira Liga,4th,18.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Raphinha
+2017-2018,20,Vitória,pt POR,1. Primeira Liga,9th,30.9,,,,,,,,,,,,,,,,,,,,,,,Matches,Raphinha
+2018-2019,21,Sporting CP,pt POR,1. Primeira Liga,3rd,16.8,743,8,85,274,393,85,743,51,26,51.0,25,49.0,477,3097,1476,49,18,27,25,27,534,180,Matches,Raphinha
+2019-2020,22,Sporting CP,pt POR,1. Primeira Liga,4th,4.0,169,1,20,57,93,22,169,10,4,40.0,6,60.0,97,580,249,7,6,7,16,4,119,47,Matches,Raphinha
+2019-2020,22,Rennes,fr FRA,1. Ligue 1,3rd,18.8,949,14,104,422,446,77,948,112,49,43.8,63,56.3,609,3994,2027,64,47,33,47,33,622,155,Matches,Raphinha
+2020-2021,23,Rennes,fr FRA,1. Ligue 1,6th,4.5,200,4,26,84,92,14,200,25,10,40.0,14,56.0,106,782,422,11,8,6,7,3,134,31,Matches,Raphinha
+2020-2021,23,Leeds United,eng ENG,Jr. PL2 — Div. 2,1st,1.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Raphinha
+2020-2021,23,Leeds United,eng ENG,1. Premier League,9th,26.2,1445,39,195,603,664,122,1445,110,56,50.9,54,49.1,829,5308,2909,102,58,38,86,34,957,222,Matches,Raphinha
+2021-2022,24,Leeds United,eng ENG,1. Premier League,17th,32.4,1796,46,248,753,826,130,1792,146,62,42.5,84,57.5,991,5995,2879,89,55,40,99,35,1185,286,Matches,Raphinha
+2022-2023,25,Barcelona,es ESP,1. La Liga,1st,23.0,1596,17,84,547,979,131,1596,106,45,42.5,52,49.1,999,5616,2794,97,67,53,55,24,1148,339,Matches,Raphinha
+2023-2024,26,Barcelona,es ESP,1. La Liga,2nd,15.2,894,11,80,338,484,81,893,46,24,52.2,19,41.3,495,2884,1418,49,22,23,41,8,620,164,Matches,Raphinha
+2024-2025,27,Barcelona,es ESP,1. La Liga,1st,15.6,857,19,58,325,493,87,856,49,23,46.9,21,42.9,455,2728,1437,52,37,30,27,19,590,136,Matches,Raphinha
+10 Seasons,10 Seasons,6 Clubs,,5 Leagues,,206.5,8649,159,900,3403,4470,749,8642,655,299,45.6,338,51.6,5058,30984,15611,520,318,257,403,187,5909,1560,,Raphinha
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Raphinha
+Barcelona (3 Seasons),Barcelona (3 Seasons),Barcelona (3 Seasons),,1 League,,53.8,3347,47,222,1210,1956,299,3345,201,92,45.8,92,45.8,1949,11228,5649,198,126,106,123,51,2358,639,,Raphinha
+Vitória (3 Seasons),Vitória (3 Seasons),Vitória (3 Seasons),,1 League,,50.0,,,,,,,,,,,,,,,,,,,,,,,,Raphinha
+Leeds United (2 Seasons),Leeds United (2 Seasons),Leeds United (2 Seasons),,1 League,,58.6,3241,85,443,1356,1490,252,3237,256,118,46.1,138,53.9,1820,11303,5788,191,113,78,185,69,2142,508,,Raphinha
+Sporting CP (2 Seasons),Sporting CP (2 Seasons),Sporting CP (2 Seasons),,1 League,,20.8,912,9,105,331,486,107,912,61,30,49.2,31,50.8,574,3677,1725,56,24,34,41,31,653,227,,Raphinha
+Rennes (2 Seasons),Rennes (2 Seasons),Rennes (2 Seasons),,1 League,,23.3,1149,18,130,506,538,91,1148,137,59,43.1,77,56.2,715,4776,2449,75,55,39,54,36,756,186,,Raphinha
+Leeds United (1 Season),Leeds United (1 Season),Leeds United (1 Season),,1 League,,1.0,,,,,,,,,,,,,,,,,,,,,,,,Raphinha
+Avaí (1 Season),Avaí (1 Season),Avaí (1 Season),,1 League,,,,,,,,,,,,,,,,,,,,,,,,,,Raphinha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Raphinha
+Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),,,,70.8,912,9,105,331,486,107,912,61,30,49.2,31,50.8,574,3677,1725,56,24,34,41,31,653,227,,Raphinha
+La Liga (3 Seasons),La Liga (3 Seasons),La Liga (3 Seasons),,,,53.8,3347,47,222,1210,1956,299,3345,201,92,45.8,92,45.8,1949,11228,5649,198,126,106,123,51,2358,639,,Raphinha
+Premier League (2 Seasons),Premier League (2 Seasons),Premier League (2 Seasons),,,,58.6,3241,85,443,1356,1490,252,3237,256,118,46.1,138,53.9,1820,11303,5788,191,113,78,185,69,2142,508,,Raphinha
+Ligue 1 (2 Seasons),Ligue 1 (2 Seasons),Ligue 1 (2 Seasons),,,,23.3,1149,18,130,506,538,91,1148,137,59,43.1,77,56.2,715,4776,2449,75,55,39,54,36,756,186,,Raphinha
+PL2 — Div. 2 (1 Season),PL2 — Div. 2 (1 Season),PL2 — Div. 2 (1 Season),,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,Raphinha
+Série A (1 Season),Série A (1 Season),Série A (1 Season),,,,,,,,,,,,,,,,,,,,,,,,,,,,Raphinha
+2023-2024,16,Barcelona,es ESP,1. La Liga,2nd,17.3,1629,157,758,826,46,5,1629,4,3,75.0,1,25.0,1076,5220,2658,8,7,0,4,3,1263,2,Matches,Pau Cubarsí
+2024-2025,17,Barcelona,es ESP,1. La Liga,1st,15.3,1424,108,566,831,29,15,1424,4,4,100.0,0,0.0,898,4116,2362,8,7,0,4,1,1121,2,Matches,Pau Cubarsí
+2 Seasons,2 Seasons,1 Club,,1 League,,32.7,3053,265,1324,1657,75,20,3053,8,7,87.5,1,12.5,1974,9336,5020,16,14,0,8,4,2384,4,,Pau Cubarsí
+2008-2009,19,Lech Poznań,pl POL,1. Ekstraklasa,3rd,27.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski
+2009-2010,20,Lech Poznań,pl POL,1. Ekstraklasa,1st,27.9,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski
+2010-2011,21,Dortmund,de GER,1. Bundesliga,1st,17.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski
+2011-2012,22,Dortmund,de GER,1. Bundesliga,1st,31.9,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski
+2012-2013,23,Dortmund,de GER,1. Bundesliga,2nd,28.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski
+2013-2014,24,Dortmund,de GER,1. Bundesliga,2nd,31.1,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski
+2014-2015,25,Bayern Munich,de GER,1. Bundesliga,1st,27.6,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski
+2015-2016,26,Bayern Munich,de GER,1. Bundesliga,1st,29.5,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski
+2016-2017,27,Bayern Munich,de GER,1. Bundesliga,1st,30.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski
+2017-2018,28,Bayern Munich,de GER,1. Bundesliga,1st,24.1,882,10,22,306,566,191,875,64,19,29.7,45,70.3,554,2775,1097,44,34,26,43,31,780,220,Matches,Robert Lewandowski
+2018-2019,29,Bayern Munich,de GER,1. Bundesliga,1st,32.9,1114,18,44,436,655,246,1110,76,51,67.1,25,32.9,719,4029,1935,79,53,28,92,51,924,241,Matches,Robert Lewandowski
+2019-2020,30,Bayern Munich,de GER,1. Bundesliga,1st,30.7,1178,14,43,409,738,250,1173,90,58,64.4,32,35.6,768,3989,1623,70,44,47,81,54,981,245,Matches,Robert Lewandowski
+2020-2021,31,Bayern Munich,de GER,1. Bundesliga,1st,27.3,992,11,45,358,597,206,983,43,22,51.2,20,46.5,563,3153,1241,51,28,25,70,44,788,185,Matches,Robert Lewandowski
+2021-2022,32,Bayern Munich,de GER,1. Bundesliga,1st,32.7,1160,14,46,438,685,242,1155,81,47,58.0,34,42.0,685,3274,1241,46,31,21,83,55,917,268,Matches,Robert Lewandowski
+2022-2023,33,Barcelona,es ESP,1. La Liga,1st,31.6,1155,17,41,432,694,210,1154,59,30,50.8,26,44.1,781,3757,1361,52,38,25,94,50,998,248,Matches,Robert Lewandowski
+2023-2024,34,Barcelona,es ESP,1. La Liga,2nd,30.6,900,24,47,361,502,165,896,54,23,42.6,30,55.6,529,2549,1019,43,28,20,86,28,736,168,Matches,Robert Lewandowski
+2024-2025,35,Barcelona,es ESP,1. La Liga,1st,14.7,452,22,40,185,234,81,449,21,15,71.4,6,28.6,249,1009,332,13,7,6,36,23,352,80,Matches,Robert Lewandowski
+17 Seasons,17 Seasons,4 Clubs,,3 Leagues,,476.8,7833,130,328,2925,4671,1591,7795,488,265,54.3,218,44.7,4848,24535,9849,398,263,198,585,336,6476,1655,,Robert Lewandowski
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Robert Lewandowski
+Bayern Munich (8 Seasons),Bayern Munich (8 Seasons),Bayern Munich (8 Seasons),,1 League,,235.6,5326,67,200,1947,3241,1135,5296,354,197,55.6,156,44.1,3289,17220,7137,290,190,147,369,235,4390,1159,,Robert Lewandowski
+Dortmund (4 Seasons),Dortmund (4 Seasons),Dortmund (4 Seasons),,1 League,,109.5,,,,,,,,,,,,,,,,,,,,,,,,Robert Lewandowski
+Barcelona (3 Seasons),Barcelona (3 Seasons),Barcelona (3 Seasons),,1 League,,76.9,2507,63,128,978,1430,456,2499,134,68,50.7,62,46.3,1559,7315,2712,108,73,51,216,101,2086,496,,Robert Lewandowski
+Lech Poznań (2 Seasons),Lech Poznań (2 Seasons),Lech Poznań (2 Seasons),,1 League,,54.9,,,,,,,,,,,,,,,,,,,,,,,,Robert Lewandowski
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Robert Lewandowski
+Bundesliga (12 Seasons),Bundesliga (12 Seasons),Bundesliga (12 Seasons),,,,345.0,5326,67,200,1947,3241,1135,5296,354,197,55.6,156,44.1,3289,17220,7137,290,190,147,369,235,4390,1159,,Robert Lewandowski
+La Liga (3 Seasons),La Liga (3 Seasons),La Liga (3 Seasons),,,,76.9,2507,63,128,978,1430,456,2499,134,68,50.7,62,46.3,1559,7315,2712,108,73,51,216,101,2086,496,,Robert Lewandowski
+Ekstraklasa (2 Seasons),Ekstraklasa (2 Seasons),Ekstraklasa (2 Seasons),,,,54.9,,,,,,,,,,,,,,,,,,,,,,,,Robert Lewandowski
+2017-2018,18,Bordeaux,fr FRA,1. Ligue 1,6th,17.7,1016,100,488,508,30,10,1016,8,4,50.0,4,50.0,645,4062,2821,22,10,0,2,4,648,1,Matches,Jules Koundé
+2018-2019,19,Bordeaux,fr FRA,1. Ligue 1,14th,37.0,2420,245,1228,1143,79,24,2420,15,13,86.7,2,13.3,1377,8121,5465,32,15,1,15,9,1478,3,Matches,Jules Koundé
+2019-2020,20,Sevilla,es ESP,1. La Liga,4th,25.7,1732,167,832,800,112,40,1732,21,18,85.7,3,14.3,1003,5134,2725,27,14,4,16,5,1186,31,Matches,Jules Koundé
+2020-2021,21,Sevilla,es ESP,1. La Liga,4th,33.1,2691,293,1159,1301,245,53,2691,40,30,75.0,10,25.0,1737,9090,5344,45,44,5,26,10,2015,26,Matches,Jules Koundé
+2021-2022,22,Sevilla,es ESP,1. La Liga,4th,30.4,2438,323,1167,1064,225,49,2438,39,24,61.5,15,38.5,1509,7432,4826,48,41,7,27,12,1728,35,Matches,Jules Koundé
+2022-2023,23,Barcelona,es ESP,1. La Liga,1st,27.0,2234,117,675,1215,362,45,2234,28,15,53.6,9,32.1,1477,7400,4587,58,52,5,23,18,1611,61,Matches,Jules Koundé
+2023-2024,24,Barcelona,es ESP,1. La Liga,2nd,32.2,3041,157,903,1701,462,44,3041,38,16,42.1,17,44.7,1910,9350,5961,67,67,2,25,12,2187,64,Matches,Jules Koundé
+2024-2025,25,Barcelona,es ESP,1. La Liga,1st,14.9,1191,51,331,552,315,35,1191,32,14,43.8,17,53.1,587,2394,1304,23,21,3,22,9,756,89,Matches,Jules Koundé
+8 Seasons,8 Seasons,3 Clubs,,2 Leagues,,217.9,16763,1453,6783,8284,1830,300,16763,221,134,60.6,77,34.8,10245,52983,33033,322,264,27,156,79,11609,310,,Jules Koundé
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Jules Koundé
+Sevilla (3 Seasons),Sevilla (3 Seasons),Sevilla (3 Seasons),,1 League,,89.1,6861,783,3158,3165,582,142,6861,100,72,72.0,28,28.0,4249,21656,12895,120,99,16,69,27,4929,92,,Jules Koundé
+Barcelona (3 Seasons),Barcelona (3 Seasons),Barcelona (3 Seasons),,1 League,,74.1,6466,325,1909,3468,1139,124,6466,98,45,45.9,43,43.9,3974,19144,11852,148,140,10,70,39,4554,214,,Jules Koundé
+Bordeaux (2 Seasons),Bordeaux (2 Seasons),Bordeaux (2 Seasons),,1 League,,54.7,3436,345,1716,1651,109,34,3436,23,17,73.9,6,26.1,2022,12183,8286,54,25,1,17,13,2126,4,,Jules Koundé
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jules Koundé
+La Liga (6 Seasons),La Liga (6 Seasons),La Liga (6 Seasons),,,,163.2,13327,1108,5067,6633,1721,266,13327,198,117,59.1,71,35.9,8223,40800,24747,268,239,26,139,66,9483,306,,Jules Koundé
+Ligue 1 (2 Seasons),Ligue 1 (2 Seasons),Ligue 1 (2 Seasons),,,,54.7,3436,345,1716,1651,109,34,3436,23,17,73.9,6,26.1,2022,12183,8286,54,25,1,17,13,2126,4,,Jules Koundé
+2019-2020,16,Las Palmas,es ESP,2. La Liga 2,9th,31.4,1723,14,181,872,686,73,1723,96,67,69.8,29,30.2,1176,7333,3110,83,77,24,88,76,1275,186,Matches,Pedri
+2020-2021,17,Barcelona,es ESP,1. La Liga,3rd,26.8,1984,19,207,892,898,70,1984,41,29,70.7,12,29.3,1388,6757,2935,65,81,16,63,34,1595,128,Matches,Pedri
+2021-2022,18,Barcelona,es ESP,1. La Liga,2nd,9.8,698,10,83,354,269,21,698,19,15,78.9,4,21.1,481,2385,1030,23,33,5,14,17,542,42,Matches,Pedri
+2022-2023,19,Barcelona,es ESP,1. La Liga,1st,22.0,1652,13,161,954,556,58,1652,61,36,59.0,22,36.1,1202,6987,3387,67,81,14,32,31,1334,99,Matches,Pedri
+2023-2024,20,Barcelona,es ESP,1. La Liga,2nd,16.4,1359,22,171,773,427,36,1359,38,16,42.1,20,52.6,823,4535,2333,41,42,7,31,15,1080,81,Matches,Pedri
+2024-2025,21,Barcelona,es ESP,1. La Liga,1st,13.8,1071,21,117,666,297,23,1071,20,12,60.0,8,40.0,650,3595,1728,32,32,2,26,13,817,50,Matches,Pedri
+6 Seasons,6 Seasons,2 Clubs,,2 Leagues,,120.2,8487,99,920,4511,3133,281,8487,275,175,63.6,95,34.5,5720,31592,14523,311,346,68,254,186,6643,586,,Pedri
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Pedri
+Barcelona (5 Seasons),Barcelona (5 Seasons),Barcelona (5 Seasons),,1 League,,88.9,6764,85,739,3639,2447,208,6764,179,108,60.3,66,36.9,4544,24259,11413,228,269,44,166,110,5368,400,,Pedri
+Las Palmas (1 Season),Las Palmas (1 Season),Las Palmas (1 Season),,1 League,,31.4,1723,14,181,872,686,73,1723,96,67,69.8,29,30.2,1176,7333,3110,83,77,24,88,76,1275,186,,Pedri
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pedri
+La Liga (5 Seasons),La Liga (5 Seasons),La Liga (5 Seasons),,,,88.9,6764,85,739,3639,2447,208,6764,179,108,60.3,66,36.9,4544,24259,11413,228,269,44,166,110,5368,400,,Pedri
+La Liga 2 (1 Season),La Liga 2 (1 Season),La Liga 2 (1 Season),,,,31.4,1723,14,181,872,686,73,1723,96,67,69.8,29,30.2,1176,7333,3110,83,77,24,88,76,1275,186,,Pedri
+2022-2023,15,Barcelona,es ESP,1. La Liga,1st,0.1,12,0,0,1,11,1,12,2,0,0.0,2,100.0,9,23,9,0,1,0,0,0,10,2,Matches,Lamine Yamal
+2023-2024,16,Barcelona,es ESP,1. La Liga,2nd,24.5,1475,14,118,460,923,147,1475,160,70,43.8,58,36.3,1023,6622,3889,123,78,57,54,26,1157,350,Matches,Lamine Yamal
+2024-2025,17,Barcelona,es ESP,1. La Liga,1st,13.3,764,7,51,265,459,92,764,113,46,40.7,54,47.8,536,3937,2132,75,35,39,32,20,617,175,Matches,Lamine Yamal
+3 Seasons,3 Seasons,1 Club,,1 League,,37.9,2251,21,169,726,1393,240,2251,275,116,42.2,114,41.5,1568,10582,6030,198,114,96,86,46,1784,527,,Lamine Yamal
+2021-2022,17,Barcelona,es ESP,1. La Liga,2nd,2.1,177,2,24,95,58,7,177,5,1,20.0,4,80.0,141,578,316,9,7,2,4,3,143,23,Matches,Alejandro Balde
+2022-2023,18,Barcelona,es ESP,1. La Liga,1st,27.5,1939,40,419,874,672,78,1939,96,50,52.1,36,37.5,1270,7276,4100,96,69,35,41,24,1348,234,Matches,Alejandro Balde
+2023-2024,19,Barcelona,es ESP,1. La Liga,2nd,15.3,979,35,215,394,384,40,979,53,20,37.7,20,37.7,567,3770,2213,73,36,20,32,16,664,141,Matches,Alejandro Balde
+2024-2025,20,Barcelona,es ESP,1. La Liga,1st,12.3,740,22,153,380,217,16,740,57,21,36.8,23,40.4,457,3002,1404,44,25,4,18,13,520,97,Matches,Alejandro Balde
+4 Seasons,4 Seasons,1 Club,,1 League,,57.2,3835,99,811,1743,1331,141,3835,211,92,43.6,83,39.3,2435,14626,8033,222,137,61,95,56,2675,495,,Alejandro Balde
+2023-2024,19,Barcelona,es ESP,1. La Liga,2nd,0.2,11,2,4,6,1,0,11,0,0,,0,,5,29,14,1,0,0,0,0,7,0,Matches,Marc Casado
+2024-2025,20,Barcelona,es ESP,1. La Liga,1st,11.4,932,19,141,652,141,5,932,7,2,28.6,4,57.1,521,2111,912,6,13,0,11,5,709,18,Matches,Marc Casado
+3 Seasons,3 Seasons,1 Club,,1 League,,11.5,943,21,145,658,142,5,943,7,2,28.6,4,57.1,526,2140,926,7,13,0,11,5,716,18,,Marc Casado
+2021-2022,22,Galatasaray,tr TUR,1. Süper Lig,13th,6.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñaki Peña
+2022-2023,23,Barcelona,es ESP,1. La Liga,1st,0.8,27,21,27,0,0,0,27,0,0,,0,,19,93,35,0,0,0,0,0,14,0,Matches,Iñaki Peña
+2023-2024,24,Barcelona,es ESP,1. La Liga,2nd,10.0,314,279,313,1,0,0,314,0,0,,0,,187,792,437,0,0,0,0,0,165,0,Matches,Iñaki Peña
+2024-2025,25,Barcelona,es ESP,1. La Liga,1st,11.5,530,378,525,5,0,0,530,0,0,,0,,311,1339,743,0,0,0,0,0,294,0,Matches,Iñaki Peña
+7 Seasons,7 Seasons,2 Clubs,,2 Leagues,,28.3,871,678,865,6,0,0,871,0,0,,0,,517,2224,1215,0,0,0,0,0,473,0,,Iñaki Peña
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Iñaki Peña
+Barcelona (7 Seasons),Barcelona (7 Seasons),Barcelona (7 Seasons),,1 League,,22.3,871,678,865,6,0,0,871,0,0,,0,,517,2224,1215,0,0,0,0,0,473,0,,Iñaki Peña
+Galatasaray (1 Season),Galatasaray (1 Season),Galatasaray (1 Season),,1 League,,6.0,,,,,,,,,,,,,,,,,,,,,,,,Iñaki Peña
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Iñaki Peña
+La Liga (7 Seasons),La Liga (7 Seasons),La Liga (7 Seasons),,,,22.3,871,678,865,6,0,0,871,0,0,,0,,517,2224,1215,0,0,0,0,0,473,0,,Iñaki Peña
+Süper Lig (1 Season),Süper Lig (1 Season),Süper Lig (1 Season),,,,6.0,,,,,,,,,,,,,,,,,,,,,,,,Iñaki Peña
+2014-2015,16,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,0.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo
+2015-2016,17,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,0.5,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo
+2016-2017,18,Dinamo Zagreb,hr CRO,1. 1. HNL,2nd,9.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo
+2017-2018,19,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,23.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo
+2018-2019,20,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,17.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo
+2019-2020,21,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,8.2,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo
+2019-2020,21,RB Leipzig,de GER,1. Bundesliga,3rd,8.3,469,8,46,232,195,24,469,15,6,40.0,9,60.0,280,1060,502,15,11,6,18,25,340,57,Matches,Dani Olmo
+2020-2021,22,RB Leipzig,de GER,1. Bundesliga,2nd,24.4,1570,24,150,750,683,100,1569,65,31,47.7,34,52.3,928,4036,1945,50,57,20,69,37,1195,174,Matches,Dani Olmo
+2021-2022,23,RB Leipzig,de GER,1. Bundesliga,4th,8.3,478,4,62,234,186,32,478,45,24,53.3,21,46.7,288,1190,646,15,16,5,23,16,355,55,Matches,Dani Olmo
+2022-2023,24,RB Leipzig,de GER,1. Bundesliga,3rd,14.2,802,6,71,385,360,53,802,74,38,51.4,24,32.4,508,2620,1358,34,36,15,45,30,599,86,Matches,Dani Olmo
+2023-2024,25,RB Leipzig,de GER,1. Bundesliga,4th,16.1,854,18,116,419,329,59,854,72,31,43.1,38,52.8,544,3571,1925,60,49,18,28,26,651,111,Matches,Dani Olmo
+2024-2025,26,Barcelona,es ESP,1. La Liga,1st,5.9,303,8,32,128,147,24,303,23,13,56.5,7,30.4,192,1070,571,15,20,3,13,12,243,44,Matches,Dani Olmo
+11 Seasons,11 Seasons,3 Clubs,,3 Leagues,,137.0,4476,68,477,2148,1900,292,4475,294,143,48.6,133,45.2,2740,13547,6947,189,189,67,196,146,3383,527,,Dani Olmo
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Dani Olmo
+Dinamo Zagreb (6 Seasons),Dinamo Zagreb (6 Seasons),Dinamo Zagreb (6 Seasons),,1 League,,59.8,,,,,,,,,,,,,,,,,,,,,,,,Dani Olmo
+RB Leipzig (5 Seasons),RB Leipzig (5 Seasons),RB Leipzig (5 Seasons),,1 League,,71.3,4173,60,445,2020,1753,268,4172,271,130,48.0,126,46.5,2548,12477,6376,174,169,64,183,134,3140,483,,Dani Olmo
+Barcelona (1 Season),Barcelona (1 Season),Barcelona (1 Season),,1 League,,5.9,303,8,32,128,147,24,303,23,13,56.5,7,30.4,192,1070,571,15,20,3,13,12,243,44,,Dani Olmo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dani Olmo
+1. HNL (6 Seasons),1. HNL (6 Seasons),1. HNL (6 Seasons),,,,59.8,,,,,,,,,,,,,,,,,,,,,,,,Dani Olmo
+Bundesliga (5 Seasons),Bundesliga (5 Seasons),Bundesliga (5 Seasons),,,,71.3,4173,60,445,2020,1753,268,4172,271,130,48.0,126,46.5,2548,12477,6376,174,169,64,183,134,3140,483,,Dani Olmo
+La Liga (1 Season),La Liga (1 Season),La Liga (1 Season),,,,5.9,303,8,32,128,147,24,303,23,13,56.5,7,30.4,192,1070,571,15,20,3,13,12,243,44,,Dani Olmo
+2010-2011,18,Gladbach,de GER,1. Bundesliga,16th,6.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen
+2011-2012,19,Gladbach,de GER,1. Bundesliga,4th,34.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen
+2012-2013,20,Gladbach,de GER,1. Bundesliga,8th,33.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen
+2013-2014,21,Gladbach,de GER,1. Bundesliga,6th,34.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen
+2015-2016,23,Barcelona,es ESP,1. La Liga,1st,6.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen
+2016-2017,24,Barcelona,es ESP,1. La Liga,2nd,36.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen
+2017-2018,25,Barcelona,es ESP,1. La Liga,1st,37.0,1363,1217,1358,5,0,0,1363,1,1,100.0,0,0.0,740,3645,2328,0,0,0,0,0,692,0,Matches,Marc-André ter Stegen
+2018-2019,26,Barcelona,es ESP,1. La Liga,1st,35.0,1128,1005,1125,3,0,0,1128,1,1,100.0,0,0.0,604,2926,2116,0,0,0,0,0,560,0,Matches,Marc-André ter Stegen
+2019-2020,27,Barcelona,es ESP,1. La Liga,2nd,36.0,1498,1204,1491,8,0,0,1498,0,0,,0,,843,4026,2785,0,0,0,2,0,874,0,Matches,Marc-André ter Stegen
+2020-2021,28,Barcelona,es ESP,1. La Liga,3rd,31.0,1093,957,1084,8,2,1,1093,0,0,,0,,618,2842,1890,0,0,0,0,0,633,0,Matches,Marc-André ter Stegen
+2021-2022,29,Barcelona,es ESP,1. La Liga,2nd,35.0,1335,1097,1323,12,0,0,1335,2,2,100.0,0,0.0,777,3585,2393,0,0,0,0,0,804,0,Matches,Marc-André ter Stegen
+2022-2023,30,Barcelona,es ESP,1. La Liga,1st,37.2,1457,1076,1436,22,0,0,1457,0,0,,0,,963,4887,3425,0,0,0,1,1,851,0,Matches,Marc-André ter Stegen
+2023-2024,31,Barcelona,es ESP,1. La Liga,2nd,28.0,1080,816,1068,13,0,0,1080,0,0,,0,,695,3459,2503,0,0,0,1,0,609,0,Matches,Marc-André ter Stegen
+2024-2025,32,Barcelona,es ESP,1. La Liga,1st,5.5,212,155,212,0,0,0,212,0,0,,0,,140,679,512,0,0,0,0,0,134,0,Matches,Marc-André ter Stegen
+15 Seasons,15 Seasons,2 Clubs,,2 Leagues,,394.6,9166,7527,9097,71,2,1,9166,4,4,100.0,0,0.0,5380,26049,17952,0,0,0,4,1,5157,0,,Marc-André ter Stegen
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Marc-André ter Stegen
+Barcelona (11 Seasons),Barcelona (11 Seasons),Barcelona (11 Seasons),,1 League,,286.7,9166,7527,9097,71,2,1,9166,4,4,100.0,0,0.0,5380,26049,17952,0,0,0,4,1,5157,0,,Marc-André ter Stegen
+Gladbach (4 Seasons),Gladbach (4 Seasons),Gladbach (4 Seasons),,1 League,,107.8,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen
+La Liga (11 Seasons),La Liga (11 Seasons),La Liga (11 Seasons),,,,286.7,9166,7527,9097,71,2,1,9166,4,4,100.0,0,0.0,5380,26049,17952,0,0,0,4,1,5157,0,,Marc-André ter Stegen
+Bundesliga (4 Seasons),Bundesliga (4 Seasons),Bundesliga (4 Seasons),,,,107.8,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen
+2017-2018,17,Valencia,es ESP,1. La Liga,4th,3.5,142,3,23,63,59,7,142,10,8,80.0,2,20.0,104,747,428,16,11,2,7,13,110,24,Matches,Ferrán Torres
+2018-2019,18,Valencia,es ESP,1. La Liga,4th,9.4,439,8,70,169,209,31,439,23,14,60.9,9,39.1,259,1950,1020,35,21,7,20,16,310,70,Matches,Ferrán Torres
+2019-2020,19,Valencia,es ESP,1. La Liga,9th,25.0,1047,22,165,413,487,61,1047,95,54,56.8,41,43.2,695,4684,2382,87,65,17,63,24,772,194,Matches,Ferrán Torres
+2020-2021,20,Manchester City,eng ENG,1. Premier League,1st,14.5,608,10,54,204,360,67,608,46,20,43.5,26,56.5,383,2140,1012,30,20,16,25,21,471,118,Matches,Ferrán Torres
+2021-2022,21,Manchester City,eng ENG,1. Premier League,1st,3.4,100,0,7,27,66,24,100,6,4,66.7,2,33.3,57,246,90,5,1,3,4,2,77,26,Matches,Ferrán Torres
+2021-2022,21,Barcelona,es ESP,1. La Liga,2nd,15.7,770,11,57,301,417,88,769,37,13,35.1,24,64.9,553,2808,1180,34,25,22,45,20,643,215,Matches,Ferrán Torres
+2022-2023,22,Barcelona,es ESP,1. La Liga,1st,15.5,756,10,67,256,441,87,755,68,30,44.1,26,38.2,489,2748,1199,43,34,23,48,23,598,180,Matches,Ferrán Torres
+2023-2024,23,Barcelona,es ESP,1. La Liga,2nd,13.5,583,6,42,237,309,56,583,24,10,41.7,11,45.8,338,1744,789,30,21,15,35,13,468,113,Matches,Ferrán Torres
+2024-2025,24,Barcelona,es ESP,1. La Liga,1st,5.2,196,0,12,68,117,24,196,9,6,66.7,2,22.2,105,546,230,10,5,5,10,5,153,34,Matches,Ferrán Torres
+8 Seasons,8 Seasons,3 Clubs,,2 Leagues,,105.6,4641,70,497,1738,2465,445,4639,318,159,50.0,143,45.0,2983,17613,8330,290,203,110,257,137,3602,974,,Ferrán Torres
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Ferrán Torres
+Barcelona (4 Seasons),Barcelona (4 Seasons),Barcelona (4 Seasons),,1 League,,49.8,2305,27,178,862,1284,255,2303,138,59,42.8,63,45.7,1485,7846,3398,117,85,65,138,61,1862,542,,Ferrán Torres
+Valencia (3 Seasons),Valencia (3 Seasons),Valencia (3 Seasons),,1 League,,37.9,1628,33,258,645,755,99,1628,128,76,59.4,52,40.6,1058,7381,3830,138,97,26,90,53,1192,288,,Ferrán Torres
+Manchester City (2 Seasons),Manchester City (2 Seasons),Manchester City (2 Seasons),,1 League,,17.9,708,10,61,231,426,91,708,52,24,46.2,28,53.8,440,2386,1102,35,21,19,29,23,548,144,,Ferrán Torres
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ferrán Torres
+La Liga (7 Seasons),La Liga (7 Seasons),La Liga (7 Seasons),,,,87.7,3933,60,436,1507,2039,354,3931,266,135,50.8,115,43.2,2543,15227,7228,255,182,91,228,114,3054,830,,Ferrán Torres
+Premier League (2 Seasons),Premier League (2 Seasons),Premier League (2 Seasons),,,,17.9,708,10,61,231,426,91,708,52,24,46.2,28,53.8,440,2386,1102,35,21,19,29,23,548,144,,Ferrán Torres
+2024-2025,22,Barcelona,es ESP,1. La Liga,1st,4.3,322,12,78,155,89,2,322,2,0,0.0,2,100.0,119,391,227,6,4,0,3,1,205,33,Matches,Gerard Martín
+1 Season,1 Season,1 Club,,1 League,,4.3,322,12,78,155,89,2,322,2,0,0.0,2,100.0,119,391,227,6,4,0,3,1,205,33,,Gerard Martín
+2022-2023,19,Barcelona,es ESP,1. La Liga,1st,1.6,114,3,12,49,55,1,114,7,3,42.9,2,28.6,69,313,162,4,6,0,5,4,87,16,Matches,Pablo Torre
+2023-2024,20,Girona,es ESP,1. La Liga,3rd,7.8,518,10,68,260,195,24,518,19,6,31.6,10,52.6,359,1713,909,25,18,4,17,13,424,40,Matches,Pablo Torre
+2024-2025,21,Barcelona,es ESP,1. La Liga,1st,2.8,182,4,18,80,85,7,182,5,2,40.0,3,60.0,93,382,168,5,7,0,4,4,140,15,Matches,Pablo Torre
+3 Seasons,3 Seasons,2 Clubs,,1 League,,12.1,814,17,98,389,335,32,814,31,11,35.5,15,48.4,521,2408,1239,34,31,4,26,21,651,71,,Pablo Torre
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Pablo Torre
+Barcelona (2 Seasons),Barcelona (2 Seasons),Barcelona (2 Seasons),,1 League,,4.4,296,7,30,129,140,8,296,12,5,41.7,5,41.7,162,695,330,9,13,0,9,8,227,31,,Pablo Torre
+Girona (1 Season),Girona (1 Season),Girona (1 Season),,1 League,,7.8,518,10,68,260,195,24,518,19,6,31.6,10,52.6,359,1713,909,25,18,4,17,13,424,40,,Pablo Torre
+2017-2018,16,Manchester City,eng ENG,Jr. PL2 — Div. 1,6th,2.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Eric García
+2018-2019,17,Manchester City,eng ENG,Jr. PL2 — Div. 1,8th,9.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Eric García
+2019-2020,18,Manchester City,eng ENG,Jr. PL2 — Div. 1,9th,3.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Eric García
+2019-2020,18,Manchester City,eng ENG,1. Premier League,2nd,8.8,801,51,310,476,18,3,801,8,6,75.0,2,25.0,614,2735,1540,7,3,0,1,0,649,0,Matches,Eric García
+2020-2021,19,Manchester City,eng ENG,1. Premier League,1st,4.3,381,25,104,264,13,1,381,0,0,,0,,279,1454,1008,8,7,0,4,0,307,0,Matches,Eric García
+2021-2022,20,Barcelona,es ESP,1. La Liga,2nd,22.7,1862,134,681,1136,52,10,1862,3,2,66.7,1,33.3,1301,7382,4972,36,12,2,12,1,1445,3,Matches,Eric García
+2022-2023,21,Barcelona,es ESP,1. La Liga,1st,15.7,1397,97,538,781,84,5,1397,4,2,50.0,2,50.0,918,4539,2686,25,22,0,10,2,1049,6,Matches,Eric García
+2023-2024,22,Girona,es ESP,1. La Liga,3rd,29.3,2567,180,972,1378,227,23,2567,9,4,44.4,4,44.4,1604,7491,4670,45,34,1,17,9,1900,18,Matches,Eric García
+2023-2024,22,Barcelona,es ESP,1. La Liga,2nd,0.6,53,2,18,33,2,1,53,0,0,,0,,34,171,114,0,0,0,0,0,37,0,Matches,Eric García
+2024-2025,23,Barcelona,es ESP,1. La Liga,1st,5.0,350,16,69,227,55,10,350,4,1,25.0,2,50.0,154,716,428,8,3,1,3,1,248,5,Matches,Eric García
+6 Seasons,6 Seasons,3 Clubs,,2 Leagues,,86.4,7411,505,2692,4295,451,53,7411,28,15,53.6,11,39.3,4904,24488,15418,129,81,4,47,13,5635,32,,Eric García
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Eric García
+Barcelona (4 Seasons),Barcelona (4 Seasons),Barcelona (4 Seasons),,1 League,,44.1,3662,249,1306,2177,193,26,3662,11,5,45.5,5,45.5,2407,12808,8200,69,37,3,25,4,2779,14,,Eric García
+Manchester City (3 Seasons),Manchester City (3 Seasons),Manchester City (3 Seasons),,1 League,,14.8,,,,,,,,,,,,,,,,,,,,,,,,Eric García
+Manchester City (2 Seasons),Manchester City (2 Seasons),Manchester City (2 Seasons),,1 League,,13.1,1182,76,414,740,31,4,1182,8,6,75.0,2,25.0,893,4189,2548,15,10,0,5,0,956,0,,Eric García
+Girona (1 Season),Girona (1 Season),Girona (1 Season),,1 League,,29.3,2567,180,972,1378,227,23,2567,9,4,44.4,4,44.4,1604,7491,4670,45,34,1,17,9,1900,18,,Eric García
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Eric García
+La Liga (4 Seasons),La Liga (4 Seasons),La Liga (4 Seasons),,,,73.4,6229,429,2278,3555,420,49,6229,20,9,45.0,9,45.0,4011,20299,12870,114,71,4,42,13,4679,32,,Eric García
+PL2 — Div. 1 (3 Seasons),PL2 — Div. 1 (3 Seasons),PL2 — Div. 1 (3 Seasons),,,,14.8,,,,,,,,,,,,,,,,,,,,,,,,Eric García
+Premier League (2 Seasons),Premier League (2 Seasons),Premier League (2 Seasons),,,,13.1,1182,76,414,740,31,4,1182,8,6,75.0,2,25.0,893,4189,2548,15,10,0,5,0,956,0,,Eric García
+2023-2024,20,Barcelona,es ESP,1. La Liga,2nd,16.1,841,11,95,418,335,69,841,38,22,57.9,12,31.6,486,2639,1446,42,28,10,51,25,618,93,Matches,Fermin López
+2024-2025,21,Barcelona,es ESP,1. La Liga,1st,3.4,170,3,16,85,73,10,170,8,2,25.0,5,62.5,103,619,300,10,6,1,7,2,137,25,Matches,Fermin López
+2 Seasons,2 Seasons,1 Club,,1 League,,19.5,1011,14,111,503,408,79,1011,46,24,52.2,17,37.0,589,3258,1746,52,34,11,58,27,755,118,,Fermin López
+2024-2025,17,Barcelona,es ESP,1. La Liga,1st,2.7,184,4,47,116,21,1,184,3,2,66.7,1,33.3,97,461,150,0,2,0,2,2,137,2,Matches,Marc Bernal
+1 Season,1 Season,1 Club,,1 League,,2.7,184,4,47,116,21,1,184,3,2,66.7,1,33.3,97,461,150,0,2,0,2,2,137,2,,Marc Bernal
+2023-2024,16,Barcelona,es ESP,1. La Liga,2nd,3.5,250,10,72,118,60,3,250,7,3,42.9,4,57.1,144,572,197,3,3,0,1,2,174,38,Matches,Héctor Fort
+2024-2025,17,Barcelona,es ESP,1. La Liga,1st,3.1,263,11,61,159,46,6,263,4,2,50.0,2,50.0,129,561,290,6,4,0,2,2,174,14,Matches,Héctor Fort
+2 Seasons,2 Seasons,1 Club,,1 League,,6.6,513,21,133,277,106,9,513,11,5,45.5,6,54.5,273,1133,487,9,7,0,3,4,348,52,,Héctor Fort
+2021-2022,16,Barcelona,es ESP,1. La Liga,2nd,25.7,1581,16,146,829,624,84,1581,86,53,61.6,33,38.4,1116,5830,2515,72,60,8,61,49,1235,160,Matches,Gavi
+2022-2023,17,Barcelona,es ESP,1. La Liga,1st,28.1,1509,27,148,797,578,71,1509,63,27,42.9,26,41.3,1002,5348,2505,49,68,8,56,33,1133,153,Matches,Gavi
+2023-2024,18,Barcelona,es ESP,1. La Liga,2nd,10.5,678,27,108,394,181,18,678,22,12,54.5,8,36.4,424,2231,1170,26,24,3,19,11,479,38,Matches,Gavi
+2024-2025,19,Barcelona,es ESP,1. La Liga,1st,2.0,168,2,36,104,29,2,168,5,2,40.0,2,40.0,90,400,200,1,3,0,5,4,118,3,Matches,Gavi
+4 Seasons,4 Seasons,1 Club,,1 League,,66.4,3936,72,438,2124,1412,175,3936,176,94,53.4,69,39.2,2632,13809,6390,148,155,19,141,97,2965,354,,Gavi
+2024-2025,19,Barcelona,es ESP,1. La Liga,1st,1.9,191,13,69,121,3,0,191,0,0,,0,,127,569,284,0,1,0,0,0,157,1,Matches,Sergi Dominguez
+1 Season,1 Season,1 Club,,1 League,,1.9,191,13,69,121,3,0,191,0,0,,0,,127,569,284,0,1,0,0,0,157,1,,Sergi Dominguez
+2014-2015,17,Willem II,nl NED,1. Eredivisie,9th,0.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong
+2015-2016,18,Willem II,nl NED,1. Eredivisie,16th,0.2,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong
+2015-2016,18,Jong Ajax,nl NED,2. Eerste Divisie,9th,14.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong
+2016-2017,19,Jong Ajax,nl NED,2. Eerste Divisie,2nd,29.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong
+2016-2017,19,Ajax,nl NED,1. Eredivisie,2nd,1.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong
+2017-2018,20,Ajax,nl NED,1. Eredivisie,2nd,17.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong
+2018-2019,21,Ajax,nl NED,1. Eredivisie,1st,27.9,2786,73,383,1749,696,58,2786,79,61,77.2,18,22.8,2005,14047,8603,169,144,19,38,27,2087,105,Matches,Frenkie de Jong
+2019-2020,22,Barcelona,es ESP,1. La Liga,2nd,23.5,1809,31,305,1042,489,35,1809,57,46,80.7,11,19.3,1294,7746,4083,77,74,6,30,29,1517,82,Matches,Frenkie de Jong
+2020-2021,23,Barcelona,es ESP,1. La Liga,3rd,35.0,3052,90,617,1742,726,87,3052,67,58,86.6,9,13.4,2147,12665,7334,95,103,11,35,25,2519,129,Matches,Frenkie de Jong
+2021-2022,24,Barcelona,es ESP,1. La Liga,2nd,27.5,1876,35,261,1141,498,66,1876,60,51,85.0,9,15.0,1264,7247,4393,78,71,8,37,28,1484,121,Matches,Frenkie de Jong
+2022-2023,25,Barcelona,es ESP,1. La Liga,1st,28.2,2526,45,391,1553,607,47,2526,60,35,58.3,20,33.3,1797,11018,6412,92,95,9,24,22,2036,83,Matches,Frenkie de Jong
+2023-2024,26,Barcelona,es ESP,1. La Liga,2nd,18.2,1840,69,359,1139,355,18,1840,24,13,54.2,8,33.3,1207,7284,4346,69,52,3,14,17,1467,38,Matches,Frenkie de Jong
+2024-2025,27,Barcelona,es ESP,1. La Liga,1st,2.6,200,1,19,147,34,5,200,4,2,50.0,2,50.0,135,773,459,5,7,0,2,1,160,6,Matches,Frenkie de Jong
+11 Seasons,11 Seasons,4 Clubs,,3 Leagues,,225.6,14089,344,2335,8513,3405,316,14089,351,266,75.8,77,21.9,9849,60780,35630,585,546,56,180,149,11270,564,,Frenkie de Jong
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Frenkie de Jong
+Barcelona (6 Seasons),Barcelona (6 Seasons),Barcelona (6 Seasons),,1 League,,135.0,11303,271,1952,6764,2709,258,11303,272,205,75.4,59,21.7,7844,46733,27027,416,402,37,142,122,9183,459,,Frenkie de Jong
+Ajax (3 Seasons),Ajax (3 Seasons),Ajax (3 Seasons),,1 League,,46.9,2786,73,383,1749,696,58,2786,79,61,77.2,18,22.8,2005,14047,8603,169,144,19,38,27,2087,105,,Frenkie de Jong
+Jong Ajax (2 Seasons),Jong Ajax (2 Seasons),Jong Ajax (2 Seasons),,1 League,,43.3,,,,,,,,,,,,,,,,,,,,,,,,Frenkie de Jong
+Willem II (2 Seasons),Willem II (2 Seasons),Willem II (2 Seasons),,1 League,,0.5,,,,,,,,,,,,,,,,,,,,,,,,Frenkie de Jong
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frenkie de Jong
+La Liga (6 Seasons),La Liga (6 Seasons),La Liga (6 Seasons),,,,135.0,11303,271,1952,6764,2709,258,11303,272,205,75.4,59,21.7,7844,46733,27027,416,402,37,142,122,9183,459,,Frenkie de Jong
+Eredivisie (5 Seasons),Eredivisie (5 Seasons),Eredivisie (5 Seasons),,,,47.4,2786,73,383,1749,696,58,2786,79,61,77.2,18,22.8,2005,14047,8603,169,144,19,38,27,2087,105,,Frenkie de Jong
+Eerste Divisie (2 Seasons),Eerste Divisie (2 Seasons),Eerste Divisie (2 Seasons),,,,43.3,,,,,,,,,,,,,,,,,,,,,,,,Frenkie de Jong
+2019-2020,17,Girona,es ESP,2. La Liga 2,5th,0.3,7,0,0,3,4,2,7,3,2,66.7,1,33.3,6,49,33,1,3,1,2,1,6,0,Matches,Pau Victor Delgado
+2020-2021,18,Girona,es ESP,2. La Liga 2,5th,1.2,42,0,3,15,25,8,42,2,1,50.0,1,50.0,26,119,48,1,2,0,3,3,29,9,Matches,Pau Victor Delgado
+2024-2025,22,Barcelona,es ESP,1. La Liga,1st,2.0,111,4,11,54,49,10,111,11,7,63.6,4,36.4,61,255,97,1,1,2,5,7,81,19,Matches,Pau Victor Delgado
+6 Seasons,6 Seasons,2 Clubs,,2 Leagues,,3.5,160,4,14,72,78,20,160,16,10,62.5,6,37.5,93,423,178,3,6,3,10,11,116,28,,Pau Victor Delgado
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Pau Victor Delgado
+Girona (4 Seasons),Girona (4 Seasons),Girona (4 Seasons),,2 Leagues,,1.5,49,0,3,18,29,10,49,5,3,60.0,2,40.0,32,168,81,2,5,1,5,4,35,9,,Pau Victor Delgado
+Barcelona (2 Seasons),Barcelona (2 Seasons),Barcelona (2 Seasons),,1 League,,2.0,111,4,11,54,49,10,111,11,7,63.6,4,36.4,61,255,97,1,1,2,5,7,81,19,,Pau Victor Delgado
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pau Victor Delgado
+La Liga (3 Seasons),La Liga (3 Seasons),La Liga (3 Seasons),,,,2.0,111,4,11,54,49,10,111,11,7,63.6,4,36.4,61,255,97,1,1,2,5,7,81,19,,Pau Victor Delgado
+La Liga 2 (3 Seasons),La Liga 2 (3 Seasons),La Liga 2 (3 Seasons),,,,1.5,49,0,3,18,29,10,49,5,3,60.0,2,40.0,32,168,81,2,5,1,5,4,35,9,,Pau Victor Delgado
+2019-2020,16,Barcelona,es ESP,1. La Liga,2nd,11.4,703,7,38,207,464,89,703,53,25,47.2,28,52.8,544,3520,1934,77,35,46,35,25,601,187,Matches,Ansu Fati
+2020-2021,17,Barcelona,es ESP,1. La Liga,3rd,4.8,270,0,12,86,174,39,270,23,11,47.8,12,52.2,183,1296,700,32,16,21,11,8,226,60,Matches,Ansu Fati
+2021-2022,18,Barcelona,es ESP,1. La Liga,2nd,3.7,222,0,10,71,144,34,222,14,4,28.6,10,71.4,151,832,430,20,11,13,18,2,190,49,Matches,Ansu Fati
+2022-2023,19,Barcelona,es ESP,1. La Liga,1st,15.5,805,10,64,278,469,128,805,47,23,48.9,21,44.7,556,2983,1399,47,28,31,35,30,639,178,Matches,Ansu Fati
+2023-2024,20,Brighton,eng ENG,1. Premier League,11th,5.8,300,4,27,141,135,43,300,18,5,27.8,9,50.0,212,1025,451,16,5,9,15,10,238,50,Matches,Ansu Fati
+2023-2024,20,Barcelona,es ESP,1. La Liga,2nd,0.6,42,0,1,16,25,5,42,3,1,33.3,1,33.3,32,266,157,6,4,2,1,1,35,5,Matches,Ansu Fati
+2024-2025,21,Barcelona,es ESP,1. La Liga,1st,1.4,81,0,7,35,41,10,81,5,2,40.0,2,40.0,58,305,121,4,5,1,6,2,67,16,Matches,Ansu Fati
+6 Seasons,6 Seasons,2 Clubs,,2 Leagues,,43.2,2423,21,159,834,1452,348,2423,163,71,43.6,83,50.9,1736,10227,5192,202,104,123,121,78,1996,545,,Ansu Fati
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Ansu Fati
+Barcelona (6 Seasons),Barcelona (6 Seasons),Barcelona (6 Seasons),,1 League,,37.4,2123,17,132,693,1317,305,2123,145,66,45.5,74,51.0,1524,9202,4741,186,99,114,106,68,1758,495,,Ansu Fati
+Brighton (1 Season),Brighton (1 Season),Brighton (1 Season),,1 League,,5.8,300,4,27,141,135,43,300,18,5,27.8,9,50.0,212,1025,451,16,5,9,15,10,238,50,,Ansu Fati
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ansu Fati
+La Liga (6 Seasons),La Liga (6 Seasons),La Liga (6 Seasons),,,,37.4,2123,17,132,693,1317,305,2123,145,66,45.5,74,51.0,1524,9202,4741,186,99,114,106,68,1758,495,,Ansu Fati
+Premier League (1 Season),Premier League (1 Season),Premier League (1 Season),,,,5.8,300,4,27,141,135,43,300,18,5,27.8,9,50.0,212,1025,451,16,5,9,15,10,238,50,,Ansu Fati
+2014-2015,18,Chelsea,eng ENG,1. Premier League,1st,0.1,,,,,,,,,,,,,,,,,,,,,,,Matches,Andreas Christensen
+2015-2016,19,Gladbach,de GER,1. Bundesliga,4th,31.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Andreas Christensen
+2016-2017,20,Gladbach,de GER,1. Bundesliga,9th,30.9,,,,,,,,,,,,,,,,,,,,,,,Matches,Andreas Christensen
+2017-2018,21,Chelsea,eng ENG,1. Premier League,5th,23.2,1589,150,768,790,41,22,1589,5,5,100.0,0,0.0,982,4823,2811,22,12,1,9,1,1073,2,Matches,Andreas Christensen
+2018-2019,22,Chelsea,eng ENG,1. Premier League,3rd,6.9,517,35,230,280,9,3,517,1,1,100.0,0,0.0,304,1759,1091,3,4,0,3,0,352,1,Matches,Andreas Christensen
+2019-2020,23,Chelsea,eng ENG,1. Premier League,4th,19.5,1484,137,690,758,43,12,1484,4,4,100.0,0,0.0,983,5524,3175,17,12,0,4,1,1066,1,Matches,Andreas Christensen
+2020-2021,24,Chelsea,eng ENG,1. Premier League,4th,15.2,1272,163,687,562,34,7,1272,7,7,100.0,0,0.0,799,3892,2134,7,12,0,9,1,939,1,Matches,Andreas Christensen
+2021-2022,25,Chelsea,eng ENG,1. Premier League,3rd,16.6,1477,147,645,772,68,5,1477,4,4,100.0,0,0.0,823,3835,2215,14,15,0,3,1,1058,5,Matches,Andreas Christensen
+2022-2023,26,Barcelona,es ESP,1. La Liga,1st,19.6,1652,127,645,962,50,13,1652,2,0,0.0,2,100.0,1170,5841,3232,18,15,0,10,1,1257,5,Matches,Andreas Christensen
+2023-2024,27,Barcelona,es ESP,1. La Liga,2nd,22.0,1723,111,549,1077,104,18,1723,6,3,50.0,3,50.0,1101,5001,2934,24,18,1,6,9,1324,6,Matches,Andreas Christensen
+2024-2025,28,Barcelona,es ESP,1. La Liga,1st,0.3,18,0,10,8,0,0,18,0,0,,0,,9,24,7,0,0,0,0,0,10,0,Matches,Andreas Christensen
+11 Seasons,11 Seasons,3 Clubs,,3 Leagues,,185.2,9732,870,4224,5209,349,80,9732,29,24,82.8,5,17.2,6171,30699,17599,105,88,2,44,14,7079,21,,Andreas Christensen
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Andreas Christensen
+Chelsea (6 Seasons),Chelsea (6 Seasons),Chelsea (6 Seasons),,1 League,,81.5,6339,632,3020,3162,195,49,6339,21,21,100.0,0,0.0,3891,19833,11426,63,55,1,28,4,4488,10,,Andreas Christensen
+Barcelona (3 Seasons),Barcelona (3 Seasons),Barcelona (3 Seasons),,1 League,,41.8,3393,238,1204,2047,154,31,3393,8,3,37.5,5,62.5,2280,10866,6173,42,33,1,16,10,2591,11,,Andreas Christensen
+Gladbach (2 Seasons),Gladbach (2 Seasons),Gladbach (2 Seasons),,1 League,,61.9,,,,,,,,,,,,,,,,,,,,,,,,Andreas Christensen
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Andreas Christensen
+Premier League (6 Seasons),Premier League (6 Seasons),Premier League (6 Seasons),,,,81.5,6339,632,3020,3162,195,49,6339,21,21,100.0,0,0.0,3891,19833,11426,63,55,1,28,4,4488,10,,Andreas Christensen
+La Liga (3 Seasons),La Liga (3 Seasons),La Liga (3 Seasons),,,,41.8,3393,238,1204,2047,154,31,3393,8,3,37.5,5,62.5,2280,10866,6173,42,33,1,16,10,2591,11,,Andreas Christensen
+Bundesliga (2 Seasons),Bundesliga (2 Seasons),Bundesliga (2 Seasons),,,,61.9,,,,,,,,,,,,,,,,,,,,,,,,Andreas Christensen
+2009-2010,19,Brentford,eng ENG,3. League One,9th,27.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny
+2010-2011,20,Arsenal,eng ENG,1. Premier League,4th,15.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny
+2011-2012,21,Arsenal,eng ENG,1. Premier League,3rd,38.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny
+2012-2013,22,Arsenal,eng ENG,1. Premier League,4th,25.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny
+2013-2014,23,Arsenal,eng ENG,1. Premier League,4th,37.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny
+2014-2015,24,Arsenal,eng ENG,1. Premier League,3rd,16.6,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny
+2015-2016,25,Roma,it ITA,1. Serie A,3rd,34.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny
+2016-2017,26,Roma,it ITA,1. Serie A,2nd,38.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny
+2017-2018,27,Juventus,it ITA,1. Serie A,1st,17.0,477,438,477,0,0,0,477,1,1,100.0,0,0.0,250,1233,680,0,0,0,1,0,229,0,Matches,Wojciech Szczęsny
+2018-2019,28,Juventus,it ITA,1. Serie A,1st,28.0,791,703,786,5,0,0,791,0,0,,0,,403,2313,1437,0,1,1,0,1,306,0,Matches,Wojciech Szczęsny
+2019-2020,29,Juventus,it ITA,1. Serie A,1st,28.8,830,726,822,8,0,0,830,0,0,,0,,455,2241,1359,0,0,0,1,0,319,0,Matches,Wojciech Szczęsny
+2020-2021,30,Juventus,it ITA,1. Serie A,4th,29.7,1076,881,1067,9,0,0,1076,1,1,100.0,0,0.0,618,2957,1820,0,1,1,0,0,595,0,Matches,Wojciech Szczęsny
+2021-2022,31,Juventus,it ITA,1. Serie A,4th,33.0,1063,903,1053,10,0,0,1063,0,0,,0,,657,3464,2025,0,0,0,0,0,562,1,Matches,Wojciech Szczęsny
+2022-2023,32,Juventus,it ITA,1. Serie A,7th,27.5,837,731,833,4,0,0,837,1,1,100.0,0,0.0,498,2576,1593,0,0,0,1,0,406,0,Matches,Wojciech Szczęsny
+2023-2024,33,Juventus,it ITA,1. Serie A,3rd,35.0,1070,855,1062,8,0,0,1070,1,1,100.0,0,0.0,660,4408,2908,0,0,0,1,0,546,0,Matches,Wojciech Szczęsny
+16 Seasons,16 Seasons,5 Clubs,,4 Leagues,,430.4,6144,5237,6100,44,0,0,6144,4,4,100.0,0,0.0,3541,19192,11822,0,2,2,4,1,2963,1,,Wojciech Szczęsny
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Wojciech Szczęsny
+Juventus (7 Seasons),Juventus (7 Seasons),Juventus (7 Seasons),,1 League,,199.0,6144,5237,6100,44,0,0,6144,4,4,100.0,0,0.0,3541,19192,11822,0,2,2,4,1,2963,1,,Wojciech Szczęsny
+Arsenal (5 Seasons),Arsenal (5 Seasons),Arsenal (5 Seasons),,1 League,,131.6,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny
+Roma (2 Seasons),Roma (2 Seasons),Roma (2 Seasons),,1 League,,72.0,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny
+Brentford (1 Season),Brentford (1 Season),Brentford (1 Season),,1 League,,27.7,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny
+Barcelona (1 Season),Barcelona (1 Season),Barcelona (1 Season),,1 League,,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny
+Serie A (9 Seasons),Serie A (9 Seasons),Serie A (9 Seasons),,,,271.0,6144,5237,6100,44,0,0,6144,4,4,100.0,0,0.0,3541,19192,11822,0,2,2,4,1,2963,1,,Wojciech Szczęsny
+Premier League (5 Seasons),Premier League (5 Seasons),Premier League (5 Seasons),,,,131.6,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny
+League One (1 Season),League One (1 Season),League One (1 Season),,,,27.7,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny
+La Liga (1 Season),La Liga (1 Season),La Liga (1 Season),,,,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny
+2022-2023,18,FC Andorra,es ESP,2. La Liga 2,7th,3.4,276,5,70,140,68,4,276,7,2,28.6,4,57.1,179,798,404,4,6,1,8,5,195,17,Matches,Álex Valle
+2023-2024,19,Levante,es ESP,2. La Liga 2,8th,25.6,1838,107,542,834,482,36,1838,56,26,46.4,24,42.9,873,4439,2214,48,42,5,47,17,1030,122,Matches,Álex Valle
+2024-2025,20,Celtic,sct SCO,1. Premiership,1st,4.6,,,,,,,,,,,,,,,,,,,,,,,Matches,Álex Valle
+3 Seasons,3 Seasons,4 Clubs,,3 Leagues,,33.6,2114,112,612,974,550,40,2114,63,28,44.4,28,44.4,1052,5237,2618,52,48,6,55,22,1225,139,,Álex Valle
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Álex Valle
+Levante (1 Season),Levante (1 Season),Levante (1 Season),,1 League,,25.6,1838,107,542,834,482,36,1838,56,26,46.4,24,42.9,873,4439,2214,48,42,5,47,17,1030,122,,Álex Valle
+FC Andorra (1 Season),FC Andorra (1 Season),FC Andorra (1 Season),,1 League,,3.4,276,5,70,140,68,4,276,7,2,28.6,4,57.1,179,798,404,4,6,1,8,5,195,17,,Álex Valle
+Celtic (1 Season),Celtic (1 Season),Celtic (1 Season),,1 League,,4.6,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle
+Barcelona (1 Season),Barcelona (1 Season),Barcelona (1 Season),,1 League,,,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle
+La Liga 2 (2 Seasons),La Liga 2 (2 Seasons),La Liga 2 (2 Seasons),,,,29.0,2114,112,612,974,550,40,2114,63,28,44.4,28,44.4,1052,5237,2618,52,48,6,55,22,1225,139,,Álex Valle
+Premiership (1 Season),Premiership (1 Season),Premiership (1 Season),,,,4.6,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle
+La Liga (1 Season),La Liga (1 Season),La Liga (1 Season),,,,,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle
+2011-2012,20,Real Sociedad,es ESP,1. La Liga,12th,24.4,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez,DF
+2012-2013,21,Real Sociedad,es ESP,1. La Liga,4th,34.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez,DF
+2013-2014,22,Real Sociedad,es ESP,1. La Liga,7th,34.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez,DF
+2014-2015,23,Real Sociedad,es ESP,1. La Liga,12th,33.6,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez,DF
+2015-2016,24,Real Sociedad,es ESP,1. La Liga,9th,30.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez,DF
+2016-2017,25,Real Sociedad,es ESP,1. La Liga,6th,33.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñigo Martínez,DF
+2017-2018,26,Real Sociedad,es ESP,1. La Liga,12th,11.7,893,58,362,467,75,15,893,6,4,66.7,2,33.3,487,3167,2133,27,16,0,2,4,534,14,Matches,Iñigo Martínez,DF
+2017-2018,26,Athletic Club,es ESP,1. La Liga,16th,16.0,952,89,432,475,56,21,952,7,7,100.0,0,0.0,513,3324,2073,24,12,1,8,1,541,7,Matches,Iñigo Martínez,DF
+2018-2019,27,Athletic Club,es ESP,1. La Liga,8th,32.2,1808,165,816,922,88,35,1808,5,4,80.0,1,20.0,873,5307,3371,37,19,2,14,6,981,18,Matches,Iñigo Martínez,DF
+2019-2020,28,Athletic Club,es ESP,1. La Liga,11th,33.0,1903,180,835,971,120,33,1903,12,7,58.3,5,41.7,943,5925,3611,36,31,0,17,4,1055,21,Matches,Iñigo Martínez,DF
+2020-2021,29,Athletic Club,es ESP,1. La Liga,10th,28.0,1686,149,722,903,76,20,1686,9,7,77.8,2,22.2,974,6191,4011,31,20,1,11,5,1062,7,Matches,Iñigo Martínez,DF
+2021-2022,30,Athletic Club,es ESP,1. La Liga,8th,26.0,1499,185,739,697,76,33,1499,2,2,100.0,0,0.0,750,4700,2935,29,10,0,7,3,795,8,Matches,Iñigo Martínez,DF
+2022-2023,31,Athletic Club,es ESP,1. La Liga,8th,14.9,914,117,451,430,38,15,914,0,0,,0,,495,3173,2165,11,10,0,4,2,529,4,Matches,Iñigo Martínez,DF
+2023-2024,32,Barcelona,es ESP,1. La Liga,2nd,14.4,1241,91,456,729,63,13,1241,1,0,0.0,1,100.0,833,4930,3438,33,22,1,3,0,935,5,Matches,Iñigo Martínez,DF
+2024-2025,33,Barcelona,es ESP,1. La Liga,3rd,17.8,1771,97,617,1089,72,18,1771,0,0,,0,,1154,6958,5056,48,26,0,8,2,1352,3,Matches,Iñigo Martínez,DF
+14 Seasons,14 Seasons,3 Clubs,,1 League,,384.0,12667,1131,5430,6683,664,203,12667,42,31,73.8,11,26.2,7022,43675,28793,276,166,5,74,27,7784,87,,Iñigo Martínez,DF
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Iñigo Martínez,DF
+Real Sociedad (7 Seasons),Real Sociedad (7 Seasons),Real Sociedad (7 Seasons),,1 League,,201.8,893,58,362,467,75,15,893,6,4,66.7,2,33.3,487,3167,2133,27,16,0,2,4,534,14,,Iñigo Martínez,DF
+Athletic Club (6 Seasons),Athletic Club (6 Seasons),Athletic Club (6 Seasons),,1 League,,150.1,8762,885,3995,4398,454,157,8762,35,27,77.1,8,22.9,4548,28620,18166,168,102,4,61,21,4963,65,,Iñigo Martínez,DF
+Barcelona (2 Seasons),Barcelona (2 Seasons),Barcelona (2 Seasons),,1 League,,32.2,3012,188,1073,1818,135,31,3012,1,0,0.0,1,100.0,1987,11888,8494,81,48,1,11,2,2287,8,,Iñigo Martínez,DF
+2015-2016,18,Vitória,pt POR,1. Primeira Liga,10th,0.2,,,,,,,,,,,,,,,,,,,,,,,Matches,Raphinha,"FW,MF"
+2016-2017,19,Vitória,pt POR,1. Primeira Liga,4th,18.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Raphinha,"FW,MF"
+2017-2018,20,Vitória,pt POR,1. Primeira Liga,9th,30.9,,,,,,,,,,,,,,,,,,,,,,,Matches,Raphinha,"FW,MF"
+2018-2019,21,Sporting CP,pt POR,1. Primeira Liga,3rd,16.8,743,8,85,274,393,85,743,51,26,51.0,25,49.0,477,3097,1476,49,18,27,25,27,534,180,Matches,Raphinha,"FW,MF"
+2019-2020,22,Sporting CP,pt POR,1. Primeira Liga,4th,4.0,169,1,20,57,93,22,169,10,4,40.0,6,60.0,97,580,249,7,6,7,16,4,119,47,Matches,Raphinha,"FW,MF"
+2019-2020,22,Rennes,fr FRA,1. Ligue 1,3rd,18.8,949,14,104,422,446,77,948,112,49,43.8,63,56.3,609,3994,2027,64,47,33,47,33,622,155,Matches,Raphinha,"FW,MF"
+2020-2021,23,Rennes,fr FRA,1. Ligue 1,6th,4.5,200,4,26,84,92,14,200,25,10,40.0,14,56.0,106,782,422,11,8,6,7,3,134,31,Matches,Raphinha,"FW,MF"
+2020-2021,23,Leeds United,eng ENG,Jr. PL2 — Div. 2,1st,1.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Raphinha,"FW,MF"
+2020-2021,23,Leeds United,eng ENG,1. Premier League,9th,26.2,1445,39,195,603,664,122,1445,110,56,50.9,54,49.1,829,5308,2909,102,58,38,86,34,957,222,Matches,Raphinha,"FW,MF"
+2021-2022,24,Leeds United,eng ENG,1. Premier League,17th,32.4,1796,46,248,753,826,130,1792,146,62,42.5,84,57.5,991,5995,2879,89,55,40,99,35,1185,286,Matches,Raphinha,"FW,MF"
+2022-2023,25,Barcelona,es ESP,1. La Liga,1st,23.0,1598,17,84,548,980,131,1598,106,45,42.5,52,49.1,999,5614,2797,97,67,53,55,24,1147,339,Matches,Raphinha,"FW,MF"
+2023-2024,26,Barcelona,es ESP,1. La Liga,2nd,15.2,894,11,80,338,484,81,893,46,24,52.2,19,41.3,495,2884,1418,49,22,23,41,8,620,164,Matches,Raphinha,"FW,MF"
+2024-2025,27,Barcelona,es ESP,1. La Liga,3rd,17.6,1026,21,62,367,618,102,1025,66,33,50.0,27,40.9,556,3290,1743,60,42,32,30,22,706,182,Matches,Raphinha,"FW,MF"
+10 Seasons,10 Seasons,6 Clubs,,5 Leagues,,208.5,8820,161,904,3446,4596,764,8813,672,309,46.0,344,51.2,5159,31544,15920,528,323,259,406,190,6024,1606,,Raphinha,"FW,MF"
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Raphinha,"FW,MF"
+Barcelona (3 Seasons),Barcelona (3 Seasons),Barcelona (3 Seasons),,1 League,,55.8,3518,49,226,1253,2082,314,3516,218,102,46.8,98,45.0,2050,11788,5958,206,131,108,126,54,2473,685,,Raphinha,"FW,MF"
+Vitória (3 Seasons),Vitória (3 Seasons),Vitória (3 Seasons),,1 League,,50.0,,,,,,,,,,,,,,,,,,,,,,,,Raphinha,"FW,MF"
+Leeds United (2 Seasons),Leeds United (2 Seasons),Leeds United (2 Seasons),,1 League,,58.6,3241,85,443,1356,1490,252,3237,256,118,46.1,138,53.9,1820,11303,5788,191,113,78,185,69,2142,508,,Raphinha,"FW,MF"
+Sporting CP (2 Seasons),Sporting CP (2 Seasons),Sporting CP (2 Seasons),,1 League,,20.8,912,9,105,331,486,107,912,61,30,49.2,31,50.8,574,3677,1725,56,24,34,41,31,653,227,,Raphinha,"FW,MF"
+Rennes (2 Seasons),Rennes (2 Seasons),Rennes (2 Seasons),,1 League,,23.3,1149,18,130,506,538,91,1148,137,59,43.1,77,56.2,715,4776,2449,75,55,39,54,36,756,186,,Raphinha,"FW,MF"
+Leeds United (1 Season),Leeds United (1 Season),Leeds United (1 Season),,1 League,,1.0,,,,,,,,,,,,,,,,,,,,,,,,Raphinha,"FW,MF"
+Avaí (1 Season),Avaí (1 Season),Avaí (1 Season),,1 League,,,,,,,,,,,,,,,,,,,,,,,,,,Raphinha,"FW,MF"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Raphinha,"FW,MF"
+Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),,,,70.8,912,9,105,331,486,107,912,61,30,49.2,31,50.8,574,3677,1725,56,24,34,41,31,653,227,,Raphinha,"FW,MF"
+La Liga (3 Seasons),La Liga (3 Seasons),La Liga (3 Seasons),,,,55.8,3518,49,226,1253,2082,314,3516,218,102,46.8,98,45.0,2050,11788,5958,206,131,108,126,54,2473,685,,Raphinha,"FW,MF"
+Premier League (2 Seasons),Premier League (2 Seasons),Premier League (2 Seasons),,,,58.6,3241,85,443,1356,1490,252,3237,256,118,46.1,138,53.9,1820,11303,5788,191,113,78,185,69,2142,508,,Raphinha,"FW,MF"
+Ligue 1 (2 Seasons),Ligue 1 (2 Seasons),Ligue 1 (2 Seasons),,,,23.3,1149,18,130,506,538,91,1148,137,59,43.1,77,56.2,715,4776,2449,75,55,39,54,36,756,186,,Raphinha,"FW,MF"
+PL2 — Div. 2 (1 Season),PL2 — Div. 2 (1 Season),PL2 — Div. 2 (1 Season),,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,Raphinha,"FW,MF"
+Série A (1 Season),Série A (1 Season),Série A (1 Season),,,,,,,,,,,,,,,,,,,,,,,,,,,,Raphinha,"FW,MF"
+2008-2009,19,Lech Poznań,pl POL,1. Ekstraklasa,3rd,27.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski,FW
+2009-2010,20,Lech Poznań,pl POL,1. Ekstraklasa,1st,27.9,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski,FW
+2010-2011,21,Dortmund,de GER,1. Bundesliga,1st,17.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski,FW
+2011-2012,22,Dortmund,de GER,1. Bundesliga,1st,31.9,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski,FW
+2012-2013,23,Dortmund,de GER,1. Bundesliga,2nd,28.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski,FW
+2013-2014,24,Dortmund,de GER,1. Bundesliga,2nd,31.1,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski,FW
+2014-2015,25,Bayern Munich,de GER,1. Bundesliga,1st,27.6,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski,FW
+2015-2016,26,Bayern Munich,de GER,1. Bundesliga,1st,29.5,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski,FW
+2016-2017,27,Bayern Munich,de GER,1. Bundesliga,1st,30.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Robert Lewandowski,FW
+2017-2018,28,Bayern Munich,de GER,1. Bundesliga,1st,24.1,882,10,22,306,566,191,875,64,19,29.7,45,70.3,554,2775,1097,44,34,26,43,31,780,220,Matches,Robert Lewandowski,FW
+2018-2019,29,Bayern Munich,de GER,1. Bundesliga,1st,32.9,1114,18,44,436,655,246,1110,76,51,67.1,25,32.9,719,4029,1935,79,53,28,92,51,924,241,Matches,Robert Lewandowski,FW
+2019-2020,30,Bayern Munich,de GER,1. Bundesliga,1st,30.7,1178,14,43,409,738,250,1173,90,58,64.4,32,35.6,768,3989,1623,70,44,47,81,54,981,245,Matches,Robert Lewandowski,FW
+2020-2021,31,Bayern Munich,de GER,1. Bundesliga,1st,27.3,992,11,45,358,597,206,983,43,22,51.2,20,46.5,563,3153,1241,51,28,25,70,44,788,185,Matches,Robert Lewandowski,FW
+2021-2022,32,Bayern Munich,de GER,1. Bundesliga,1st,32.7,1160,14,46,438,685,242,1155,81,47,58.0,34,42.0,685,3274,1241,46,31,21,83,55,917,268,Matches,Robert Lewandowski,FW
+2022-2023,33,Barcelona,es ESP,1. La Liga,1st,31.6,1156,17,41,432,695,210,1155,59,30,50.8,26,44.1,778,3740,1348,51,38,25,94,50,997,248,Matches,Robert Lewandowski,FW
+2023-2024,34,Barcelona,es ESP,1. La Liga,2nd,30.6,900,24,47,361,502,165,896,54,23,42.6,30,55.6,529,2549,1019,43,28,20,86,28,736,168,Matches,Robert Lewandowski,FW
+2024-2025,35,Barcelona,es ESP,1. La Liga,3rd,16.4,500,23,41,201,265,95,497,21,15,71.4,6,28.6,281,1112,377,17,9,7,44,25,395,95,Matches,Robert Lewandowski,FW
+17 Seasons,17 Seasons,4 Clubs,,3 Leagues,,478.5,7882,131,329,2941,4703,1605,7844,488,265,54.3,218,44.7,4877,24621,9881,401,265,199,593,338,6518,1670,,Robert Lewandowski,FW
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Robert Lewandowski,FW
+Bayern Munich (8 Seasons),Bayern Munich (8 Seasons),Bayern Munich (8 Seasons),,1 League,,235.6,5326,67,200,1947,3241,1135,5296,354,197,55.6,156,44.1,3289,17220,7137,290,190,147,369,235,4390,1159,,Robert Lewandowski,FW
+Dortmund (4 Seasons),Dortmund (4 Seasons),Dortmund (4 Seasons),,1 League,,109.5,,,,,,,,,,,,,,,,,,,,,,,,Robert Lewandowski,FW
+Barcelona (3 Seasons),Barcelona (3 Seasons),Barcelona (3 Seasons),,1 League,,78.6,2556,64,129,994,1462,470,2548,134,68,50.7,62,46.3,1588,7401,2744,111,75,52,224,103,2128,511,,Robert Lewandowski,FW
+Lech Poznań (2 Seasons),Lech Poznań (2 Seasons),Lech Poznań (2 Seasons),,1 League,,54.9,,,,,,,,,,,,,,,,,,,,,,,,Robert Lewandowski,FW
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Robert Lewandowski,FW
+Bundesliga (12 Seasons),Bundesliga (12 Seasons),Bundesliga (12 Seasons),,,,345.0,5326,67,200,1947,3241,1135,5296,354,197,55.6,156,44.1,3289,17220,7137,290,190,147,369,235,4390,1159,,Robert Lewandowski,FW
+La Liga (3 Seasons),La Liga (3 Seasons),La Liga (3 Seasons),,,,78.6,2556,64,129,994,1462,470,2548,134,68,50.7,62,46.3,1588,7401,2744,111,75,52,224,103,2128,511,,Robert Lewandowski,FW
+Ekstraklasa (2 Seasons),Ekstraklasa (2 Seasons),Ekstraklasa (2 Seasons),,,,54.9,,,,,,,,,,,,,,,,,,,,,,,,Robert Lewandowski,FW
+2017-2018,18,Bordeaux,fr FRA,1. Ligue 1,6th,17.7,1016,100,488,508,30,10,1016,8,4,50.0,4,50.0,645,4062,2821,22,10,0,2,4,648,1,Matches,Jules Koundé,DF
+2018-2019,19,Bordeaux,fr FRA,1. Ligue 1,14th,37.0,2420,245,1228,1143,79,24,2420,15,13,86.7,2,13.3,1377,8121,5465,32,15,1,15,9,1478,3,Matches,Jules Koundé,DF
+2019-2020,20,Sevilla,es ESP,1. La Liga,4th,25.7,1732,167,832,800,112,40,1732,21,18,85.7,3,14.3,1003,5134,2725,27,14,4,16,5,1186,31,Matches,Jules Koundé,DF
+2020-2021,21,Sevilla,es ESP,1. La Liga,4th,33.1,2691,293,1159,1301,245,53,2691,40,30,75.0,10,25.0,1737,9090,5344,45,44,5,26,10,2015,26,Matches,Jules Koundé,DF
+2021-2022,22,Sevilla,es ESP,1. La Liga,4th,30.4,2438,323,1167,1064,225,49,2438,39,24,61.5,15,38.5,1509,7432,4826,48,41,7,27,12,1728,35,Matches,Jules Koundé,DF
+2022-2023,23,Barcelona,es ESP,1. La Liga,1st,27.0,2234,117,675,1215,362,45,2234,28,15,53.6,9,32.1,1476,7377,4586,58,52,5,23,18,1610,61,Matches,Jules Koundé,DF
+2023-2024,24,Barcelona,es ESP,1. La Liga,2nd,32.2,3041,157,903,1701,462,44,3041,38,16,42.1,17,44.7,1910,9350,5961,67,67,2,25,12,2187,64,Matches,Jules Koundé,DF
+2024-2025,25,Barcelona,es ESP,1. La Liga,3rd,16.9,1373,51,359,637,385,47,1373,35,15,42.9,19,54.3,686,2706,1478,29,23,6,26,10,883,124,Matches,Jules Koundé,DF
+8 Seasons,8 Seasons,3 Clubs,,2 Leagues,,219.9,16945,1453,6811,8369,1900,312,16945,224,135,60.3,79,35.3,10343,53272,33206,328,266,30,160,80,11735,345,,Jules Koundé,DF
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Jules Koundé,DF
+Sevilla (3 Seasons),Sevilla (3 Seasons),Sevilla (3 Seasons),,1 League,,89.1,6861,783,3158,3165,582,142,6861,100,72,72.0,28,28.0,4249,21656,12895,120,99,16,69,27,4929,92,,Jules Koundé,DF
+Barcelona (3 Seasons),Barcelona (3 Seasons),Barcelona (3 Seasons),,1 League,,76.1,6648,325,1937,3553,1209,136,6648,101,46,45.5,45,44.6,4072,19433,12025,154,142,13,74,40,4680,249,,Jules Koundé,DF
+Bordeaux (2 Seasons),Bordeaux (2 Seasons),Bordeaux (2 Seasons),,1 League,,54.7,3436,345,1716,1651,109,34,3436,23,17,73.9,6,26.1,2022,12183,8286,54,25,1,17,13,2126,4,,Jules Koundé,DF
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jules Koundé,DF
+La Liga (6 Seasons),La Liga (6 Seasons),La Liga (6 Seasons),,,,165.2,13509,1108,5095,6718,1791,278,13509,201,118,58.7,73,36.3,8321,41089,24920,274,241,29,143,67,9609,341,,Jules Koundé,DF
+Ligue 1 (2 Seasons),Ligue 1 (2 Seasons),Ligue 1 (2 Seasons),,,,54.7,3436,345,1716,1651,109,34,3436,23,17,73.9,6,26.1,2022,12183,8286,54,25,1,17,13,2126,4,,Jules Koundé,DF
+2023-2024,16,Barcelona,es ESP,1. La Liga,2nd,17.3,1629,157,758,826,46,5,1629,4,3,75.0,1,25.0,1076,5220,2658,8,7,0,4,3,1263,2,Matches,Pau Cubarsí,DF
+2024-2025,17,Barcelona,es ESP,1. La Liga,3rd,16.5,1541,113,599,910,35,16,1541,4,4,100.0,0,0.0,971,4509,2551,10,8,0,4,1,1207,3,Matches,Pau Cubarsí,DF
+2 Seasons,2 Seasons,1 Club,,1 League,,33.8,3170,270,1357,1736,81,21,3170,8,7,87.5,1,12.5,2047,9729,5209,18,15,0,8,4,2470,5,,Pau Cubarsí,DF
+2019-2020,16,Las Palmas,es ESP,2. La Liga 2,9th,31.4,1723,14,181,872,686,73,1723,96,67,69.8,29,30.2,1176,7333,3110,83,77,24,88,76,1275,186,Matches,Pedri,MF
+2020-2021,17,Barcelona,es ESP,1. La Liga,3rd,26.8,1984,19,207,892,898,70,1984,41,29,70.7,12,29.3,1388,6757,2935,65,81,16,63,34,1595,128,Matches,Pedri,MF
+2021-2022,18,Barcelona,es ESP,1. La Liga,2nd,9.8,698,10,83,354,269,21,698,19,15,78.9,4,21.1,481,2385,1030,23,33,5,14,17,542,42,Matches,Pedri,MF
+2022-2023,19,Barcelona,es ESP,1. La Liga,1st,22.0,1653,13,161,954,557,59,1653,61,36,59.0,22,36.1,1203,6990,3387,67,81,14,32,31,1336,99,Matches,Pedri,MF
+2023-2024,20,Barcelona,es ESP,1. La Liga,2nd,16.4,1359,22,171,773,427,36,1359,38,16,42.1,20,52.6,823,4535,2333,41,42,7,31,15,1080,81,Matches,Pedri,MF
+2024-2025,21,Barcelona,es ESP,1. La Liga,3rd,15.8,1299,22,126,797,388,30,1299,27,18,66.7,9,33.3,800,4526,2167,38,38,3,28,18,989,64,Matches,Pedri,MF
+6 Seasons,6 Seasons,2 Clubs,,2 Leagues,,122.2,8716,100,929,4642,3225,289,8716,282,181,64.2,96,34.0,5871,32526,14962,317,352,69,256,191,6817,600,,Pedri,MF
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Pedri,MF
+Barcelona (5 Seasons),Barcelona (5 Seasons),Barcelona (5 Seasons),,1 League,,90.9,6993,86,748,3770,2539,216,6993,186,114,61.3,67,36.0,4695,25193,11852,234,275,45,168,115,5542,414,,Pedri,MF
+Las Palmas (1 Season),Las Palmas (1 Season),Las Palmas (1 Season),,1 League,,31.4,1723,14,181,872,686,73,1723,96,67,69.8,29,30.2,1176,7333,3110,83,77,24,88,76,1275,186,,Pedri,MF
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pedri,MF
+La Liga (5 Seasons),La Liga (5 Seasons),La Liga (5 Seasons),,,,90.9,6993,86,748,3770,2539,216,6993,186,114,61.3,67,36.0,4695,25193,11852,234,275,45,168,115,5542,414,,Pedri,MF
+La Liga 2 (1 Season),La Liga 2 (1 Season),La Liga 2 (1 Season),,,,31.4,1723,14,181,872,686,73,1723,96,67,69.8,29,30.2,1176,7333,3110,83,77,24,88,76,1275,186,,Pedri,MF
+2021-2022,17,Barcelona,es ESP,1. La Liga,2nd,2.1,177,2,24,95,58,7,177,5,1,20.0,4,80.0,141,578,316,9,7,2,4,3,143,23,Matches,Alejandro Balde,DF
+2022-2023,18,Barcelona,es ESP,1. La Liga,1st,27.5,1939,40,419,874,672,78,1939,97,50,51.5,36,37.1,1270,7245,4093,95,69,34,41,24,1347,234,Matches,Alejandro Balde,DF
+2023-2024,19,Barcelona,es ESP,1. La Liga,2nd,15.3,979,35,215,394,384,40,979,53,20,37.7,20,37.7,567,3770,2213,73,36,20,32,16,664,141,Matches,Alejandro Balde,DF
+2024-2025,20,Barcelona,es ESP,1. La Liga,3rd,14.3,923,27,171,468,295,20,923,61,23,37.7,24,39.3,572,3758,1831,58,32,6,22,14,658,122,Matches,Alejandro Balde,DF
+4 Seasons,4 Seasons,1 Club,,1 League,,59.2,4018,104,829,1831,1409,145,4018,216,94,43.5,84,38.9,2550,15351,8453,235,144,62,99,57,2812,520,,Alejandro Balde,DF
+2022-2023,15,Barcelona,es ESP,1. La Liga,1st,0.1,12,0,0,1,11,1,12,2,0,0.0,2,100.0,9,23,9,0,1,0,0,0,10,2,Matches,Lamine Yamal,FW
+2023-2024,16,Barcelona,es ESP,1. La Liga,2nd,24.5,1475,14,118,460,923,147,1475,160,70,43.8,58,36.3,1023,6622,3889,123,78,57,54,26,1157,350,Matches,Lamine Yamal,FW
+2024-2025,17,Barcelona,es ESP,1. La Liga,3rd,14.2,822,7,52,281,502,96,822,120,51,42.5,55,45.8,569,4143,2252,77,36,40,33,21,662,185,Matches,Lamine Yamal,FW
+3 Seasons,3 Seasons,1 Club,,1 League,,38.7,2309,21,170,742,1436,244,2309,282,121,42.9,115,40.8,1601,10788,6150,200,115,97,87,47,1829,537,,Lamine Yamal,FW
+2023-2024,19,Barcelona,es ESP,1. La Liga,2nd,0.2,11,2,4,6,1,0,11,0,0,,0,,5,29,14,1,0,0,0,0,7,0,Matches,Marc Casado,MF
+2024-2025,20,Barcelona,es ESP,1. La Liga,3rd,13.1,1130,20,160,788,185,5,1130,8,3,37.5,4,50.0,638,2585,1105,9,18,0,13,7,870,20,Matches,Marc Casado,MF
+3 Seasons,3 Seasons,1 Club,,1 League,,13.3,1141,22,164,794,186,5,1141,8,3,37.5,4,50.0,643,2614,1119,10,18,0,13,7,877,20,,Marc Casado,MF
+2021-2022,22,Galatasaray,tr TUR,1. Süper Lig,13th,6.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Iñaki Peña,GK
+2022-2023,23,Barcelona,es ESP,1. La Liga,1st,0.8,27,21,27,0,0,0,27,0,0,,0,,19,93,35,0,0,0,0,0,14,0,Matches,Iñaki Peña,GK
+2023-2024,24,Barcelona,es ESP,1. La Liga,2nd,10.0,314,279,313,1,0,0,314,0,0,,0,,187,792,437,0,0,0,0,0,165,0,Matches,Iñaki Peña,GK
+2024-2025,25,Barcelona,es ESP,1. La Liga,3rd,13.5,600,417,585,15,0,0,600,0,0,,0,,356,1553,857,0,0,0,0,0,328,0,Matches,Iñaki Peña,GK
+7 Seasons,7 Seasons,2 Clubs,,2 Leagues,,30.3,941,717,925,16,0,0,941,0,0,,0,,562,2438,1329,0,0,0,0,0,507,0,,Iñaki Peña,GK
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Iñaki Peña,GK
+Barcelona (7 Seasons),Barcelona (7 Seasons),Barcelona (7 Seasons),,1 League,,24.3,941,717,925,16,0,0,941,0,0,,0,,562,2438,1329,0,0,0,0,0,507,0,,Iñaki Peña,GK
+Galatasaray (1 Season),Galatasaray (1 Season),Galatasaray (1 Season),,1 League,,6.0,,,,,,,,,,,,,,,,,,,,,,,,Iñaki Peña,GK
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Iñaki Peña,GK
+La Liga (7 Seasons),La Liga (7 Seasons),La Liga (7 Seasons),,,,24.3,941,717,925,16,0,0,941,0,0,,0,,562,2438,1329,0,0,0,0,0,507,0,,Iñaki Peña,GK
+Süper Lig (1 Season),Süper Lig (1 Season),Süper Lig (1 Season),,,,6.0,,,,,,,,,,,,,,,,,,,,,,,,Iñaki Peña,GK
+2014-2015,16,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,0.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo,"MF,FW"
+2015-2016,17,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,0.5,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo,"MF,FW"
+2016-2017,18,Dinamo Zagreb,hr CRO,1. 1. HNL,2nd,9.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo,"MF,FW"
+2017-2018,19,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,23.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo,"MF,FW"
+2018-2019,20,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,17.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo,"MF,FW"
+2019-2020,21,Dinamo Zagreb,hr CRO,1. 1. HNL,1st,8.2,,,,,,,,,,,,,,,,,,,,,,,Matches,Dani Olmo,"MF,FW"
+2019-2020,21,RB Leipzig,de GER,1. Bundesliga,3rd,8.3,469,8,46,232,195,24,469,15,6,40.0,9,60.0,280,1060,502,15,11,6,18,25,340,57,Matches,Dani Olmo,"MF,FW"
+2020-2021,22,RB Leipzig,de GER,1. Bundesliga,2nd,24.4,1570,24,150,750,683,100,1569,65,31,47.7,34,52.3,928,4036,1945,50,57,20,69,37,1195,174,Matches,Dani Olmo,"MF,FW"
+2021-2022,23,RB Leipzig,de GER,1. Bundesliga,4th,8.3,478,4,62,234,186,32,478,45,24,53.3,21,46.7,288,1190,646,15,16,5,23,16,355,55,Matches,Dani Olmo,"MF,FW"
+2022-2023,24,RB Leipzig,de GER,1. Bundesliga,3rd,14.2,802,6,71,385,360,53,802,74,38,51.4,24,32.4,508,2620,1358,34,36,15,45,30,599,86,Matches,Dani Olmo,"MF,FW"
+2023-2024,25,RB Leipzig,de GER,1. Bundesliga,4th,16.1,854,18,116,419,329,59,854,72,31,43.1,38,52.8,544,3571,1925,60,49,18,28,26,651,111,Matches,Dani Olmo,"MF,FW"
+2024-2025,26,Barcelona,es ESP,1. La Liga,3rd,6.9,387,10,35,167,189,34,387,27,15,55.6,9,33.3,246,1256,652,16,23,3,20,16,315,52,Matches,Dani Olmo,"MF,FW"
+11 Seasons,11 Seasons,3 Clubs,,3 Leagues,,138.0,4560,70,480,2187,1942,302,4559,298,145,48.7,135,45.3,2794,13733,7028,190,192,67,203,150,3455,535,,Dani Olmo,"MF,FW"
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Dani Olmo,"MF,FW"
+Dinamo Zagreb (6 Seasons),Dinamo Zagreb (6 Seasons),Dinamo Zagreb (6 Seasons),,1 League,,59.8,,,,,,,,,,,,,,,,,,,,,,,,Dani Olmo,"MF,FW"
+RB Leipzig (5 Seasons),RB Leipzig (5 Seasons),RB Leipzig (5 Seasons),,1 League,,71.3,4173,60,445,2020,1753,268,4172,271,130,48.0,126,46.5,2548,12477,6376,174,169,64,183,134,3140,483,,Dani Olmo,"MF,FW"
+Barcelona (1 Season),Barcelona (1 Season),Barcelona (1 Season),,1 League,,6.9,387,10,35,167,189,34,387,27,15,55.6,9,33.3,246,1256,652,16,23,3,20,16,315,52,,Dani Olmo,"MF,FW"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dani Olmo,"MF,FW"
+1. HNL (6 Seasons),1. HNL (6 Seasons),1. HNL (6 Seasons),,,,59.8,,,,,,,,,,,,,,,,,,,,,,,,Dani Olmo,"MF,FW"
+Bundesliga (5 Seasons),Bundesliga (5 Seasons),Bundesliga (5 Seasons),,,,71.3,4173,60,445,2020,1753,268,4172,271,130,48.0,126,46.5,2548,12477,6376,174,169,64,183,134,3140,483,,Dani Olmo,"MF,FW"
+La Liga (1 Season),La Liga (1 Season),La Liga (1 Season),,,,6.9,387,10,35,167,189,34,387,27,15,55.6,9,33.3,246,1256,652,16,23,3,20,16,315,52,,Dani Olmo,"MF,FW"
+2017-2018,17,Valencia,es ESP,1. La Liga,4th,3.5,142,3,23,63,59,7,142,10,8,80.0,2,20.0,104,747,428,16,11,2,7,13,110,24,Matches,Ferrán Torres,"FW,MF"
+2018-2019,18,Valencia,es ESP,1. La Liga,4th,9.4,439,8,70,169,209,31,439,23,14,60.9,9,39.1,259,1950,1020,35,21,7,20,16,310,70,Matches,Ferrán Torres,"FW,MF"
+2019-2020,19,Valencia,es ESP,1. La Liga,9th,25.0,1047,22,165,413,487,61,1047,95,54,56.8,41,43.2,695,4684,2382,87,65,17,63,24,772,194,Matches,Ferrán Torres,"FW,MF"
+2020-2021,20,Manchester City,eng ENG,1. Premier League,1st,14.5,608,10,54,204,360,67,608,46,20,43.5,26,56.5,383,2140,1012,30,20,16,25,21,471,118,Matches,Ferrán Torres,"FW,MF"
+2021-2022,21,Manchester City,eng ENG,1. Premier League,1st,3.4,100,0,7,27,66,24,100,6,4,66.7,2,33.3,57,246,90,5,1,3,4,2,77,26,Matches,Ferrán Torres,"FW,MF"
+2021-2022,21,Barcelona,es ESP,1. La Liga,2nd,15.7,770,11,57,301,417,88,769,37,13,35.1,24,64.9,553,2808,1180,34,25,22,45,20,643,215,Matches,Ferrán Torres,"FW,MF"
+2022-2023,22,Barcelona,es ESP,1. La Liga,1st,15.5,756,10,67,256,441,87,755,68,30,44.1,26,38.2,490,2752,1199,43,34,23,48,23,599,180,Matches,Ferrán Torres,"FW,MF"
+2023-2024,23,Barcelona,es ESP,1. La Liga,2nd,13.5,583,6,42,237,309,56,583,24,10,41.7,11,45.8,338,1744,789,30,21,15,35,13,468,113,Matches,Ferrán Torres,"FW,MF"
+2024-2025,24,Barcelona,es ESP,1. La Liga,3rd,5.7,216,0,12,72,133,27,216,9,6,66.7,2,22.2,119,605,251,11,6,5,12,5,172,41,Matches,Ferrán Torres,"FW,MF"
+8 Seasons,8 Seasons,3 Clubs,,2 Leagues,,106.1,4661,70,497,1742,2481,448,4659,318,159,50.0,143,45.0,2998,17676,8351,291,204,110,259,137,3622,981,,Ferrán Torres,"FW,MF"
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Ferrán Torres,"FW,MF"
+Barcelona (4 Seasons),Barcelona (4 Seasons),Barcelona (4 Seasons),,1 League,,50.4,2325,27,178,866,1300,258,2323,138,59,42.8,63,45.7,1500,7909,3419,118,86,65,140,61,1882,549,,Ferrán Torres,"FW,MF"
+Valencia (3 Seasons),Valencia (3 Seasons),Valencia (3 Seasons),,1 League,,37.9,1628,33,258,645,755,99,1628,128,76,59.4,52,40.6,1058,7381,3830,138,97,26,90,53,1192,288,,Ferrán Torres,"FW,MF"
+Manchester City (2 Seasons),Manchester City (2 Seasons),Manchester City (2 Seasons),,1 League,,17.9,708,10,61,231,426,91,708,52,24,46.2,28,53.8,440,2386,1102,35,21,19,29,23,548,144,,Ferrán Torres,"FW,MF"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ferrán Torres,"FW,MF"
+La Liga (7 Seasons),La Liga (7 Seasons),La Liga (7 Seasons),,,,88.3,3953,60,436,1511,2055,357,3951,266,135,50.8,115,43.2,2558,15290,7249,256,183,91,230,114,3074,837,,Ferrán Torres,"FW,MF"
+Premier League (2 Seasons),Premier League (2 Seasons),Premier League (2 Seasons),,,,17.9,708,10,61,231,426,91,708,52,24,46.2,28,53.8,440,2386,1102,35,21,19,29,23,548,144,,Ferrán Torres,"FW,MF"
+2010-2011,18,Gladbach,de GER,1. Bundesliga,16th,6.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen,GK
+2011-2012,19,Gladbach,de GER,1. Bundesliga,4th,34.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen,GK
+2012-2013,20,Gladbach,de GER,1. Bundesliga,8th,33.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen,GK
+2013-2014,21,Gladbach,de GER,1. Bundesliga,6th,34.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen,GK
+2015-2016,23,Barcelona,es ESP,1. La Liga,1st,6.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen,GK
+2016-2017,24,Barcelona,es ESP,1. La Liga,2nd,36.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Marc-André ter Stegen,GK
+2017-2018,25,Barcelona,es ESP,1. La Liga,1st,37.0,1363,1217,1358,5,0,0,1363,1,1,100.0,0,0.0,740,3645,2328,0,0,0,0,0,692,0,Matches,Marc-André ter Stegen,GK
+2018-2019,26,Barcelona,es ESP,1. La Liga,1st,35.0,1128,1005,1125,3,0,0,1128,1,1,100.0,0,0.0,604,2926,2116,0,0,0,0,0,560,0,Matches,Marc-André ter Stegen,GK
+2019-2020,27,Barcelona,es ESP,1. La Liga,2nd,36.0,1498,1204,1491,8,0,0,1498,0,0,,0,,843,4026,2785,0,0,0,2,0,874,0,Matches,Marc-André ter Stegen,GK
+2020-2021,28,Barcelona,es ESP,1. La Liga,3rd,31.0,1093,957,1084,8,2,1,1093,0,0,,0,,618,2842,1890,0,0,0,0,0,633,0,Matches,Marc-André ter Stegen,GK
+2021-2022,29,Barcelona,es ESP,1. La Liga,2nd,35.0,1335,1097,1323,12,0,0,1335,2,2,100.0,0,0.0,777,3585,2393,0,0,0,0,0,804,0,Matches,Marc-André ter Stegen,GK
+2022-2023,30,Barcelona,es ESP,1. La Liga,1st,37.2,1457,1076,1436,22,0,0,1457,0,0,,0,,963,4886,3425,0,0,0,1,1,851,0,Matches,Marc-André ter Stegen,GK
+2023-2024,31,Barcelona,es ESP,1. La Liga,2nd,28.0,1080,816,1068,13,0,0,1080,0,0,,0,,695,3459,2503,0,0,0,1,0,609,0,Matches,Marc-André ter Stegen,GK
+2024-2025,32,Barcelona,es ESP,1. La Liga,3rd,5.5,212,155,212,0,0,0,212,0,0,,0,,140,679,512,0,0,0,0,0,134,0,Matches,Marc-André ter Stegen,GK
+15 Seasons,15 Seasons,2 Clubs,,2 Leagues,,394.6,9166,7527,9097,71,2,1,9166,4,4,100.0,0,0.0,5380,26048,17952,0,0,0,4,1,5157,0,,Marc-André ter Stegen,GK
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Marc-André ter Stegen,GK
+Barcelona (11 Seasons),Barcelona (11 Seasons),Barcelona (11 Seasons),,1 League,,286.7,9166,7527,9097,71,2,1,9166,4,4,100.0,0,0.0,5380,26048,17952,0,0,0,4,1,5157,0,,Marc-André ter Stegen,GK
+Gladbach (4 Seasons),Gladbach (4 Seasons),Gladbach (4 Seasons),,1 League,,107.8,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+La Liga (11 Seasons),La Liga (11 Seasons),La Liga (11 Seasons),,,,286.7,9166,7527,9097,71,2,1,9166,4,4,100.0,0,0.0,5380,26048,17952,0,0,0,4,1,5157,0,,Marc-André ter Stegen,GK
+Bundesliga (4 Seasons),Bundesliga (4 Seasons),Bundesliga (4 Seasons),,,,107.8,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+2017-2018,16,Manchester City,eng ENG,Jr. PL2 — Div. 1,6th,2.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Eric García,"MF,DF"
+2018-2019,17,Manchester City,eng ENG,Jr. PL2 — Div. 1,8th,9.8,,,,,,,,,,,,,,,,,,,,,,,Matches,Eric García,"MF,DF"
+2019-2020,18,Manchester City,eng ENG,Jr. PL2 — Div. 1,9th,3.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Eric García,"MF,DF"
+2019-2020,18,Manchester City,eng ENG,1. Premier League,2nd,8.8,801,51,310,476,18,3,801,8,6,75.0,2,25.0,614,2735,1540,7,3,0,1,0,649,0,Matches,Eric García,"MF,DF"
+2020-2021,19,Manchester City,eng ENG,1. Premier League,1st,4.3,381,25,104,264,13,1,381,0,0,,0,,279,1454,1008,8,7,0,4,0,307,0,Matches,Eric García,"MF,DF"
+2021-2022,20,Barcelona,es ESP,1. La Liga,2nd,22.7,1862,134,681,1136,52,10,1862,3,2,66.7,1,33.3,1301,7382,4972,36,12,2,12,1,1445,3,Matches,Eric García,"MF,DF"
+2022-2023,21,Barcelona,es ESP,1. La Liga,1st,15.7,1398,97,539,781,84,5,1398,4,2,50.0,2,50.0,918,4539,2686,24,22,0,10,2,1049,6,Matches,Eric García,"MF,DF"
+2023-2024,22,Girona,es ESP,1. La Liga,3rd,29.3,2567,180,972,1378,227,23,2567,9,4,44.4,4,44.4,1604,7491,4670,45,34,1,17,9,1900,18,Matches,Eric García,"MF,DF"
+2023-2024,22,Barcelona,es ESP,1. La Liga,2nd,0.6,53,2,18,33,2,1,53,0,0,,0,,34,171,114,0,0,0,0,0,37,0,Matches,Eric García,"MF,DF"
+2024-2025,23,Barcelona,es ESP,1. La Liga,3rd,6.0,461,18,96,299,67,13,461,5,2,40.0,2,40.0,224,1044,609,9,3,1,6,3,326,5,Matches,Eric García,"MF,DF"
+6 Seasons,6 Seasons,3 Clubs,,2 Leagues,,87.4,7523,507,2720,4367,463,56,7523,29,16,55.2,11,37.9,4974,24816,15599,129,81,4,50,15,5713,32,,Eric García,"MF,DF"
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Eric García,"MF,DF"
+Barcelona (4 Seasons),Barcelona (4 Seasons),Barcelona (4 Seasons),,1 League,,45.0,3774,251,1334,2249,205,29,3774,12,6,50.0,5,41.7,2477,13136,8381,69,37,3,28,6,2857,14,,Eric García,"MF,DF"
+Manchester City (3 Seasons),Manchester City (3 Seasons),Manchester City (3 Seasons),,1 League,,14.8,,,,,,,,,,,,,,,,,,,,,,,,Eric García,"MF,DF"
+Manchester City (2 Seasons),Manchester City (2 Seasons),Manchester City (2 Seasons),,1 League,,13.1,1182,76,414,740,31,4,1182,8,6,75.0,2,25.0,893,4189,2548,15,10,0,5,0,956,0,,Eric García,"MF,DF"
+Girona (1 Season),Girona (1 Season),Girona (1 Season),,1 League,,29.3,2567,180,972,1378,227,23,2567,9,4,44.4,4,44.4,1604,7491,4670,45,34,1,17,9,1900,18,,Eric García,"MF,DF"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Eric García,"MF,DF"
+La Liga (4 Seasons),La Liga (4 Seasons),La Liga (4 Seasons),,,,74.3,6341,431,2306,3627,432,52,6341,21,10,47.6,9,42.9,4081,20627,13051,114,71,4,45,15,4757,32,,Eric García,"MF,DF"
+PL2 — Div. 1 (3 Seasons),PL2 — Div. 1 (3 Seasons),PL2 — Div. 1 (3 Seasons),,,,14.8,,,,,,,,,,,,,,,,,,,,,,,,Eric García,"MF,DF"
+Premier League (2 Seasons),Premier League (2 Seasons),Premier League (2 Seasons),,,,13.1,1182,76,414,740,31,4,1182,8,6,75.0,2,25.0,893,4189,2548,15,10,0,5,0,956,0,,Eric García,"MF,DF"
+2023-2024,20,Barcelona,es ESP,1. La Liga,2nd,16.1,841,11,95,418,335,69,841,38,22,57.9,12,31.6,486,2639,1446,42,28,10,51,25,618,93,Matches,Fermin López,"MF,FW"
+2024-2025,21,Barcelona,es ESP,1. La Liga,3rd,4.4,234,3,20,108,110,15,234,11,3,27.3,7,63.6,135,780,337,10,6,1,8,2,181,40,Matches,Fermin López,"MF,FW"
+2 Seasons,2 Seasons,1 Club,,1 League,,20.5,1075,14,115,526,445,84,1075,49,25,51.0,19,38.8,621,3419,1783,52,34,11,59,27,799,133,,Fermin López,"MF,FW"
+2024-2025,22,Barcelona,es ESP,1. La Liga,3rd,4.3,322,12,78,155,89,2,322,2,0,0.0,2,100.0,119,391,227,6,4,0,3,1,205,33,Matches,Gerard Martín,DF
+1 Season,1 Season,1 Club,,1 League,,4.3,322,12,78,155,89,2,322,2,0,0.0,2,100.0,119,391,227,6,4,0,3,1,205,33,,Gerard Martín,DF
+2022-2023,19,Barcelona,es ESP,1. La Liga,1st,1.6,114,3,12,49,55,1,114,7,3,42.9,2,28.6,69,313,162,4,6,0,5,4,87,16,Matches,Pablo Torre,"MF,FW"
+2023-2024,20,Girona,es ESP,1. La Liga,3rd,7.8,518,10,68,260,195,24,518,19,6,31.6,10,52.6,359,1713,909,25,18,4,17,13,424,40,Matches,Pablo Torre,"MF,FW"
+2024-2025,21,Barcelona,es ESP,1. La Liga,3rd,2.8,182,4,18,80,85,7,182,5,2,40.0,3,60.0,93,382,168,5,7,0,4,4,140,15,Matches,Pablo Torre,"MF,FW"
+3 Seasons,3 Seasons,2 Clubs,,1 League,,12.1,814,17,98,389,335,32,814,31,11,35.5,15,48.4,521,2408,1239,34,31,4,26,21,651,71,,Pablo Torre,"MF,FW"
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Pablo Torre,"MF,FW"
+Barcelona (2 Seasons),Barcelona (2 Seasons),Barcelona (2 Seasons),,1 League,,4.4,296,7,30,129,140,8,296,12,5,41.7,5,41.7,162,695,330,9,13,0,9,8,227,31,,Pablo Torre,"MF,FW"
+Girona (1 Season),Girona (1 Season),Girona (1 Season),,1 League,,7.8,518,10,68,260,195,24,518,19,6,31.6,10,52.6,359,1713,909,25,18,4,17,13,424,40,,Pablo Torre,"MF,FW"
+2021-2022,16,Barcelona,es ESP,1. La Liga,2nd,25.7,1581,16,146,829,624,84,1581,86,53,61.6,33,38.4,1116,5830,2515,72,60,8,61,49,1235,160,Matches,Gavi,MF
+2022-2023,17,Barcelona,es ESP,1. La Liga,1st,28.1,1510,27,148,797,579,71,1510,63,27,42.9,26,41.3,1002,5346,2505,49,69,8,56,33,1134,153,Matches,Gavi,MF
+2023-2024,18,Barcelona,es ESP,1. La Liga,2nd,10.5,678,27,108,394,181,18,678,22,12,54.5,8,36.4,424,2231,1170,26,24,3,19,11,479,38,Matches,Gavi,MF
+2024-2025,19,Barcelona,es ESP,1. La Liga,3rd,2.9,217,4,39,122,57,6,217,5,2,40.0,2,40.0,114,480,219,1,4,0,8,5,151,12,Matches,Gavi,MF
+4 Seasons,4 Seasons,1 Club,,1 League,,67.2,3986,74,441,2142,1441,179,3986,176,94,53.4,69,39.2,2656,13887,6409,148,157,19,144,98,2999,363,,Gavi,MF
+2024-2025,17,Barcelona,es ESP,1. La Liga,3rd,2.7,184,4,47,116,21,1,184,3,2,66.7,1,33.3,97,461,150,0,2,0,2,2,137,2,Matches,Marc Bernal,MF
+1 Season,1 Season,1 Club,,1 League,,2.7,184,4,47,116,21,1,184,3,2,66.7,1,33.3,97,461,150,0,2,0,2,2,137,2,,Marc Bernal,MF
+2023-2024,16,Barcelona,es ESP,1. La Liga,2nd,3.5,250,10,72,118,60,3,250,7,3,42.9,4,57.1,144,572,197,3,3,0,1,2,174,38,Matches,Héctor Fort,DF
+2024-2025,17,Barcelona,es ESP,1. La Liga,3rd,3.1,263,11,61,159,46,6,263,4,2,50.0,2,50.0,129,561,290,6,4,0,2,2,174,14,Matches,Héctor Fort,DF
+2 Seasons,2 Seasons,1 Club,,1 League,,6.6,513,21,133,277,106,9,513,11,5,45.5,6,54.5,273,1133,487,9,7,0,3,4,348,52,,Héctor Fort,DF
+2024-2025,19,Barcelona,es ESP,1. La Liga,3rd,1.9,191,13,69,121,3,0,191,0,0,,0,,127,569,284,0,1,0,0,0,157,1,Matches,Sergi Dominguez,DF
+1 Season,1 Season,1 Club,,1 League,,1.9,191,13,69,121,3,0,191,0,0,,0,,127,569,284,0,1,0,0,0,157,1,,Sergi Dominguez,DF
+2014-2015,17,Willem II,nl NED,1. Eredivisie,9th,0.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong,MF
+2015-2016,18,Willem II,nl NED,1. Eredivisie,16th,0.2,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong,MF
+2015-2016,18,Jong Ajax,nl NED,2. Eerste Divisie,9th,14.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong,MF
+2016-2017,19,Jong Ajax,nl NED,2. Eerste Divisie,2nd,29.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong,MF
+2016-2017,19,Ajax,nl NED,1. Eredivisie,2nd,1.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong,MF
+2017-2018,20,Ajax,nl NED,1. Eredivisie,2nd,17.3,,,,,,,,,,,,,,,,,,,,,,,Matches,Frenkie de Jong,MF
+2018-2019,21,Ajax,nl NED,1. Eredivisie,1st,27.9,2786,73,383,1749,696,58,2786,79,61,77.2,18,22.8,2005,14047,8603,169,144,19,38,27,2087,105,Matches,Frenkie de Jong,MF
+2019-2020,22,Barcelona,es ESP,1. La Liga,2nd,23.5,1809,31,305,1042,489,35,1809,57,46,80.7,11,19.3,1294,7746,4083,77,74,6,30,29,1517,82,Matches,Frenkie de Jong,MF
+2020-2021,23,Barcelona,es ESP,1. La Liga,3rd,35.0,3052,90,617,1742,726,87,3052,67,58,86.6,9,13.4,2147,12665,7334,95,103,11,35,25,2519,129,Matches,Frenkie de Jong,MF
+2021-2022,24,Barcelona,es ESP,1. La Liga,2nd,27.5,1876,35,261,1141,498,66,1876,60,51,85.0,9,15.0,1264,7247,4393,78,71,8,37,28,1484,121,Matches,Frenkie de Jong,MF
+2022-2023,25,Barcelona,es ESP,1. La Liga,1st,28.2,2526,45,391,1553,607,47,2526,60,35,58.3,20,33.3,1797,11014,6407,92,94,9,24,22,2036,83,Matches,Frenkie de Jong,MF
+2023-2024,26,Barcelona,es ESP,1. La Liga,2nd,18.2,1840,69,359,1139,355,18,1840,24,13,54.2,8,33.3,1207,7284,4346,69,52,3,14,17,1467,38,Matches,Frenkie de Jong,MF
+2024-2025,27,Barcelona,es ESP,1. La Liga,3rd,2.6,200,1,19,147,34,5,200,4,2,50.0,2,50.0,135,773,459,5,7,0,2,1,160,6,Matches,Frenkie de Jong,MF
+11 Seasons,11 Seasons,4 Clubs,,3 Leagues,,225.6,14089,344,2335,8513,3405,316,14089,351,266,75.8,77,21.9,9849,60776,35625,585,545,56,180,149,11270,564,,Frenkie de Jong,MF
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Frenkie de Jong,MF
+Barcelona (6 Seasons),Barcelona (6 Seasons),Barcelona (6 Seasons),,1 League,,135.0,11303,271,1952,6764,2709,258,11303,272,205,75.4,59,21.7,7844,46729,27022,416,401,37,142,122,9183,459,,Frenkie de Jong,MF
+Ajax (3 Seasons),Ajax (3 Seasons),Ajax (3 Seasons),,1 League,,46.9,2786,73,383,1749,696,58,2786,79,61,77.2,18,22.8,2005,14047,8603,169,144,19,38,27,2087,105,,Frenkie de Jong,MF
+Jong Ajax (2 Seasons),Jong Ajax (2 Seasons),Jong Ajax (2 Seasons),,1 League,,43.3,,,,,,,,,,,,,,,,,,,,,,,,Frenkie de Jong,MF
+Willem II (2 Seasons),Willem II (2 Seasons),Willem II (2 Seasons),,1 League,,0.5,,,,,,,,,,,,,,,,,,,,,,,,Frenkie de Jong,MF
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frenkie de Jong,MF
+La Liga (6 Seasons),La Liga (6 Seasons),La Liga (6 Seasons),,,,135.0,11303,271,1952,6764,2709,258,11303,272,205,75.4,59,21.7,7844,46729,27022,416,401,37,142,122,9183,459,,Frenkie de Jong,MF
+Eredivisie (5 Seasons),Eredivisie (5 Seasons),Eredivisie (5 Seasons),,,,47.4,2786,73,383,1749,696,58,2786,79,61,77.2,18,22.8,2005,14047,8603,169,144,19,38,27,2087,105,,Frenkie de Jong,MF
+Eerste Divisie (2 Seasons),Eerste Divisie (2 Seasons),Eerste Divisie (2 Seasons),,,,43.3,,,,,,,,,,,,,,,,,,,,,,,,Frenkie de Jong,MF
+2019-2020,17,Girona,es ESP,2. La Liga 2,5th,0.3,7,0,0,3,4,2,7,3,2,66.7,1,33.3,6,49,33,1,3,1,2,1,6,0,Matches,Pau Victor Delgado,FW
+2020-2021,18,Girona,es ESP,2. La Liga 2,5th,1.2,42,0,3,15,25,8,42,2,1,50.0,1,50.0,26,119,48,1,2,0,3,3,29,9,Matches,Pau Victor Delgado,FW
+2024-2025,22,Barcelona,es ESP,1. La Liga,3rd,2.2,120,4,11,55,57,12,120,11,7,63.6,4,36.4,66,297,136,2,2,2,6,7,89,21,Matches,Pau Victor Delgado,FW
+6 Seasons,6 Seasons,2 Clubs,,2 Leagues,,3.6,169,4,14,73,86,22,169,16,10,62.5,6,37.5,98,465,217,4,7,3,11,11,124,30,,Pau Victor Delgado,FW
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Pau Victor Delgado,FW
+Girona (4 Seasons),Girona (4 Seasons),Girona (4 Seasons),,2 Leagues,,1.5,49,0,3,18,29,10,49,5,3,60.0,2,40.0,32,168,81,2,5,1,5,4,35,9,,Pau Victor Delgado,FW
+Barcelona (2 Seasons),Barcelona (2 Seasons),Barcelona (2 Seasons),,1 League,,2.2,120,4,11,55,57,12,120,11,7,63.6,4,36.4,66,297,136,2,2,2,6,7,89,21,,Pau Victor Delgado,FW
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pau Victor Delgado,FW
+La Liga (3 Seasons),La Liga (3 Seasons),La Liga (3 Seasons),,,,2.2,120,4,11,55,57,12,120,11,7,63.6,4,36.4,66,297,136,2,2,2,6,7,89,21,,Pau Victor Delgado,FW
+La Liga 2 (3 Seasons),La Liga 2 (3 Seasons),La Liga 2 (3 Seasons),,,,1.5,49,0,3,18,29,10,49,5,3,60.0,2,40.0,32,168,81,2,5,1,5,4,35,9,,Pau Victor Delgado,FW
+2019-2020,16,Barcelona,es ESP,1. La Liga,2nd,11.4,703,7,38,207,464,89,703,53,25,47.2,28,52.8,544,3520,1934,77,35,46,35,25,601,187,Matches,Ansu Fati,FW
+2020-2021,17,Barcelona,es ESP,1. La Liga,3rd,4.8,270,0,12,86,174,39,270,23,11,47.8,12,52.2,183,1296,700,32,16,21,11,8,226,60,Matches,Ansu Fati,FW
+2021-2022,18,Barcelona,es ESP,1. La Liga,2nd,3.7,222,0,10,71,144,34,222,14,4,28.6,10,71.4,151,832,430,20,11,13,18,2,190,49,Matches,Ansu Fati,FW
+2022-2023,19,Barcelona,es ESP,1. La Liga,1st,15.5,806,10,64,278,470,128,806,47,23,48.9,21,44.7,557,2983,1399,47,28,31,35,30,640,178,Matches,Ansu Fati,FW
+2023-2024,20,Brighton,eng ENG,1. Premier League,11th,5.8,300,4,27,141,135,43,300,18,5,27.8,9,50.0,212,1025,451,16,5,9,15,10,238,50,Matches,Ansu Fati,FW
+2023-2024,20,Barcelona,es ESP,1. La Liga,2nd,0.6,42,0,1,16,25,5,42,3,1,33.3,1,33.3,32,266,157,6,4,2,1,1,35,5,Matches,Ansu Fati,FW
+2024-2025,21,Barcelona,es ESP,1. La Liga,3rd,1.4,81,0,7,35,41,10,81,5,2,40.0,2,40.0,58,305,121,4,5,1,6,2,67,16,Matches,Ansu Fati,FW
+6 Seasons,6 Seasons,2 Clubs,,2 Leagues,,43.2,2424,21,159,834,1453,348,2424,163,71,43.6,83,50.9,1737,10227,5192,202,104,123,121,78,1997,545,,Ansu Fati,FW
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Ansu Fati,FW
+Barcelona (6 Seasons),Barcelona (6 Seasons),Barcelona (6 Seasons),,1 League,,37.4,2124,17,132,693,1318,305,2124,145,66,45.5,74,51.0,1525,9202,4741,186,99,114,106,68,1759,495,,Ansu Fati,FW
+Brighton (1 Season),Brighton (1 Season),Brighton (1 Season),,1 League,,5.8,300,4,27,141,135,43,300,18,5,27.8,9,50.0,212,1025,451,16,5,9,15,10,238,50,,Ansu Fati,FW
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ansu Fati,FW
+La Liga (6 Seasons),La Liga (6 Seasons),La Liga (6 Seasons),,,,37.4,2124,17,132,693,1318,305,2124,145,66,45.5,74,51.0,1525,9202,4741,186,99,114,106,68,1759,495,,Ansu Fati,FW
+Premier League (1 Season),Premier League (1 Season),Premier League (1 Season),,,,5.8,300,4,27,141,135,43,300,18,5,27.8,9,50.0,212,1025,451,16,5,9,15,10,238,50,,Ansu Fati,FW
+2014-2015,18,Chelsea,eng ENG,1. Premier League,1st,0.1,,,,,,,,,,,,,,,,,,,,,,,Matches,Andreas Christensen,DF
+2015-2016,19,Gladbach,de GER,1. Bundesliga,4th,31.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Andreas Christensen,DF
+2016-2017,20,Gladbach,de GER,1. Bundesliga,9th,30.9,,,,,,,,,,,,,,,,,,,,,,,Matches,Andreas Christensen,DF
+2017-2018,21,Chelsea,eng ENG,1. Premier League,5th,23.2,1589,150,768,790,41,22,1589,5,5,100.0,0,0.0,982,4823,2811,22,12,1,9,1,1073,2,Matches,Andreas Christensen,DF
+2018-2019,22,Chelsea,eng ENG,1. Premier League,3rd,6.9,517,35,230,280,9,3,517,1,1,100.0,0,0.0,304,1759,1091,3,4,0,3,0,352,1,Matches,Andreas Christensen,DF
+2019-2020,23,Chelsea,eng ENG,1. Premier League,4th,19.5,1484,137,690,758,43,12,1484,4,4,100.0,0,0.0,983,5524,3175,17,12,0,4,1,1066,1,Matches,Andreas Christensen,DF
+2020-2021,24,Chelsea,eng ENG,1. Premier League,4th,15.2,1272,163,687,562,34,7,1272,7,7,100.0,0,0.0,799,3892,2134,7,12,0,9,1,939,1,Matches,Andreas Christensen,DF
+2021-2022,25,Chelsea,eng ENG,1. Premier League,3rd,16.6,1477,147,645,772,68,5,1477,4,4,100.0,0,0.0,823,3835,2215,14,15,0,3,1,1058,5,Matches,Andreas Christensen,DF
+2022-2023,26,Barcelona,es ESP,1. La Liga,1st,19.6,1652,127,645,962,50,13,1652,2,0,0.0,2,100.0,1170,5841,3232,18,15,0,10,1,1257,5,Matches,Andreas Christensen,DF
+2023-2024,27,Barcelona,es ESP,1. La Liga,2nd,22.0,1723,111,549,1077,104,18,1723,6,3,50.0,3,50.0,1101,5001,2934,24,18,1,6,9,1324,6,Matches,Andreas Christensen,DF
+2024-2025,28,Barcelona,es ESP,1. La Liga,3rd,0.3,18,0,10,8,0,0,18,0,0,,0,,9,24,7,0,0,0,0,0,10,0,Matches,Andreas Christensen,DF
+11 Seasons,11 Seasons,3 Clubs,,3 Leagues,,185.2,9732,870,4224,5209,349,80,9732,29,24,82.8,5,17.2,6171,30699,17599,105,88,2,44,14,7079,21,,Andreas Christensen,DF
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Andreas Christensen,DF
+Chelsea (6 Seasons),Chelsea (6 Seasons),Chelsea (6 Seasons),,1 League,,81.5,6339,632,3020,3162,195,49,6339,21,21,100.0,0,0.0,3891,19833,11426,63,55,1,28,4,4488,10,,Andreas Christensen,DF
+Barcelona (3 Seasons),Barcelona (3 Seasons),Barcelona (3 Seasons),,1 League,,41.8,3393,238,1204,2047,154,31,3393,8,3,37.5,5,62.5,2280,10866,6173,42,33,1,16,10,2591,11,,Andreas Christensen,DF
+Gladbach (2 Seasons),Gladbach (2 Seasons),Gladbach (2 Seasons),,1 League,,61.9,,,,,,,,,,,,,,,,,,,,,,,,Andreas Christensen,DF
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Andreas Christensen,DF
+Premier League (6 Seasons),Premier League (6 Seasons),Premier League (6 Seasons),,,,81.5,6339,632,3020,3162,195,49,6339,21,21,100.0,0,0.0,3891,19833,11426,63,55,1,28,4,4488,10,,Andreas Christensen,DF
+La Liga (3 Seasons),La Liga (3 Seasons),La Liga (3 Seasons),,,,41.8,3393,238,1204,2047,154,31,3393,8,3,37.5,5,62.5,2280,10866,6173,42,33,1,16,10,2591,11,,Andreas Christensen,DF
+Bundesliga (2 Seasons),Bundesliga (2 Seasons),Bundesliga (2 Seasons),,,,61.9,,,,,,,,,,,,,,,,,,,,,,,,Andreas Christensen,DF
+2017,17,Boston River,uy URU,1. Uruguayan Primera División,6th,5.9,,,,,,,,,,,,,,,,,,,,,,,Matches,Ronald Araújo,DF
+2018,18,Boston River,uy URU,1. Uruguayan Primera División,13th,17.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Ronald Araújo,DF
+2019-2020,20,Barcelona,es ESP,1. La Liga,2nd,2.6,229,30,103,125,1,1,229,1,1,100.0,0,0.0,181,707,386,1,0,0,0,1,184,0,Matches,Ronald Araújo,DF
+2020-2021,21,Barcelona,es ESP,1. La Liga,3rd,16.8,1213,151,536,640,42,12,1213,8,8,100.0,0,0.0,815,3850,2161,9,7,1,6,2,879,2,Matches,Ronald Araújo,DF
+2021-2022,22,Barcelona,es ESP,1. La Liga,2nd,25.2,1868,181,790,996,94,28,1868,8,6,75.0,2,25.0,1200,6865,4382,30,19,4,17,6,1328,14,Matches,Ronald Araújo,DF
+2022-2023,23,Barcelona,es ESP,1. La Liga,1st,20.0,1437,109,487,882,77,29,1437,14,10,71.4,3,21.4,957,5938,3727,29,13,1,9,6,1022,11,Matches,Ronald Araújo,DF
+2023-2024,24,Barcelona,es ESP,1. La Liga,2nd,22.2,1811,157,732,1000,92,34,1811,11,8,72.7,2,18.2,1177,6282,3750,24,14,2,14,4,1350,11,Matches,Ronald Araújo,DF
+8 Seasons,8 Seasons,2 Clubs,,2 Leagues,,110.5,6558,628,2648,3643,306,104,6558,42,33,78.6,7,16.7,4330,23642,14406,93,53,8,46,19,4763,38,,Ronald Araújo,DF
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Ronald Araújo,DF
+Barcelona (6 Seasons),Barcelona (6 Seasons),Barcelona (6 Seasons),,1 League,,86.9,6558,628,2648,3643,306,104,6558,42,33,78.6,7,16.7,4330,23642,14406,93,53,8,46,19,4763,38,,Ronald Araújo,DF
+Boston River (2 Seasons),Boston River (2 Seasons),Boston River (2 Seasons),,1 League,,23.6,,,,,,,,,,,,,,,,,,,,,,,,Ronald Araújo,DF
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ronald Araújo,DF
+La Liga (6 Seasons),La Liga (6 Seasons),La Liga (6 Seasons),,,,86.9,6558,628,2648,3643,306,104,6558,42,33,78.6,7,16.7,4330,23642,14406,93,53,8,46,19,4763,38,,Ronald Araújo,DF
+Uruguayan Primera División (2 Seasons),Uruguayan Primera División (2 Seasons),Uruguayan Primera División (2 Seasons),,,,23.6,,,,,,,,,,,,,,,,,,,,,,,,Ronald Araújo,DF
+2009-2010,19,Brentford,eng ENG,3. League One,9th,27.7,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny,GK
+2010-2011,20,Arsenal,eng ENG,1. Premier League,4th,15.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny,GK
+2011-2012,21,Arsenal,eng ENG,1. Premier League,3rd,38.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny,GK
+2012-2013,22,Arsenal,eng ENG,1. Premier League,4th,25.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny,GK
+2013-2014,23,Arsenal,eng ENG,1. Premier League,4th,37.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny,GK
+2014-2015,24,Arsenal,eng ENG,1. Premier League,3rd,16.6,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny,GK
+2015-2016,25,Roma,it ITA,1. Serie A,3rd,34.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny,GK
+2016-2017,26,Roma,it ITA,1. Serie A,2nd,38.0,,,,,,,,,,,,,,,,,,,,,,,Matches,Wojciech Szczęsny,GK
+2017-2018,27,Juventus,it ITA,1. Serie A,1st,17.0,477,438,477,0,0,0,477,1,1,100.0,0,0.0,250,1233,680,0,0,0,1,0,229,0,Matches,Wojciech Szczęsny,GK
+2018-2019,28,Juventus,it ITA,1. Serie A,1st,28.0,791,703,786,5,0,0,791,0,0,,0,,403,2313,1437,0,1,1,0,1,306,0,Matches,Wojciech Szczęsny,GK
+2019-2020,29,Juventus,it ITA,1. Serie A,1st,28.8,830,726,822,8,0,0,830,0,0,,0,,455,2241,1359,0,0,0,1,0,319,0,Matches,Wojciech Szczęsny,GK
+2020-2021,30,Juventus,it ITA,1. Serie A,4th,29.7,1076,881,1067,9,0,0,1076,1,1,100.0,0,0.0,618,2957,1820,0,1,1,0,0,595,0,Matches,Wojciech Szczęsny,GK
+2021-2022,31,Juventus,it ITA,1. Serie A,4th,33.0,1063,903,1053,10,0,0,1063,0,0,,0,,657,3464,2025,0,0,0,0,0,562,1,Matches,Wojciech Szczęsny,GK
+2022-2023,32,Juventus,it ITA,1. Serie A,7th,27.5,837,731,833,4,0,0,837,1,1,100.0,0,0.0,498,2576,1593,0,0,0,1,0,406,0,Matches,Wojciech Szczęsny,GK
+2023-2024,33,Juventus,it ITA,1. Serie A,3rd,35.0,1070,855,1062,8,0,0,1070,1,1,100.0,0,0.0,660,4408,2908,0,0,0,1,0,546,0,Matches,Wojciech Szczęsny,GK
+16 Seasons,16 Seasons,5 Clubs,,4 Leagues,,430.4,6144,5237,6100,44,0,0,6144,4,4,100.0,0,0.0,3541,19192,11822,0,2,2,4,1,2963,1,,Wojciech Szczęsny,GK
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Wojciech Szczęsny,GK
+Juventus (7 Seasons),Juventus (7 Seasons),Juventus (7 Seasons),,1 League,,199.0,6144,5237,6100,44,0,0,6144,4,4,100.0,0,0.0,3541,19192,11822,0,2,2,4,1,2963,1,,Wojciech Szczęsny,GK
+Arsenal (5 Seasons),Arsenal (5 Seasons),Arsenal (5 Seasons),,1 League,,131.6,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+Roma (2 Seasons),Roma (2 Seasons),Roma (2 Seasons),,1 League,,72.0,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+Brentford (1 Season),Brentford (1 Season),Brentford (1 Season),,1 League,,27.7,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+Barcelona (1 Season),Barcelona (1 Season),Barcelona (1 Season),,1 League,,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+Serie A (9 Seasons),Serie A (9 Seasons),Serie A (9 Seasons),,,,271.0,6144,5237,6100,44,0,0,6144,4,4,100.0,0,0.0,3541,19192,11822,0,2,2,4,1,2963,1,,Wojciech Szczęsny,GK
+Premier League (5 Seasons),Premier League (5 Seasons),Premier League (5 Seasons),,,,131.6,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+League One (1 Season),League One (1 Season),League One (1 Season),,,,27.7,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+La Liga (1 Season),La Liga (1 Season),La Liga (1 Season),,,,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+2022-2023,18,FC Andorra,es ESP,2. La Liga 2,7th,3.4,276,5,70,140,68,4,276,7,2,28.6,4,57.1,179,798,404,4,6,1,8,5,195,17,Matches,Álex Valle,DF
+2023-2024,19,Levante,es ESP,2. La Liga 2,8th,25.6,1838,107,542,834,482,36,1838,56,26,46.4,24,42.9,873,4439,2214,48,42,5,47,17,1030,122,Matches,Álex Valle,DF
+2024-2025,20,Celtic,sct SCO,1. Premiership,1st,6.1,,,,,,,,,,,,,,,,,,,,,,,Matches,Álex Valle,DF
+3 Seasons,3 Seasons,4 Clubs,,3 Leagues,,35.1,2114,112,612,974,550,40,2114,63,28,44.4,28,44.4,1052,5237,2618,52,48,6,55,22,1225,139,,Álex Valle,DF
+,,,Country,Comp,LgRank,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches,Álex Valle,DF
+Levante (1 Season),Levante (1 Season),Levante (1 Season),,1 League,,25.6,1838,107,542,834,482,36,1838,56,26,46.4,24,42.9,873,4439,2214,48,42,5,47,17,1030,122,,Álex Valle,DF
+Celtic (1 Season),Celtic (1 Season),Celtic (1 Season),,1 League,,6.1,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle,DF
+FC Andorra (1 Season),FC Andorra (1 Season),FC Andorra (1 Season),,1 League,,3.4,276,5,70,140,68,4,276,7,2,28.6,4,57.1,179,798,404,4,6,1,8,5,195,17,,Álex Valle,DF
+Barcelona (1 Season),Barcelona (1 Season),Barcelona (1 Season),,1 League,,,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle,DF
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle,DF
+La Liga 2 (2 Seasons),La Liga 2 (2 Seasons),La Liga 2 (2 Seasons),,,,29.0,2114,112,612,974,550,40,2114,63,28,44.4,28,44.4,1052,5237,2618,52,48,6,55,22,1225,139,,Álex Valle,DF
+Premiership (1 Season),Premiership (1 Season),Premiership (1 Season),,,,6.1,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle,DF
+La Liga (1 Season),La Liga (1 Season),La Liga (1 Season),,,,,,,,,,,,,,,,,,,,,,,,,,,,Álex Valle,DF

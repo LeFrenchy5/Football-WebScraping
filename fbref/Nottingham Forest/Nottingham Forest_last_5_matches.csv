@@ -1,0 +1,96 @@
+Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PSxG,PKatt,PKA,PKsv,PKm,Cmp,Att,Cmp%,Att (GK),Thr,Launch%,AvgLen,Att.1,Launch%.1,AvgLen.1,Opp,Stp,Stp%,#OPA,AvgDist,Player,Position,Score
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,GK,90,2,0,2,100.0,1.0,0.2,0,0,0.0,0.0,14.0,27.0,51.9,19.0,4.0,73.7,45.7,13.0,100.0,65.0,27.0,2.0,7.4,0.0,2.0,Matz Sels,GK,2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,GK,90,4,0,4,100.0,1.0,0.9,0,0,0.0,0.0,7.0,18.0,38.9,14.0,4.0,64.3,45.4,9.0,100.0,61.1,17.0,1.0,5.9,0.0,5.3,Matz Sels,GK,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,GK,90,3,0,3,100.0,1.0,1.0,0,0,0.0,0.0,8.0,21.0,38.1,15.0,0.0,80.0,52.5,9.0,100.0,66.1,30.0,1.0,3.3,0.0,6.3,Matz Sels,GK,2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,GK,90,2,1,1,50.0,0.0,0.3,0,0,0.0,0.0,3.0,5.0,60.0,11.0,1.0,36.4,32.9,4.0,25.0,28.8,11.0,2.0,18.2,1.0,10.8,Matz Sels,GK,2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,GK,90,7,2,5,71.4,0.0,1.6,0,0,0.0,0.0,7.0,28.0,25.0,23.0,2.0,78.3,48.3,10.0,100.0,66.5,20.0,1.0,5.0,1.0,15.0,Matz Sels,GK,3–2
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,RB,90,0,0,0,0.0,0.0,0.0,0,0,42.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,31.0,61.3,3.0,15.0,0.0,1.0,1.0,Ola Aina,DF,2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,"RB,RM",90,0,0,0,0.0,1.0,0.0,0,0,40.0,0.0,0.0,1.0,0.2,0.2,0.0,2.0,0.0,24.0,32.0,75.0,1.0,19.0,1.0,1.0,1.0,Ola Aina,DF,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,WB,90,1,0,0,0.0,2.0,1.0,0,0,51.0,2.0,3.0,1.0,0.2,0.2,0.0,1.0,0.0,23.0,36.0,63.9,4.0,19.0,5.0,4.0,2.0,Ola Aina,DF,2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,RB,90,0,0,0,0.0,0.0,0.0,0,0,51.0,2.0,0.0,0.0,0.0,0.0,0.1,2.0,0.0,36.0,42.0,85.7,1.0,35.0,1.0,0.0,0.0,Ola Aina,DF,2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,RB,90,0,0,0,0.0,0.0,0.0,0,0,41.0,0.0,1.0,0.0,0.0,0.0,0.1,2.0,0.0,25.0,33.0,75.8,2.0,16.0,3.0,3.0,3.0,Ola Aina,DF,3–2
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,CB,90,0,0,0,0.0,0.0,0.0,0,0,24.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,18.0,61.1,0.0,8.0,0.0,0.0,0.0,Nikola Milenković,DF,2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,CB,90,0,0,0,0.0,1.0,0.0,0,0,29.0,4.0,0.0,1.0,0.2,0.2,0.0,0.0,0.0,15.0,19.0,78.9,1.0,9.0,0.0,0.0,0.0,Nikola Milenković,DF,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,CB,90,0,0,0,0.0,1.0,1.0,0,0,39.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,14.0,21.0,66.7,1.0,9.0,0.0,0.0,0.0,Nikola Milenković,DF,2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,CB,90,1,0,0,0.0,2.0,1.0,0,0,48.0,1.0,1.0,2.0,0.5,0.5,0.0,0.0,0.0,34.0,37.0,91.9,2.0,28.0,0.0,0.0,0.0,Nikola Milenković,DF,2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,CB,90,1,0,0,0.0,2.0,1.0,0,0,26.0,0.0,0.0,3.0,0.1,0.1,0.0,0.0,0.0,8.0,14.0,57.1,0.0,2.0,0.0,0.0,0.0,Nikola Milenković,DF,3–2
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,CB,90,0,0,0,0.0,0.0,0.0,1,0,53.0,4.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,20.0,29.0,69.0,4.0,16.0,0.0,2.0,2.0,Murillo,DF,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,CB,90,0,0,0,0.0,0.0,0.0,1,0,38.0,1.0,3.0,2.0,0.0,0.0,0.0,3.0,0.0,21.0,23.0,91.3,2.0,15.0,0.0,0.0,0.0,Murillo,DF,2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,CB,67,0,0,0,0.0,1.0,0.0,0,0,64.0,0.0,2.0,2.0,0.1,0.1,0.0,1.0,0.0,50.0,57.0,87.7,4.0,46.0,0.0,1.0,1.0,Murillo,DF,2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,CB,90,0,0,0,0.0,1.0,0.0,0,0,25.0,0.0,0.0,0.0,0.1,0.1,0.0,2.0,0.0,12.0,16.0,75.0,2.0,9.0,0.0,0.0,0.0,Murillo,DF,3–2
+2024-12-04,Wed,Matchweek 14,Away,L,Nott'ham Forest,Manchester City,Y,CB,90,0,0,0,0.0,1.0,0.0,1,0,48.0,3.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,29.0,37.0,78.4,2.0,27.0,2.0,0.0,0.0,Murillo,DF,0–3
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,FW,75,1,1,0,0.0,3.0,1.0,0,0,21.0,0.0,0.0,0.0,0.4,0.4,0.2,2.0,2.0,9.0,14.0,64.3,2.0,11.0,1.0,0.0,0.0,Chris Wood,FW,2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,FW,86,0,0,0,0.0,0.0,0.0,0,0,24.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,11.0,18.0,61.1,1.0,13.0,1.0,0.0,0.0,Chris Wood,FW,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,FW,89,0,0,0,0.0,3.0,2.0,0,0,30.0,0.0,0.0,2.0,0.3,0.3,0.0,0.0,0.0,11.0,17.0,64.7,1.0,15.0,0.0,1.0,0.0,Chris Wood,FW,2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,FW,90,0,0,0,0.0,1.0,0.0,0,0,22.0,0.0,1.0,0.0,0.1,0.1,0.0,2.0,0.0,9.0,13.0,69.2,1.0,12.0,1.0,2.0,1.0,Chris Wood,FW,2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,FW,78,1,0,0,0.0,2.0,1.0,0,0,11.0,0.0,1.0,0.0,0.3,0.3,0.0,1.0,0.0,3.0,6.0,50.0,1.0,6.0,0.0,0.0,0.0,Chris Wood,FW,3–2
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,LW,86,0,0,0,0.0,1.0,0.0,0,0,38.0,1.0,1.0,1.0,0.0,0.0,0.1,2.0,0.0,22.0,26.0,84.6,1.0,26.0,6.0,3.0,1.0,Callum Hudson-Odoi,"FW,MF",1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,AM,90,0,0,0,0.0,1.0,0.0,0,0,50.0,0.0,3.0,0.0,0.1,0.1,0.3,5.0,1.0,29.0,36.0,80.6,3.0,32.0,6.0,5.0,1.0,Callum Hudson-Odoi,"FW,MF",2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,LW,89,0,0,0,0.0,1.0,0.0,0,0,60.0,0.0,0.0,0.0,0.0,0.0,0.1,5.0,0.0,45.0,55.0,81.8,6.0,51.0,9.0,2.0,1.0,Callum Hudson-Odoi,"FW,MF",2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,"LW,LM",89,0,1,0,0.0,0.0,0.0,0,0,29.0,2.0,1.0,0.0,0.0,0.0,0.1,4.0,1.0,22.0,26.0,84.6,3.0,13.0,0.0,0.0,0.0,Callum Hudson-Odoi,"FW,MF",3–2
+2024-11-30,Sat,Matchweek 13,Home,W,Nott'ham Forest,Ipswich Town,Y,LW,87,0,0,0,0.0,2.0,1.0,0,0,36.0,0.0,0.0,0.0,0.2,0.2,0.1,6.0,0.0,23.0,30.0,76.7,1.0,29.0,4.0,5.0,2.0,Callum Hudson-Odoi,"FW,MF",1–0
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y*,"AM,RM",75,1,0,0,0.0,2.0,1.0,0,0,36.0,0.0,0.0,1.0,0.3,0.3,0.1,1.0,0.0,21.0,27.0,77.8,6.0,17.0,3.0,3.0,1.0,Morgan Gibbs-White,MF,2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,"AM,RW",81,0,1,0,0.0,1.0,1.0,0,0,46.0,1.0,2.0,0.0,0.2,0.2,0.2,5.0,1.0,26.0,34.0,76.5,9.0,31.0,4.0,3.0,1.0,Morgan Gibbs-White,MF,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y*,CM,74,0,0,0,0.0,0.0,0.0,1,0,59.0,8.0,1.0,0.0,0.0,0.0,0.1,4.0,0.0,40.0,45.0,88.9,6.0,31.0,1.0,1.0,1.0,Morgan Gibbs-White,MF,2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,"AM,CM",90,0,1,0,0.0,2.0,1.0,0,0,69.0,0.0,0.0,1.0,0.1,0.1,0.9,4.0,1.0,52.0,56.0,92.9,4.0,50.0,2.0,4.0,3.0,Morgan Gibbs-White,MF,2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,"AM,RM",78,1,1,0,0.0,2.0,1.0,0,0,46.0,0.0,1.0,0.0,0.1,0.1,0.3,2.0,1.0,20.0,33.0,60.6,2.0,25.0,2.0,4.0,2.0,Morgan Gibbs-White,MF,3–2
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,"DM,CM",81,0,0,0,0.0,0.0,0.0,0,0,56.0,2.0,3.0,1.0,0.0,0.0,0.0,3.0,0.0,29.0,42.0,69.0,4.0,19.0,2.0,1.0,0.0,Elliot Anderson,"MF,FW",2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,"DM,CM",81,0,0,0,0.0,1.0,0.0,1,0,44.0,4.0,2.0,2.0,0.1,0.1,0.2,1.0,0.0,22.0,32.0,68.8,4.0,20.0,0.0,3.0,2.0,Elliot Anderson,"MF,FW",1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,CM,63,0,0,0,0.0,0.0,0.0,0,0,43.0,2.0,0.0,1.0,0.0,0.0,0.1,2.0,0.0,24.0,32.0,75.0,3.0,25.0,1.0,3.0,0.0,Elliot Anderson,"MF,FW",2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,"DM,CM",90,0,1,0,0.0,2.0,0.0,0,0,87.0,7.0,2.0,0.0,0.1,0.1,0.4,12.0,2.0,57.0,68.0,83.8,5.0,48.0,3.0,5.0,3.0,Elliot Anderson,"MF,FW",2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,"DM,CM",90,0,1,0,0.0,1.0,0.0,0,0,45.0,6.0,2.0,2.0,0.0,0.0,0.1,2.0,1.0,17.0,28.0,60.7,1.0,20.0,1.0,5.0,1.0,Elliot Anderson,"MF,FW",3–2
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y*,"DM,CM",90,0,0,0,0.0,0.0,0.0,1,0,31.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,19.0,24.0,79.2,1.0,7.0,0.0,0.0,0.0,Ryan Yates,MF,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,N,"AM,CM",27,0,0,0,0.0,0.0,0.0,0,0,10.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,100.0,1.0,1.0,0.0,0.0,0.0,Ryan Yates,MF,2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y*,DM,67,0,0,0,0.0,2.0,1.0,0,0,50.0,2.0,0.0,1.0,0.1,0.1,0.0,1.0,0.0,39.0,42.0,92.9,2.0,21.0,0.0,0.0,0.0,Ryan Yates,MF,2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y*,"DM,CM",90,0,0,0,0.0,0.0,0.0,0,0,36.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,23.0,28.0,82.1,0.0,7.0,1.0,0.0,0.0,Ryan Yates,MF,3–2
+2024-12-04,Wed,Matchweek 14,Away,L,Nott'ham Forest,Manchester City,Y*,DM,45,0,0,0,0.0,0.0,0.0,0,0,21.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,11.0,11.0,100.0,2.0,11.0,0.0,2.0,1.0,Ryan Yates,MF,0–3
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,"RW,LM",90,0,1,0,0.0,1.0,1.0,0,0,37.0,1.0,0.0,0.0,0.3,0.3,0.4,6.0,2.0,18.0,27.0,66.7,2.0,16.0,0.0,0.0,0.0,Anthony Elanga,"FW,MF",2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,RW,73,1,0,0,0.0,3.0,2.0,0,0,23.0,0.0,0.0,1.0,0.3,0.3,0.0,3.0,0.0,9.0,14.0,64.3,1.0,14.0,1.0,1.0,1.0,Anthony Elanga,"FW,MF",1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,AM,63,1,0,0,0.0,2.0,2.0,0,0,28.0,0.0,1.0,0.0,0.2,0.2,0.0,0.0,0.0,13.0,22.0,59.1,1.0,15.0,3.0,2.0,0.0,Anthony Elanga,"FW,MF",2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,N,"RW,RM",14,1,0,0,0.0,1.0,1.0,0,0,10.0,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.0,5.0,6.0,83.3,0.0,6.0,1.0,0.0,0.0,Anthony Elanga,"FW,MF",2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,N,"RM,FW",12,0,0,0,0.0,0.0,0.0,0,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,50.0,0.0,1.0,1.0,0.0,0.0,Anthony Elanga,"FW,MF",3–2
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,"DM,CM",90,0,0,0,0.0,0.0,0.0,0,0,41.0,5.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,22.0,27.0,81.5,1.0,7.0,0.0,0.0,0.0,Nicolás Domínguez,"MF,FW",2–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,N,CM,27,0,0,0,0.0,0.0,0.0,1,0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,10.0,80.0,1.0,3.0,0.0,0.0,0.0,Nicolás Domínguez,"MF,FW",2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,RW,76,0,0,0,0.0,2.0,1.0,0,0,51.0,2.0,1.0,0.0,0.5,0.5,0.0,2.0,0.0,42.0,43.0,97.7,4.0,32.0,1.0,0.0,0.0,Nicolás Domínguez,"MF,FW",2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,N,"LM,FW,RM",12,0,0,0,0.0,0.0,0.0,0,0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,50.0,1.0,1.0,0.0,0.0,0.0,Nicolás Domínguez,"MF,FW",3–2
+2024-12-04,Wed,Matchweek 14,Away,L,Nott'ham Forest,Manchester City,Y,"CM,DM",90,0,0,0,0.0,0.0,0.0,1,0,53.0,2.0,2.0,0.0,0.0,0.0,0.1,1.0,0.0,43.0,46.0,93.5,1.0,22.0,0.0,0.0,0.0,Nicolás Domínguez,"MF,FW",0–3
+2024-12-04,Wed,Matchweek 14,Away,L,Nott'ham Forest,Manchester City,Y,"LM,LB",90,0,0,0,0.0,1.0,0.0,0,0,44.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,26.0,33.0,78.8,1.0,19.0,3.0,5.0,2.0,Álex Moreno,DF,0–3
+2024-11-30,Sat,Matchweek 13,Home,W,Nott'ham Forest,Ipswich Town,N,"LM,LB",13,0,0,0,0.0,0.0,0.0,0,0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,10.0,50.0,0.0,3.0,0.0,0.0,0.0,Álex Moreno,DF,1–0
+2024-11-23,Sat,Matchweek 12,Away,L,Nott'ham Forest,Arsenal,Y,LB,72,0,0,0,0.0,0.0,0.0,0,0,25.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,13.0,18.0,72.2,1.0,7.0,1.0,1.0,0.0,Álex Moreno,DF,0–3
+2024-11-10,Sun,Matchweek 11,Home,L,Nott'ham Forest,Newcastle Utd,Y,LB,87,0,0,0,0.0,0.0,0.0,0,0,50.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,22.0,33.0,66.7,1.0,18.0,2.0,2.0,1.0,Álex Moreno,DF,1–3
+2024-11-02,Sat,Matchweek 10,Home,W,Nott'ham Forest,West Ham,Y,LB,90,0,1,0,0.0,1.0,0.0,0,0,77.0,0.0,1.0,0.0,0.0,0.0,0.8,3.0,1.0,53.0,65.0,81.5,4.0,42.0,5.0,2.0,2.0,Álex Moreno,DF,3–0
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,LB,81,0,0,0,0.0,1.0,1.0,0,0,58.0,2.0,2.0,0.0,0.2,0.2,0.0,1.0,0.0,21.0,41.0,51.2,1.0,18.0,1.0,1.0,1.0,Neco Williams,DF,2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,Y,"LB,LM",90,0,0,0,0.0,1.0,0.0,0,0,42.0,4.0,4.0,3.0,0.0,0.0,0.0,1.0,0.0,19.0,24.0,79.2,1.0,22.0,1.0,1.0,0.0,Neco Williams,DF,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,WB,89,0,1,0,0.0,1.0,0.0,0,0,50.0,1.0,0.0,0.0,0.0,0.0,0.2,3.0,1.0,27.0,37.0,73.0,5.0,26.0,6.0,2.0,0.0,Neco Williams,DF,2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,Y,LB,90,0,0,0,0.0,3.0,1.0,0,0,61.0,2.0,0.0,1.0,0.1,0.1,0.0,2.0,1.0,45.0,49.0,91.8,9.0,37.0,2.0,1.0,1.0,Neco Williams,DF,2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,LB,90,0,0,0,0.0,1.0,0.0,1,0,31.0,4.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,14.0,18.0,77.8,0.0,10.0,0.0,3.0,2.0,Neco Williams,DF,3–2
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,N,CM,9,0,0,0,0.0,0.0,0.0,0,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,100.0,0.0,1.0,0.0,0.0,0.0,James Ward-Prowse,MF,2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,N,CM,9,0,0,0,0.0,0.0,0.0,0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,James Ward-Prowse,MF,1–0
+2024-11-23,Sat,Matchweek 12,Away,L,Nott'ham Forest,Arsenal,Y,DM,90,0,0,0,0.0,0.0,0.0,0,0,38.0,1.0,0.0,0.0,0.0,0.0,0.1,3.0,0.0,28.0,33.0,84.8,4.0,13.0,0.0,0.0,0.0,James Ward-Prowse,MF,0–3
+2024-11-10,Sun,Matchweek 11,Home,L,Nott'ham Forest,Newcastle Utd,N,"LM,LB",3,0,0,0,0.0,0.0,0.0,0,0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,8.0,75.0,1.0,6.0,0.0,0.0,0.0,James Ward-Prowse,MF,1–3
+2024-10-06,Sun,Matchweek 7,Away,D,Nott'ham Forest,Chelsea,Y,DM,77,0,0,0,0.0,1.0,1.0,2,1,45.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,35.0,42.0,83.3,4.0,22.0,1.0,0.0,0.0,James Ward-Prowse,MF,1–1
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,N,RM,15,0,0,0,0.0,0.0,0.0,0,0,9.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,3.0,5.0,60.0,0.0,3.0,0.0,0.0,0.0,Jota Silva,"FW,MF",2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,N,RW,9,0,0,0,0.0,0.0,0.0,0,0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,33.3,0.0,4.0,0.0,1.0,0.0,Jota Silva,"FW,MF",1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,N,"CM,AM",16,0,0,0,0.0,0.0,0.0,1,0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,75.0,0.0,4.0,0.0,1.0,0.0,Jota Silva,"FW,MF",2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,N,"DM,LM",23,0,0,0,0.0,0.0,0.0,0,0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,6.0,8.0,75.0,0.0,8.0,1.0,0.0,0.0,Jota Silva,"FW,MF",2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,Y,RW,67,0,0,0,0.0,2.0,0.0,1,0,25.0,2.0,1.0,1.0,0.1,0.1,0.1,4.0,1.0,11.0,15.0,73.3,0.0,9.0,0.0,1.0,0.0,Jota Silva,"FW,MF",3–2
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,CB,90,0,0,0,0.0,0.0,0.0,0,0,52.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,17.0,29.0,58.6,0.0,11.0,0.0,0.0,0.0,Morato,DF,2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,N,CB,17,0,0,0,0.0,0.0,0.0,0,0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Morato,DF,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,Y,CB,90,0,0,0,0.0,0.0,0.0,0,0,38.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,20.0,25.0,80.0,1.0,12.0,0.0,0.0,0.0,Morato,DF,2–0
+2024-12-14,Sat,Matchweek 16,Home,W,Nott'ham Forest,Aston Villa,N,CB,23,0,0,0,0.0,0.0,0.0,0,0,14.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,9.0,77.8,0.0,7.0,0.0,0.0,0.0,Morato,DF,2–1
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,N,CB,23,0,0,0,0.0,0.0,0.0,0,0,8.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,80.0,1.0,2.0,0.0,0.0,0.0,Morato,DF,3–2
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,N,FW,15,0,0,0,0.0,1.0,1.0,0,0,10.0,0.0,0.0,0.0,0.1,0.1,0.0,0.0,0.0,4.0,5.0,80.0,1.0,7.0,0.0,0.0,0.0,Taiwo Awoniyi,FW,2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,N,FW,4,0,0,0,0.0,1.0,0.0,0,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,50.0,0.0,2.0,1.0,0.0,0.0,Taiwo Awoniyi,FW,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Nott'ham Forest,Brentford,N,FW,1,0,0,0,0.0,0.0,0.0,0,0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Taiwo Awoniyi,FW,2–0
+2024-12-07,Sat,Matchweek 15,Away,W,Nott'ham Forest,Manchester Utd,N,FW,1,0,0,0,0.0,0.0,0.0,0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,Taiwo Awoniyi,FW,3–2
+2024-12-04,Wed,Matchweek 14,Away,L,Nott'ham Forest,Manchester City,N,FW,29,0,0,0,0.0,0.0,0.0,0,0,5.0,0.0,0.0,0.0,0.0,0.0,0.1,1.0,0.0,2.0,4.0,50.0,2.0,5.0,0.0,0.0,0.0,Taiwo Awoniyi,FW,0–3
+2024-12-29,Sun,Matchweek 19,Away,W,Nott'ham Forest,Everton,Y,LW,68,0,0,0,0.0,3.0,2.0,0,0,23.0,1.0,1.0,3.0,0.2,0.2,0.0,1.0,0.0,8.0,11.0,72.7,0.0,8.0,2.0,1.0,1.0,Ramón Sosa,"FW,MF",2–0
+2024-12-26,Thu,Matchweek 18,Home,W,Nott'ham Forest,Tottenham,N,LW,4,0,0,0,0.0,0.0,0.0,0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,100.0,0.0,1.0,0.0,1.0,1.0,Ramón Sosa,"FW,MF",1–0
+2024-12-04,Wed,Matchweek 14,Away,L,Nott'ham Forest,Manchester City,N,RW,19,0,0,0,0.0,0.0,0.0,0,0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,0.0,Ramón Sosa,"FW,MF",0–3
+2024-11-30,Sat,Matchweek 13,Home,W,Nott'ham Forest,Ipswich Town,N,LW,3,0,0,0,0.0,0.0,0.0,0,0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0,100.0,0.0,1.0,1.0,0.0,0.0,Ramón Sosa,"FW,MF",1–0
+2024-11-23,Sat,Matchweek 12,Away,L,Nott'ham Forest,Arsenal,N,RW,28,0,0,0,0.0,0.0,0.0,0,0,6.0,0.0,0.0,0.0,0.0,0.0,0.1,2.0,0.0,4.0,6.0,66.7,0.0,7.0,0.0,1.0,1.0,Ramón Sosa,"FW,MF",0–3
+2024-12-16,Mon,Regular season,Home,L,Nottingham Forest,Manchester City,Y,CB,90,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Zach Abbott,DF,2–3
+2024-11-29,Fri,Regular season,Away,W,Nottingham Forest,Everton,Y,CB,90,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Zach Abbott,DF,4–2
+2024-11-02,Sat,Regular season,Away,W,Nottingham Forest,Middlesbrough,Y,CB,90,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Zach Abbott,DF,4–1
+2024-10-28,Mon,Regular season,Home,L,Nottingham Forest,Leeds United,Y,CB,90,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Zach Abbott,DF,0–1
+2024-10-04,Fri,Regular season,Home,L,Nottingham Forest,Southampton,Y,CB,90,0,0,0,0.0,,,0,0,,,,,,,,,,,,,,,,,,Zach Abbott,DF,0–2

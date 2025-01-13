@@ -1,0 +1,58 @@
+Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches,Player,Position
+2021-2022,22,Galatasaray,tr TUR,1. Süper Lig,13th,6,6,540,6.0,9,1.50,22,15,68.2,3,2,1,0,0.0,2,2,0,0,0.0,Matches,Iñaki Peña,GK
+2022-2023,23,Barcelona,es ESP,1. La Liga,1st,2,0,73,0.8,2,2.47,4,2,50.0,0,0,0,0,,0,0,0,0,,Matches,Iñaki Peña,GK
+2023-2024,24,Barcelona,es ESP,1. La Liga,2nd,10,10,900,10.0,17,1.70,39,22,56.4,6,2,2,2,20.0,0,0,0,0,,Matches,Iñaki Peña,GK
+2024-2025,25,Barcelona,es ESP,1. La Liga,3rd,14,13,1216,13.5,17,1.26,48,31,68.8,6,2,5,3,23.1,2,2,0,0,0.0,Matches,Iñaki Peña,GK
+7 Seasons,7 Seasons,2 Clubs,,2 Leagues,,32,29,2729,30.3,45,1.48,113,70,63.7,15,6,8,5,17.2,4,4,0,0,0.0,,Iñaki Peña,GK
+,,,Country,Comp,LgRank,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches,Iñaki Peña,GK
+Barcelona (7 Seasons),Barcelona (7 Seasons),Barcelona (7 Seasons),,1 League,,26,23,2189,24.3,36,1.48,91,55,62.6,12,4,7,5,21.7,2,2,0,0,0.0,,Iñaki Peña,GK
+Galatasaray (1 Season),Galatasaray (1 Season),Galatasaray (1 Season),,1 League,,6,6,540,6.0,9,1.50,22,15,68.2,3,2,1,0,0.0,2,2,0,0,0.0,,Iñaki Peña,GK
+,,,,,,,,,,,,,,,,,,,,,,,,,,Iñaki Peña,GK
+La Liga (7 Seasons),La Liga (7 Seasons),La Liga (7 Seasons),,,,26,23,2189,24.3,36,1.48,91,55,62.6,12,4,7,5,21.7,2,2,0,0,0.0,,Iñaki Peña,GK
+Süper Lig (1 Season),Süper Lig (1 Season),Süper Lig (1 Season),,,,6,6,540,6.0,9,1.50,22,15,68.2,3,2,1,0,0.0,2,2,0,0,0.0,,Iñaki Peña,GK
+2010-2011,18,Gladbach,de GER,1. Bundesliga,16th,6,6,540,6.0,3,0.50,22,19,86.4,4,1,1,3,50.0,,,,,,Matches,Marc-André ter Stegen,GK
+2011-2012,19,Gladbach,de GER,1. Bundesliga,4th,34,34,3060,34.0,24,0.71,127,103,81.1,17,9,8,15,44.1,,,,,,Matches,Marc-André ter Stegen,GK
+2012-2013,20,Gladbach,de GER,1. Bundesliga,8th,34,34,3046,33.8,47,1.39,169,122,72.2,12,11,11,9,26.5,,,,,,Matches,Marc-André ter Stegen,GK
+2013-2014,21,Gladbach,de GER,1. Bundesliga,6th,34,34,3060,34.0,43,1.26,185,142,76.8,16,7,11,9,26.5,,,,,,Matches,Marc-André ter Stegen,GK
+2015-2016,23,Barcelona,es ESP,1. La Liga,1st,7,6,542,6.0,7,1.16,21,14,66.7,5,0,1,3,50.0,0,0,0,0,,Matches,Marc-André ter Stegen,GK
+2016-2017,24,Barcelona,es ESP,1. La Liga,2nd,36,36,3240,36.0,33,0.92,154,121,78.6,27,6,3,13,36.1,0,0,0,0,,Matches,Marc-André ter Stegen,GK
+2017-2018,25,Barcelona,es ESP,1. La Liga,1st,37,37,3330,37.0,28,0.76,126,98,79.4,27,9,1,19,51.4,2,2,0,0,0.0,Matches,Marc-André ter Stegen,GK
+2018-2019,26,Barcelona,es ESP,1. La Liga,1st,35,35,3150,35.0,32,0.91,116,85,73.3,25,8,2,16,45.7,1,1,0,0,0.0,Matches,Marc-André ter Stegen,GK
+2019-2020,27,Barcelona,es ESP,1. La Liga,2nd,36,36,3240,36.0,36,1.00,116,79,74.1,24,6,6,14,38.9,7,6,1,0,14.3,Matches,Marc-André ter Stegen,GK
+2020-2021,28,Barcelona,es ESP,1. La Liga,3rd,31,31,2790,31.0,32,1.03,106,76,72.6,21,5,5,11,35.5,3,3,0,0,0.0,Matches,Marc-André ter Stegen,GK
+2021-2022,29,Barcelona,es ESP,1. La Liga,2nd,35,35,3150,35.0,34,0.97,109,74,70.6,19,9,7,11,31.4,3,2,1,0,33.3,Matches,Marc-André ter Stegen,GK
+2022-2023,30,Barcelona,es ESP,1. La Liga,1st,38,38,3347,37.2,18,0.48,98,83,84.7,28,4,6,26,68.4,3,3,0,0,0.0,Matches,Marc-André ter Stegen,GK
+2023-2024,31,Barcelona,es ESP,1. La Liga,2nd,28,28,2520,28.0,27,0.96,102,75,75.5,20,5,3,15,53.6,2,2,0,0,0.0,Matches,Marc-André ter Stegen,GK
+2024-2025,32,Barcelona,es ESP,1. La Liga,3rd,6,6,494,5.5,5,0.91,15,10,73.3,6,0,0,1,16.7,1,1,0,0,0.0,Matches,Marc-André ter Stegen,GK
+15 Seasons,15 Seasons,2 Clubs,,2 Leagues,,397,396,35509,394.6,369,0.94,1466,1101,76.2,251,80,65,165,41.7,22,20,2,0,9.1,,Marc-André ter Stegen,GK
+,,,Country,Comp,LgRank,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches,Marc-André ter Stegen,GK
+Barcelona (11 Seasons),Barcelona (11 Seasons),Barcelona (11 Seasons),,1 League,,289,288,25803,286.7,252,0.88,963,715,75.9,202,52,34,129,44.8,22,20,2,0,9.1,,Marc-André ter Stegen,GK
+Gladbach (4 Seasons),Gladbach (4 Seasons),Gladbach (4 Seasons),,1 League,,108,108,9706,107.8,117,1.08,503,386,76.7,49,28,31,36,33.3,,,,,,,Marc-André ter Stegen,GK
+,,,,,,,,,,,,,,,,,,,,,,,,,,Marc-André ter Stegen,GK
+La Liga (11 Seasons),La Liga (11 Seasons),La Liga (11 Seasons),,,,289,288,25803,286.7,252,0.88,963,715,75.9,202,52,34,129,44.8,22,20,2,0,9.1,,Marc-André ter Stegen,GK
+Bundesliga (4 Seasons),Bundesliga (4 Seasons),Bundesliga (4 Seasons),,,,108,108,9706,107.8,117,1.08,503,386,76.7,49,28,31,36,33.3,,,,,,,Marc-André ter Stegen,GK
+2009-2010,19,Brentford,eng ENG,3. League One,9th,28,28,2495,27.7,30,1.08,169,139,82.2,9,12,6,10,35.7,,,,,,Matches,Wojciech Szczęsny,GK
+2010-2011,20,Arsenal,eng ENG,1. Premier League,4th,15,15,1350,15.0,19,1.27,65,46,70.8,6,5,4,6,40.0,,,,,,Matches,Wojciech Szczęsny,GK
+2011-2012,21,Arsenal,eng ENG,1. Premier League,3rd,38,38,3420,38.0,49,1.29,135,86,63.7,21,7,10,13,34.2,,,,,,Matches,Wojciech Szczęsny,GK
+2012-2013,22,Arsenal,eng ENG,1. Premier League,4th,25,25,2250,25.0,24,0.96,99,75,75.8,14,7,4,10,40.0,,,,,,Matches,Wojciech Szczęsny,GK
+2013-2014,23,Arsenal,eng ENG,1. Premier League,4th,37,37,3330,37.0,41,1.11,147,106,72.1,23,7,7,16,43.2,,,,,,Matches,Wojciech Szczęsny,GK
+2014-2015,24,Arsenal,eng ENG,1. Premier League,3rd,17,17,1498,16.6,21,1.26,63,42,66.7,7,6,4,3,17.6,,,,,,Matches,Wojciech Szczęsny,GK
+2015-2016,25,Roma,it ITA,1. Serie A,3rd,34,34,3060,34.0,34,1.00,130,96,73.8,22,10,2,8,23.5,,,,,,Matches,Wojciech Szczęsny,GK
+2016-2017,26,Roma,it ITA,1. Serie A,2nd,38,38,3420,38.0,38,1.00,154,116,76.6,28,3,7,14,36.8,4,2,2,0,50.0,Matches,Wojciech Szczęsny,GK
+2017-2018,27,Juventus,it ITA,1. Serie A,1st,17,17,1530,17.0,9,0.53,33,24,72.7,13,3,1,11,64.7,0,0,0,0,,Matches,Wojciech Szczęsny,GK
+2018-2019,28,Juventus,it ITA,1. Serie A,1st,28,28,2520,28.0,20,0.71,81,61,76.5,22,5,1,11,39.3,3,1,1,1,50.0,Matches,Wojciech Szczęsny,GK
+2019-2020,29,Juventus,it ITA,1. Serie A,1st,29,29,2591,28.8,33,1.15,129,95,80.6,19,4,6,11,37.9,10,8,1,1,11.1,Matches,Wojciech Szczęsny,GK
+2020-2021,30,Juventus,it ITA,1. Serie A,4th,30,30,2677,29.7,32,1.08,98,66,71.4,16,8,6,5,16.7,6,4,2,0,33.3,Matches,Wojciech Szczęsny,GK
+2021-2022,31,Juventus,it ITA,1. Serie A,4th,33,33,2970,33.0,29,0.88,105,73,75.2,18,9,6,12,36.4,6,3,3,0,50.0,Matches,Wojciech Szczęsny,GK
+2022-2023,32,Juventus,it ITA,1. Serie A,7th,28,28,2472,27.5,26,0.95,93,67,75.3,17,3,8,14,50.0,3,3,0,0,0.0,Matches,Wojciech Szczęsny,GK
+2023-2024,33,Juventus,it ITA,1. Serie A,3rd,35,35,3150,35.0,30,0.86,108,79,74.1,17,13,5,15,42.9,3,2,1,0,33.3,Matches,Wojciech Szczęsny,GK
+16 Seasons,16 Seasons,5 Clubs,,4 Leagues,,432,432,38733,430.4,435,1.01,1609,1171,74.4,252,102,77,159,36.8,35,23,10,2,30.3,,Wojciech Szczęsny,GK
+,,,Country,Comp,LgRank,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches,Wojciech Szczęsny,GK
+Juventus (7 Seasons),Juventus (7 Seasons),Juventus (7 Seasons),,1 League,,200,200,17910,199.0,179,0.90,647,465,75.6,122,45,33,79,39.5,31,21,8,2,27.6,,Wojciech Szczęsny,GK
+Arsenal (5 Seasons),Arsenal (5 Seasons),Arsenal (5 Seasons),,1 League,,132,132,11848,131.6,154,1.17,509,355,69.7,71,32,29,48,36.4,,,,,,,Wojciech Szczęsny,GK
+Roma (2 Seasons),Roma (2 Seasons),Roma (2 Seasons),,1 League,,72,72,6480,72.0,72,1.00,284,212,75.4,50,13,9,22,30.6,4,2,2,0,50.0,,Wojciech Szczęsny,GK
+Brentford (1 Season),Brentford (1 Season),Brentford (1 Season),,1 League,,28,28,2495,27.7,30,1.08,169,139,82.2,9,12,6,10,35.7,,,,,,,Wojciech Szczęsny,GK
+,,,,,,,,,,,,,,,,,,,,,,,,,,Wojciech Szczęsny,GK
+Serie A (9 Seasons),Serie A (9 Seasons),Serie A (9 Seasons),,,,272,272,24390,271.0,251,0.93,931,677,75.5,172,58,42,101,37.1,35,23,10,2,30.3,,Wojciech Szczęsny,GK
+Premier League (5 Seasons),Premier League (5 Seasons),Premier League (5 Seasons),,,,132,132,11848,131.6,154,1.17,509,355,69.7,71,32,29,48,36.4,,,,,,,Wojciech Szczęsny,GK
+League One (1 Season),League One (1 Season),League One (1 Season),,,,28,28,2495,27.7,30,1.08,169,139,82.2,9,12,6,10,35.7,,,,,,,Wojciech Szczęsny,GK

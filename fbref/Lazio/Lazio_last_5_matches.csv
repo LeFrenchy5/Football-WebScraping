@@ -1,0 +1,116 @@
+Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PSxG,PKatt,PKA,PKsv,PKm,Cmp,Att,Cmp%,Att (GK),Thr,Launch%,AvgLen,Att.1,Launch%.1,AvgLen.1,Opp,Stp,Stp%,#OPA,AvgDist,Player,Position,Score
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,GK,90,5,2,3,60.0,0,1.6,0,0,0,0,2,3,66.7,22.0,4.0,13.6,28.5,2,0.0,25.0,7,2,28.6,2,19.0,Ivan Provedel,GK,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,GK,90,2,1,1,50.0,0,0.1,0,0,0,0,3,5,60.0,24.0,5.0,16.7,28.6,2,50.0,50.5,13,0,0.0,3,19.8,Ivan Provedel,GK,2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,GK,90,7,6,1,28.6,0,2.7,1,1,0,0,3,13,23.1,27.0,2.0,44.4,38.9,1,100.0,70.0,4,0,0.0,0,,Ivan Provedel,GK,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,GK,90,1,0,1,100.0,1,0.1,0,0,0,0,12,27,44.4,46.0,4.0,50.0,39.6,5,80.0,51.0,19,3,15.8,2,13.6,Ivan Provedel,GK,1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,GK,90,4,3,1,25.0,0,1.4,0,0,0,0,3,8,37.5,31.0,2.0,25.8,29.8,5,0.0,14.4,2,0,0.0,2,19.0,Ivan Provedel,GK,1–3
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,DM,90,0,0,0,0.0,1,1.0,0,0,73,0,0,0,0.1,0.1,0.1,2.0,0.0,66,69.0,95.7,7,45,7.0,0,0.0,Mattéo Guendouzi,MF,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,DM,90,0,0,0,0.0,1,0.0,0,0,93,0,1,4,0.1,0.1,0.0,5.0,1.0,72,84.0,85.7,16,62,5.0,1,1.0,Mattéo Guendouzi,MF,2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,"DM,AM",90,0,0,0,0.0,0,0.0,0,0,55,1,0,1,0.0,0.0,0.0,2.0,0.0,47,50.0,94.0,10,35,2.0,1,1.0,Mattéo Guendouzi,MF,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,"DM,CM",90,0,0,0,0.0,0,0.0,1,0,66,1,0,0,0.0,0.0,0.0,2.0,0.0,57,62.0,91.9,5,34,1.0,1,1.0,Mattéo Guendouzi,MF,1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,"DM,RM",90,0,0,0,0.0,1,0.0,0,0,77,1,1,1,0.0,0.0,0.0,5.0,0.0,66,73.0,90.4,14,59,5.0,0,0.0,Mattéo Guendouzi,MF,1–3
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,FW,89,0,0,0,0.0,3,2.0,1,1,26,1,0,0,0.1,0.1,0.0,3.0,0.0,14,19.0,73.7,1,14,2.0,1,1.0,Valentín Castellanos,FW,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,FW,90,1,0,1,1.0,4,2.0,0,0,30,0,0,0,1.0,0.5,0.1,6.0,1.0,13,20.0,65.0,4,13,1.0,0,0.0,Valentín Castellanos,FW,2–1
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,FW,71,0,0,0,0.0,1,0.0,1,0,24,0,1,0,0.0,0.0,0.0,1.0,0.0,11,17.0,64.7,2,8,0.0,1,0.0,Valentín Castellanos,FW,1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,FW,90,1,0,0,0.0,4,1.0,1,0,29,0,0,1,1.2,1.2,0.3,5.0,0.0,13,19.0,68.4,1,18,0.0,1,0.0,Valentín Castellanos,FW,1–3
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,Y,FW,84,0,0,0,0.0,4,1.0,0,0,30,0,0,1,0.4,0.4,0.0,1.0,0.0,8,21.0,38.1,2,15,1.0,0,0.0,Valentín Castellanos,FW,3–0
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,CB,90,0,0,0,0.0,0,0.0,1,0,91,1,2,0,0.0,0.0,0.0,2.0,0.0,82,88.0,93.2,8,67,3.0,0,0.0,Mario Gila,DF,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,CB,90,0,0,0,0.0,0,0.0,0,0,97,3,3,0,0.0,0.0,0.0,1.0,0.0,82,88.0,93.2,14,62,2.0,0,0.0,Mario Gila,DF,2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,CB,27,0,0,0,0.0,0,0.0,0,0,20,1,0,0,0.0,0.0,0.0,0.0,0.0,15,18.0,83.3,1,10,0.0,0,0.0,Mario Gila,DF,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,CB,90,0,0,0,0.0,0,0.0,0,0,71,1,2,4,0.0,0.0,0.0,0.0,0.0,53,60.0,88.3,4,39,1.0,0,0.0,Mario Gila,DF,1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,CB,90,0,0,0,0.0,1,0.0,1,0,92,5,0,0,0.1,0.1,0.1,1.0,0.0,74,79.0,93.7,8,62,1.0,2,0.0,Mario Gila,DF,1–3
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y*,LW,88,0,0,0,0.0,0,0.0,1,0,49,1,0,0,0.0,0.0,0.0,2.0,0.0,38,45.0,84.4,4,33,3.0,1,1.0,Mattia Zaccagni,"FW,MF",0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y*,LW,82,0,0,0,0.0,0,0.0,0,0,50,0,1,0,0.0,0.0,0.0,1.0,0.0,31,41.0,75.6,4,26,2.0,7,2.0,Mattia Zaccagni,"FW,MF",2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y*,LW,80,0,0,0,0.0,0,0.0,1,0,35,1,2,0,0.0,0.0,0.0,0.0,0.0,26,31.0,83.9,2,22,3.0,5,4.0,Mattia Zaccagni,"FW,MF",0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y*,"LW,LM",90,0,0,0,0.0,0,0.0,0,0,37,1,1,1,0.0,0.0,0.0,1.0,0.0,25,31.0,80.6,2,20,1.0,2,1.0,Mattia Zaccagni,"FW,MF",1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y*,"LW,LM",90,0,0,0,0.0,2,0.0,0,0,54,1,1,0,0.2,0.2,0.1,5.0,0.0,34,44.0,77.3,2,42,7.0,5,2.0,Mattia Zaccagni,"FW,MF",1–3
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,DM,90,0,0,0,0.0,3,2.0,1,0,95,2,2,0,0.1,0.1,0.1,2.0,0.0,77,84.0,91.7,9,57,3.0,0,0.0,Nicolò Rovella,MF,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,DM,90,0,0,0,0.0,1,0.0,0,0,88,3,2,1,0.1,0.1,0.0,2.0,0.0,63,74.0,85.1,10,51,1.0,1,1.0,Nicolò Rovella,MF,2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,DM,90,0,0,0,0.0,1,0.0,1,0,86,1,2,0,0.1,0.1,0.2,4.0,0.0,72,77.0,93.5,5,49,1.0,1,1.0,Nicolò Rovella,MF,0–6
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,"CM,DM",88,0,0,0,0.0,3,1.0,1,0,100,3,2,2,0.1,0.1,0.1,6.0,0.0,80,90.0,88.9,10,60,0.0,0,0.0,Nicolò Rovella,MF,1–3
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,Y,CM,90,0,0,0,0.0,0,0.0,0,0,98,1,2,0,0.0,0.0,0.0,1.0,0.0,79,94.0,84.0,5,65,1.0,0,0.0,Nicolò Rovella,MF,3–0
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,CB,90,0,0,0,0.0,1,0.0,0,0,73,1,0,2,0.1,0.1,0.0,0.0,0.0,64,67.0,95.5,3,40,0.0,0,0.0,Alessio Romagnoli,DF,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,CB,90,0,0,0,0.0,0,0.0,0,0,71,3,1,1,0.0,0.0,0.0,1.0,0.0,51,55.0,92.7,6,27,0.0,0,0.0,Alessio Romagnoli,DF,2–1
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,CB,60,0,0,0,0.0,0,0.0,0,0,38,1,0,1,0.0,0.0,0.0,0.0,0.0,32,35.0,91.4,3,22,0.0,0,0.0,Alessio Romagnoli,DF,1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,CB,90,0,0,0,0.0,2,1.0,0,0,95,3,1,2,0.2,0.2,0.1,1.0,0.0,77,81.0,95.1,2,57,1.0,0,0.0,Alessio Romagnoli,DF,1–3
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,Y,CB,45,0,0,0,0.0,0,0.0,0,0,39,0,2,0,0.0,0.0,0.0,0.0,0.0,34,35.0,97.1,1,26,0.0,0,0.0,Alessio Romagnoli,DF,3–0
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,LB,88,0,0,0,0.0,1,0.0,0,0,65,1,0,0,0.1,0.1,0.1,4.0,0.0,50,61.0,82.0,10,44,8.0,5,3.0,Nuno Tavares,DF,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,LB,69,0,0,0,0.0,0,0.0,0,0,60,1,1,1,0.0,0.0,0.1,2.0,0.0,44,51.0,86.3,6,29,2.0,6,3.0,Nuno Tavares,DF,2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,LB,90,0,0,0,0.0,1,1.0,0,0,72,2,1,1,0.0,0.0,0.0,2.0,0.0,45,60.0,75.0,6,41,6.0,5,4.0,Nuno Tavares,DF,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,LB,89,0,0,0,0.0,1,0.0,0,0,59,3,2,1,0.0,0.0,0.0,1.0,0.0,32,42.0,76.2,1,27,5.0,4,1.0,Nuno Tavares,DF,1–0
+2024-11-10,Sun,Matchweek 12,Away,W,Lazio,Monza,Y,LB,74,0,0,0,0.0,2,0.0,0,0,49,2,1,0,0.0,0.0,0.1,2.0,0.0,31,42.0,73.8,4,22,6.0,3,1.0,Nuno Tavares,DF,1–0
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,RW,45,0,0,0,0.0,3,1.0,0,0,19,0,0,0,0.2,0.2,0.0,3.0,0.0,11,12.0,91.7,0,12,1.0,1,1.0,Gustav Isaksen,FW,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,RW,69,0,0,0,0.0,2,1.0,0,0,40,0,1,1,0.3,0.3,0.0,0.0,0.0,28,33.0,84.8,2,22,1.0,1,1.0,Gustav Isaksen,FW,2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,RW,56,0,0,0,0.0,2,1.0,0,0,34,0,1,0,0.0,0.0,0.1,1.0,0.0,22,27.0,81.5,0,27,3.0,3,1.0,Gustav Isaksen,FW,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,RW,89,1,0,0,0.0,3,3.0,0,0,34,2,0,1,0.2,0.2,0.0,2.0,1.0,16,21.0,76.2,0,22,1.0,7,5.0,Gustav Isaksen,FW,1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,RW,64,0,0,0,0.0,3,1.0,0,0,33,0,0,0,0.2,0.2,0.1,5.0,0.0,18,23.0,78.3,3,24,4.0,4,0.0,Gustav Isaksen,FW,1–3
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,N,AM,45,0,0,0,0.0,0,0.0,1,0,18,0,0,0,0.0,0.0,0.1,2.0,0.0,16,17.0,94.1,2,7,0.0,2,1.0,Boulaye Dia,"MF,FW",0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,AM,63,0,0,0,0.0,1,0.0,0,0,20,0,0,0,0.1,0.1,0.0,0.0,0.0,13,15.0,86.7,1,9,1.0,1,0.0,Boulaye Dia,"MF,FW",2–1
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,AM,71,0,0,0,0.0,0,0.0,1,0,18,2,0,0,0.0,0.0,0.0,1.0,0.0,9,12.0,75.0,1,8,0.0,1,0.0,Boulaye Dia,"MF,FW",1–0
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,N,FW,31,0,0,0,0.0,0,0.0,0,0,16,0,0,0,0.0,0.0,0.0,0.0,0.0,14,16.0,87.5,0,10,0.0,0,0.0,Boulaye Dia,"MF,FW",3–0
+2024-11-10,Sun,Matchweek 12,Away,W,Lazio,Monza,Y,FW,59,0,0,0,0.0,1,1.0,0,0,22,0,0,0,0.3,0.3,0.0,2.0,0.0,15,20.0,75.0,1,8,0.0,1,1.0,Boulaye Dia,"MF,FW",1–0
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,N,RB,12,0,0,0,0.0,0,0.0,0,0,12,0,0,1,0.0,0.0,0.0,0.0,0.0,6,11.0,54.5,2,6,1.0,0,0.0,Manuel Lazzari,DF,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,Y,RB,82,0,0,0,0.0,2,1.0,0,0,63,5,2,2,0.1,0.1,0.0,3.0,0.0,35,46.0,76.1,3,27,4.0,1,1.0,Manuel Lazzari,DF,2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,N,RB,45,0,0,0,0.0,0,0.0,0,0,32,0,0,1,0.0,0.0,0.0,0.0,0.0,20,30.0,66.7,3,23,2.0,0,0.0,Manuel Lazzari,DF,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,N,"RB,RW",1,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1.0,0.0,0,0,0.0,0,0.0,Manuel Lazzari,DF,1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,RB,81,0,0,0,0.0,0,0.0,0,0,53,1,0,1,0.0,0.0,0.0,1.0,0.0,34,46.0,73.9,6,30,5.0,2,1.0,Manuel Lazzari,DF,1–3
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,RB,78,0,0,0,0.0,1,0.0,0,0,55,0,1,0,0.0,0.0,0.1,1.0,0.0,43,52.0,82.7,4,20,0.0,0,0.0,Adam Marušić,DF,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,N,RB,8,1,0,0,0.0,1,1.0,0,0,4,0,0,0,0.0,0.0,0.0,0.0,0.0,3,3.0,100.0,0,1,0.0,0,0.0,Adam Marušić,DF,2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,"CB,RB",90,0,0,0,0.0,0,0.0,0,0,58,1,0,0,0.0,0.0,0.0,2.0,0.0,53,58.0,91.4,4,35,0.0,0,0.0,Adam Marušić,DF,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,"RB,LB",90,0,0,0,0.0,0,0.0,0,0,36,1,0,0,0.0,0.0,0.0,0.0,0.0,28,34.0,82.4,3,11,0.0,1,1.0,Adam Marušić,DF,1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,N,RB,9,0,0,0,0.0,0,0.0,0,0,11,0,0,0,0.0,0.0,0.0,0.0,0.0,8,11.0,72.7,0,5,0.0,0,0.0,Adam Marušić,DF,1–3
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,N,LB,2,0,0,0,0.0,0,0.0,0,0,2,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2.0,0.0,0,1,0.0,0,0.0,Tijjani Noslin,"FW,MF",0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,N,AM,8,0,0,0,0.0,0,0.0,0,0,2,1,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,,0,2,0.0,1,0.0,Tijjani Noslin,"FW,MF",2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,FW,90,0,0,0,0.0,3,0.0,0,0,31,1,0,2,0.2,0.2,0.0,1.0,0.0,14,20.0,70.0,1,13,1.0,1,1.0,Tijjani Noslin,"FW,MF",0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,N,FW,19,0,1,0,0.0,1,0.0,0,0,9,0,0,2,0.0,0.0,0.1,1.0,1.0,3,5.0,60.0,1,4,0.0,1,1.0,Tijjani Noslin,"FW,MF",1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,N,CM,2,0,0,0,0.0,0,0.0,0,0,4,1,0,0,0.0,0.0,0.0,1.0,0.0,4,4.0,100.0,0,3,0.0,0,0.0,Tijjani Noslin,"FW,MF",1–3
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,CB,90,0,0,0,0.0,0,0.0,0,0,57,1,1,0,0.0,0.0,0.0,0.0,0.0,50,54.0,92.6,2,35,0.0,0,0.0,Patric,DF,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,N,CB,30,0,0,0,0.0,0,0.0,0,0,24,0,0,0,0.0,0.0,0.0,1.0,0.0,22,22.0,100.0,1,13,0.0,0,0.0,Patric,DF,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Lazio,Como,Y*,"CB,RB",86,1,0,0,0.0,1,1.0,0,0,58,1,0,0,0.9,0.9,0.0,1.0,0.0,45,53.0,84.9,3,41,1.0,0,0.0,Patric,DF,5–1
+2024-10-27,Sun,Matchweek 9,Home,W,Lazio,Genoa,Y*,CB,90,0,0,0,0.0,1,0.0,0,0,87,1,0,0,0.1,0.1,0.0,1.0,0.0,74,79.0,93.7,10,46,2.0,0,0.0,Patric,DF,3–0
+2024-10-19,Sat,Matchweek 8,Away,L,Lazio,Juventus,N,CB,64,0,0,0,0.0,0,0.0,0,0,32,0,0,1,0.0,0.0,0.0,0.0,0.0,23,29.0,79.3,2,20,0.0,0,0.0,Patric,DF,0–1
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,Y,AM,45,0,0,0,0.0,1,0.0,0,0,20,0,0,1,0.1,0.1,0.0,3.0,0.0,17,18.0,94.4,1,11,2.0,3,3.0,Fisayo Dele-Bashiru,MF,0–2
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,N,DM,34,0,0,0,0.0,0,0.0,0,0,15,0,0,0,0.0,0.0,0.0,0.0,0.0,13,15.0,86.7,1,11,1.0,0,0.0,Fisayo Dele-Bashiru,MF,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,Y,"DM,CM",90,0,0,0,0.0,1,0.0,0,0,39,0,2,1,0.0,0.0,0.0,1.0,0.0,32,33.0,97.0,1,21,0.0,1,1.0,Fisayo Dele-Bashiru,MF,1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,LM,45,0,0,0,0.0,0,0.0,0,0,26,1,0,1,0.0,0.0,0.0,1.0,0.0,14,18.0,77.8,4,19,3.0,0,0.0,Fisayo Dele-Bashiru,MF,1–3
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,N,FW,6,1,0,0,0.0,1,1.0,0,0,7,0,0,0,0.1,0.1,0.0,0.0,0.0,5,6.0,83.3,0,4,1.0,1,1.0,Fisayo Dele-Bashiru,MF,3–0
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,Y,LM,59,0,0,0,0.0,1,0.0,0,0,30,1,2,0,0.0,0.0,0.5,2.0,0.0,17,24.0,70.8,4,15,0.0,0,0.0,Matías Vecino,MF,3–0
+2024-11-10,Sun,Matchweek 12,Away,W,Lazio,Monza,Y,LM,90,0,0,0,0.0,1,1.0,0,0,45,3,2,2,0.1,0.1,0.2,3.0,0.0,26,32.0,81.3,1,15,0.0,0,0.0,Matías Vecino,MF,1–0
+2024-11-04,Mon,Matchweek 11,Home,W,Lazio,Cagliari,N,"AM,DM",45,0,0,0,0.0,2,0.0,0,0,27,2,0,0,0.5,0.5,0.1,3.0,0.0,17,21.0,81.0,1,10,1.0,0,0.0,Matías Vecino,MF,2–1
+2024-10-31,Thu,Matchweek 10,Away,W,Lazio,Como,Y,DM,90,0,0,0,0.0,0,0.0,1,0,52,0,0,0,0.0,0.0,0.0,4.0,1.0,40,48.0,83.3,5,36,0.0,0,0.0,Matías Vecino,MF,5–1
+2024-10-27,Sun,Matchweek 9,Home,W,Lazio,Genoa,N,"AM,DM",29,1,0,0,0.0,3,1.0,0,0,24,0,0,0,0.4,0.4,0.0,1.0,0.0,15,19.0,78.9,1,10,0.0,0,0.0,Matías Vecino,MF,3–0
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,N,"AM,LW",27,0,0,0,0.0,0,0.0,0,0,27,1,1,1,0.0,0.0,0.1,2.0,0.0,15,20.0,75.0,2,11,4.0,1,1.0,Pedro,"FW,MF",2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,Y,AM,56,0,0,0,0.0,0,0.0,0,0,24,0,0,0,0.0,0.0,0.0,2.0,0.0,21,23.0,91.3,2,16,0.0,1,1.0,Pedro,"FW,MF",0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,N,"AM,RM",19,0,0,0,0.0,0,0.0,0,0,10,1,0,0,0.0,0.0,0.0,1.0,0.0,7,8.0,87.5,2,5,0.0,1,0.0,Pedro,"FW,MF",1–0
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,N,"AM,CM",45,0,0,0,0.0,1,0.0,0,0,29,1,0,0,0.0,0.0,0.1,3.0,0.0,23,27.0,85.2,4,21,3.0,0,0.0,Pedro,"FW,MF",1–3
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,Y,RW,59,0,0,0,0.0,1,0.0,0,0,20,1,0,1,0.0,0.0,0.0,2.0,0.0,12,16.0,75.0,0,10,0.0,0,0.0,Pedro,"FW,MF",3–0
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,N,LW,2,0,0,0,0.0,0,0.0,0,0,7,0,0,1,0.0,0.0,0.0,0.0,0.0,5,7.0,71.4,1,5,0.0,0,0.0,Luca Pellegrini,DF,0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,N,LB,21,0,0,0,0.0,0,0.0,0,0,11,0,0,0,0.0,0.0,0.0,1.0,1.0,6,11.0,54.5,2,7,0.0,0,0.0,Luca Pellegrini,DF,2–1
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,Y,LB,90,0,0,0,0.0,2,0.0,0,0,78,0,3,0,0.0,0.0,0.5,6.0,1.0,48,69.0,69.6,3,47,4.0,2,1.0,Luca Pellegrini,DF,1–3
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,Y,LB,90,0,1,0,0.0,1,0.0,1,0,67,1,1,0,0.1,0.1,0.1,4.0,3.0,48,60.0,80.0,12,40,2.0,3,1.0,Luca Pellegrini,DF,3–0
+2024-11-10,Sun,Matchweek 12,Away,W,Lazio,Monza,N,LB,16,0,0,0,0.0,0,0.0,0,0,3,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1.0,100.0,0,0,0.0,0,0.0,Luca Pellegrini,DF,1–0
+2024-12-21,Sat,Matchweek 17,Away,W,Bologna,Torino,N,CB,2,0,0,0,0.0,0,0.0,0,0,6,0,0,0,0.0,0.0,0.0,0.0,0.0,3,4.0,75.0,0,2,0.0,0,0.0,Nicolò Casale,DF,2–0
+2024-11-10,Sun,Matchweek 12,Away,W,Bologna,Roma,N,"CB,RW",7,0,0,0,0.0,0,0.0,0,0,3,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2.0,100.0,1,0,0.0,0,0.0,Nicolò Casale,DF,3–2
+2024-10-19,Sat,Matchweek 8,Away,D,Bologna,Genoa,Y,CB,90,0,0,0,0.0,0,0.0,0,0,51,1,1,4,0.0,0.0,0.0,0.0,0.0,34,40.0,85.0,2,29,0.0,0,0.0,Nicolò Casale,DF,2–2
+2024-09-28,Sat,Matchweek 6,Home,D,Bologna,Atalanta,N,CB,37,0,0,0,0.0,0,0.0,0,0,5,0,0,1,0.0,0.0,0.0,0.0,0.0,2,2.0,100.0,0,0,0.0,0,0.0,Nicolò Casale,DF,1–1
+2024-09-22,Sun,Matchweek 5,Away,W,Bologna,Monza,Y,CB,45,0,0,0,0.0,0,0.0,0,0,40,2,0,1,0.0,0.0,0.0,0.0,0.0,31,36.0,86.1,3,24,0.0,0,0.0,Nicolò Casale,DF,2–1
+2025-01-05,Sun,Matchweek 19,Away,L,Lazio,Roma,N,RW,45,0,0,0,0.0,2,0.0,0,0,31,0,0,0,0.1,0.1,0.1,2.0,0.0,16,23.0,69.6,1,11,1.0,1,0.0,Loum Tchaouna,"FW,MF",0–2
+2024-12-21,Sat,Matchweek 17,Away,W,Lazio,Lecce,N,RW,21,0,0,0,0.0,0,0.0,1,0,8,0,0,0,0.0,0.0,0.0,0.0,0.0,4,7.0,57.1,0,4,0.0,1,1.0,Loum Tchaouna,"FW,MF",2–1
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,N,RW,34,0,0,0,0.0,2,0.0,0,0,20,1,1,0,0.1,0.1,0.0,2.0,0.0,12,16.0,75.0,0,12,2.0,1,1.0,Loum Tchaouna,"FW,MF",0–6
+2024-12-01,Sun,Matchweek 14,Away,L,Lazio,Parma,N,"RW,RM",26,0,0,0,0.0,4,2.0,0,0,21,1,1,0,0.6,0.6,0.0,1.0,0.0,6,13.0,46.2,1,12,1.0,0,0.0,Loum Tchaouna,"FW,MF",1–3
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,N,RM,17,0,0,0,0.0,1,0.0,1,0,12,0,0,0,0.0,0.0,0.0,1.0,1.0,9,10.0,90.0,0,8,1.0,0,0.0,Loum Tchaouna,"FW,MF",3–0
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,N,LW,10,0,0,0,0.0,0,0.0,0,0,7,0,0,0,0.0,0.0,0.0,0.0,0.0,5,7.0,71.4,0,4,0.0,0,0.0,Gaetano Castrovilli,"MF,FW",0–6
+2024-10-27,Sun,Matchweek 9,Home,W,Lazio,Genoa,N,AM,6,0,0,0,0.0,0,0.0,0,0,15,1,0,0,0.0,0.0,0.0,1.0,0.0,11,14.0,78.6,1,7,1.0,0,0.0,Gaetano Castrovilli,"MF,FW",3–0
+2024-10-19,Sat,Matchweek 8,Away,L,Lazio,Juventus,N,LW,24,0,0,0,0.0,0,0.0,0,0,7,1,1,1,0.0,0.0,0.0,0.0,0.0,3,3.0,100.0,1,2,0.0,1,1.0,Gaetano Castrovilli,"MF,FW",0–1
+2024-10-06,Sun,Matchweek 7,Home,W,Lazio,Empoli,N,"CM,AM",5,0,0,0,0.0,1,0.0,0,0,4,0,0,0,0.1,0.1,0.0,0.0,0.0,1,2.0,50.0,1,1,0.0,0,0.0,Gaetano Castrovilli,"MF,FW",2–1
+2024-09-22,Sun,Matchweek 5,Away,L,Lazio,Fiorentina,Y,DM,60,0,0,0,0.0,0,0.0,0,0,41,2,1,1,0.0,0.0,0.0,0.0,0.0,32,35.0,91.4,4,30,1.0,0,0.0,Gaetano Castrovilli,"MF,FW",1–2
+2024-12-16,Mon,Matchweek 16,Home,L,Lazio,Inter,N,CB,18,0,0,0,0.0,0,0.0,0,0,8,0,0,1,0.0,0.0,0.0,0.0,0.0,3,6.0,50.0,0,3,0.0,0,0.0,Samuel Gigot,DF,0–6
+2024-12-08,Sun,Matchweek 15,Away,W,Lazio,Napoli,N,CB,1,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1.0,0.0,0,1,0.0,0,0.0,Samuel Gigot,DF,1–0
+2024-11-24,Sun,Matchweek 13,Home,W,Lazio,Bologna,N,CB,45,1,0,0,0.0,1,1.0,1,0,48,0,0,0,0.9,0.9,0.0,1.0,0.0,40,44.0,90.9,3,25,0.0,1,1.0,Samuel Gigot,DF,3–0
+2024-11-10,Sun,Matchweek 12,Away,W,Lazio,Monza,N,RM,1,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,,0,0,0.0,0,0.0,Samuel Gigot,DF,1–0
+2024-10-31,Thu,Matchweek 10,Away,W,Lazio,Como,N,CB,12,0,0,0,0.0,0,0.0,0,0,11,0,1,1,0.0,0.0,0.0,0.0,0.0,8,8.0,100.0,1,6,0.0,0,0.0,Samuel Gigot,DF,5–1
+2025-01-04,Sat,Matchweek 19,Home,L,Fiorentina,Napoli,N,DM,12,0,0,0,0.0,0,0.0,0,0,10,0,0,0,0.0,0.0,0.0,1.0,0.0,6,7.0,85.7,1,5,0.0,0,0.0,Danilo Cataldi,MF,0–3
+2024-12-29,Sun,Matchweek 18,Away,D,Fiorentina,Juventus,Y,DM,64,0,0,0,0.0,0,0.0,0,0,40,0,3,0,0.0,0.0,0.0,2.0,0.0,24,31.0,77.4,4,20,0.0,1,1.0,Danilo Cataldi,MF,2–2
+2024-12-23,Mon,Matchweek 17,Home,L,Fiorentina,Udinese,Y,DM,90,0,0,0,0.0,1,0.0,0,0,58,1,1,0,0.0,0.0,0.2,4.0,0.0,40,50.0,80.0,6,34,1.0,0,0.0,Danilo Cataldi,MF,1–2
+2024-12-15,Sun,Matchweek 16,Away,L,Fiorentina,Bologna,Y,DM,69,0,0,0,0.0,1,1.0,0,0,30,2,0,0,0.3,0.3,0.0,1.0,0.0,14,27.0,51.9,2,16,1.0,0,0.0,Danilo Cataldi,MF,0–1
+2024-12-08,Sun,Matchweek 15,Home,W,Fiorentina,Cagliari,Y,DM,90,1,0,0,0.0,1,1.0,0,0,73,1,4,2,0.1,0.1,0.0,1.0,0.0,54,63.0,85.7,10,40,1.0,0,0.0,Danilo Cataldi,MF,1–0

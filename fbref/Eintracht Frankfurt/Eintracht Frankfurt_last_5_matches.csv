@@ -1,0 +1,116 @@
+Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,Player,Position,Score
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y*,CB,90.0,0,0.0,0.0,0.0,3.0,2.0,0,0,93,2.0,1.0,1.0,0.2,0.2,0.1,2.0,0.0,71.0,79.0,89.9,2.0,52.0,3.0,0.0,0,Robin Koch,DF,1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,CB,90.0,0,0.0,0.0,0.0,0.0,0.0,0,0,85,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,76.0,79.0,96.2,2.0,62.0,0.0,0.0,0,Robin Koch,DF,1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,CB,90.0,0,0.0,0.0,0.0,0.0,0.0,1,0,96,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,78.0,88.0,88.6,6.0,62.0,2.0,0.0,0,Robin Koch,DF,2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,CB,90.0,0,0.0,0.0,0.0,0.0,0.0,0,0,65,0.0,2.0,3.0,0.0,0.0,0.0,1.0,1.0,54.0,54.0,100.0,5.0,33.0,0.0,0.0,0,Robin Koch,DF,4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,CB,90.0,0,0.0,0.0,0.0,0.0,0.0,0,0,70,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,53.0,59.0,89.8,0.0,34.0,0.0,0.0,0,Robin Koch,DF,1–0
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,FW,90.0,0,0.0,0.0,0.0,5.0,0.0,0,0,36,1.0,1.0,0.0,0.4,0.4,0.0,2.0,0.0,13.0,23.0,56.5,2.0,17.0,4.0,2.0,1,Omar Marmoush,"FW,MF",1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,FW,90.0,0,0.0,0.0,0.0,3.0,1.0,0,0,45,1.0,0.0,0.0,0.1,0.1,0.2,7.0,0.0,24.0,38.0,63.2,3.0,27.0,2.0,4.0,4,Omar Marmoush,"FW,MF",1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,FW,90.0,0,0.0,0.0,0.0,3.0,0.0,0,0,42,2.0,0.0,0.0,0.2,0.2,0.1,6.0,0.0,21.0,33.0,63.6,3.0,26.0,3.0,2.0,2,Omar Marmoush,"FW,MF",2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,FW,90.0,2,0.0,0.0,0.0,7.0,4.0,0,0,65,0.0,0.0,0.0,1.1,1.1,0.0,5.0,1.0,32.0,49.0,65.3,2.0,45.0,8.0,6.0,3,Omar Marmoush,"FW,MF",4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,FW,80.0,0,0.0,0.0,0.0,5.0,2.0,1,0,47,0.0,0.0,0.0,0.2,0.2,0.1,6.0,0.0,24.0,28.0,85.7,4.0,31.0,6.0,10.0,4,Omar Marmoush,"FW,MF",1–0
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,CB,90.0,0,0.0,0.0,0.0,4.0,1.0,0,0,105,0.0,4.0,2.0,0.1,0.1,0.0,3.0,0.0,73.0,90.0,81.1,13.0,51.0,3.0,1.0,0,Arthur Theate,DF,1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,CB,90.0,0,0.0,0.0,0.0,3.0,0.0,0,0,105,0.0,1.0,2.0,0.1,0.1,0.1,2.0,1.0,80.0,89.0,89.9,8.0,79.0,4.0,0.0,0,Arthur Theate,DF,1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,CB,90.0,0,0.0,0.0,0.0,1.0,0.0,0,0,98,3.0,1.0,1.0,0.1,0.1,0.0,0.0,0.0,77.0,90.0,85.6,5.0,75.0,2.0,0.0,0,Arthur Theate,DF,2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,LB,90.0,0,0.0,0.0,0.0,1.0,0.0,1,0,94,3.0,1.0,4.0,0.0,0.0,0.0,1.0,1.0,59.0,74.0,79.7,5.0,45.0,3.0,0.0,0,Arthur Theate,DF,4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,CB,90.0,0,0.0,0.0,0.0,2.0,1.0,0,0,88,2.0,1.0,2.0,0.1,0.1,0.2,1.0,0.0,59.0,75.0,78.7,9.0,60.0,2.0,0.0,0,Arthur Theate,DF,1–0
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,DM,90.0,0,0.0,0.0,0.0,0.0,0.0,0,0,76,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,57.0,68.0,83.8,6.0,49.0,1.0,3.0,3,Tuta,"DF,MF",2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,CB,67.0,0,0.0,0.0,0.0,0.0,0.0,1,0,44,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,36.0,88.9,2.0,30.0,0.0,0.0,0,Tuta,"DF,MF",4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,CM,90.0,0,0.0,0.0,0.0,2.0,0.0,0,0,58,2.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,40.0,45.0,88.9,4.0,29.0,0.0,2.0,1,Tuta,"DF,MF",1–0
+2024-11-10,Sun,Bundesliga,Matchweek 10,Away,W,Eint Frankfurt,Stuttgart,Y,CB,90.0,0,0.0,0.0,0.0,0.0,0.0,1,0,70,6.0,1.0,3.0,0.0,0.0,0.2,1.0,0.0,42.0,50.0,84.0,0.0,32.0,0.0,0.0,0,Tuta,"DF,MF",3–2
+2024-11-02,Sat,Bundesliga,Matchweek 9,Home,W,Eint Frankfurt,Bochum,Y,CB,80.0,0,0.0,0.0,0.0,1.0,0.0,0,0,80,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0,67.0,95.5,2.0,46.0,0.0,0.0,0,Tuta,"DF,MF",7–2
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,FW,60.0,0,0.0,0.0,0.0,2.0,1.0,0,0,21,0.0,0.0,0.0,0.1,0.1,0.0,1.0,0.0,13.0,16.0,81.3,1.0,11.0,2.0,3.0,2,Hugo Ekitike,FW,1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,AM,74.0,0,0.0,0.0,0.0,3.0,0.0,0,0,20,1.0,0.0,1.0,0.1,0.1,0.2,2.0,0.0,9.0,12.0,75.0,1.0,9.0,0.0,2.0,1,Hugo Ekitike,FW,1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,FW,89.0,1,0.0,0.0,0.0,2.0,1.0,0,0,36,3.0,1.0,0.0,0.9,0.9,0.2,4.0,0.0,19.0,27.0,70.4,0.0,30.0,3.0,3.0,2,Hugo Ekitike,FW,2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,N,LM,18.0,1,0.0,0.0,0.0,3.0,2.0,0,0,14,0.0,0.0,0.0,1.2,1.2,0.1,2.0,0.0,4.0,9.0,44.4,0.0,10.0,1.0,1.0,1,Hugo Ekitike,FW,4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,FW,88.0,0,1.0,0.0,0.0,4.0,1.0,0,0,30,0.0,0.0,0.0,0.5,0.5,0.4,5.0,1.0,19.0,22.0,86.4,2.0,18.0,2.0,4.0,4,Hugo Ekitike,FW,1–0
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,CB,90.0,1,0.0,0.0,0.0,4.0,1.0,0,0,98,3.0,1.0,2.0,0.3,0.3,0.0,7.0,0.0,62.0,85.0,72.9,10.0,66.0,3.0,1.0,1,Rasmus Kristensen,DF,1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,CB,90.0,0,0.0,0.0,0.0,1.0,0.0,0,0,97,0.0,3.0,2.0,0.0,0.0,0.0,2.0,0.0,76.0,90.0,84.4,16.0,69.0,5.0,2.0,2,Rasmus Kristensen,DF,1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,RB,90.0,0,0.0,0.0,0.0,0.0,0.0,0,0,94,0.0,0.0,2.0,0.0,0.0,0.0,4.0,0.0,71.0,84.0,84.5,17.0,69.0,6.0,0.0,0,Rasmus Kristensen,DF,2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,"RB,CB",90.0,0,0.0,0.0,0.0,0.0,0.0,0,0,80,0.0,3.0,2.0,0.0,0.0,0.1,2.0,0.0,58.0,70.0,82.9,9.0,51.0,5.0,1.0,1,Rasmus Kristensen,DF,4–0
+2024-10-27,Sun,Bundesliga,Matchweek 8,Away,D,Eint Frankfurt,Union Berlin,Y,WB,37.0,0,0.0,0.0,0.0,0.0,0.0,0,0,32,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,19.0,29.0,65.5,2.0,10.0,0.0,0.0,0,Rasmus Kristensen,DF,1–1
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,N,CM,45.0,0,0.0,0.0,0.0,1.0,0.0,0,0,40,1.0,0.0,0.0,0.2,0.2,0.2,3.0,0.0,35.0,38.0,92.1,7.0,27.0,2.0,1.0,1,Hugo Larsson,MF,1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,CM,90.0,0,0.0,0.0,0.0,1.0,1.0,0,0,53,1.0,1.0,0.0,0.2,0.2,0.0,3.0,0.0,46.0,50.0,92.0,3.0,35.0,1.0,0.0,0,Hugo Larsson,MF,1–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,CM,78.0,0,0.0,0.0,0.0,0.0,0.0,0,0,59,3.0,3.0,2.0,0.0,0.0,0.1,2.0,0.0,46.0,48.0,95.8,6.0,35.0,0.0,1.0,1,Hugo Larsson,MF,4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,N,RM,10.0,0,0.0,0.0,0.0,0.0,0.0,0,0,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,6.0,66.7,0.0,4.0,0.0,1.0,1,Hugo Larsson,MF,1–0
+2024-11-10,Sun,Bundesliga,Matchweek 10,Away,W,Eint Frankfurt,Stuttgart,Y,CM,55.0,0,0.0,0.0,0.0,0.0,0.0,0,0,39,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,32.0,35.0,91.4,4.0,21.0,0.0,0.0,0,Hugo Larsson,MF,3–2
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y*,GK,90.0,9,2.0,7.0,77.8,0.0,2.4,0,0,0,0.0,0.0,2.0,0.0,24.0,7.0,4.2,19.8,4.0,25.0,32.3,9.0,0.0,0.0,0.0,18.5,Kevin Trapp,GK,1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y*,GK,90.0,3,2.0,1.0,33.3,0.0,0.4,0,0,0,0.0,1.0,1.0,100.0,16.0,2.0,6.3,20.1,3.0,0.0,25.7,6.0,0.0,0.0,4.0,22.8,Kevin Trapp,GK,2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y*,GK,90.0,1,0.0,1.0,100.0,1.0,0.4,0,0,0,0.0,3.0,12.0,25.0,23.0,3.0,43.5,34.6,2.0,100.0,74.0,15.0,1.0,6.7,1.0,12.2,Kevin Trapp,GK,4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y*,GK,90.0,1,0.0,1.0,100.0,1.0,0.1,0,0,0,0.0,5.0,13.0,38.5,30.0,5.0,36.7,31.2,7.0,28.6,33.6,17.0,2.0,11.8,1.0,17.7,Kevin Trapp,GK,1–0
+2024-11-10,Sun,Bundesliga,Matchweek 10,Away,W,Eint Frankfurt,Stuttgart,Y*,GK,90.0,10,2.0,7.0,80.0,0.0,2.5,1,0,1,0.0,2.0,14.0,14.3,39.0,6.0,30.8,31.3,5.0,40.0,37.8,20.0,1.0,5.0,1.0,17.0,Kevin Trapp,GK,3–2
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,CM,45.0,0,0.0,0.0,0.0,1.0,0.0,0,0,49,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,42.0,44.0,95.5,6.0,31.0,0.0,0.0,0,Ellyes Skhiri,MF,1–3
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,CM,90.0,0,0.0,0.0,0.0,1.0,0.0,0,0,71,2.0,2.0,2.0,0.1,0.1,0.1,4.0,1.0,60.0,64.0,93.8,8.0,47.0,1.0,1.0,1,Ellyes Skhiri,MF,4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,CM,90.0,0,0.0,0.0,0.0,1.0,0.0,1,0,67,0.0,0.0,1.0,0.0,0.0,0.2,4.0,0.0,55.0,61.0,90.2,9.0,43.0,1.0,1.0,1,Ellyes Skhiri,MF,1–0
+2024-11-10,Sun,Bundesliga,Matchweek 10,Away,W,Eint Frankfurt,Stuttgart,Y,CM,90.0,0,0.0,0.0,0.0,0.0,0.0,0,0,48,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,33.0,37.0,89.2,2.0,20.0,0.0,0.0,0,Ellyes Skhiri,MF,3–2
+2024-11-02,Sat,Bundesliga,Matchweek 9,Home,W,Eint Frankfurt,Bochum,Y,CM,72.0,0,1.0,0.0,0.0,0.0,0.0,0,0,53,0.0,0.0,1.0,0.0,0.0,0.1,3.0,1.0,41.0,48.0,85.4,5.0,27.0,0.0,0.0,0,Ellyes Skhiri,MF,7–2
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,N,WB,31.0,0,0.0,0.0,0.0,3.0,0.0,0,0,21,2.0,0.0,0.0,0.1,0.1,0.1,2.0,0.0,11.0,15.0,73.3,3.0,16.0,0.0,1.0,1,Ansgar Knauff,"MF,DF",1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,WB,74.0,0,0.0,0.0,0.0,1.0,0.0,1,0,44,3.0,2.0,0.0,0.1,0.1,0.0,3.0,0.0,25.0,35.0,71.4,1.0,23.0,0.0,1.0,0,Ansgar Knauff,"MF,DF",1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,AM,71.0,0,1.0,0.0,0.0,3.0,1.0,0,0,59,2.0,1.0,2.0,0.2,0.2,0.8,5.0,1.0,30.0,43.0,69.8,4.0,41.0,10.0,1.0,1,Ansgar Knauff,"MF,DF",2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,N,RM,23.0,0,1.0,0.0,0.0,0.0,0.0,0,0,14,1.0,0.0,0.0,0.0,0.0,1.1,2.0,1.0,4.0,9.0,44.4,1.0,10.0,2.0,1.0,0,Ansgar Knauff,"MF,DF",4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,LM,64.0,0,0.0,0.0,0.0,0.0,0.0,0,0,29,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,16.0,23.0,69.6,2.0,19.0,2.0,3.0,0,Ansgar Knauff,"MF,DF",1–0
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,RM,67.0,0,0.0,0.0,0.0,0.0,0.0,0,0,44,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,33.0,38.0,86.8,3.0,37.0,0.0,1.0,0,Mario Götze,"MF,FW",4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,RM,80.0,1,0.0,0.0,0.0,1.0,1.0,0,0,59,1.0,0.0,1.0,0.3,0.3,0.1,4.0,0.0,36.0,51.0,70.6,5.0,41.0,3.0,1.0,0,Mario Götze,"MF,FW",1–0
+2024-11-10,Sun,Bundesliga,Matchweek 10,Away,W,Eint Frankfurt,Stuttgart,N,CM,35.0,0,0.0,0.0,0.0,0.0,0.0,0,0,25,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,14.0,19.0,73.7,0.0,11.0,0.0,1.0,1,Mario Götze,"MF,FW",3–2
+2024-10-27,Sun,Bundesliga,Matchweek 8,Away,D,Eint Frankfurt,Union Berlin,Y,CM,64.0,1,0.0,0.0,0.0,1.0,1.0,0,0,48,1.0,0.0,1.0,0.9,0.9,0.1,1.0,0.0,31.0,42.0,73.8,1.0,19.0,1.0,0.0,0,Mario Götze,"MF,FW",1–1
+2024-10-19,Sat,Bundesliga,Matchweek 7,Away,L,Eint Frankfurt,Leverkusen,Y,LM,70.0,0,0.0,0.0,0.0,0.0,0.0,0,0,40,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,23.0,30.0,76.7,1.0,29.0,0.0,1.0,0,Mario Götze,"MF,FW",1–2
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,WB,59.0,0,0.0,0.0,0.0,1.0,1.0,0,0,37,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,21.0,34.0,61.8,3.0,23.0,0.0,0.0,0,Fares Chaïbi,"MF,FW",1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,N,AM,7.0,0,0.0,0.0,0.0,1.0,0.0,0,0,8,0.0,0.0,0.0,0.1,0.1,0.0,1.0,0.0,4.0,7.0,57.1,0.0,8.0,0.0,0.0,0,Fares Chaïbi,"MF,FW",1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,AM,71.0,0,0.0,0.0,0.0,2.0,0.0,0,0,40,1.0,1.0,1.0,0.1,0.1,0.1,4.0,1.0,21.0,32.0,65.6,1.0,23.0,0.0,1.0,0,Fares Chaïbi,"MF,FW",2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,N,FW,45.0,1,0.0,0.0,0.0,1.0,1.0,0,0,24,0.0,1.0,1.0,0.1,0.1,0.2,2.0,1.0,14.0,20.0,70.0,5.0,15.0,1.0,0.0,0,Fares Chaïbi,"MF,FW",4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,N,FW,10.0,0,0.0,0.0,0.0,0.0,0.0,0,0,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,100.0,1.0,1.0,0.0,0.0,0,Fares Chaïbi,"MF,FW",1–0
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,CM,90.0,0,1.0,0.0,0.0,1.0,0.0,0,0,83,2.0,0.0,0.0,0.1,0.1,0.5,9.0,1.0,61.0,75.0,81.3,7.0,40.0,1.0,2.0,0,Nathaniel Brown,"DF,MF",1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,WB,84.0,1,0.0,0.0,0.0,1.0,1.0,1,0,42,0.0,0.0,0.0,0.0,0.0,0.1,3.0,0.0,36.0,40.0,90.0,1.0,29.0,4.0,1.0,1,Nathaniel Brown,"DF,MF",1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,N,LB,46.0,0,0.0,0.0,0.0,0.0,0.0,0,0,44,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,33.0,38.0,86.8,5.0,30.0,2.0,2.0,1,Nathaniel Brown,"DF,MF",2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,LM,72.0,0,2.0,0.0,0.0,0.0,0.0,0,0,46,5.0,0.0,1.0,0.0,0.0,0.4,3.0,2.0,26.0,32.0,81.3,7.0,35.0,4.0,2.0,0,Nathaniel Brown,"DF,MF",4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,LB,90.0,0,0.0,0.0,0.0,0.0,0.0,0,0,53,6.0,1.0,4.0,0.0,0.0,0.0,1.0,1.0,26.0,35.0,74.3,3.0,26.0,3.0,2.0,0,Nathaniel Brown,"DF,MF",1–0
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,GK,90.0,3,3.0,1.0,0.0,0.0,1.0,0,0,0,0.0,2.0,7.0,28.6,24.0,3.0,29.2,31.7,3.0,0.0,24.0,3.0,0.0,0.0,1.0,13.3,Kauã Santos,GK,1–3
+2024-10-06,Sun,Bundesliga,Matchweek 6,Home,D,Eint Frankfurt,Bayern Munich,Y,GK,90.0,13,3.0,10.0,76.9,0.0,3.8,0,0,0,0.0,3.0,13.0,23.1,38.0,5.0,31.6,28.6,5.0,20.0,24.8,25.0,3.0,12.0,0.0,7.0,Kauã Santos,GK,3–3
+2024-09-29,Sun,Bundesliga,Matchweek 5,Away,W,Eint Frankfurt,Holstein Kiel,Y,GK,90.0,5,2.0,3.0,80.0,0.0,1.2,1,1,0,0.0,2.0,11.0,18.2,33.0,6.0,27.3,30.8,2.0,100.0,65.5,21.0,2.0,9.5,5.0,17.3,Kauã Santos,GK,4–2
+2024-09-21,Sat,Bundesliga,Matchweek 4,Home,W,Eint Frankfurt,Gladbach,Y,GK,90.0,7,0.0,7.0,100.0,1.0,1.8,0,0,0,0.0,3.0,10.0,30.0,37.0,7.0,24.3,32.2,3.0,33.3,30.0,13.0,1.0,7.7,0.0,12.5,Kauã Santos,GK,2–0
+2024-09-14,Sat,Bundesliga,Matchweek 3,Away,W,Eint Frankfurt,Wolfsburg,N,GK,45.0,2,1.0,1.0,50.0,0.0,0.2,0,0,0,0.0,2.0,8.0,25.0,13.0,2.0,38.5,33.1,3.0,100.0,68.0,15.0,3.0,20.0,2.0,15.2,Kauã Santos,GK,2–1
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,WB,45.0,0,0.0,0.0,0.0,0.0,0.0,0,0,18,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,16.0,56.3,1.0,16.0,4.0,4.0,3,Nnamdi Collins,DF,1–3
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,N,RB,23.0,0,0.0,0.0,0.0,0.0,0.0,0,0,13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,10.0,90.0,2.0,3.0,1.0,0.0,0,Nnamdi Collins,DF,4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,Y,RB,90.0,0,0.0,0.0,0.0,0.0,0.0,0,0,76,2.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,49.0,61.0,80.3,6.0,32.0,1.0,2.0,0,Nnamdi Collins,DF,1–0
+2024-11-10,Sun,Bundesliga,Matchweek 10,Away,W,Eint Frankfurt,Stuttgart,Y,RB,77.0,0,0.0,0.0,0.0,0.0,0.0,0,0,47,2.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,29.0,36.0,80.6,3.0,21.0,1.0,1.0,0,Nnamdi Collins,DF,3–2
+2024-11-02,Sat,Bundesliga,Matchweek 9,Home,W,Eint Frankfurt,Bochum,Y,"RB,CB",90.0,0,1.0,0.0,0.0,0.0,0.0,0,0,91,2.0,3.0,0.0,0.0,0.0,0.9,3.0,2.0,60.0,72.0,83.3,3.0,39.0,5.0,4.0,1,Nnamdi Collins,DF,7–2
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,N,WB,6.0,0,0.0,0.0,0.0,0.0,0.0,0,0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,40.0,0.0,5.0,1.0,1.0,0,Niels Nkounkou,"DF,MF",1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,LB,44.0,0,0.0,0.0,0.0,1.0,0.0,1,0,45,3.0,2.0,1.0,0.0,0.0,0.1,2.0,0.0,32.0,36.0,88.9,1.0,33.0,1.0,3.0,2,Niels Nkounkou,"DF,MF",2–2
+2024-10-19,Sat,Bundesliga,Matchweek 7,Away,L,Eint Frankfurt,Leverkusen,Y,LB,81.0,0,0.0,0.0,0.0,0.0,0.0,0,0,49,2.0,0.0,1.0,0.0,0.0,0.1,3.0,1.0,32.0,42.0,76.2,4.0,30.0,1.0,1.0,0,Niels Nkounkou,"DF,MF",1–2
+2024-09-21,Sat,Bundesliga,Matchweek 4,Home,W,Eint Frankfurt,Gladbach,N,LB,6.0,0,0.0,0.0,0.0,0.0,0.0,0,0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,7.0,85.7,1.0,5.0,1.0,0.0,0,Niels Nkounkou,"DF,MF",2–0
+2024-09-14,Sat,Bundesliga,Matchweek 3,Away,W,Eint Frankfurt,Wolfsburg,Y,LM,66.0,0,0.0,0.0,0.0,0.0,0.0,0,0,40,0.0,2.0,1.0,0.0,0.0,0.1,4.0,0.0,18.0,32.0,56.3,1.0,24.0,4.0,3.0,1,Niels Nkounkou,"DF,MF",2–1
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,CM,51.0,0,0.0,0.0,0.0,0.0,0.0,1,0,35,2.0,1.0,1.0,0.0,0.0,0.1,2.0,0.0,25.0,29.0,86.2,3.0,22.0,0.0,1.0,0,Mahmoud Dahoud,MF,1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,Y,DM,71.0,0,0.0,0.0,0.0,1.0,0.0,0,0,51,2.0,0.0,0.0,0.1,0.1,0.1,1.0,0.0,39.0,46.0,84.8,4.0,36.0,0.0,0.0,0,Mahmoud Dahoud,MF,2–2
+2024-11-02,Sat,Bundesliga,Matchweek 9,Home,W,Eint Frankfurt,Bochum,Y,CM,90.0,1,1.0,0.0,0.0,4.0,2.0,0,0,84,2.0,0.0,2.0,0.4,0.4,0.5,6.0,2.0,61.0,72.0,84.7,4.0,41.0,0.0,2.0,1,Mahmoud Dahoud,MF,7–2
+2024-10-19,Sat,Bundesliga,Matchweek 7,Away,L,Eint Frankfurt,Leverkusen,N,CM,12.0,0,0.0,0.0,0.0,0.0,0.0,0,0,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,10.0,80.0,1.0,9.0,0.0,0.0,0,Mahmoud Dahoud,MF,1–2
+2024-10-06,Sun,Bundesliga,Matchweek 6,Home,D,Eint Frankfurt,Bayern Munich,N,CM,45.0,0,0.0,0.0,0.0,0.0,0.0,0,0,26,2.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,14.0,17.0,82.4,1.0,15.0,0.0,0.0,0,Mahmoud Dahoud,MF,3–3
+2024-11-10,Sun,Bundesliga,Matchweek 10,Away,W,Eint Frankfurt,Stuttgart,Y,RM,45.0,0,0.0,0.0,0.0,1.0,0.0,0,0,25,0.0,1.0,1.0,0.1,0.1,0.0,0.0,0.0,10.0,18.0,55.6,0.0,13.0,0.0,1.0,0,Junior Dina Ebimbe,"MF,FW",3–2
+2024-10-27,Sun,Bundesliga,Matchweek 8,Away,D,Eint Frankfurt,Union Berlin,N,WB,53.0,0,0.0,0.0,0.0,2.0,0.0,0,0,33,1.0,4.0,1.0,0.1,0.1,0.0,2.0,0.0,17.0,22.0,77.3,0.0,10.0,3.0,0.0,0,Junior Dina Ebimbe,"MF,FW",1–1
+2024-10-19,Sat,Bundesliga,Matchweek 7,Away,L,Eint Frankfurt,Leverkusen,Y,RM,70.0,0,0.0,0.0,0.0,1.0,0.0,0,0,30,0.0,0.0,0.0,0.1,0.1,0.0,1.0,0.0,18.0,26.0,69.2,1.0,22.0,2.0,2.0,1,Junior Dina Ebimbe,"MF,FW",1–2
+2024-10-06,Sun,Bundesliga,Matchweek 6,Home,D,Eint Frankfurt,Bayern Munich,N,LM,25.0,0,1.0,0.0,0.0,1.0,0.0,0,0,14,1.0,0.0,0.0,0.5,0.5,0.4,1.0,1.0,4.0,7.0,57.1,1.0,7.0,0.0,4.0,2,Junior Dina Ebimbe,"MF,FW",3–3
+2024-09-29,Sun,Bundesliga,Matchweek 5,Away,W,Eint Frankfurt,Holstein Kiel,Y,LW,67.0,0,0.0,0.0,0.0,3.0,0.0,0,0,41,0.0,1.0,2.0,0.1,0.1,0.6,2.0,0.0,11.0,24.0,45.8,1.0,22.0,0.0,3.0,1,Junior Dina Ebimbe,"MF,FW",4–2
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,N,FW,30.0,0,0.0,0.0,0.0,3.0,0.0,0,0,6,0.0,0.0,0.0,0.3,0.3,0.0,2.0,1.0,2.0,2.0,100.0,0.0,2.0,0.0,0.0,0,Igor Matanovic,"FW,MF",1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,N,AM,16.0,0,0.0,0.0,0.0,1.0,0.0,0,0,2,0.0,0.0,0.0,0.1,0.1,0.0,0.0,0.0,1.0,1.0,100.0,0.0,1.0,0.0,0.0,0,Igor Matanovic,"FW,MF",1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,N,FW,1.0,0,0.0,0.0,0.0,0.0,0.0,0,0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,100.0,1.0,1.0,0.0,0.0,0,Igor Matanovic,"FW,MF",2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,Y,FW,45.0,0,0.0,0.0,0.0,0.0,0.0,0,0,24,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,13.0,61.5,0.0,19.0,0.0,1.0,1,Igor Matanovic,"FW,MF",4–0
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,N,FW,2.0,0,0.0,0.0,0.0,0.0,0.0,0,0,3,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,66.7,1.0,3.0,0.0,0.0,0,Igor Matanovic,"FW,MF",1–0
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,N,WB,45.0,0,0.0,0.0,0.0,4.0,2.0,0,0,38,1.0,0.0,1.0,0.5,0.5,0.2,7.0,0.0,21.0,29.0,72.4,4.0,22.0,1.0,1.0,1,Can Uzun,"MF,FW",1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,Y,AM,83.0,0,1.0,0.0,0.0,1.0,0.0,0,0,37,2.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,23.0,32.0,71.9,3.0,32.0,1.0,1.0,0,Can Uzun,"MF,FW",1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,N,AM,19.0,1,0.0,0.0,0.0,2.0,1.0,0,0,10,0.0,0.0,1.0,0.1,0.1,0.1,1.0,0.0,6.0,7.0,85.7,0.0,5.0,1.0,0.0,0,Can Uzun,"MF,FW",2–2
+2024-11-02,Sat,Bundesliga,Matchweek 9,Home,W,Eint Frankfurt,Bochum,N,LM,26.0,1,0.0,0.0,0.0,2.0,1.0,0,0,21,0.0,0.0,2.0,0.8,0.8,0.0,0.0,0.0,12.0,14.0,85.7,3.0,11.0,1.0,1.0,0,Can Uzun,"MF,FW",7–2
+2024-10-19,Sat,Bundesliga,Matchweek 7,Away,L,Eint Frankfurt,Leverkusen,N,"LM,LB",9.0,0,0.0,0.0,0.0,0.0,0.0,0,0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,6.0,83.3,2.0,4.0,0.0,0.0,0,Can Uzun,"MF,FW",1–2
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,N,CM,30.0,0,0.0,0.0,0.0,1.0,0.0,1,0,22,1.0,0.0,0.0,0.0,0.0,0.1,4.0,0.0,12.0,18.0,66.7,3.0,9.0,2.0,0.0,0,Jean Mattéo Bahoya,"MF,DF",1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,N,WB,16.0,0,0.0,0.0,0.0,0.0,0.0,0,0,15,1.0,0.0,0.0,0.0,0.0,0.1,1.0,0.0,6.0,8.0,75.0,0.0,9.0,0.0,2.0,1,Jean Mattéo Bahoya,"MF,DF",1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,N,AM,19.0,0,0.0,0.0,0.0,1.0,1.0,0,0,10,0.0,0.0,0.0,0.1,0.1,0.0,2.0,2.0,5.0,6.0,83.3,0.0,9.0,1.0,4.0,3,Jean Mattéo Bahoya,"MF,DF",2–2
+2024-11-23,Sat,Bundesliga,Matchweek 11,Home,W,Eint Frankfurt,Werder Bremen,N,LM,26.0,0,0.0,0.0,0.0,0.0,0.0,0,0,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,6.0,66.7,1.0,4.0,0.0,0.0,0,Jean Mattéo Bahoya,"MF,DF",1–0
+2024-11-10,Sun,Bundesliga,Matchweek 10,Away,W,Eint Frankfurt,Stuttgart,N,RM,13.0,0,0.0,0.0,0.0,0.0,0.0,0,0,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,100.0,1.0,3.0,0.0,1.0,1,Jean Mattéo Bahoya,"MF,DF",3–2
+2024-12-21,Sat,Bundesliga,Matchweek 15,Home,L,Eint Frankfurt,Mainz 05,Y,CM,60.0,0,0.0,0.0,0.0,1.0,0.0,0,0,46,0.0,0.0,1.0,0.1,0.1,0.1,4.0,0.0,37.0,42.0,88.1,8.0,28.0,5.0,2.0,2,Oscar Højlund,MF,1–3
+2024-12-15,Sun,Bundesliga,Matchweek 14,Away,L,Eint Frankfurt,RB Leipzig,N,CM,39.0,0,0.0,0.0,0.0,0.0,0.0,0,0,28,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,24.0,25.0,96.0,2.0,19.0,0.0,1.0,1,Oscar Højlund,MF,1–2
+2024-12-07,Sat,Bundesliga,Matchweek 13,Home,D,Eint Frankfurt,Augsburg,N,DM,19.0,0,0.0,0.0,0.0,0.0,0.0,0,0,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,100.0,1.0,3.0,0.0,0.0,0,Oscar Højlund,MF,2–2
+2024-12-01,Sun,Bundesliga,Matchweek 12,Away,W,Eint Frankfurt,Heidenheim,N,CM,12.0,0,0.0,0.0,0.0,1.0,1.0,0,0,9,1.0,0.0,0.0,0.1,0.1,0.4,2.0,0.0,4.0,7.0,57.1,2.0,6.0,1.0,0.0,0,Oscar Højlund,MF,4–0
+2024-08-24,Sat,Bundesliga,Matchweek 1,Away,L,Eint Frankfurt,Dortmund,N,LM,14.0,0,0.0,0.0,0.0,0.0,0.0,0,0,7,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,66.7,0.0,3.0,1.0,0.0,0,Oscar Højlund,MF,0–2
+2024-12-07,Sat,Preliminary round,Home,L 1–3,Frankfurt,Mainz U19,Y,,90,,3,,,0.0,,0.0,0,0,0,,,,,,,,,,,,,,,,Match Report,GK,,U19
+2024-11-23,Sat,Preliminary round,Home,W 9–2,Frankfurt,Nürnberg U19,Y,,90,,2,,,0.0,,0.0,0,0,0,,,,,,,,,,,,,,,,Match Report,GK,,U19
+2024-11-09,Sat,Preliminary round,Home,W 1–0,Frankfurt,Darmstadt 98 U19,Y,,90,,0,,,1.0,,0.0,0,0,0,,,,,,,,,,,,,,,,Match Report,GK,,U19
+2024-11-02,Sat,Preliminary round,Away,W 6–2,Frankfurt,Kickers Offenbach U19,Y,,90,,2,,,0.0,,0.0,0,0,0,,,,,,,,,,,,,,,,Match Report,GK,,U19
+2024-10-26,Sat,Preliminary round,Home,W 4–0,Frankfurt,FSV Frankfurt U19,Y,,90,,0,,,1.0,,0.0,0,0,0,,,,,,,,,,,,,,,,Match Report,GK,,U19

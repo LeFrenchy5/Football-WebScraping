@@ -1,0 +1,20 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att (GK),Thr,Launch%,AvgLen,Att.1,Launch%.1,AvgLen.1,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist,Player,Position
+2014-2015,20,Perugia,it ITA,2. Serie B,6th,23.7,23,,,,,,,,,,,,,,,,,,,,,,,,,Ivan Provedel,GK
+2015-2016,21,Modena,it ITA,2. Serie B,21st,20.1,23,,,,,,,,,,,,,,,,,,,,,,,,,Ivan Provedel,GK
+2016-2017,22,Pro Vercelli,it ITA,2. Serie B,17th,39.6,40,,,,,,,,,,,,,,,,,,,,,,,,,Ivan Provedel,GK
+2017-2018,23,Empoli,it ITA,2. Serie B,1st,23.0,33,2,,,,,,,,,,,,,,,,,,,,,,,,Ivan Provedel,GK
+2018-2019,24,Empoli,it ITA,1. Serie A,18th,16.0,36,3,0,4,1,29.3,0.26,-5.7,-0.36,73,185,39.5,361,103,35.5,34.5,123,46.3,40.0,279,12,4.3,8,0.50,12.2,Ivan Provedel,GK
+2019-2020,25,Juve Stabia,it ITA,2. Serie B,19th,18.0,35,8,0,6,0,34.6,0.30,-0.4,-0.02,114,273,41.8,663,99,33.2,34.2,166,31.9,33.6,286,12,4.2,36,2.00,16.2,Ivan Provedel,GK
+2020-2021,26,Spezia,it ITA,1. Serie A,15th,29.0,55,6,1,4,0,48.0,0.32,-7.0,-0.24,185,489,37.8,1244,132,33.4,34.2,157,46.5,42.0,298,9,3.0,46,1.59,17.2,Ivan Provedel,GK
+2021-2022,27,Spezia,it ITA,1. Serie A,16th,30.7,52,9,3,4,3,47.6,0.24,-1.4,-0.04,206,616,33.4,957,133,47.8,40.1,229,69.4,51.7,476,28,5.9,25,0.81,11.8,Ivan Provedel,GK
+2022-2023,28,Lazio,it ITA,1. Serie A,2nd,37.9,30,1,0,5,1,31.4,0.25,+2.4,+0.06,158,373,42.4,1121,166,27.4,32.2,198,33.3,33.2,493,21,4.3,55,1.45,16.5,Ivan Provedel,GK
+2023-2024,29,Lazio,it ITA,1. Serie A,7th,30.0,33,2,0,1,0,31.3,0.24,-1.7,-0.06,101,252,40.1,841,103,22.6,30.8,176,35.2,37.0,377,15,4.0,18,0.60,13.0,Ivan Provedel,GK
+2024-2025,30,Lazio,it ITA,1. Serie A,4th,18.0,27,3,0,2,1,19.3,0.30,-6.7,-0.35,99,244,40.6,630,65,31.7,33.6,74,59.5,46.5,232,22,9.5,19,1.00,13.0,Ivan Provedel,GK
+2017-2018,15,Atromitos,gr GRE,1. Super League,4th,0.2,0,0,,,,,,,,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2018-2019,16,Atromitos,gr GRE,1. Super League,4th,1.0,0,0,,,,,,,,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2019-2020,17,Atromitos,gr GRE,1. Super League,8th,12.0,,0,,,,,,,,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2020-2021,18,Atromitos,gr GRE,1. Super League,8th,13.1,,2,,,,,,,,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2021-2022,19,OFI Crete,gr GRE,1. Super League,8th,1.0,,0,,,,,,,,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2022-2023,20,OFI Crete,gr GRE,1. Super League,6th,26.0,,2,,,,,,,,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2023-2024,21,OFI Crete,gr GRE,1. Super League,10th,2.0,,0,,,,,,,,,,,,,,,,,,,,,,,,Christos Mandas,GK
+2023-2024,21,Lazio,it ITA,1. Serie A,7th,8.0,6,0,0,2,0,7.0,0.25,+1.0,+0.12,38,114,33.3,240,29,42.5,37.7,29,41.4,37.9,99,6,6.1,5,0.62,13.1,Christos Mandas,GK

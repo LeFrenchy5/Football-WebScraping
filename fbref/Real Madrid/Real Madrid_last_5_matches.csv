@@ -1,0 +1,101 @@
+Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,Player,Position,Score
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,DM,90,0,0,0,0.0,4,1.0,0,0,79,0,4,1,0.2,0.2,0.0,5.0,0.0,63,67.0,94.0,5,40,2.0,0,0.0,Federico Valverde,MF,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,DM,90,1,0,0,0.0,1,1.0,1,0,69,2,3,0,0.0,0.0,0.3,5.0,0.0,52,62.0,83.9,4,35,1.0,0,0.0,Federico Valverde,MF,4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,"DM,RB,CM",90,1,0,0,0.0,1,1.0,0,0,91,0,3,2,0.0,0.0,0.0,2.0,0.0,67,79.0,84.8,8,48,0.0,1,0.0,Federico Valverde,MF,3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,DM,80,0,0,0,0.0,0,0.0,0,0,69,2,3,0,0.0,0.0,0.0,2.0,1.0,57,59.0,96.6,4,32,1.0,0,0.0,Federico Valverde,MF,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,"RM,CM,RB",90,0,0,0,0.0,1,0.0,0,0,61,1,1,1,0.0,0.0,0.0,0.0,0.0,40,54.0,74.1,3,33,2.0,1,1.0,Federico Valverde,MF,1–2
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,CB,90,0,0,0,0.0,0,0.0,0,0,72,1,1,0,0.0,0.0,0.0,0.0,0.0,62,66.0,93.9,1,50,1.0,0,0.0,Antonio Rüdiger,DF,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,CB,90,0,0,0,0.0,1,0.0,0,0,81,1,0,0,0.2,0.2,0.0,0.0,0.0,72,75.0,96.0,2,62,0.0,0,0.0,Antonio Rüdiger,DF,4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,CB,90,0,0,0,0.0,2,0.0,0,0,82,1,1,1,0.1,0.1,0.0,1.0,1.0,60,65.0,92.3,4,49,1.0,1,0.0,Antonio Rüdiger,DF,3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,CB,90,0,0,0,0.0,1,0.0,1,0,101,0,1,2,0.0,0.0,0.0,0.0,0.0,86,90.0,95.6,2,76,1.0,2,1.0,Antonio Rüdiger,DF,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,CB,90,0,0,0,0.0,2,0.0,0,0,105,1,0,1,0.1,0.1,0.0,2.0,0.0,83,89.0,93.3,5,65,1.0,0,0.0,Antonio Rüdiger,DF,1–2
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,FW,90,0,0,0,0.0,0,0.0,0,0,34,0,0,0,0.0,0.0,0.2,3.0,0.0,16,23.0,69.6,3,19,6.0,6,2.0,Kylian Mbappé,FW,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,FW,90,1,1,0,0.0,5,2.0,0,0,44,0,0,0,0.5,0.5,0.7,6.0,1.0,29,34.0,85.3,4,21,4.0,3,1.0,Kylian Mbappé,FW,4–2
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,FW,80,1,0,0,0.0,4,3.0,1,0,38,0,0,0,0.3,0.3,0.0,1.0,0.0,24,28.0,85.7,0,29,7.0,2,0.0,Kylian Mbappé,FW,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,FW,90,0,0,0,1.0,2,2.0,0,0,41,1,0,0,1.0,0.2,0.0,3.0,1.0,22,27.0,81.5,3,25,5.0,6,2.0,Kylian Mbappé,FW,1–2
+2024-12-01,Sun,Matchweek 15,Home,W,Real Madrid,Getafe,Y,LW,90,1,0,0,0.0,5,2.0,0,0,53,0,0,1,1.4,1.4,0.6,4.0,0.0,31,37.0,83.8,7,34,4.0,7,2.0,Kylian Mbappé,FW,2–0
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,GK,90,5,1,4,80.0,0,1.4,0,0,0,0,1,4,25.0,29.0,3.0,10.3,24.9,2,50.0,54.5,5,0,0.0,0,12.0,Thibaut Courtois,GK,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,GK,90,4,2,2,50.0,0,1.3,0,0,0,0,2,5,40.0,34.0,5.0,5.9,21.6,5,60.0,51.0,12,1,8.3,0,9.1,Thibaut Courtois,GK,4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,GK,90,5,3,2,40.0,0,2.2,0,0,0,0,0,4,0.0,29.0,5.0,10.3,24.3,4,25.0,37.3,9,1,11.1,2,19.3,Thibaut Courtois,GK,3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,GK,90,4,0,4,100.0,1,0.2,0,0,0,0,0,2,0.0,20.0,4.0,10.0,25.4,10,0.0,18.7,13,0,0.0,2,17.3,Thibaut Courtois,GK,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,2,13,15.4,53.0,3.0,20.8,28.5,7,28.6,33.3,17,0,0.0,0,4.3,Thibaut Courtois,GK,1–2
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,CB,90,0,0,0,0.0,2,0.0,0,0,94,1,0,0,0.0,0.0,0.2,1.0,0.0,77,88.0,87.5,4,64,2.0,0,0.0,Aurélien Tchouaméni,"MF,DF",2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,CB,90,0,0,0,0.0,0,0.0,0,0,90,0,0,0,0.0,0.0,0.0,1.0,0.0,80,86.0,93.0,3,54,1.0,0,0.0,Aurélien Tchouaméni,"MF,DF",4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,CB,90,0,0,0,0.0,0,0.0,0,0,92,2,1,1,0.0,0.0,0.0,1.0,0.0,79,85.0,92.9,4,55,1.0,1,1.0,Aurélien Tchouaméni,"MF,DF",3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,"CB,DM",90,0,0,0,0.0,2,1.0,0,0,86,0,0,1,0.4,0.4,0.0,2.0,0.0,76,79.0,96.2,2,63,0.0,0,0.0,Aurélien Tchouaméni,"MF,DF",3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,CM,70,0,0,0,0.0,0,0.0,1,0,45,2,0,1,0.0,0.0,0.0,0.0,0.0,38,39.0,97.4,6,27,0.0,1,1.0,Aurélien Tchouaméni,"MF,DF",1–2
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,AM,89,1,1,0,1.0,2,1.0,0,0,67,0,3,1,1.1,0.3,0.6,4.0,1.0,36,53.0,67.9,12,39,5.0,4,2.0,Jude Bellingham,MF,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,AM,76,0,0,0,0.0,1,0.0,0,0,51,1,0,0,0.1,0.1,0.2,1.0,0.0,39,45.0,86.7,4,32,1.0,1,0.0,Jude Bellingham,MF,4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,"AM,FW",90,1,0,0,0.0,1,1.0,0,0,46,1,0,1,0.1,0.1,0.0,1.0,0.0,31,40.0,77.5,7,29,1.0,1,0.0,Jude Bellingham,MF,3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,AM,60,1,1,0,0.0,1,1.0,0,0,47,1,0,2,0.1,0.1,0.2,5.0,2.0,31,37.0,83.8,5,22,1.0,1,1.0,Jude Bellingham,MF,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,LM,90,1,0,0,0.0,1,1.0,1,0,60,4,2,2,0.6,0.6,0.0,1.0,0.0,35,45.0,77.8,8,27,1.0,2,1.0,Jude Bellingham,MF,1–2
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,LW,78,0,0,0,0.0,4,2.0,0,1,38,4,0,0,0.4,0.4,0.0,3.0,0.0,16,21.0,76.2,1,21,6.0,5,1.0,Vinicius Júnior,FW,2–1
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,N,"LW,FW",28,0,0,0,0.0,1,1.0,1,0,9,0,0,0,0.0,0.0,0.0,2.0,0.0,3,4.0,75.0,0,9,2.0,2,1.0,Vinicius Júnior,FW,3–3
+2024-11-24,Sun,Matchweek 14,Away,W,Real Madrid,Leganés,Y,FW,90,0,1,0,0.0,1,0.0,0,0,48,0,0,0,0.1,0.1,1.0,9.0,2.0,24,36.0,66.7,2,38,7.0,8,5.0,Vinicius Júnior,FW,3–0
+2024-11-09,Sat,Matchweek 13,Home,W,Real Madrid,Osasuna,Y,LW,74,3,0,0,0.0,6,4.0,0,0,61,1,0,2,2.0,2.0,0.1,7.0,1.0,29,40.0,72.5,7,51,11.0,13,7.0,Vinicius Júnior,FW,4–0
+2024-10-26,Sat,Matchweek 11,Home,L,Real Madrid,Barcelona,Y,FW,90,0,0,0,0.0,2,0.0,1,0,30,0,0,1,0.3,0.3,0.4,3.0,0.0,8,15.0,53.3,1,24,4.0,7,1.0,Vinicius Júnior,FW,0–4
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,RW,67,0,0,0,0.0,2,0.0,0,0,47,0,1,1,0.4,0.4,0.0,5.0,0.0,33,39.0,84.6,4,29,2.0,2,0.0,Rodrygo,FW,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,LW,70,1,1,0,0.0,4,2.0,0,0,53,2,0,0,0.4,0.4,0.1,4.0,1.0,33,42.0,78.6,3,31,4.0,3,0.0,Rodrygo,FW,4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,"FW,RW,LM,LW",90,1,1,0,0.0,3,2.0,0,0,61,1,2,0,0.1,0.1,0.1,5.0,1.0,41,48.0,85.4,8,37,7.0,7,4.0,Rodrygo,FW,3–3
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,FW,87,0,0,0,0.0,2,1.0,0,0,50,0,0,1,0.1,0.0,0.2,6.0,0.0,35,41.0,85.4,3,32,4.0,5,2.0,Rodrygo,FW,1–2
+2024-12-01,Sun,Matchweek 15,Home,W,Real Madrid,Getafe,Y,FW,66,0,0,0,0.0,1,0.0,0,0,42,0,0,1,0.1,0.1,0.0,1.0,0.0,27,32.0,84.4,2,23,4.0,5,3.0,Rodrygo,FW,2–0
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y*,RB,90,0,0,0,0.0,1,0.0,1,0,76,1,2,2,0.0,0.0,0.2,1.0,0.0,58,65.0,89.2,1,37,0.0,2,0.0,Lucas Vázquez,DF,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y*,"RB,RW",90,0,1,0,0.0,2,1.0,0,0,68,5,0,0,0.3,0.3,0.5,4.0,2.0,52,57.0,91.2,4,35,6.0,4,4.0,Lucas Vázquez,DF,4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,RB,78,0,0,0,0.0,0,0.0,0,0,85,2,1,1,0.0,0.0,0.3,4.0,1.0,65,76.0,85.5,5,46,4.0,4,2.0,Lucas Vázquez,DF,3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,RB,90,0,0,0,0.0,0,0.0,0,0,76,3,0,0,0.0,0.0,0.0,0.0,0.0,61,69.0,88.4,0,42,1.0,0,0.0,Lucas Vázquez,DF,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y*,RB,87,0,0,0,0.0,0,0.0,1,0,60,3,0,1,0.0,0.0,0.0,0.0,0.0,44,51.0,86.3,4,33,0.0,0,0.0,Lucas Vázquez,DF,1–2
+2024-11-09,Sat,Matchweek 13,Home,W,Real Madrid,Osasuna,Y,CB,29,0,0,0,0.0,0,0.0,0,0,23,0,0,0,0.0,0.0,0.0,0.0,0.0,17,20.0,85.0,0,19,0.0,1,0.0,Éder Militão,DF,4–0
+2024-10-26,Sat,Matchweek 11,Home,L,Real Madrid,Barcelona,Y,CB,90,0,0,0,0.0,1,0.0,1,0,40,3,2,1,0.0,0.0,0.0,1.0,0.0,23,31.0,74.2,1,28,0.0,0,0.0,Éder Militão,DF,0–4
+2024-10-19,Sat,Matchweek 10,Away,W,Real Madrid,Celta Vigo,Y,CB,90,0,0,0,0.0,0,0.0,0,0,83,3,1,1,0.0,0.0,0.0,0.0,0.0,68,75.0,90.7,2,41,0.0,1,1.0,Éder Militão,DF,2–1
+2024-10-05,Sat,Matchweek 9,Home,W,Real Madrid,Villarreal,N,CB,20,0,0,0,0.0,0,0.0,0,0,18,0,1,0,0.0,0.0,0.0,0.0,0.0,13,14.0,92.9,0,13,0.0,1,0.0,Éder Militão,DF,2–0
+2024-09-29,Sun,Matchweek 8,Away,D,Real Madrid,Atlético Madrid,Y,CB,90,1,0,0,0.0,1,1.0,0,0,75,2,1,1,0.0,0.0,0.0,1.0,0.0,49,60.0,81.7,7,50,1.0,1,0.0,Éder Militão,DF,1–1
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,LB,67,0,0,0,0.0,0,0.0,0,0,56,1,0,0,0.0,0.0,0.0,0.0,0.0,48,53.0,90.6,5,29,0.0,0,0.0,Ferland Mendy,DF,2–1
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,LB,80,0,0,0,0.0,0,0.0,0,0,53,0,1,3,0.0,0.0,0.0,0.0,0.0,46,47.0,97.9,0,33,1.0,2,1.0,Ferland Mendy,DF,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,N,LB,20,0,0,0,0.0,0,0.0,0,0,12,0,0,0,0.0,0.0,0.0,0.0,0.0,11,12.0,91.7,1,7,2.0,0,0.0,Ferland Mendy,DF,1–2
+2024-10-26,Sat,Matchweek 11,Home,L,Real Madrid,Barcelona,Y,LB,85,0,0,0,0.0,0,0.0,0,0,45,1,2,0,0.0,0.0,0.0,0.0,0.0,34,43.0,79.1,2,29,0.0,0,0.0,Ferland Mendy,DF,0–4
+2024-10-19,Sat,Matchweek 10,Away,W,Real Madrid,Celta Vigo,N,LB,21,0,0,0,0.0,0,0.0,0,0,16,0,0,0,0.0,0.0,0.0,0.0,0.0,15,15.0,100.0,0,7,0.0,0,0.0,Ferland Mendy,DF,2–1
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,LB,90,0,0,0,0.0,0,0.0,0,0,87,2,1,0,0.0,0.0,0.0,1.0,0.0,60,74.0,81.1,5,54,7.0,1,0.0,Fran Garcia,DF,3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,N,LB,10,0,0,0,0.0,0,0.0,0,0,9,0,0,0,0.0,0.0,0.0,0.0,0.0,7,9.0,77.8,0,7,1.0,0,0.0,Fran Garcia,DF,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,LB,70,0,0,0,0.0,1,0.0,0,0,70,1,1,2,0.0,0.0,0.0,1.0,0.0,41,54.0,75.9,3,33,1.0,0,0.0,Fran Garcia,DF,1–2
+2024-12-01,Sun,Matchweek 15,Home,W,Real Madrid,Getafe,Y,LB,90,0,0,0,0.0,1,0.0,0,0,67,1,0,0,0.1,0.1,0.0,1.0,0.0,47,58.0,81.0,0,34,3.0,3,1.0,Fran Garcia,DF,2–0
+2024-11-24,Sun,Matchweek 14,Away,W,Real Madrid,Leganés,Y,LB,90,0,0,0,0.0,0,0.0,0,0,61,0,2,1,0.0,0.0,0.0,2.0,0.0,50,59.0,84.7,7,37,3.0,0,0.0,Fran Garcia,DF,3–0
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,N,DM,11,1,0,0,0.0,1,1.0,1,0,21,1,1,1,0.6,0.6,0.0,0.0,0.0,15,19.0,78.9,3,13,0.0,0,0.0,Luka Modrić,MF,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,N,DM,20,0,0,0,0.0,0,0.0,0,0,21,0,0,0,0.0,0.0,0.0,0.0,0.0,18,21.0,85.7,2,16,0.0,0,0.0,Luka Modrić,MF,4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y*,"DM,CM",71,0,0,0,0.0,1,0.0,1,0,80,0,2,0,0.0,0.0,0.0,4.0,1.0,62,75.0,82.7,10,50,5.0,1,0.0,Luka Modrić,MF,3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y*,"DM,AM",90,0,1,0,0.0,0,0.0,0,0,120,1,1,0,0.0,0.0,0.6,5.0,2.0,103,114.0,90.4,11,80,3.0,0,0.0,Luka Modrić,MF,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,N,CM,20,0,0,0,0.0,0,0.0,0,0,24,1,0,0,0.0,0.0,0.1,2.0,0.0,17,21.0,81.0,1,15,0.0,0,0.0,Luka Modrić,MF,1–2
+2024-10-05,Sat,Matchweek 9,Home,W,Real Madrid,Villarreal,Y,RB,90,0,0,0,0.0,0,0.0,0,0,82,4,2,0,0.0,0.0,0.1,2.0,2.0,66,74.0,89.2,3,50,4.0,0,0.0,Dani Carvajal,DF,2–0
+2024-09-29,Sun,Matchweek 8,Away,D,Real Madrid,Atlético Madrid,Y,RB,90,0,0,0,0.0,1,0.0,0,0,68,2,1,2,0.2,0.2,0.0,1.0,0.0,43,51.0,84.3,5,37,0.0,2,1.0,Dani Carvajal,DF,1–1
+2024-09-21,Sat,Matchweek 6,Home,W,Real Madrid,Espanyol,Y,RB,58,1,0,0,0.0,1,1.0,0,0,62,0,2,1,1.0,1.0,0.0,1.0,0.0,51,57.0,89.5,6,39,5.0,0,0.0,Dani Carvajal,DF,4–1
+2024-09-14,Sat,Matchweek 5,Away,W,Real Madrid,Real Sociedad,Y,RB,90,0,0,0,0.0,1,0.0,0,0,70,1,1,2,0.1,0.1,0.1,3.0,0.0,53,60.0,88.3,2,39,1.0,0,0.0,Dani Carvajal,DF,2–0
+2024-09-01,Sun,Matchweek 4,Home,W,Real Madrid,Betis,Y*,RB,90,0,0,0,0.0,0,0.0,1,0,87,1,1,1,0.0,0.0,0.0,2.0,0.0,67,79.0,84.8,3,30,3.0,3,1.0,Dani Carvajal,DF,2–0
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,N,"LW,RW",23,0,0,0,0.0,0,0.0,0,0,20,1,0,2,0.0,0.0,0.0,1.0,1.0,13,14.0,92.9,2,11,0.0,0,0.0,Brahim Díaz,"FW,MF",2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,"RW,LW",90,1,0,0,0.0,1,1.0,0,0,55,1,1,3,0.3,0.3,0.2,4.0,2.0,38,45.0,84.4,7,27,4.0,3,2.0,Brahim Díaz,"FW,MF",4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,"LW,FW",62,0,0,0,0.0,0,0.0,0,0,23,2,0,1,0.0,0.0,0.0,1.0,0.0,16,16.0,100.0,1,21,1.0,2,1.0,Brahim Díaz,"FW,MF",3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,LW,90,0,0,0,0.0,1,1.0,0,0,57,0,0,2,0.1,0.1,0.0,1.0,1.0,38,47.0,80.9,4,31,1.0,2,1.0,Brahim Díaz,"FW,MF",3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,N,RM,33,0,0,0,0.0,0,0.0,0,0,19,1,0,0,0.0,0.0,0.1,2.0,0.0,15,17.0,88.2,4,16,0.0,3,1.0,Brahim Díaz,"FW,MF",1–2
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,N,"AM,RW",20,0,0,0,0.0,0,0.0,0,0,13,0,0,0,0.0,0.0,0.0,0.0,0.0,9,11.0,81.8,1,7,0.0,1,0.0,Arda Güler,"MF,FW",4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,Y,"RW,RM",78,0,2,0,0.0,3,0.0,0,0,53,2,2,0,0.3,0.3,0.1,2.0,2.0,34,41.0,82.9,7,30,3.0,1,0.0,Arda Güler,"MF,FW",3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,Y,RW,88,1,0,0,0.0,1,1.0,0,0,66,2,0,1,0.1,0.1,0.1,4.0,0.0,51,57.0,89.5,0,44,2.0,2,2.0,Arda Güler,"MF,FW",3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,N,CM,3,0,0,0,0.0,0,0.0,0,0,13,0,0,0,0.0,0.0,0.0,0.0,0.0,9,11.0,81.8,0,7,0.0,0,0.0,Arda Güler,"MF,FW",1–2
+2024-12-01,Sun,Matchweek 15,Home,W,Real Madrid,Getafe,N,"RW,RM",45,0,0,0,0.0,0,0.0,0,0,31,1,0,1,0.0,0.0,0.3,4.0,0.0,23,25.0,92.0,1,21,0.0,2,0.0,Arda Güler,"MF,FW",2–0
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,N,LB,23,0,0,0,0.0,0,0.0,0,0,32,2,0,0,0.0,0.0,0.0,0.0,0.0,26,28.0,92.9,3,16,0.0,1,0.0,Eduardo Camavinga,"MF,DF",2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,LB,90,0,1,0,0.0,0,0.0,0,0,92,7,2,2,0.0,0.0,0.0,1.0,1.0,72,80.0,90.0,6,42,2.0,0,0.0,Eduardo Camavinga,"MF,DF",4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,N,DM,19,0,0,0,0.0,0,0.0,0,0,28,1,1,0,0.0,0.0,0.0,0.0,0.0,23,25.0,92.0,1,17,0.0,3,2.0,Eduardo Camavinga,"MF,DF",3–3
+2024-11-24,Sun,Matchweek 14,Away,W,Real Madrid,Leganés,Y,CM,90,0,0,0,0.0,0,0.0,0,0,80,0,1,3,0.0,0.0,0.1,1.0,0.0,65,72.0,90.3,9,51,4.0,0,0.0,Eduardo Camavinga,"MF,DF",3–0
+2024-11-09,Sat,Matchweek 13,Home,W,Real Madrid,Osasuna,Y,CM,90,0,0,0,0.0,1,0.0,0,0,67,1,2,3,0.1,0.1,0.0,3.0,0.0,46,53.0,86.8,3,41,0.0,3,1.0,Eduardo Camavinga,"MF,DF",4–0
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,Y,DM,79,0,0,0,0.0,0,0.0,1,0,94,1,0,1,0.0,0.0,0.3,4.0,0.0,86,93.0,92.5,14,60,0.0,0,0.0,Dani Ceballos,MF,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,Y,DM,70,0,0,0,0.0,1,0.0,0,0,70,5,0,0,0.2,0.2,0.0,4.0,1.0,58,61.0,95.1,3,40,0.0,2,0.0,Dani Ceballos,MF,4–2
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,N,DM,12,0,0,0,0.0,0,0.0,0,0,18,0,0,0,0.0,0.0,0.0,0.0,0.0,16,17.0,94.1,1,9,1.0,0,0.0,Dani Ceballos,MF,3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,N,DM,30,0,0,0,0.0,0,0.0,0,0,32,0,0,0,0.0,0.0,0.0,0.0,0.0,30,31.0,96.8,2,25,0.0,0,0.0,Dani Ceballos,MF,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,CM,57,0,0,0,0.0,0,0.0,0,0,62,2,1,2,0.0,0.0,0.0,1.0,0.0,55,58.0,94.8,1,38,0.0,0,0.0,Dani Ceballos,MF,1–2
+2025-01-03,Fri,Matchweek 12,Away,W,Real Madrid,Valencia,N,AM,1,0,0,0,0.0,0,0.0,0,0,4,1,0,0,0.0,0.0,0.0,0.0,0.0,1,2.0,50.0,0,0,0.0,0,0.0,Raúl Asencio,DF,2–1
+2024-12-22,Sun,Matchweek 18,Home,W,Real Madrid,Sevilla,N,RB,14,0,0,0,0.0,0,0.0,0,0,13,1,0,0,0.0,0.0,0.0,0.0,0.0,10,11.0,90.9,0,8,0.0,0,0.0,Raúl Asencio,DF,4–2
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,N,"CB,DM",10,0,0,0,0.0,0,0.0,0,0,7,0,0,0,0.0,0.0,0.0,0.0,0.0,6,6.0,100.0,0,6,0.0,1,0.0,Raúl Asencio,DF,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,Y,CB,90,0,0,0,0.0,0,0.0,0,0,86,2,2,0,0.0,0.0,0.0,1.0,0.0,71,75.0,94.7,1,52,0.0,1,1.0,Raúl Asencio,DF,1–2
+2024-12-01,Sun,Matchweek 15,Home,W,Real Madrid,Getafe,Y,CB,90,0,0,0,0.0,0,0.0,0,0,87,1,1,0,0.0,0.0,0.0,2.0,0.0,71,75.0,94.7,2,56,0.0,2,1.0,Raúl Asencio,DF,2–0
+2024-12-14,Sat,Matchweek 17,Away,D,Real Madrid,Rayo Vallecano,N,FW,12,0,0,0,0.0,1,1.0,0,0,3,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1.0,100.0,1,2,0.0,1,0.0,Endrick,FW,3–3
+2024-12-07,Sat,Matchweek 16,Away,W,Real Madrid,Girona,N,FW,10,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,,0,1,0.0,0,0.0,Endrick,FW,3–0
+2024-12-04,Wed,Matchweek 19,Away,L,Real Madrid,Athletic Club,N,FW,3,0,0,0,0.0,0,0.0,0,0,2,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2.0,100.0,0,1,0.0,0,0.0,Endrick,FW,1–2
+2024-11-24,Sun,Matchweek 14,Away,W,Real Madrid,Leganés,N,FW,4,0,0,0,0.0,0,0.0,0,0,4,0,0,0,0.0,0.0,0.0,0.0,0.0,3,4.0,75.0,1,1,0.0,0,0.0,Endrick,FW,3–0
+2024-11-09,Sat,Matchweek 13,Home,W,Real Madrid,Osasuna,N,FW,16,0,0,0,0.0,0,0.0,0,0,8,0,0,0,0.0,0.0,0.0,0.0,0.0,4,5.0,80.0,1,7,1.0,4,1.0,Endrick,FW,4–0
