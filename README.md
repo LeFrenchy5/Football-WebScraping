@@ -24,8 +24,15 @@ main.py - The main.py contains the code for the user to select a team, then usin
 
 # How to Use:
 
-1. **Clone the repository:**
-```bash sh
+1. **Clone the repository:** 
+```
 git clone https://github.com/LeFrenchy5/Football-WebScraping.git
 ```
-
+2. **Install dependencies:** Ensure you have the required libraries installed (eg. requests, beautifulsoup, pandas
+```
+pip install -r requirments.txt
+```
+3.**Run the main script:** Execute `main.py` to start web scraping process
+```
+python main.py
+```
